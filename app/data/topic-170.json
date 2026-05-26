@@ -1,0 +1,67 @@
+{
+  "id": "170",
+  "title": "真菌",
+  "titleEn": "Fungi",
+  "category": "自然世界",
+  "pages": [
+    {
+      "pageNum": 348,
+      "image": "assets/images/page_348.jpg",
+      "section": "170.1",
+      "sectionTitle": "真菌种类",
+      "sectionTitleEn": "Types of Fungi",
+      "words": [
+        { "id": 1, "en": "mushrooms", "zh": "蘑菇" },
+        { "id": 2, "en": "cap", "zh": "菌盖" },
+        { "id": 3, "en": "ring", "zh": "菌环" },
+        { "id": 4, "en": "mycelium", "zh": "菌丝" },
+        { "id": 5, "en": "spores", "zh": "孢子" },
+        { "id": 6, "en": "gills", "zh": "菌褶" },
+        { "id": 7, "en": "stem", "zh": "菌柄" },
+        { "id": 8, "en": "shaggy bracket fungus", "zh": "硬毛纤孔菌" },
+        { "id": 9, "en": "to forage / to pick mushrooms", "zh": "采蘑菇" },
+        { "id": 10, "en": "enoki mushroom", "zh": "金针菇" },
+        { "id": 11, "en": "shiitake mushroom", "zh": "香菇" },
+        { "id": 12, "en": "waxcap", "zh": "蜡伞菌" },
+        { "id": 13, "en": "common puffball", "zh": "网纹马勃菌" },
+        { "id": 14, "en": "some fungi are poisonous. i always check before picking.", "zh": "有些真菌是有毒的。我每次采摘前都会检查。" },
+        { "id": 15, "en": "morel", "zh": "羊肚菌" },
+        { "id": 16, "en": "giant puffball", "zh": "大马勃菌" },
+        { "id": 17, "en": "field mushroom", "zh": "野蘑菇" },
+        { "id": 18, "en": "truffle", "zh": "松露" },
+        { "id": 19, "en": "porcini", "zh": "宝偶尼菌" },
+        { "id": 20, "en": "chanterelle", "zh": "鸡油菌" },
+        { "id": 21, "en": "cultivated mushrooms", "zh": "培植蘑菇" },
+        { "id": 22, "en": "toadstools", "zh": "担子菌" },
+        { "id": 23, "en": "fairy ring", "zh": "仙女环" },
+        { "id": 24, "en": "oyster mushroom", "zh": "平菇" },
+        { "id": 25, "en": "orange-cap boletus", "zh": "橙盖牛肝菌" },
+        { "id": 26, "en": "chicken of the woods", "zh": "硫黄菌" },
+        { "id": 27, "en": "hedgehog mushroom", "zh": "齿菌" },
+        { "id": 28, "en": "bear's head tooth", "zh": "熊头齿菌" },
+        { "id": 29, "en": "black trumpet", "zh": "黑喇叭菌" },
+        { "id": 30, "en": "shaggy mane mushroom", "zh": "毛头鬼伞菌" },
+        { "id": 31, "en": "hen of the wood", "zh": "灰树花菌" },
+        { "id": 32, "en": "mold", "zh": "霉菌" }
+      ]
+    },
+    {
+      "pageNum": 349,
+      "image": "assets/images/page_349.jpg",
+      "section": "170.1",
+      "sectionTitle": "真菌种类",
+      "sectionTitleEn": "Types of Fungi",
+      "words": [
+        { "id": 33, "en": "death cap", "zh": "鬼笔鹅膏菌" },
+        { "id": 34, "en": "death angel", "zh": "双孢鹅膏菌" },
+        { "id": 35, "en": "orange peel fungus", "zh": "橙黄网孢盘菌" },
+        { "id": 36, "en": "stinkhorn", "zh": "鬼笔菌" },
+        { "id": 37, "en": "hare's ear", "zh": "驴耳侧盘菌" },
+        { "id": 38, "en": "jack-o'-lantern", "zh": "类脐菇" },
+        { "id": 39, "en": "common earthball", "zh": "硬皮马勃菌" },
+        { "id": 40, "en": "milky conecap", "zh": "乳白维盖伞菌" },
+        { "id": 41, "en": "fly agaric", "zh": "毒蝇鹅膏菌" }
+      ]
+    }
+  ]
+}

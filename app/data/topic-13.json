@@ -1,0 +1,90 @@
+{
+  "id": "13",
+  "title": "衣服1",
+  "titleEn": "Clothes 1",
+  "category": "外貌",
+  "pages": [
+    {
+      "pageNum": 36,
+      "image": "assets/images/page_37.jpg",
+      "section": "13.1",
+      "sectionTitle": "描述衣服",
+      "sectionTitleEn": "Describing Clothes",
+      "words": [
+        { "id": 1, "en": "leather", "zh": "皮革的" },
+        { "id": 2, "en": "cotton", "zh": "棉质的" },
+        { "id": 3, "en": "woolen (US) / woollen (UK)", "zh": "羊毛的" },
+        { "id": 4, "en": "silk", "zh": "丝绸的" },
+        { "id": 5, "en": "synthetic", "zh": "合成纤维的" },
+        { "id": 6, "en": "denim", "zh": "牛仔布的" },
+        { "id": 7, "en": "plain", "zh": "纯色的" },
+        { "id": 8, "en": "striped", "zh": "条纹的" },
+        { "id": 9, "en": "checkered (US) / checked (UK)", "zh": "棋盘格的" },
+        { "id": 10, "en": "polka dot (US) / spotted (UK)", "zh": "波点的" },
+        { "id": 11, "en": "paisley", "zh": "佩斯利涡纹的" },
+        { "id": 12, "en": "plaid", "zh": "格纹的" },
+        { "id": 13, "en": "loose / baggy", "zh": "松垮的" },
+        { "id": 14, "en": "fitted", "zh": "合身的" },
+        { "id": 15, "en": "tight", "zh": "紧身的" },
+        { "id": 16, "en": "crumpled", "zh": "褶皱的" },
+        { "id": 17, "en": "cropped", "zh": "偏短的" },
+        { "id": 18, "en": "vintage", "zh": "复古的" }
+      ]
+    },
+    {
+      "pageNum": 36,
+      "image": "assets/images/page_37.jpg",
+      "section": "13.2",
+      "sectionTitle": "工作服和制服",
+      "sectionTitleEn": "Work Clothes and Uniforms",
+      "words": [
+        { "id": 19, "en": "chef's hat", "zh": "厨师帽" },
+        { "id": 20, "en": "chef's coat", "zh": "厨师外套" },
+        { "id": 21, "en": "chef's uniform", "zh": "厨师制服" },
+        { "id": 22, "en": "apron", "zh": "围裙" },
+        { "id": 23, "en": "lab coat", "zh": "实验服" },
+        { "id": 24, "en": "firefighter's uniform", "zh": "消防员制服" },
+        { "id": 25, "en": "overalls", "zh": "防护服" }
+      ]
+    },
+    {
+      "pageNum": 37,
+      "image": "assets/images/page_38.jpg",
+      "section": "13.3",
+      "sectionTitle": "童装和婴儿装",
+      "sectionTitleEn": "Children's and Baby Clothes",
+      "words": [
+        { "id": 26, "en": "hood", "zh": "兜帽" },
+        { "id": 27, "en": "mittens", "zh": "连指手套" },
+        { "id": 28, "en": "snowsuit", "zh": "儿童雪衣" },
+        { "id": 29, "en": "bib", "zh": "围兜" },
+        { "id": 30, "en": "overalls (US) / dungarees (UK)", "zh": "背背裤" },
+        { "id": 31, "en": "bodysuit (US) / babygro (UK)", "zh": "婴儿连体衣" },
+        { "id": 32, "en": "snap (US) / popper (UK)", "zh": "摁扣" },
+        { "id": 33, "en": "sleepsuit", "zh": "婴儿睡衣" },
+        { "id": 34, "en": "play suit", "zh": "游戏服" },
+        { "id": 35, "en": "romper suit", "zh": "连衫裤" },
+        { "id": 36, "en": "onesie", "zh": "婴儿连体服" },
+        { "id": 37, "en": "costume", "zh": "戏服" },
+        { "id": 38, "en": "booties", "zh": "婴儿靴" }
+      ]
+    },
+    {
+      "pageNum": 37,
+      "image": "assets/images/page_38.jpg",
+      "section": "13.2",
+      "sectionTitle": "工作服和制服",
+      "sectionTitleEn": "Work Clothes and Uniforms",
+      "words": [
+        { "id": 39, "en": "military uniform", "zh": "军装" },
+        { "id": 40, "en": "scrubs", "zh": "手术服" },
+        { "id": 41, "en": "cargo pants (US) / cargo trousers (UK)", "zh": "工装裤" },
+        { "id": 42, "en": "high-visibility jacket", "zh": "反光背心" },
+        { "id": 43, "en": "tabard", "zh": "搭肩衫" },
+        { "id": 44, "en": "school uniform", "zh": "校服" },
+        { "id": 45, "en": "school shirt", "zh": "校服衬衫" },
+        { "id": 46, "en": "school tie", "zh": "校服领带" }
+      ]
+    }
+  ]
+}

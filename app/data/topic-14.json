@@ -1,0 +1,96 @@
+{
+  "id": "14",
+  "title": "衣服2",
+  "titleEn": "Clothes 2",
+  "category": "外貌",
+  "pages": [
+    {
+      "pageNum": 38,
+      "image": "assets/images/page_38.jpg",
+      "section": "14.1",
+      "sectionTitle": "便装",
+      "sectionTitleEn": "Casual clothes",
+      "words": [
+        { "id": 1, "en": "casual outfit", "zh": "便装" },
+        { "id": 2, "en": "blouse", "zh": "女士衬衫" },
+        { "id": 3, "en": "sweater / jumper (UK)", "zh": "套头毛衣" },
+        { "id": 4, "en": "skirt", "zh": "裙子" },
+        { "id": 5, "en": "pleat", "zh": "裙褶" },
+        { "id": 6, "en": "hem", "zh": "裙脚" },
+        { "id": 7, "en": "jeans and a T-shirt", "zh": "牛仔裤和T恤" },
+        { "id": 8, "en": "T-shirt", "zh": "T恤衫" },
+        { "id": 9, "en": "stripes", "zh": "条纹" },
+        { "id": 10, "en": "jeans", "zh": "牛仔裤" },
+        { "id": 11, "en": "sweatshirt", "zh": "运动衫" },
+        { "id": 12, "en": "shorts", "zh": "短裤" },
+        { "id": 13, "en": "Bermuda shorts", "zh": "百慕大短裤" },
+        { "id": 14, "en": "cardigan", "zh": "开襟羊毛衫" },
+        { "id": 15, "en": "tank top", "zh": "背心" },
+        { "id": 16, "en": "dress", "zh": "连衣裙" },
+        { "id": 17, "en": "leggings", "zh": "紧身裤" },
+        { "id": 18, "en": "short-sleeved shirt", "zh": "短袖衬衫" },
+        { "id": 19, "en": "polo shirt", "zh": "马球衫" },
+        { "id": 20, "en": "sun hat", "zh": "太阳帽" },
+        { "id": 21, "en": "V-neck", "zh": "V字领" },
+        { "id": 22, "en": "round neck", "zh": "圆领" }
+      ]
+    },
+    {
+      "pageNum": 39,
+      "image": "assets/images/page_39.jpg",
+      "section": "14.2",
+      "sectionTitle": "睡衣",
+      "sectionTitleEn": "Nightwear",
+      "words": [
+        { "id": 23, "en": "camisole", "zh": "背心式女睡衣" },
+        { "id": 24, "en": "slippers", "zh": "拖鞋" },
+        { "id": 25, "en": "eye mask", "zh": "眼罩" },
+        { "id": 26, "en": "pajamas (US) / pyjamas (UK)", "zh": "睡衣" },
+        { "id": 27, "en": "nightie / nightdress", "zh": "睡袍" },
+        { "id": 28, "en": "bathrobe (US) / dressing gown (UK)", "zh": "浴袍" }
+      ]
+    },
+    {
+      "pageNum": 39,
+      "image": "assets/images/page_39.jpg",
+      "section": "14.3",
+      "sectionTitle": "内衣",
+      "sectionTitleEn": "Underwear",
+      "words": [
+        { "id": 29, "en": "panties (US) / knickers (UK)", "zh": "女士内裤" },
+        { "id": 30, "en": "jockey shorts (US) / pants (UK)", "zh": "男士内裤" },
+        { "id": 31, "en": "boxer shorts", "zh": "平角短裤" },
+        { "id": 32, "en": "socks", "zh": "袜子" },
+        { "id": 33, "en": "bra", "zh": "胸罩" },
+        { "id": 34, "en": "slip dress", "zh": "衬裙" },
+        { "id": 35, "en": "undershirt (US) / vest (UK)", "zh": "背心" },
+        { "id": 36, "en": "pantyhose (US) / tights (UK)", "zh": "连裤袜" },
+        { "id": 37, "en": "stockings", "zh": "长筒袜" },
+        { "id": 38, "en": "corset (US) / basque (UK)", "zh": "紧身胸衣" },
+        { "id": 39, "en": "garter", "zh": "绣箍" },
+        { "id": 40, "en": "suspenders", "zh": "吊袜带" }
+      ]
+    },
+    {
+      "pageNum": 39,
+      "image": "assets/images/page_39.jpg",
+      "section": "14.4",
+      "sectionTitle": "衣服相关的动词",
+      "sectionTitleEn": "Clothes verbs",
+      "words": [
+        { "id": 41, "en": "to wear", "zh": "穿" },
+        { "id": 42, "en": "to fit", "zh": "合身" },
+        { "id": 43, "en": "to put on", "zh": "穿上" },
+        { "id": 44, "en": "to take off", "zh": "脱下" },
+        { "id": 45, "en": "to fasten", "zh": "系紧" },
+        { "id": 46, "en": "to unfasten", "zh": "解开" },
+        { "id": 47, "en": "to suit (someone)", "zh": "适合（某人）" },
+        { "id": 48, "en": "to change / to get changed", "zh": "换" },
+        { "id": 49, "en": "to hang up", "zh": "挂起" },
+        { "id": 50, "en": "to fold", "zh": "折叠" },
+        { "id": 51, "en": "to turn up", "zh": "卷起" },
+        { "id": 52, "en": "to try something on", "zh": "试穿" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "154",
+  "title": "天气",
+  "titleEn": "Weather",
+  "category": "环境",
+  "pages": [
+    {
+      "pageNum": 316,
+      "image": "assets/images/page_316.jpg",
+      "section": "154.1",
+      "sectionTitle": "天气",
+      "sectionTitleEn": "Weather",
+      "words": [
+        { "id": 1, "en": "humidity", "zh": "湿度" },
+        { "id": 2, "en": "heat wave (US) / heatwave (UK)", "zh": "热浪" },
+        { "id": 3, "en": "drought", "zh": "干旱" },
+        { "id": 4, "en": "dry", "zh": "干的" },
+        { "id": 5, "en": "wet", "zh": "湿的" },
+        { "id": 6, "en": "overcast", "zh": "阴天的" },
+        { "id": 7, "en": "smog", "zh": "雾霾" },
+        { "id": 8, "en": "raindrop", "zh": "雨滴" },
+        { "id": 9, "en": "light shower", "zh": "小阵雨" },
+        { "id": 10, "en": "drizzle", "zh": "毛毛雨" },
+        { "id": 11, "en": "downpour", "zh": "倾盆大雨" },
+        { "id": 12, "en": "flood", "zh": "洪水" },
+        { "id": 13, "en": "sandstorm", "zh": "沙尘暴" },
+        { "id": 14, "en": "gale", "zh": "狂风" },
+        { "id": 15, "en": "storm", "zh": "暴风雨" },
+        { "id": 16, "en": "thunder", "zh": "雷声" },
+        { "id": 17, "en": "lightning", "zh": "闪电" },
+        { "id": 18, "en": "rainbow", "zh": "彩虹" },
+        { "id": 19, "en": "sleet", "zh": "雨夹雪" },
+        { "id": 20, "en": "snowflake", "zh": "雪花" },
+        { "id": 21, "en": "snowdrift", "zh": "雪堆" },
+        { "id": 22, "en": "blizzard", "zh": "暴雪" },
+        { "id": 23, "en": "snowstorm", "zh": "暴风雪" },
+        { "id": 24, "en": "hailstone", "zh": "冰雹" },
+        { "id": 25, "en": "hurricane", "zh": "飓风" },
+        { "id": 26, "en": "tornado", "zh": "龙卷风" },
+        { "id": 27, "en": "puddle", "zh": "水坑" },
+        { "id": 28, "en": "it's raining cats and dogs today.", "zh": "今天下着倾盆大雨。" }
+      ]
+    },
+    {
+      "pageNum": 317,
+      "image": "assets/images/page_317.jpg",
+      "section": "154.2",
+      "sectionTitle": "温度",
+      "sectionTitleEn": "Temperature",
+      "words": [
+        { "id": 1, "en": "freezing", "zh": "极冷的" },
+        { "id": 2, "en": "cold", "zh": "冷的" },
+        { "id": 3, "en": "chilly", "zh": "寒冷的" },
+        { "id": 4, "en": "warm", "zh": "温暖的" },
+        { "id": 5, "en": "hot", "zh": "热的" },
+        { "id": 6, "en": "stifling", "zh": "闷热的" },
+        { "id": 7, "en": "freezing point", "zh": "冰点" },
+        { "id": 8, "en": "boiling point", "zh": "沸点" },
+        { "id": 9, "en": "minus 10", "zh": "零下十度" },
+        { "id": 10, "en": "25 degrees", "zh": "二十五度" },
+        { "id": 11, "en": "celsius", "zh": "摄氏度" },
+        { "id": 12, "en": "fahrenheit", "zh": "华氏度" },
+        { "id": 13, "en": "cool", "zh": "凉爽的" },
+        { "id": 14, "en": "mild", "zh": "温和的" },
+        { "id": 15, "en": "boiling", "zh": "沸腾的" },
+        { "id": 16, "en": "it's boiling! i need to find some shade.", "zh": "好热啊！我需要找个阴凉的地方。" }
+      ]
+    },
+    {
+      "pageNum": 317,
+      "image": "assets/images/page_317.jpg",
+      "section": "154.3",
+      "sectionTitle": "天气相关的形容词",
+      "sectionTitleEn": "Weather Adjectives",
+      "words": [
+        { "id": 1, "en": "sun → sunny", "zh": "太阳—晴天的" },
+        { "id": 2, "en": "cloud → cloudy", "zh": "云—多云的" },
+        { "id": 3, "en": "fog → foggy", "zh": "雾—起雾的" },
+        { "id": 4, "en": "rain → rainy", "zh": "雨—下雨的" },
+        { "id": 5, "en": "snow → snowy", "zh": "雪—下雪的" },
+        { "id": 6, "en": "ice → icy", "zh": "冰—冰冷的" },
+        { "id": 7, "en": "frost → frosty", "zh": "霜—霜冻的" },
+        { "id": 8, "en": "wind → windy", "zh": "风—刮风的" },
+        { "id": 9, "en": "storm → stormy", "zh": "暴风雨—下暴风雨的" },
+        { "id": 10, "en": "thunder → thundery", "zh": "雷—打雷的" },
+        { "id": 11, "en": "mist → misty", "zh": "薄雾—有雾的" },
+        { "id": 12, "en": "breeze → breezy", "zh": "微风—微风的" }
+      ]
+    }
+  ]
+}

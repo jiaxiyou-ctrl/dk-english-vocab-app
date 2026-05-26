@@ -1,0 +1,86 @@
+{
+  "id": "163",
+  "title": "两栖动物和爬行动物",
+  "titleEn": "Amphibians and Reptiles",
+  "category": "自然世界",
+  "pages": [
+    {
+      "pageNum": 334,
+      "image": "assets/images/page_335.jpg",
+      "section": "163.1",
+      "sectionTitle": "两栖动物",
+      "sectionTitleEn": "Amphibians",
+      "words": [
+        { "id": 1, "en": "European common frog", "zh": "欧洲林蛙" },
+        { "id": 2, "en": "frog spawn", "zh": "蛙卵" },
+        { "id": 3, "en": "tadpole", "zh": "蝌蚪" },
+        { "id": 4, "en": "Wallace's flying frog", "zh": "华莱士飞蛙" },
+        { "id": 5, "en": "poison dart frog", "zh": "箭毒蛙" },
+        { "id": 6, "en": "Darwin's frog", "zh": "达尔文蛙" },
+        { "id": 7, "en": "red-eyed tree frog", "zh": "红眼树蛙" },
+        { "id": 8, "en": "common toad", "zh": "大蟾蜍" },
+        { "id": 9, "en": "African bullfrog", "zh": "非洲牛蛙" },
+        { "id": 10, "en": "Oriental fire-bellied toad", "zh": "东方铃蟾" },
+        { "id": 11, "en": "Great Plains toad", "zh": "大平原蟾蜍" },
+        { "id": 12, "en": "fire salamander", "zh": "火蝾螈" },
+        { "id": 13, "en": "olm", "zh": "洞螈" },
+        { "id": 14, "en": "Mexican axolotl", "zh": "墨西哥钝口螈" },
+        { "id": 15, "en": "great crested newt", "zh": "大冠螈" },
+        { "id": 16, "en": "red salamander", "zh": "红蝾螈" }
+      ]
+    },
+    {
+      "pageNum": 334,
+      "image": "assets/images/page_335.jpg",
+      "section": "163.2",
+      "sectionTitle": "爬行动物",
+      "sectionTitleEn": "Reptiles",
+      "words": [
+        { "id": 17, "en": "Galápagos turtle", "zh": "加拉帕戈斯象龟" },
+        { "id": 18, "en": "shell", "zh": "龟壳" },
+        { "id": 19, "en": "radiated tortoise", "zh": "射纹龟" },
+        { "id": 20, "en": "matamata", "zh": "玛塔龟" },
+        { "id": 21, "en": "diamond back terrapin", "zh": "钻纹龟" },
+        { "id": 22, "en": "common snake-necked turtle", "zh": "澳洲长颈龟" },
+        { "id": 23, "en": "green sea turtle", "zh": "绿海龟" },
+        { "id": 24, "en": "leatherback sea turtle", "zh": "棱皮海龟" },
+        { "id": 25, "en": "parson's chameleon", "zh": "国王变色龙" },
+        { "id": 26, "en": "panther chameleon", "zh": "豹变色龙" },
+        { "id": 27, "en": "Jackson's chameleon", "zh": "杰克逊变色龙" },
+        { "id": 28, "en": "Komodo dragon", "zh": "科莫多巨蜥" }
+      ]
+    },
+    {
+      "pageNum": 335,
+      "image": "assets/images/page_336.jpg",
+      "section": "163.2",
+      "sectionTitle": "爬行动物",
+      "sectionTitleEn": "Reptiles",
+      "words": [
+        { "id": 29, "en": "Indian cobra", "zh": "印度眼镜蛇" },
+        { "id": 30, "en": "rattlesnake", "zh": "响尾蛇" },
+        { "id": 31, "en": "reticulated python", "zh": "网纹蟒" },
+        { "id": 32, "en": "scales", "zh": "鳞片" },
+        { "id": 33, "en": "eastern coral snake", "zh": "金黄珊瑚蛇" },
+        { "id": 34, "en": "emerald tree boa", "zh": "翠绿树蚺" },
+        { "id": 35, "en": "Bombay earth snake", "zh": "孟买针尾蛇" },
+        { "id": 36, "en": "sidewinder", "zh": "侧进蛇" },
+        { "id": 37, "en": "Asian vine snake", "zh": "绿瘦蛇" },
+        { "id": 38, "en": "sea krait", "zh": "扁尾海蛇" },
+        { "id": 39, "en": "common egg-eater", "zh": "非洲食卵蛇" },
+        { "id": 40, "en": "marine iguana", "zh": "海鬣蜥" },
+        { "id": 41, "en": "common green iguana", "zh": "绿鬣蜥" },
+        { "id": 42, "en": "thorny devil", "zh": "棘蜥" },
+        { "id": 43, "en": "green basilisk", "zh": "绿双冠蜥" },
+        { "id": 44, "en": "blue-tongued skink", "zh": "蓝舌蜥" },
+        { "id": 45, "en": "gila monster", "zh": "吉拉毒蜥" },
+        { "id": 46, "en": "frill-necked lizard", "zh": "褶伞蜥" },
+        { "id": 47, "en": "gharial", "zh": "恒河鳄" },
+        { "id": 48, "en": "spectacled caiman", "zh": "眼镜凯门鳄" },
+        { "id": 49, "en": "saltwater crocodile", "zh": "咸水鳄" },
+        { "id": 50, "en": "Nile crocodile", "zh": "尼罗鳄" },
+        { "id": 51, "en": "American alligator", "zh": "美洲短吻鳄" }
+      ]
+    }
+  ]
+}

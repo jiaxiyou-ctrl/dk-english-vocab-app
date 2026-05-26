@@ -1,0 +1,93 @@
+{
+  "id": "77",
+  "title": "生物",
+  "titleEn": "Biology",
+  "category": "学习",
+  "pages": [
+    {
+      "pageNum": 162,
+      "image": "assets/images/page_162.jpg",
+      "section": "77.1",
+      "sectionTitle": "生物学",
+      "sectionTitleEn": "Biology",
+      "words": [
+        { "id": 1, "en": "biologist", "zh": "生物学家" },
+        { "id": 2, "en": "microbiology", "zh": "微生物学" },
+        { "id": 3, "en": "microbiologist", "zh": "微生物学家" },
+        { "id": 4, "en": "nucleus", "zh": "细胞核" },
+        { "id": 5, "en": "mitochondria", "zh": "线粒体" },
+        { "id": 6, "en": "cell membrane", "zh": "细胞膜" },
+        { "id": 7, "en": "cytoplasm", "zh": "细胞质" },
+        { "id": 8, "en": "animal cell", "zh": "动物细胞" },
+        { "id": 9, "en": "cell wall", "zh": "细胞壁" },
+        { "id": 10, "en": "vacuole", "zh": "液泡" },
+        { "id": 11, "en": "chloroplast", "zh": "叶绿体" },
+        { "id": 12, "en": "plant cell", "zh": "植物细胞" },
+        { "id": 13, "en": "eyepiece", "zh": "目镜" },
+        { "id": 14, "en": "focusing knob", "zh": "调焦旋钮" },
+        { "id": 15, "en": "objective lens", "zh": "物镜" },
+        { "id": 16, "en": "slide", "zh": "载玻片" },
+        { "id": 17, "en": "mirror", "zh": "反光镜" },
+        { "id": 18, "en": "microscope", "zh": "显微镜" },
+        { "id": 19, "en": "red blood cell", "zh": "红细胞" },
+        { "id": 20, "en": "white blood cell", "zh": "白细胞" },
+        { "id": 21, "en": "chromosome", "zh": "染色体" },
+        { "id": 22, "en": "gene", "zh": "基因" },
+        { "id": 23, "en": "dna", "zh": "脱氧核糖核酸" },
+        { "id": 24, "en": "virus", "zh": "病毒" },
+        { "id": 25, "en": "bacteria", "zh": "细菌" },
+        { "id": 26, "en": "petri dish", "zh": "培养皿" },
+        { "id": 27, "en": "tweezers", "zh": "镊子" },
+        { "id": 28, "en": "scalpel", "zh": "解剖刀" },
+        { "id": 29, "en": "syringe", "zh": "注射器" },
+        { "id": 30, "en": "zoology", "zh": "动物学" },
+        { "id": 31, "en": "zoologist", "zh": "动物学家" },
+        { "id": 32, "en": "plankton", "zh": "浮游生物" },
+        { "id": 33, "en": "invertebrate", "zh": "无脊椎动物" },
+        { "id": 34, "en": "vertebrate", "zh": "脊椎动物" },
+        { "id": 35, "en": "species", "zh": "物种" }
+      ]
+    },
+    {
+      "pageNum": 163,
+      "image": "assets/images/page_163.jpg",
+      "section": "77.1",
+      "sectionTitle": "生物学（续）",
+      "sectionTitleEn": "Biology (continued)",
+      "words": [
+        { "id": 36, "en": "ecosystem", "zh": "生态系统" },
+        { "id": 37, "en": "exoskeleton", "zh": "外骨骼" },
+        { "id": 38, "en": "endoskeleton", "zh": "内骨骼" },
+        { "id": 39, "en": "reproduction", "zh": "繁殖" },
+        { "id": 40, "en": "hibernation", "zh": "冬眠" },
+        { "id": 41, "en": "botany", "zh": "植物学" },
+        { "id": 42, "en": "botanist", "zh": "植物学家" },
+        { "id": 43, "en": "plant", "zh": "植物" },
+        { "id": 44, "en": "fungi", "zh": "真菌" },
+        { "id": 45, "en": "photosynthesis", "zh": "光合作用" },
+        { "id": 46, "en": "paleontologist", "zh": "古生物学家" },
+        { "id": 47, "en": "fossil", "zh": "化石" },
+        { "id": 48, "en": "evolution", "zh": "进化" }
+      ]
+    },
+    {
+      "pageNum": 163,
+      "image": "assets/images/page_163.jpg",
+      "section": "77.2",
+      "sectionTitle": "变态发育",
+      "sectionTitleEn": "Metamorphosis",
+      "words": [
+        { "id": 49, "en": "butterfly", "zh": "蝴蝶" },
+        { "id": 50, "en": "egg", "zh": "蝶卵" },
+        { "id": 51, "en": "caterpillar", "zh": "毛毛虫" },
+        { "id": 52, "en": "chrysalis", "zh": "蝶蛹" },
+        { "id": 53, "en": "life cycle of a butterfly", "zh": "蝴蝶的生命周期" },
+        { "id": 54, "en": "adult frog", "zh": "成蛙" },
+        { "id": 55, "en": "frog spawn", "zh": "蛙卵" },
+        { "id": 56, "en": "tadpole", "zh": "蝌蚪" },
+        { "id": 57, "en": "young frog", "zh": "幼蛙" },
+        { "id": 58, "en": "life cycle of a frog", "zh": "青蛙的生命周期" }
+      ]
+    }
+  ]
+}

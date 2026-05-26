@@ -1,0 +1,91 @@
+{
+  "id": "96",
+  "title": "道路",
+  "titleEn": "Roads",
+  "category": "交通",
+  "pages": [
+    {
+      "pageNum": 200,
+      "image": "assets/images/page_200.jpg",
+      "section": "96.1",
+      "sectionTitle": "道路",
+      "sectionTitleEn": "Roads",
+      "words": [
+        { "id": 1, "en": "road markings", "zh": "路面标识" },
+        { "id": 2, "en": "ramp (US) / slip road (UK)", "zh": "匝道" },
+        { "id": 3, "en": "emergency phone", "zh": "求救电话" },
+        { "id": 4, "en": "exit ramp", "zh": "出口匝道" },
+        { "id": 5, "en": "inside lane", "zh": "内车道" },
+        { "id": 6, "en": "middle lane", "zh": "中间车道" },
+        { "id": 7, "en": "outside lane", "zh": "外车道" },
+        { "id": 8, "en": "hard shoulder", "zh": "硬路肩" },
+        { "id": 9, "en": "tollbooth", "zh": "收费站" },
+        { "id": 10, "en": "median (US) / central reservation (UK)", "zh": "中央分车带" },
+        { "id": 11, "en": "traffic", "zh": "交通" },
+        { "id": 12, "en": "highway (US) / motorway (UK)", "zh": "高速公路" },
+        { "id": 13, "en": "divided highway (US) / dual carriageway (UK)", "zh": "双程分隔道路" },
+        { "id": 14, "en": "divider", "zh": "隔离带" },
+        { "id": 15, "en": "junction", "zh": "交汇处" },
+        { "id": 16, "en": "roundabout", "zh": "环岛" },
+        { "id": 17, "en": "flyover", "zh": "立交桥" },
+        { "id": 18, "en": "underpass", "zh": "下穿通道" },
+        { "id": 19, "en": "traffic barrier (US) / crash barrier (UK)", "zh": "防撞护栏" },
+        { "id": 20, "en": "detour (US) / diversion (UK)", "zh": "绕行路" },
+        { "id": 21, "en": "speed camera", "zh": "测速摄像机" },
+        { "id": 22, "en": "stop light (US) / traffic light (UK)", "zh": "交通信号灯" },
+        { "id": 23, "en": "traffic jam", "zh": "交通堵塞" },
+        { "id": 24, "en": "one-way street", "zh": "单行道" },
+        { "id": 25, "en": "pedestrian crossing", "zh": "人行横道" },
+        { "id": 26, "en": "road construction (US) / roadworks (UK)", "zh": "道路施工" },
+        { "id": 27, "en": "disabled parking", "zh": "残疾人士专用停车位" },
+        { "id": 28, "en": "parking attendant", "zh": "停车场管理员" },
+        { "id": 29, "en": "parking meter", "zh": "停车计费表" }
+      ]
+    },
+    {
+      "pageNum": 201,
+      "image": "assets/images/page_201.jpg",
+      "section": "96.2",
+      "sectionTitle": "路标",
+      "sectionTitleEn": "Road Signs",
+      "words": [
+        { "id": 30, "en": "no entry", "zh": "禁行" },
+        { "id": 31, "en": "speed limit", "zh": "限速" },
+        { "id": 32, "en": "hazard", "zh": "危险" },
+        { "id": 33, "en": "no right turn", "zh": "禁止右转" },
+        { "id": 34, "en": "no u-turn", "zh": "禁止掉头" },
+        { "id": 35, "en": "right bend", "zh": "提示右方转弯" },
+        { "id": 36, "en": "yield (US) / give way (UK)", "zh": "让行" },
+        { "id": 37, "en": "priority traffic", "zh": "优先通行" },
+        { "id": 38, "en": "no passing (US) / no overtaking (UK)", "zh": "禁止超车" },
+        { "id": 39, "en": "school zone", "zh": "学校区域" },
+        { "id": 40, "en": "bumps", "zh": "路面不平" },
+        { "id": 41, "en": "deer crossing", "zh": "有鹿经过" },
+        { "id": 42, "en": "direction to follow", "zh": "引导方向" },
+        { "id": 43, "en": "construction ahead (US) / roadworks ahead (UK)", "zh": "前方施工" },
+        { "id": 44, "en": "stop light (US) / traffic light (UK) ahead", "zh": "前方交通信号灯" },
+        { "id": 45, "en": "closed to bicycles", "zh": "自行车禁行" },
+        { "id": 46, "en": "closed to pedestrians", "zh": "行人禁行" }
+      ]
+    },
+    {
+      "pageNum": 201,
+      "image": "assets/images/page_201.jpg",
+      "section": "96.3",
+      "sectionTitle": "驾驶相关的动词",
+      "sectionTitleEn": "Driving Verbs",
+      "words": [
+        { "id": 47, "en": "to drive", "zh": "驾驶" },
+        { "id": 48, "en": "to reverse", "zh": "倒车" },
+        { "id": 49, "en": "to stop", "zh": "停车" },
+        { "id": 50, "en": "to tow away", "zh": "拖走" },
+        { "id": 51, "en": "parking enforcement officer (US) / traffic warden (UK)", "zh": "交通协管员" },
+        { "id": 52, "en": "to turn left", "zh": "左转" },
+        { "id": 53, "en": "to turn right", "zh": "右转" },
+        { "id": 54, "en": "to go straight ahead / to go straight on (UK)", "zh": "直行" },
+        { "id": 55, "en": "to take the first left", "zh": "在第一个路口左转" },
+        { "id": 56, "en": "to take the second right", "zh": "在第二个路口右转" }
+      ]
+    }
+  ]
+}

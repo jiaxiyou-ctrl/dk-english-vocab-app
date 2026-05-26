@@ -1,0 +1,93 @@
+{
+  "id": "137",
+  "title": "电视",
+  "titleEn": "Television",
+  "category": "休闲",
+  "pages": [
+    {
+      "pageNum": 282,
+      "image": "assets/images/page_283.jpg",
+      "section": "137.1",
+      "sectionTitle": "看电视",
+      "sectionTitleEn": "Watching Television",
+      "words": [
+        { "id": 1, "en": "screen", "zh": "屏幕" },
+        { "id": 2, "en": "TV set", "zh": "电视机" },
+        { "id": 3, "en": "remote control", "zh": "遥控器" },
+        { "id": 4, "en": "high-definition", "zh": "高清" },
+        { "id": 5, "en": "cable TV", "zh": "有线电视" },
+        { "id": 6, "en": "satellite TV", "zh": "卫星电视" },
+        { "id": 7, "en": "video on demand", "zh": "视频点播" },
+        { "id": 8, "en": "channel", "zh": "频道" },
+        { "id": 9, "en": "pay-per-view channel", "zh": "按次付费频道" },
+        { "id": 10, "en": "episode", "zh": "(电视剧) 一集" },
+        { "id": 11, "en": "season (US) / series (UK)", "zh": "(电视剧) 一季" },
+        { "id": 12, "en": "show (US) / programme (UK)", "zh": "节目" },
+        { "id": 13, "en": "subtitles", "zh": "字幕" },
+        { "id": 14, "en": "interview", "zh": "访谈" },
+        { "id": 15, "en": "TV guide / schedule", "zh": "电视指南" },
+        { "id": 16, "en": "preview", "zh": "预告" },
+        { "id": 17, "en": "reporter", "zh": "记者" },
+        { "id": 18, "en": "host (US) / presenter (UK)", "zh": "主持人" },
+        { "id": 19, "en": "news anchor (US) / newsreader (UK)", "zh": "新闻主播" },
+        { "id": 20, "en": "commercial break (US) / adverts (UK)", "zh": "广告" },
+        { "id": 21, "en": "weather forecaster", "zh": "天气预报员" },
+        { "id": 22, "en": "couch potato", "zh": "电视迷" }
+      ]
+    },
+    {
+      "pageNum": 282,
+      "image": "assets/images/page_283.jpg",
+      "section": "137.2",
+      "sectionTitle": "电视相关的动词",
+      "sectionTitleEn": "Television Verbs",
+      "words": [
+        { "id": 1, "en": "to turn on", "zh": "打开" },
+        { "id": 2, "en": "to turn off", "zh": "关闭" },
+        { "id": 3, "en": "to turn up the volume", "zh": "调高音量" },
+        { "id": 4, "en": "to turn down the volume", "zh": "调低音量" },
+        { "id": 5, "en": "to change the channel", "zh": "换频道" },
+        { "id": 6, "en": "to stream", "zh": "在线观看" }
+      ]
+    },
+    {
+      "pageNum": 283,
+      "image": "assets/images/page_284.jpg",
+      "section": "137.3",
+      "sectionTitle": "电视节目和频道",
+      "sectionTitleEn": "Television Programs and Channels",
+      "words": [
+        { "id": 1, "en": "cooking show", "zh": "烹饪节目" },
+        { "id": 2, "en": "talk show (US) / chat show (UK)", "zh": "访谈节目" },
+        { "id": 3, "en": "sports", "zh": "体育节目" },
+        { "id": 4, "en": "documentary", "zh": "纪录片" },
+        { "id": 5, "en": "nature documentary", "zh": "自然纪录片" },
+        { "id": 6, "en": "period drama / costume drama", "zh": "古装剧" },
+        { "id": 7, "en": "sitcom", "zh": "情景喜剧" },
+        { "id": 8, "en": "quiz show", "zh": "智力竞赛" },
+        { "id": 9, "en": "current affairs", "zh": "时事节目" },
+        { "id": 10, "en": "news", "zh": "新闻节目" },
+        { "id": 11, "en": "weather", "zh": "天气节目" },
+        { "id": 12, "en": "soap opera", "zh": "肥皂剧" },
+        { "id": 13, "en": "game show", "zh": "游戏节目" },
+        { "id": 14, "en": "comedy", "zh": "喜剧片" },
+        { "id": 15, "en": "cartoon", "zh": "卡通片" },
+        { "id": 16, "en": "crime", "zh": "犯罪片" },
+        { "id": 17, "en": "thriller", "zh": "惊悚节目" },
+        { "id": 18, "en": "satire", "zh": "讽刺节目" },
+        { "id": 19, "en": "children's show (US) / children's TV (UK)", "zh": "儿童节目" },
+        { "id": 20, "en": "morning show (US) / breakfast TV (UK)", "zh": "晨间电视节目" },
+        { "id": 21, "en": "reality TV", "zh": "电视真人秀" },
+        { "id": 22, "en": "catch-up TV", "zh": "回放节目" },
+        { "id": 23, "en": "shopping channel", "zh": "购物频道" },
+        { "id": 24, "en": "music channel", "zh": "音乐频道" },
+        { "id": 25, "en": "to play", "zh": "播放" },
+        { "id": 26, "en": "to stop", "zh": "停止" },
+        { "id": 27, "en": "to pause", "zh": "暂停" },
+        { "id": 28, "en": "to rewind", "zh": "倒回" },
+        { "id": 29, "en": "to fast forward", "zh": "快进" },
+        { "id": 30, "en": "to record", "zh": "录制" }
+      ]
+    }
+  ]
+}

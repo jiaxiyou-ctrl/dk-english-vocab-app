@@ -1,0 +1,29 @@
+{
+  "id": "66",
+  "title": "咖啡厅2",
+  "titleEn": "Cafe 2",
+  "category": "食物",
+  "pages": [
+    {
+      "pageNum": 142,
+      "image": "assets/images/page_142.jpg",
+      "section": "66.1",
+      "sectionTitle": "茶",
+      "sectionTitleEn": "Tea",
+      "words": [
+        { "id": 1, "en": "herbal tea", "zh": "草药茶" },
+        { "id": 2, "en": "white tea", "zh": "白茶" },
+        { "id": 3, "en": "iced tea", "zh": "冰茶" },
+        { "id": 4, "en": "mint tea", "zh": "薄荷茶" },
+        { "id": 5, "en": "tea with lemon", "zh": "配柠檬的茶" },
+        { "id": 6, "en": "tea infuser", "zh": "泡茶器" },
+        { "id": 7, "en": "black tea", "zh": "红茶" },
+        { "id": 8, "en": "green tea", "zh": "绿茶" },
+        { "id": 9, "en": "chamomile tea (US) / camomile tea (UK)", "zh": "洋甘菊茶" },
+        { "id": 10, "en": "tea strainer", "zh": "滤茶器" },
+        { "id": 11, "en": "teapot", "zh": "茶壶" },
+        { "id": 12, "en": "tea with milk", "zh": "加牛奶的茶" }
+      ]
+    }
+  ]
+}

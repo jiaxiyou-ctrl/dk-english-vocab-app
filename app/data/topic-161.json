@@ -1,0 +1,87 @@
+{
+  "id": "161",
+  "title": "鸟类2",
+  "titleEn": "Birds 2",
+  "category": "自然世界",
+  "pages": [
+    {
+      "pageNum": 330,
+      "image": "assets/images/page_331.jpg",
+      "section": "161.1",
+      "sectionTitle": "鸟的种类",
+      "sectionTitleEn": "Types of Bird",
+      "words": [
+        { "id": 1, "en": "galah", "zh": "粉红凤头鹦鹉" },
+        { "id": 2, "en": "eclectus parrot", "zh": "折衷鹦鹉" },
+        { "id": 3, "en": "rose-ringed parakeet", "zh": "红领绿鹦鹉" },
+        { "id": 4, "en": "scarlet macaw", "zh": "绯红金刚鹦鹉" },
+        { "id": 5, "en": "lorikeet", "zh": "吸蜜鹦鹉" },
+        { "id": 6, "en": "snowy owl", "zh": "雪鸮" },
+        { "id": 7, "en": "eagle owl", "zh": "鹰鸮" },
+        { "id": 8, "en": "great gray owl", "zh": "大灰猫头鹰" },
+        { "id": 9, "en": "crested owl", "zh": "冠鸮" },
+        { "id": 10, "en": "barn owl", "zh": "谷仓猫头鹰" },
+        { "id": 11, "en": "to hoot", "zh": "鸣叫" },
+        { "id": 12, "en": "mute swan", "zh": "疣鼻天鹅" },
+        { "id": 13, "en": "black swan", "zh": "黑天鹅" },
+        { "id": 14, "en": "whooper swan", "zh": "大天鹅" },
+        { "id": 15, "en": "coot", "zh": "白骨顶" },
+        { "id": 16, "en": "mallard", "zh": "绿头鸭" },
+        { "id": 17, "en": "mandarin duck", "zh": "鸳鸯" },
+        { "id": 18, "en": "grebe", "zh": "鸊鷉" },
+        { "id": 19, "en": "wood duck", "zh": "美洲木鸭" },
+        { "id": 20, "en": "water rail", "zh": "西方秧鸡" },
+        { "id": 21, "en": "curlew", "zh": "杓鹬" },
+        { "id": 22, "en": "pheasant", "zh": "野鸡" },
+        { "id": 23, "en": "turkey", "zh": "火鸡" },
+        { "id": 24, "en": "peacock", "zh": "孔雀" },
+        { "id": 25, "en": "feathers displayed", "zh": "开屏" },
+        { "id": 26, "en": "neck", "zh": "脖颈" }
+      ]
+    },
+    {
+      "pageNum": 331,
+      "image": "assets/images/page_332.jpg",
+      "section": "161.1",
+      "sectionTitle": "鸟的种类",
+      "sectionTitleEn": "Types of Bird",
+      "words": [
+        { "id": 27, "en": "cockatoo", "zh": "凤头鹦鹉" },
+        { "id": 28, "en": "African gray parrot", "zh": "非洲灰鹦鹉" },
+        { "id": 29, "en": "bird-watcher", "zh": "观鸟者" },
+        { "id": 30, "en": "I've just spotted a golden eagle!", "zh": "我刚刚看到一只金雕！" },
+        { "id": 31, "en": "tawny owl", "zh": "褐枭" },
+        { "id": 32, "en": "elf owl", "zh": "姬鸮" },
+        { "id": 33, "en": "hatchling", "zh": "破壳小鸟" },
+        { "id": 34, "en": "eggshell", "zh": "蛋壳" },
+        { "id": 35, "en": "fledgling", "zh": "幼鸟" },
+        { "id": 36, "en": "soft down feathers", "zh": "绒羽" },
+        { "id": 37, "en": "northern cardinal", "zh": "北美红雀" },
+        { "id": 38, "en": "tail feathers", "zh": "尾羽" },
+        { "id": 39, "en": "wing", "zh": "翅膀" },
+        { "id": 40, "en": "crest", "zh": "羽冠" },
+        { "id": 41, "en": "bill", "zh": "喙" },
+        { "id": 42, "en": "claw", "zh": "鸟爪" },
+        { "id": 43, "en": "emperor penguin", "zh": "帝企鹅" },
+        { "id": 44, "en": "rockhopper penguin", "zh": "跳岩企鹅" },
+        { "id": 45, "en": "Humboldt penguin", "zh": "洪堡企鹅" },
+        { "id": 46, "en": "Gentoo penguin", "zh": "巴布亚企鹅" },
+        { "id": 47, "en": "Australian little penguin", "zh": "澳大利亚小企鹅" }
+      ]
+    },
+    {
+      "pageNum": 331,
+      "image": "assets/images/page_332.jpg",
+      "section": "161.2",
+      "sectionTitle": "相关动词",
+      "sectionTitleEn": "Related Verbs",
+      "words": [
+        { "id": 48, "en": "to hatch", "zh": "孵化" },
+        { "id": 49, "en": "to migrate", "zh": "迁移" },
+        { "id": 50, "en": "to flap", "zh": "拍动" },
+        { "id": 51, "en": "to glide", "zh": "滑翔" },
+        { "id": 52, "en": "to swoop", "zh": "俯冲" }
+      ]
+    }
+  ]
+}

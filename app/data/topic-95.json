@@ -1,0 +1,70 @@
+{
+  "id": "95",
+  "title": "开会和报告",
+  "titleEn": "Meetings and Reports",
+  "category": "工作",
+  "pages": [
+    {
+      "pageNum": 198,
+      "image": "assets/images/page_198.jpg",
+      "section": "95.1",
+      "sectionTitle": "会议",
+      "sectionTitleEn": "Meetings",
+      "words": [
+        { "id": 1, "en": "to attend a meeting", "zh": "参加会议" },
+        { "id": 2, "en": "what's on the agenda today, maria?", "zh": "今天的议程是什么，玛利亚？" },
+        { "id": 3, "en": "we're discussing the presentations for next week.", "zh": "我们正在讨论下周的演示。" },
+        { "id": 4, "en": "to have a conference call", "zh": "开电话会议" },
+        { "id": 5, "en": "to take minutes", "zh": "做会议记录" },
+        { "id": 6, "en": "to take questions", "zh": "回答问题" },
+        { "id": 7, "en": "to be absent", "zh": "缺席" },
+        { "id": 8, "en": "to interrupt", "zh": "打断" },
+        { "id": 9, "en": "to reach a consensus", "zh": "达成共识" },
+        { "id": 10, "en": "unanimous vote", "zh": "全票通过" },
+        { "id": 11, "en": "action points", "zh": "行动要点" },
+        { "id": 12, "en": "show of hands", "zh": "举手表决" },
+        { "id": 13, "en": "any other business", "zh": "其他事务" },
+        { "id": 14, "en": "boardroom", "zh": "会议室" },
+        { "id": 15, "en": "board of directors", "zh": "董事会" },
+        { "id": 16, "en": "to reach an agreement", "zh": "达成协议" },
+        { "id": 17, "en": "annual general meeting (agm)", "zh": "年度股东大会" },
+        { "id": 18, "en": "to wrap up the meeting", "zh": "结束会议" },
+        { "id": 19, "en": "whiteboard", "zh": "白板" },
+        { "id": 20, "en": "notebook", "zh": "笔记本" },
+        { "id": 21, "en": "agenda", "zh": "议程" }
+      ]
+    },
+    {
+      "pageNum": 199,
+      "image": "assets/images/page_199.jpg",
+      "section": "95.2",
+      "sectionTitle": "报告",
+      "sectionTitleEn": "Reports",
+      "words": [
+        { "id": 22, "en": "to commence", "zh": "开始" },
+        { "id": 23, "en": "to sum up", "zh": "总结" },
+        { "id": 24, "en": "to run out of time", "zh": "用完时间" },
+        { "id": 25, "en": "slide", "zh": "幻灯片" },
+        { "id": 26, "en": "roadmap", "zh": "路线图" },
+        { "id": 27, "en": "to give a presentation", "zh": "做报告" },
+        { "id": 28, "en": "projector", "zh": "投影仪" },
+        { "id": 29, "en": "timer", "zh": "计时器" },
+        { "id": 30, "en": "hdmi cable", "zh": "高清数据线" },
+        { "id": 31, "en": "portable speakers", "zh": "便携式音箱" },
+        { "id": 32, "en": "handouts", "zh": "讲义" },
+        { "id": 33, "en": "notes", "zh": "记录" },
+        { "id": 34, "en": "smartpen", "zh": "智能笔" },
+        { "id": 35, "en": "microphone", "zh": "麦克风" },
+        { "id": 36, "en": "headphones", "zh": "头戴式耳机" },
+        { "id": 37, "en": "flip chart", "zh": "翻页挂图" },
+        { "id": 38, "en": "to share your screen", "zh": "屏幕共享" },
+        { "id": 39, "en": "presenter remote", "zh": "报告人遥控器" },
+        { "id": 40, "en": "conference", "zh": "会议" },
+        { "id": 41, "en": "guest speaker", "zh": "特邀演讲人" },
+        { "id": 42, "en": "presentation", "zh": "展示" },
+        { "id": 43, "en": "barchart", "zh": "柱状图" },
+        { "id": 44, "en": "now let's turn our attention to the data from last year.", "zh": "现在让我们把注意力转向去年的数据。" }
+      ]
+    }
+  ]
+}

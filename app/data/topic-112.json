@@ -1,0 +1,89 @@
+{
+  "id": "112",
+  "title": "篮球和排球",
+  "titleEn": "Basketball and Volleyball",
+  "category": "运动",
+  "pages": [
+    {
+      "pageNum": 232,
+      "image": "assets/images/page_233.jpg",
+      "section": "112.1",
+      "sectionTitle": "篮球",
+      "sectionTitleEn": "Basketball",
+      "words": [
+        { "id": 1, "en": "wing", "zh": "远端边缘" },
+        { "id": 2, "en": "midcourt area marker / throw-in line", "zh": "中场区域标志" },
+        { "id": 3, "en": "game officials", "zh": "比赛官员" },
+        { "id": 4, "en": "coach", "zh": "教练" },
+        { "id": 5, "en": "team bench", "zh": "球员席" },
+        { "id": 6, "en": "foul / free-throw line", "zh": "罚球线" },
+        { "id": 7, "en": "free-throw lane / three-second area", "zh": "三秒区" },
+        { "id": 8, "en": "lane line", "zh": "标识线" },
+        { "id": 9, "en": "no-charge circle", "zh": "合理冲撞区" },
+        { "id": 10, "en": "short corner", "zh": "短角区" },
+        { "id": 11, "en": "sideline", "zh": "边线" },
+        { "id": 12, "en": "court", "zh": "球场" },
+        { "id": 13, "en": "half-court line", "zh": "半场线" },
+        { "id": 14, "en": "high post", "zh": "高位" },
+        { "id": 15, "en": "baseline / endline", "zh": "底线" },
+        { "id": 16, "en": "point guard", "zh": "控球后卫" },
+        { "id": 17, "en": "center (US) / centre (UK)", "zh": "中锋" },
+        { "id": 18, "en": "shooting guard", "zh": "得分后卫" },
+        { "id": 19, "en": "power forward", "zh": "大前锋" },
+        { "id": 20, "en": "small forward", "zh": "小前锋" },
+        { "id": 21, "en": "five positions", "zh": "五个位置" },
+        { "id": 22, "en": "backboard", "zh": "篮板" },
+        { "id": 23, "en": "hoop", "zh": "篮圈" },
+        { "id": 24, "en": "net", "zh": "球网" },
+        { "id": 25, "en": "basket", "zh": "球篮" },
+        { "id": 26, "en": "ball", "zh": "篮球" },
+        { "id": 27, "en": "number", "zh": "号码" },
+        { "id": 28, "en": "basketball player", "zh": "篮球运动员" }
+      ]
+    },
+    {
+      "pageNum": 233,
+      "image": "assets/images/page_234.jpg",
+      "section": "112.1",
+      "sectionTitle": "篮球（续）",
+      "sectionTitleEn": "Basketball (continued)",
+      "words": [
+        { "id": 29, "en": "pass", "zh": "传球" },
+        { "id": 30, "en": "out of bounds", "zh": "出界" },
+        { "id": 31, "en": "throw-in", "zh": "掷界外球" },
+        { "id": 32, "en": "rebound", "zh": "篮板球" },
+        { "id": 33, "en": "airball", "zh": "三不沾" },
+        { "id": 34, "en": "jump ball", "zh": "跳球" },
+        { "id": 35, "en": "foul", "zh": "犯规" },
+        { "id": 36, "en": "to mark", "zh": "盯人" },
+        { "id": 37, "en": "to bounce", "zh": "运球" },
+        { "id": 38, "en": "to dunk", "zh": "灌篮" },
+        { "id": 39, "en": "to shoot", "zh": "投篮" },
+        { "id": 40, "en": "to block", "zh": "阻挡" }
+      ]
+    },
+    {
+      "pageNum": 233,
+      "image": "assets/images/page_234.jpg",
+      "section": "112.2",
+      "sectionTitle": "排球",
+      "sectionTitleEn": "Volleyball",
+      "words": [
+        { "id": 41, "en": "court", "zh": "球场" },
+        { "id": 42, "en": "middle blocker / libero", "zh": "自由人" },
+        { "id": 43, "en": "net", "zh": "球网" },
+        { "id": 44, "en": "middle blocker", "zh": "副攻手" },
+        { "id": 45, "en": "referee", "zh": "裁判" },
+        { "id": 46, "en": "right-side hitter", "zh": "右手攻" },
+        { "id": 47, "en": "setter", "zh": "二传手" },
+        { "id": 48, "en": "outside hitter", "zh": "主攻手" },
+        { "id": 49, "en": "opposite", "zh": "接应" },
+        { "id": 50, "en": "volleyball positions", "zh": "排球位置" },
+        { "id": 51, "en": "to bump", "zh": "下手垫球" },
+        { "id": 52, "en": "to dig", "zh": "救球" },
+        { "id": 53, "en": "i blocked you!", "zh": "我拦住你了！" },
+        { "id": 54, "en": "to block", "zh": "拦网" }
+      ]
+    }
+  ]
+}

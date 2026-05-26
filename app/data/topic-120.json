@@ -1,0 +1,88 @@
+{
+  "id": "120",
+  "title": "马术",
+  "titleEn": "Equestrian",
+  "category": "运动",
+  "pages": [
+    {
+      "pageNum": 248,
+      "image": "assets/images/page_248.jpg",
+      "section": "120.1",
+      "sectionTitle": "骑马",
+      "sectionTitleEn": "Horse Riding",
+      "words": [
+        { "id": 1, "en": "jodhpurs", "zh": "马裤" },
+        { "id": 2, "en": "saddle", "zh": "马鞍" },
+        { "id": 3, "en": "tail", "zh": "马尾" },
+        { "id": 4, "en": "saddlebag", "zh": "鞍囊" },
+        { "id": 5, "en": "riding hat", "zh": "骑手帽" },
+        { "id": 6, "en": "rider", "zh": "骑手" },
+        { "id": 7, "en": "mane", "zh": "鬃毛" },
+        { "id": 8, "en": "horse", "zh": "马" },
+        { "id": 9, "en": "triple bar vertical", "zh": "三横木障碍" },
+        { "id": 10, "en": "muzzle", "zh": "口套" },
+        { "id": 11, "en": "reins", "zh": "缰绳" },
+        { "id": 12, "en": "hoof", "zh": "马蹄" },
+        { "id": 13, "en": "girth", "zh": "腹带" },
+        { "id": 14, "en": "stirrup", "zh": "马镫" },
+        { "id": 15, "en": "riding boot", "zh": "马靴" },
+        { "id": 16, "en": "horseshoe", "zh": "马蹄铁" },
+        { "id": 17, "en": "halter", "zh": "马笼头" },
+        { "id": 18, "en": "noseband", "zh": "鼻羁" },
+        { "id": 19, "en": "bit", "zh": "马嚼子" },
+        { "id": 20, "en": "browband", "zh": "前额带" },
+        { "id": 21, "en": "bridle", "zh": "马勒" },
+        { "id": 22, "en": "pommel", "zh": "前鞍桥" },
+        { "id": 23, "en": "seat", "zh": "鞍座" },
+        { "id": 24, "en": "riding crop", "zh": "马鞭" },
+        { "id": 25, "en": "jockey", "zh": "赛马骑师" },
+        { "id": 26, "en": "racehorse", "zh": "赛马" },
+        { "id": 27, "en": "verticals", "zh": "赛马障碍栏" }
+      ]
+    },
+    {
+      "pageNum": 249,
+      "image": "assets/images/page_249.jpg",
+      "section": "120.1",
+      "sectionTitle": "骑马",
+      "sectionTitleEn": "Horse Riding",
+      "words": [
+        { "id": 28, "en": "side-saddle", "zh": "横座马鞍" },
+        { "id": 29, "en": "horse race", "zh": "赛马比赛" },
+        { "id": 30, "en": "harness race", "zh": "轻驾车赛" },
+        { "id": 31, "en": "flat race", "zh": "无障碍赛马" },
+        { "id": 32, "en": "steeplechase", "zh": "障碍赛" },
+        { "id": 33, "en": "carriage race", "zh": "双套马车赛" },
+        { "id": 34, "en": "showjumping", "zh": "越障碍赛" },
+        { "id": 35, "en": "dressage", "zh": "花式骑术" },
+        { "id": 36, "en": "polo", "zh": "马球" },
+        { "id": 37, "en": "rodeo", "zh": "牛仔竞技" },
+        { "id": 38, "en": "trekking", "zh": "长途跋涉" },
+        { "id": 39, "en": "arena", "zh": "竞技场" },
+        { "id": 40, "en": "racecourse", "zh": "赛马场" },
+        { "id": 41, "en": "paddock", "zh": "围场" },
+        { "id": 42, "en": "stallion", "zh": "种马" },
+        { "id": 43, "en": "stable", "zh": "马厩" },
+        { "id": 44, "en": "mare", "zh": "母马" },
+        { "id": 45, "en": "foal", "zh": "马驹" }
+      ]
+    },
+    {
+      "pageNum": 249,
+      "image": "assets/images/page_249.jpg",
+      "section": "120.2",
+      "sectionTitle": "相关动词",
+      "sectionTitleEn": "Related Verbs",
+      "words": [
+        { "id": 46, "en": "to groom", "zh": "梳毛刷洗" },
+        { "id": 47, "en": "to walk", "zh": "遛马" },
+        { "id": 48, "en": "to trot", "zh": "小跑" },
+        { "id": 49, "en": "to canter", "zh": "慢跑" },
+        { "id": 50, "en": "to gallop", "zh": "疾驰" },
+        { "id": 51, "en": "to jump", "zh": "跳跃" },
+        { "id": 52, "en": "to breed", "zh": "培育" },
+        { "id": 53, "en": "to muck out", "zh": "打扫马厩" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "92",
+  "title": "求职",
+  "titleEn": "Job Hunting",
+  "category": "工作",
+  "pages": [
+    {
+      "pageNum": 192,
+      "image": "assets/images/page_192.jpg",
+      "section": "92.1",
+      "sectionTitle": "工作申请",
+      "sectionTitleEn": "Job Application",
+      "words": [
+        { "id": 1, "en": "job ads", "zh": "招聘广告" },
+        { "id": 2, "en": "application form", "zh": "申请表" },
+        { "id": 3, "en": "cover letter", "zh": "求职信" },
+        { "id": 4, "en": "portfolio", "zh": "作品集" },
+        { "id": 5, "en": "résumé (US) / cv (UK)", "zh": "简历" },
+        { "id": 6, "en": "recruiter (US) / recruitment agency (UK)", "zh": "招聘机构" },
+        { "id": 7, "en": "to fill out a form", "zh": "填表" },
+        { "id": 8, "en": "what kind of work are you looking for?", "zh": "您在寻找什么类型的工作？" }
+      ]
+    },
+    {
+      "pageNum": 192,
+      "image": "assets/images/page_192.jpg",
+      "section": "92.2",
+      "sectionTitle": "求职",
+      "sectionTitleEn": "Job Hunting",
+      "words": [
+        { "id": 9, "en": "to apply for a job", "zh": "申请工作" },
+        { "id": 10, "en": "vacancies", "zh": "职位空缺" },
+        { "id": 11, "en": "to have an interview", "zh": "参加面试" },
+        { "id": 12, "en": "what makes you the perfect candidate for this job?", "zh": "您为什么是这份工作的理想候选人？" },
+        { "id": 13, "en": "i'm hardworking and i'm a team player.", "zh": "我勤奋努力，也是一个团队合作者。" }
+      ]
+    },
+    {
+      "pageNum": 193,
+      "image": "assets/images/page_193.jpg",
+      "section": "92.3",
+      "sectionTitle": "团队合作",
+      "sectionTitleEn": "Teamwork",
+      "words": [
+        { "id": 14, "en": "to collaborate", "zh": "协作" },
+        { "id": 15, "en": "to coordinate", "zh": "协调" },
+        { "id": 16, "en": "to negotiate", "zh": "协商" },
+        { "id": 17, "en": "to volunteer", "zh": "自愿做" },
+        { "id": 18, "en": "to supervise", "zh": "监督" },
+        { "id": 19, "en": "to manage", "zh": "管理" },
+        { "id": 20, "en": "to meet a deadline", "zh": "赶最后期限" },
+        { "id": 21, "en": "to organize", "zh": "组织" },
+        { "id": 22, "en": "supervisor", "zh": "主管" },
+        { "id": 23, "en": "job sheet", "zh": "工作表" },
+        { "id": 24, "en": "apprentice", "zh": "新人" },
+        { "id": 25, "en": "team leader", "zh": "团队领导者" },
+        { "id": 26, "en": "co-worker / colleague", "zh": "同事" },
+        { "id": 27, "en": "to get the job", "zh": "得到工作" },
+        { "id": 28, "en": "to shake hands", "zh": "握手" },
+        { "id": 29, "en": "to sign a contract", "zh": "签订合同" },
+        { "id": 30, "en": "contract", "zh": "合同" }
+      ]
+    }
+  ]
+}

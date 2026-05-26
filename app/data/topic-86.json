@@ -1,0 +1,98 @@
+{
+  "id": "86",
+  "title": "农业",
+  "titleEn": "Agriculture",
+  "category": "工作",
+  "pages": [
+    {
+      "pageNum": 180,
+      "image": "assets/images/page_180.jpg",
+      "section": "86.1",
+      "sectionTitle": "农场",
+      "sectionTitleEn": "Farm",
+      "words": [
+        { "id": 1, "en": "hedge", "zh": "树篱" },
+        { "id": 2, "en": "barn", "zh": "谷仓" },
+        { "id": 3, "en": "tractor", "zh": "拖拉机" },
+        { "id": 4, "en": "farmland", "zh": "农场" },
+        { "id": 5, "en": "silo", "zh": "筒仓" },
+        { "id": 6, "en": "scarecrow", "zh": "稻草人" },
+        { "id": 7, "en": "combine harvester", "zh": "联合收割机" },
+        { "id": 8, "en": "farmhouse", "zh": "农舍" },
+        { "id": 9, "en": "stable", "zh": "马厩" },
+        { "id": 10, "en": "pond", "zh": "池塘" },
+        { "id": 11, "en": "fence", "zh": "围栏" },
+        { "id": 12, "en": "chicken coop", "zh": "鸡舍" },
+        { "id": 13, "en": "pasture", "zh": "牧场" },
+        { "id": 14, "en": "farmyard", "zh": "农家庭院" },
+        { "id": 15, "en": "beehive", "zh": "蜂巢" },
+        { "id": 16, "en": "pigpen", "zh": "猪圈" },
+        { "id": 17, "en": "farmer", "zh": "农夫" },
+        { "id": 18, "en": "gate", "zh": "篱笆门" }
+      ]
+    },
+    {
+      "pageNum": 180,
+      "image": "assets/images/page_180.jpg",
+      "section": "86.2",
+      "sectionTitle": "农业相关的动词",
+      "sectionTitleEn": "Farming Verbs",
+      "words": [
+        { "id": 19, "en": "to plow (US) / to plough (UK)", "zh": "犁" },
+        { "id": 20, "en": "to sow", "zh": "播种" },
+        { "id": 21, "en": "to milk", "zh": "挤奶" },
+        { "id": 22, "en": "to feed", "zh": "喂养" },
+        { "id": 23, "en": "to plant", "zh": "种植" },
+        { "id": 24, "en": "to harvest", "zh": "收获" }
+      ]
+    },
+    {
+      "pageNum": 181,
+      "image": "assets/images/page_181.jpg",
+      "section": "86.3",
+      "sectionTitle": "农业术语",
+      "sectionTitleEn": "Farming Terms",
+      "words": [
+        { "id": 25, "en": "arable farm", "zh": "种植农场" },
+        { "id": 26, "en": "dairy farm", "zh": "奶牛场" },
+        { "id": 27, "en": "sheep farm", "zh": "牧羊场" },
+        { "id": 28, "en": "poultry farm", "zh": "养禽场" },
+        { "id": 29, "en": "pig farm", "zh": "养猪场" },
+        { "id": 30, "en": "fish farm", "zh": "养鱼场" },
+        { "id": 31, "en": "herd", "zh": "牧群" },
+        { "id": 32, "en": "fruit farm", "zh": "果园" },
+        { "id": 33, "en": "vineyard", "zh": "葡萄园" },
+        { "id": 34, "en": "vegetable garden / vegetable plot (UK)", "zh": "菜园" },
+        { "id": 35, "en": "herbicide", "zh": "除草剂" },
+        { "id": 36, "en": "pesticide", "zh": "杀虫剂" }
+      ]
+    },
+    {
+      "pageNum": 181,
+      "image": "assets/images/page_181.jpg",
+      "section": "86.4",
+      "sectionTitle": "作物",
+      "sectionTitleEn": "Crops",
+      "words": [
+        { "id": 37, "en": "wheat", "zh": "小麦" },
+        { "id": 38, "en": "corn / maize (UK)", "zh": "玉米" },
+        { "id": 39, "en": "barley", "zh": "大麦" },
+        { "id": 40, "en": "rapeseed", "zh": "油菜籽" },
+        { "id": 41, "en": "sunflowers", "zh": "向日葵" },
+        { "id": 42, "en": "hay", "zh": "干草" },
+        { "id": 43, "en": "alfalfa", "zh": "苜蓿" },
+        { "id": 44, "en": "tobacco", "zh": "烟草" },
+        { "id": 45, "en": "rice", "zh": "水稻" },
+        { "id": 46, "en": "tea", "zh": "茶叶" },
+        { "id": 47, "en": "coffee", "zh": "咖啡" },
+        { "id": 48, "en": "sugar cane", "zh": "甘蔗" },
+        { "id": 49, "en": "flax", "zh": "亚麻" },
+        { "id": 50, "en": "cotton", "zh": "棉花" },
+        { "id": 51, "en": "potatoes", "zh": "土豆" },
+        { "id": 52, "en": "yams", "zh": "山药" },
+        { "id": 53, "en": "millet", "zh": "粟" },
+        { "id": 54, "en": "plantains", "zh": "大蕉" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "117",
+  "title": "格斗运动",
+  "titleEn": "Combat Sports",
+  "category": "运动",
+  "pages": [
+    {
+      "pageNum": 242,
+      "image": "assets/images/page_242.jpg",
+      "section": "117.1",
+      "sectionTitle": "武术",
+      "sectionTitleEn": "Martial Arts",
+      "words": [
+        { "id": 1, "en": "groin protector", "zh": "护裆" },
+        { "id": 2, "en": "glove", "zh": "手套" },
+        { "id": 3, "en": "belt", "zh": "腰带" },
+        { "id": 4, "en": "head guard", "zh": "护盔" },
+        { "id": 5, "en": "chest protection", "zh": "护胸" },
+        { "id": 6, "en": "taekwondo", "zh": "跆拳道" },
+        { "id": 7, "en": "black belt", "zh": "黑带" },
+        { "id": 8, "en": "karate mat", "zh": "空手道垫" },
+        { "id": 9, "en": "opponent", "zh": "对手" },
+        { "id": 10, "en": "safety area", "zh": "安全区" },
+        { "id": 11, "en": "karate", "zh": "空手道" },
+        { "id": 12, "en": "danger area", "zh": "危险区" },
+        { "id": 13, "en": "judo", "zh": "柔道" },
+        { "id": 14, "en": "aikido", "zh": "合气道" },
+        { "id": 15, "en": "hakama", "zh": "袴" },
+        { "id": 16, "en": "kung fu", "zh": "功夫" },
+        { "id": 17, "en": "jujitsu", "zh": "柔术" },
+        { "id": 18, "en": "capoeira", "zh": "卡波埃拉" },
+        { "id": 19, "en": "kickboxing", "zh": "踢拳" },
+        { "id": 20, "en": "tai chi", "zh": "太极" },
+        { "id": 21, "en": "wrestling", "zh": "摔跤" },
+        { "id": 22, "en": "sumo wrestling", "zh": "相扑" },
+        { "id": 23, "en": "mask", "zh": "防护面具" },
+        { "id": 24, "en": "sword", "zh": "剑" },
+        { "id": 25, "en": "kendo", "zh": "剑道" }
+      ]
+    },
+    {
+      "pageNum": 242,
+      "image": "assets/images/page_242.jpg",
+      "section": "117.2",
+      "sectionTitle": "动作",
+      "sectionTitleEn": "Moves",
+      "words": [
+        { "id": 26, "en": "to fall", "zh": "摔倒" },
+        { "id": 27, "en": "to hold", "zh": "抓握" },
+        { "id": 28, "en": "to throw", "zh": "摔" },
+        { "id": 29, "en": "to pin", "zh": "压倒" },
+        { "id": 30, "en": "front kick", "zh": "前踢" },
+        { "id": 31, "en": "flying kick", "zh": "飞踢" }
+      ]
+    },
+    {
+      "pageNum": 243,
+      "image": "assets/images/page_243.jpg",
+      "section": "117.3",
+      "sectionTitle": "拳击",
+      "sectionTitleEn": "Boxing",
+      "words": [
+        { "id": 32, "en": "boxing ring", "zh": "拳击台" },
+        { "id": 33, "en": "ropes", "zh": "围绳" },
+        { "id": 34, "en": "boxing match", "zh": "拳击比赛" },
+        { "id": 35, "en": "round", "zh": "回合" },
+        { "id": 36, "en": "knock out", "zh": "击倒对手获胜" },
+        { "id": 37, "en": "boxing gloves", "zh": "拳击手套" },
+        { "id": 38, "en": "mouth guard", "zh": "口腔保护器" },
+        { "id": 39, "en": "punching bag (US) / punchbag (UK)", "zh": "沙袋" }
+      ]
+    },
+    {
+      "pageNum": 243,
+      "image": "assets/images/page_243.jpg",
+      "section": "117.4",
+      "sectionTitle": "击剑",
+      "sectionTitleEn": "Fencing",
+      "words": [
+        { "id": 40, "en": "to lunge", "zh": "弓箭步刺" },
+        { "id": 41, "en": "to parry", "zh": "防守" },
+        { "id": 42, "en": "hilt", "zh": "剑柄" },
+        { "id": 43, "en": "foil", "zh": "花剑" },
+        { "id": 44, "en": "blade", "zh": "剑刃" },
+        { "id": 45, "en": "épée", "zh": "重剑" },
+        { "id": 46, "en": "saber (US) / sabre (UK)", "zh": "佩剑" },
+        { "id": 47, "en": "to punch", "zh": "出拳" },
+        { "id": 48, "en": "to strike", "zh": "击打" },
+        { "id": 49, "en": "to block", "zh": "挡" },
+        { "id": 50, "en": "to jump", "zh": "跳" },
+        { "id": 51, "en": "to chop", "zh": "劈" }
+      ]
+    }
+  ]
+}

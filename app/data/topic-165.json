@@ -1,0 +1,70 @@
+{
+  "id": "165",
+  "title": "农场动物",
+  "titleEn": "Farm Animals",
+  "category": "自然世界",
+  "pages": [
+    {
+      "pageNum": 338,
+      "image": "assets/images/page_338.jpg",
+      "section": "165.1",
+      "sectionTitle": "农场",
+      "sectionTitleEn": "The Farm",
+      "words": [
+        { "id": 1, "en": "chicken", "zh": "鸡" },
+        { "id": 2, "en": "sheep", "zh": "绵羊" },
+        { "id": 3, "en": "chick", "zh": "小鸡" },
+        { "id": 4, "en": "cow", "zh": "奶牛" },
+        { "id": 5, "en": "lamb", "zh": "羊羔" },
+        { "id": 6, "en": "rooster / cockerel (UK)", "zh": "公鸡" },
+        { "id": 7, "en": "hen", "zh": "母鸡" },
+        { "id": 8, "en": "turkey", "zh": "火鸡" },
+        { "id": 9, "en": "poultry", "zh": "家禽" },
+        { "id": 10, "en": "bee", "zh": "蜜蜂" },
+        { "id": 11, "en": "hive", "zh": "蜂房" },
+        { "id": 12, "en": "flock of sheep", "zh": "羊群" },
+        { "id": 13, "en": "ram", "zh": "公羊" },
+        { "id": 14, "en": "ewe", "zh": "母羊" },
+        { "id": 15, "en": "herd of cows", "zh": "牛群" },
+        { "id": 16, "en": "bull", "zh": "公牛" },
+        { "id": 17, "en": "calf", "zh": "牛犊" },
+        { "id": 18, "en": "cattle", "zh": "家牛" },
+        { "id": 19, "en": "donkey", "zh": "驴" }
+      ]
+    },
+    {
+      "pageNum": 339,
+      "image": "assets/images/page_339.jpg",
+      "section": "165.1",
+      "sectionTitle": "农场",
+      "sectionTitleEn": "The Farm",
+      "words": [
+        { "id": 20, "en": "horse", "zh": "马" },
+        { "id": 21, "en": "goose", "zh": "鹅" },
+        { "id": 22, "en": "gosling", "zh": "小鹅" },
+        { "id": 23, "en": "pig", "zh": "猪" },
+        { "id": 24, "en": "piglet", "zh": "小猪" },
+        { "id": 25, "en": "duck", "zh": "鸭" },
+        { "id": 26, "en": "duckling", "zh": "小鸭" },
+        { "id": 27, "en": "stallion", "zh": "种马" },
+        { "id": 28, "en": "mare", "zh": "母马" },
+        { "id": 29, "en": "foal", "zh": "马驹" },
+        { "id": 30, "en": "goat", "zh": "山羊" },
+        { "id": 31, "en": "kid", "zh": "小羊" },
+        { "id": 32, "en": "ostrich", "zh": "鸵鸟" },
+        { "id": 33, "en": "llama", "zh": "大羊驼" },
+        { "id": 34, "en": "alpaca", "zh": "羊驼" },
+        { "id": 35, "en": "to shear", "zh": "剪毛" },
+        { "id": 36, "en": "to trot", "zh": "小跑" },
+        { "id": 37, "en": "to gallop", "zh": "疾驰" },
+        { "id": 38, "en": "to charge", "zh": "冲撞" },
+        { "id": 39, "en": "to crow", "zh": "鸡啼" },
+        { "id": 40, "en": "to bleat", "zh": "(羊) 咩咩叫" },
+        { "id": 41, "en": "to snort", "zh": "喷鼻息" },
+        { "id": 42, "en": "to grunt", "zh": "(猪) 作哼噜声" },
+        { "id": 43, "en": "to bray", "zh": "驴叫" },
+        { "id": 44, "en": "to quack", "zh": "(鸭子) 嘎嘎叫" }
+      ]
+    }
+  ]
+}

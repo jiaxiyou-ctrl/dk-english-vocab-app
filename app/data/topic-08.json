@@ -1,0 +1,92 @@
+{
+  "id": "08",
+  "title": "怀孕和童年",
+  "titleEn": "Pregnancy and Childhood",
+  "category": "人",
+  "pages": [
+    {
+      "pageNum": 26,
+      "image": "assets/images/page_27.jpg",
+      "section": "8.1",
+      "sectionTitle": "怀孕和分娩",
+      "sectionTitleEn": "Pregnancy and Childbirth",
+      "words": [
+        { "id": 1, "en": "umbilical cord", "zh": "脐带" },
+        { "id": 2, "en": "uterus / womb", "zh": "子宫" },
+        { "id": 3, "en": "fetus / foetus (UK)", "zh": "胎儿" },
+        { "id": 4, "en": "placenta", "zh": "胎盘" },
+        { "id": 5, "en": "pregnancy test", "zh": "验孕" },
+        { "id": 6, "en": "pregnant", "zh": "怀孕的" },
+        { "id": 7, "en": "ultrasound", "zh": "超声波检查" },
+        { "id": 8, "en": "embryo", "zh": "胚胎" },
+        { "id": 9, "en": "due date", "zh": "预产期" },
+        { "id": 10, "en": "midwife", "zh": "助产士" },
+        { "id": 11, "en": "obstetrician", "zh": "产科医生" },
+        { "id": 12, "en": "birth", "zh": "分娩" },
+        { "id": 13, "en": "newborn baby", "zh": "新生儿" },
+        { "id": 14, "en": "vaccination", "zh": "接种疫苗" },
+        { "id": 15, "en": "incubator", "zh": "恒温箱" }
+      ]
+    },
+    {
+      "pageNum": 26,
+      "image": "assets/images/page_27.jpg",
+      "section": "8.2",
+      "sectionTitle": "玩具和游戏",
+      "sectionTitleEn": "Toys and Games",
+      "words": [
+        { "id": 16, "en": "doll", "zh": "娃娃" },
+        { "id": 17, "en": "dollhouse (US) / doll's house (UK)", "zh": "娃娃屋" },
+        { "id": 18, "en": "plush toy (US) / soft toy (UK)", "zh": "毛绒玩具" },
+        { "id": 19, "en": "board game", "zh": "棋盘游戏" },
+        { "id": 20, "en": "building blocks / building bricks", "zh": "积木" },
+        { "id": 21, "en": "ball", "zh": "玩具球" },
+        { "id": 22, "en": "top (US) / spinning top (UK)", "zh": "陀螺" },
+        { "id": 23, "en": "yo-yo", "zh": "悠悠球" },
+        { "id": 24, "en": "jump rope (US) / skipping rope (UK)", "zh": "跳绳" },
+        { "id": 25, "en": "trampoline", "zh": "蹦床" },
+        { "id": 26, "en": "jigsaw puzzle", "zh": "拼图" },
+        { "id": 27, "en": "train set", "zh": "玩具火车" }
+      ]
+    },
+    {
+      "pageNum": 27,
+      "image": "assets/images/page_28.jpg",
+      "section": "8.3",
+      "sectionTitle": "童年",
+      "sectionTitleEn": "Childhood",
+      "words": [
+        { "id": 28, "en": "stroller (US) / buggy (UK)", "zh": "手推童车" },
+        { "id": 29, "en": "baby carriage (US) / pram (UK)", "zh": "婴儿车" },
+        { "id": 30, "en": "high chair", "zh": "高脚椅" },
+        { "id": 31, "en": "pacifier (US) / dummy (UK)", "zh": "奶嘴" },
+        { "id": 32, "en": "rattle", "zh": "拨浪鼓" },
+        { "id": 33, "en": "baby monitor", "zh": "婴儿监视器" },
+        { "id": 34, "en": "stair gate", "zh": "楼梯门" },
+        { "id": 35, "en": "Moses basket", "zh": "婴儿睡篮" },
+        { "id": 36, "en": "baby bath", "zh": "婴儿浴盆" },
+        { "id": 37, "en": "potty", "zh": "婴儿便盆" },
+        { "id": 38, "en": "wet wipe", "zh": "湿纸巾" },
+        { "id": 39, "en": "toddler", "zh": "幼儿" },
+        { "id": 40, "en": "diaper rash cream (US) / nappy rash cream (UK)", "zh": "尿布疹软膏" },
+        { "id": 41, "en": "diaper (US) / nappy (UK)", "zh": "尿布" },
+        { "id": 42, "en": "diaper bag (US) / changing bag (UK)", "zh": "尿布包" },
+        { "id": 43, "en": "playpen", "zh": "玩婴护栏" },
+        { "id": 44, "en": "bottle", "zh": "奶瓶" },
+        { "id": 45, "en": "nipple (US) / teat (UK)", "zh": "奶嘴" },
+        { "id": 46, "en": "baby formula", "zh": "婴儿配方奶粉" },
+        { "id": 47, "en": "hobby horse", "zh": "竹马" },
+        { "id": 48, "en": "kite", "zh": "风筝" },
+        { "id": 49, "en": "balloon", "zh": "气球" },
+        { "id": 50, "en": "toybox", "zh": "玩具箱" },
+        { "id": 51, "en": "rocking horse", "zh": "摇摆木马" },
+        { "id": 52, "en": "puppet", "zh": "手偶" },
+        { "id": 53, "en": "bowling pins (US) / skittles (UK)", "zh": "保龄球瓶" },
+        { "id": 54, "en": "bead maze", "zh": "绕珠玩具" },
+        { "id": 55, "en": "pull-along toy", "zh": "牵拉玩具" },
+        { "id": 56, "en": "hula hoop", "zh": "呼啦圈" },
+        { "id": 57, "en": "toy car", "zh": "玩具车" }
+      ]
+    }
+  ]
+}

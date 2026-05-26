@@ -1,0 +1,92 @@
+{
+  "id": "54",
+  "title": "鱼类和海产品",
+  "titleEn": "Fish and Seafood",
+  "category": "食物",
+  "pages": [
+    {
+      "pageNum": 118,
+      "image": "assets/images/page_118.jpg",
+      "section": "54.1",
+      "sectionTitle": "鱼类",
+      "sectionTitleEn": "Fish",
+      "words": [
+        { "id": 1, "en": "salmon fillet", "zh": "三文鱼片" },
+        { "id": 2, "en": "haddock tail", "zh": "黑线鳕尾" },
+        { "id": 3, "en": "skate wing", "zh": "鳐鱼翅" },
+        { "id": 4, "en": "cod fillet", "zh": "鳕鱼片" },
+        { "id": 5, "en": "sardines", "zh": "沙丁鱼" },
+        { "id": 6, "en": "red mullet", "zh": "红鲻鱼" },
+        { "id": 7, "en": "whiting", "zh": "牙鳕" },
+        { "id": 8, "en": "mackerel", "zh": "鲭鱼" },
+        { "id": 9, "en": "sole", "zh": "鳎鱼" },
+        { "id": 10, "en": "sea bream", "zh": "鲷鱼" },
+        { "id": 11, "en": "monkfish", "zh": "鮟鱇" },
+        { "id": 12, "en": "sea bass", "zh": "海鲈" },
+        { "id": 13, "en": "catfish", "zh": "鲶鱼" },
+        { "id": 14, "en": "halibut", "zh": "大比目鱼" },
+        { "id": 15, "en": "rainbow trout", "zh": "虹鳟鱼" },
+        { "id": 16, "en": "turbot", "zh": "大菱鲆" },
+        { "id": 17, "en": "skate", "zh": "鳐鱼" },
+        { "id": 18, "en": "eel", "zh": "鳗鱼" },
+        { "id": 19, "en": "herring", "zh": "鲱鱼" },
+        { "id": 20, "en": "perch", "zh": "鲈鱼" },
+        { "id": 21, "en": "basa", "zh": "巴沙鱼" },
+        { "id": 22, "en": "pike perch", "zh": "梭鲈" },
+        { "id": 23, "en": "carp", "zh": "鲤鱼" },
+        { "id": 24, "en": "trout", "zh": "鳟鱼" },
+        { "id": 25, "en": "swordfish", "zh": "剑鱼" },
+        { "id": 26, "en": "tuna", "zh": "金枪鱼" },
+        { "id": 27, "en": "fishmonger", "zh": "鱼商" },
+        { "id": 28, "en": "plaice", "zh": "鲽鱼" },
+        { "id": 29, "en": "pollock", "zh": "鳕鱼" },
+        { "id": 30, "en": "fillet", "zh": "无骨鱼片" },
+        { "id": 31, "en": "fish box", "zh": "鱼箱" }
+      ]
+    },
+    {
+      "pageNum": 119,
+      "image": "assets/images/page_119.jpg",
+      "section": "54.2",
+      "sectionTitle": "海产品",
+      "sectionTitleEn": "Seafood",
+      "words": [
+        { "id": 32, "en": "clam", "zh": "蛤" },
+        { "id": 33, "en": "octopus", "zh": "章鱼" },
+        { "id": 34, "en": "lobster", "zh": "龙虾" },
+        { "id": 35, "en": "scallop", "zh": "扇贝" },
+        { "id": 36, "en": "crayfish", "zh": "小龙虾" },
+        { "id": 37, "en": "unpeeled shrimp (US) / unpeeled prawn (UK)", "zh": "未去皮虾" },
+        { "id": 38, "en": "peeled shrimp (US) / peeled prawn (UK)", "zh": "去皮虾" },
+        { "id": 39, "en": "squid", "zh": "鱿鱼" },
+        { "id": 40, "en": "oyster", "zh": "牡蛎" },
+        { "id": 41, "en": "mussel", "zh": "贻贝" },
+        { "id": 42, "en": "seafood platter", "zh": "海鲜拼盘" },
+        { "id": 43, "en": "crab", "zh": "螃蟹" },
+        { "id": 44, "en": "cockle", "zh": "乌蛤" },
+        { "id": 45, "en": "razor-shell", "zh": "蛏子" },
+        { "id": 46, "en": "calamari", "zh": "鱿鱼圈" },
+        { "id": 47, "en": "sushi", "zh": "寿司" }
+      ]
+    },
+    {
+      "pageNum": 119,
+      "image": "assets/images/page_119.jpg",
+      "section": "54.3",
+      "sectionTitle": "储存方式",
+      "sectionTitleEn": "Ways of Storing",
+      "words": [
+        { "id": 48, "en": "scale", "zh": "鳞片" },
+        { "id": 49, "en": "fresh", "zh": "新鲜的" },
+        { "id": 50, "en": "tail", "zh": "尾部" },
+        { "id": 51, "en": "frozen", "zh": "冷冻的" },
+        { "id": 52, "en": "smoked", "zh": "烟熏的" },
+        { "id": 53, "en": "salted", "zh": "盐渍的" },
+        { "id": 54, "en": "descaled", "zh": "去鳞的" },
+        { "id": 55, "en": "cleaned", "zh": "处理干净的" },
+        { "id": 56, "en": "boned", "zh": "去骨的" },
+        { "id": 57, "en": "loin", "zh": "腰肉" }
+      ]
+    }
+  ]
+}

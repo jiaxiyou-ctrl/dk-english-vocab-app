@@ -1,0 +1,70 @@
+{
+  "id": "123",
+  "title": "赛车",
+  "titleEn": "Racing",
+  "category": "运动",
+  "pages": [
+    {
+      "pageNum": 254,
+      "image": "assets/images/page_254.jpg",
+      "section": "123.1",
+      "sectionTitle": "赛车",
+      "sectionTitleEn": "Race Car",
+      "words": [
+        { "id": 1, "en": "racing overalls", "zh": "赛车服" },
+        { "id": 2, "en": "helmet", "zh": "头盔" },
+        { "id": 3, "en": "race car driver (us) / racing driver (uk)", "zh": "赛车手" },
+        { "id": 4, "en": "bodywork", "zh": "车身" },
+        { "id": 5, "en": "chassis", "zh": "底盘" },
+        { "id": 6, "en": "cockpit", "zh": "驾驶座" },
+        { "id": 7, "en": "headrest", "zh": "头靠" },
+        { "id": 8, "en": "engine intake", "zh": "发动机进气口" },
+        { "id": 9, "en": "camera mount", "zh": "摄像机支架" },
+        { "id": 10, "en": "rear wing", "zh": "尾翼" },
+        { "id": 11, "en": "nose cone", "zh": "鼻锥体" },
+        { "id": 12, "en": "front wing", "zh": "前翼" },
+        { "id": 13, "en": "front suspension", "zh": "前悬挂" },
+        { "id": 14, "en": "brake cooling intake", "zh": "制动冷却进气道" },
+        { "id": 15, "en": "seat belts", "zh": "安全带" },
+        { "id": 16, "en": "rear suspension", "zh": "后悬挂" }
+      ]
+    },
+    {
+      "pageNum": 254,
+      "image": "assets/images/page_254.jpg",
+      "section": "123.2",
+      "sectionTitle": "赛车运动类型",
+      "sectionTitleEn": "Types of Racing",
+      "words": [
+        { "id": 17, "en": "auto racing (us) / motor racing (uk)", "zh": "赛车运动" },
+        { "id": 18, "en": "rally driving", "zh": "拉力驾驶赛" },
+        { "id": 19, "en": "drag racing", "zh": "直线加速赛" }
+      ]
+    },
+    {
+      "pageNum": 255,
+      "image": "assets/images/page_255.jpg",
+      "section": "123.3",
+      "sectionTitle": "赛车场",
+      "sectionTitleEn": "Race Track",
+      "words": [
+        { "id": 20, "en": "hairpin turn", "zh": "发夹弯" },
+        { "id": 21, "en": "chicane", "zh": "双急转弯" },
+        { "id": 22, "en": "checkered flag (us) / chequered flag (uk)", "zh": "方格旗" },
+        { "id": 23, "en": "pit stop", "zh": "检修加油站" },
+        { "id": 24, "en": "pit lane", "zh": "维修道" },
+        { "id": 25, "en": "finish line", "zh": "终点线" },
+        { "id": 26, "en": "starting grid", "zh": "起跑排位" },
+        { "id": 27, "en": "pole position", "zh": "杆位" },
+        { "id": 28, "en": "homestretch", "zh": "最后冲刺" },
+        { "id": 29, "en": "blowout", "zh": "爆胎" },
+        { "id": 30, "en": "qualifying", "zh": "晋级" },
+        { "id": 31, "en": "motorcycle racing (us) / motorbike racing (uk)", "zh": "摩托车竞速赛" },
+        { "id": 32, "en": "speedway", "zh": "摩托车漂移赛" },
+        { "id": 33, "en": "motocross", "zh": "摩托车越野赛" },
+        { "id": 34, "en": "monster truck", "zh": "怪兽卡车" },
+        { "id": 35, "en": "go-cart", "zh": "卡丁车" }
+      ]
+    }
+  ]
+}

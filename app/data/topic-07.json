@@ -1,0 +1,90 @@
+{
+  "id": "07",
+  "title": "人生大事",
+  "titleEn": "Life Events",
+  "category": "人",
+  "pages": [
+    {
+      "pageNum": 24,
+      "image": "assets/images/page_24.jpg",
+      "section": "7.1",
+      "sectionTitle": "人际关系",
+      "sectionTitleEn": "Relationships",
+      "words": [
+        { "id": 1, "en": "neighbor (US) / neighbour (UK)", "zh": "邻居" },
+        { "id": 2, "en": "friend", "zh": "朋友" },
+        { "id": 3, "en": "acquaintance", "zh": "熟人" },
+        { "id": 4, "en": "colleague", "zh": "同事" },
+        { "id": 5, "en": "pen pal", "zh": "笔友" },
+        { "id": 6, "en": "couple", "zh": "夫妇; 情侣" },
+        { "id": 7, "en": "best friend", "zh": "最好的朋友" },
+        { "id": 8, "en": "partner", "zh": "搭档; 配偶" },
+        { "id": 9, "en": "fiancée", "zh": "未婚妻" },
+        { "id": 10, "en": "fiancé", "zh": "未婚夫" },
+        { "id": 11, "en": "engaged couple", "zh": "订婚夫妇" },
+        { "id": 12, "en": "bride", "zh": "新娘" },
+        { "id": 13, "en": "groom", "zh": "新郎" },
+        { "id": 14, "en": "married couple", "zh": "已婚夫妇" }
+      ]
+    },
+    {
+      "pageNum": 24,
+      "image": "assets/images/page_24.jpg",
+      "section": "7.2",
+      "sectionTitle": "人生大事",
+      "sectionTitleEn": "Life Events",
+      "words": [
+        { "id": 15, "en": "to be born", "zh": "出生" },
+        { "id": 16, "en": "birth certificate", "zh": "出生证明" },
+        { "id": 17, "en": "to go to preschool (US) / to go to nursery (UK)", "zh": "上学前班" },
+        { "id": 18, "en": "to start school", "zh": "开始上学" },
+        { "id": 19, "en": "to make friends", "zh": "交朋友" },
+        { "id": 20, "en": "to win a prize", "zh": "获奖" },
+        { "id": 21, "en": "to graduate", "zh": "毕业" },
+        { "id": 22, "en": "to emigrate", "zh": "移民" },
+        { "id": 23, "en": "to get a job", "zh": "找到工作" },
+        { "id": 24, "en": "to fall in love", "zh": "坠入爱河" },
+        { "id": 25, "en": "to get married", "zh": "结婚" }
+      ]
+    },
+    {
+      "pageNum": 25,
+      "image": "assets/images/page_25.jpg",
+      "section": "7.3",
+      "sectionTitle": "节日和庆典",
+      "sectionTitleEn": "Festivals and Celebrations",
+      "words": [
+        { "id": 26, "en": "birthday", "zh": "生日" },
+        { "id": 27, "en": "present", "zh": "礼物" },
+        { "id": 28, "en": "birthday card", "zh": "生日贺卡" },
+        { "id": 29, "en": "Christmas", "zh": "圣诞节" },
+        { "id": 30, "en": "New Year", "zh": "新年" },
+        { "id": 31, "en": "carnival", "zh": "嘉年华" },
+        { "id": 32, "en": "Thanksgiving", "zh": "感恩节" },
+        { "id": 33, "en": "Easter", "zh": "复活节" },
+        { "id": 34, "en": "Halloween", "zh": "万圣节" },
+        { "id": 35, "en": "Kwanzaa", "zh": "宽扎节" },
+        { "id": 36, "en": "Passover", "zh": "逾越节" },
+        { "id": 37, "en": "Diwali", "zh": "排灯节" },
+        { "id": 38, "en": "Day of the Dead", "zh": "亡灵节" },
+        { "id": 39, "en": "Eid al-Fitr", "zh": "开斋节" },
+        { "id": 40, "en": "Holi", "zh": "胡里节" },
+        { "id": 41, "en": "Hanukkah", "zh": "光明节" },
+        { "id": 42, "en": "Baisakhi / Vaisakhi", "zh": "丰收节" },
+        { "id": 43, "en": "wedding", "zh": "婚礼" },
+        { "id": 44, "en": "honeymoon", "zh": "蜜月" },
+        { "id": 45, "en": "anniversary", "zh": "周年纪念日" },
+        { "id": 46, "en": "to have a baby", "zh": "生小孩" },
+        { "id": 47, "en": "christening / baptism", "zh": "洗礼" },
+        { "id": 48, "en": "holy water", "zh": "圣水" },
+        { "id": 49, "en": "bar mitzvah / bat mitzvah", "zh": "成人礼" },
+        { "id": 50, "en": "to go on Hajj", "zh": "去麦加朝圣" },
+        { "id": 51, "en": "to retire", "zh": "退休" },
+        { "id": 52, "en": "divorce", "zh": "离婚" },
+        { "id": 53, "en": "to write a will (US) / to make a will (UK)", "zh": "立遗嘱" },
+        { "id": 54, "en": "to die", "zh": "死亡" },
+        { "id": 55, "en": "funeral", "zh": "葬礼" }
+      ]
+    }
+  ]
+}

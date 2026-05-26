@@ -1,0 +1,103 @@
+{
+  "id": "61",
+  "title": "奶制品",
+  "titleEn": "Dairy",
+  "category": "食物",
+  "pages": [
+    {
+      "pageNum": 132,
+      "image": "assets/images/page_132.jpg",
+      "section": "61.1",
+      "sectionTitle": "奶酪",
+      "sectionTitleEn": "Cheese",
+      "words": [
+        { "id": 1, "en": "hard cheese", "zh": "硬质奶酪" },
+        { "id": 2, "en": "semi-hard cheese", "zh": "半硬质乳酪" },
+        { "id": 3, "en": "semi-soft cheese", "zh": "半软质奶酪" },
+        { "id": 4, "en": "soft cheese", "zh": "软质奶酪" },
+        { "id": 5, "en": "sheep's milk cheese", "zh": "绵羊乳奶酪" },
+        { "id": 6, "en": "goat's cheese", "zh": "山羊乳奶酪" },
+        { "id": 7, "en": "blue cheese", "zh": "蓝纹奶酪" },
+        { "id": 8, "en": "rind", "zh": "奶酪外皮" },
+        { "id": 9, "en": "grated cheese", "zh": "碎奶酪" },
+        { "id": 10, "en": "fresh cheese", "zh": "鲜奶酪" },
+        { "id": 11, "en": "cottage cheese", "zh": "白干酪" },
+        { "id": 12, "en": "cream cheese", "zh": "奶油干酪" }
+      ]
+    },
+    {
+      "pageNum": 132,
+      "image": "assets/images/page_132.jpg",
+      "section": "61.2",
+      "sectionTitle": "鸡蛋",
+      "sectionTitleEn": "Eggs",
+      "words": [
+        { "id": 13, "en": "egg white", "zh": "蛋白" },
+        { "id": 14, "en": "yolk", "zh": "蛋黄" },
+        { "id": 15, "en": "shell", "zh": "蛋壳" },
+        { "id": 16, "en": "egg cup", "zh": "蛋杯" },
+        { "id": 17, "en": "boiled egg", "zh": "煮蛋" },
+        { "id": 18, "en": "fried egg", "zh": "煎蛋" },
+        { "id": 19, "en": "scrambled eggs", "zh": "炒蛋" },
+        { "id": 20, "en": "poached egg", "zh": "荷包蛋" },
+        { "id": 21, "en": "omelet (US) / omelette (UK)", "zh": "煎蛋卷" },
+        { "id": 22, "en": "goose egg", "zh": "鹅蛋" },
+        { "id": 23, "en": "duck egg", "zh": "鸭蛋" },
+        { "id": 24, "en": "chicken egg (US) / hen's egg (UK)", "zh": "鸡蛋" },
+        { "id": 25, "en": "quail egg", "zh": "鹌鹑蛋" }
+      ]
+    },
+    {
+      "pageNum": 132,
+      "image": "assets/images/page_132.jpg",
+      "section": "61.3",
+      "sectionTitle": "牛奶",
+      "sectionTitleEn": "Milk",
+      "words": [
+        { "id": 26, "en": "pasteurized", "zh": "巴氏消毒的" },
+        { "id": 27, "en": "unpasteurized", "zh": "未经巴氏消毒的" },
+        { "id": 28, "en": "lactose free", "zh": "不含乳糖的" },
+        { "id": 29, "en": "homogenized", "zh": "均质化的" },
+        { "id": 30, "en": "fat free", "zh": "脱脂的" },
+        { "id": 31, "en": "powdered milk", "zh": "奶粉" }
+      ]
+    },
+    {
+      "pageNum": 133,
+      "image": "assets/images/page_133.jpg",
+      "section": "61.4",
+      "sectionTitle": "乳制品",
+      "sectionTitleEn": "Dairy Products",
+      "words": [
+        { "id": 32, "en": "milk carton", "zh": "奶盒" },
+        { "id": 33, "en": "cow's milk", "zh": "牛奶" },
+        { "id": 34, "en": "sheep's milk", "zh": "绵羊奶" },
+        { "id": 35, "en": "whole milk", "zh": "全脂奶" },
+        { "id": 36, "en": "skim milk (US) / skimmed milk (UK)", "zh": "脱脂奶" },
+        { "id": 37, "en": "two percent milk (US) / semi-skimmed milk (UK)", "zh": "半脱脂奶" },
+        { "id": 38, "en": "soy milk (US) / soya milk (UK)", "zh": "豆奶" },
+        { "id": 39, "en": "almond milk", "zh": "杏仁奶" },
+        { "id": 40, "en": "goat's milk", "zh": "山羊奶" },
+        { "id": 41, "en": "cream", "zh": "奶油" },
+        { "id": 42, "en": "light cream (US) / single cream (UK)", "zh": "稀奶油" },
+        { "id": 43, "en": "heavy cream (US) / double cream (UK)", "zh": "高脂稀奶油" },
+        { "id": 44, "en": "whipped cream", "zh": "搅奶油" },
+        { "id": 45, "en": "frozen yogurt (US) / yoghurt (UK)", "zh": "冻酸奶" },
+        { "id": 46, "en": "ice cream", "zh": "冰激凌" },
+        { "id": 47, "en": "chocolate milkshake", "zh": "巧克力奶昔" },
+        { "id": 48, "en": "vanilla milkshake", "zh": "香草奶昔" },
+        { "id": 49, "en": "buttermilk", "zh": "酪乳" },
+        { "id": 50, "en": "yogurt (US) / yoghurt (UK)", "zh": "酸奶" },
+        { "id": 51, "en": "strawberry milkshake", "zh": "草莓奶昔" },
+        { "id": 52, "en": "ayran", "zh": "咸酸奶" },
+        { "id": 53, "en": "butter", "zh": "黄油" },
+        { "id": 54, "en": "unsalted", "zh": "无盐的" },
+        { "id": 55, "en": "salted", "zh": "盐味的" },
+        { "id": 56, "en": "ghee", "zh": "酥油" },
+        { "id": 57, "en": "margarine", "zh": "人造黄油" },
+        { "id": 58, "en": "condensed milk", "zh": "炼乳" },
+        { "id": 59, "en": "kefir", "zh": "酸牛乳酒" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "106",
+  "title": "港口",
+  "titleEn": "Port",
+  "category": "交通",
+  "pages": [
+    {
+      "pageNum": 220,
+      "image": "assets/images/page_220.jpg",
+      "section": "106.1",
+      "sectionTitle": "码头",
+      "sectionTitleEn": "The Dock",
+      "words": [
+        { "id": 1, "en": "container ship", "zh": "集装箱船" },
+        { "id": 2, "en": "crane", "zh": "起重机" },
+        { "id": 3, "en": "shipping container", "zh": "集装箱" },
+        { "id": 4, "en": "warehouse", "zh": "仓库" },
+        { "id": 5, "en": "forklift (US) / fork-lift truck (UK)", "zh": "叉车" },
+        { "id": 6, "en": "access road", "zh": "出入港通道" },
+        { "id": 7, "en": "dock", "zh": "码头" },
+        { "id": 8, "en": "customhouse (US) / customs house (UK)", "zh": "海关" },
+        { "id": 9, "en": "quay", "zh": "驳岸" },
+        { "id": 10, "en": "wharf", "zh": "埠头" },
+        { "id": 11, "en": "oil terminal", "zh": "油库" },
+        { "id": 12, "en": "railroad terminal (US) / railway terminal (UK)", "zh": "铁路枢纽" },
+        { "id": 13, "en": "cargo", "zh": "货物" },
+        { "id": 14, "en": "bridge crane", "zh": "桥式起重机" },
+        { "id": 15, "en": "port", "zh": "港口" },
+        { "id": 16, "en": "floating crane", "zh": "浮吊" },
+        { "id": 17, "en": "ferry terminal", "zh": "轮渡码头" },
+        { "id": 18, "en": "ferry", "zh": "轮渡" },
+        { "id": 19, "en": "passenger port", "zh": "客运港口" },
+        { "id": 20, "en": "passengers", "zh": "乘客" },
+        { "id": 21, "en": "fishing port", "zh": "渔港" },
+        { "id": 22, "en": "ticket office", "zh": "售票处" },
+        { "id": 23, "en": "dry dock", "zh": "干船坞" },
+        { "id": 24, "en": "buoy", "zh": "浮标" },
+        { "id": 25, "en": "lighthouse", "zh": "灯塔" },
+        { "id": 26, "en": "lamp", "zh": "灯" },
+        { "id": 27, "en": "mooring", "zh": "停泊区" },
+        { "id": 28, "en": "harbor (US) / harbour (UK)", "zh": "港湾" },
+        { "id": 29, "en": "marina", "zh": "小艇船坞" },
+        { "id": 30, "en": "pier", "zh": "突堤" },
+        { "id": 31, "en": "jetty", "zh": "防波堤" },
+        { "id": 32, "en": "shipyard", "zh": "造船厂" },
+        { "id": 33, "en": "lock", "zh": "船闸" },
+        { "id": 34, "en": "gate", "zh": "闸门" },
+        { "id": 35, "en": "coastguard", "zh": "海岸警卫队" },
+        { "id": 36, "en": "harbor master (US) / harbour master (UK)", "zh": "港务长" }
+      ]
+    },
+    {
+      "pageNum": 221,
+      "image": "assets/images/page_221.jpg",
+      "section": "106.2",
+      "sectionTitle": "相关动词",
+      "sectionTitleEn": "Verbs",
+      "words": [
+        { "id": 37, "en": "to board", "zh": "登船" },
+        { "id": 38, "en": "to moor", "zh": "系泊" },
+        { "id": 39, "en": "to disembark", "zh": "下船" },
+        { "id": 40, "en": "to drop anchor", "zh": "下锚" },
+        { "id": 41, "en": "to dock", "zh": "进港" },
+        { "id": 42, "en": "to set sail", "zh": "启航" }
+      ]
+    }
+  ]
+}

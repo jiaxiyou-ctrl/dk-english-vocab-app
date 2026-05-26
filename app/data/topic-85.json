@@ -1,0 +1,48 @@
+{
+  "id": "85",
+  "title": "法律业",
+  "titleEn": "Law",
+  "category": "工作",
+  "pages": [
+    {
+      "pageNum": 178,
+      "image": "assets/images/page_178.jpg",
+      "section": "85.1",
+      "sectionTitle": "法律体系",
+      "sectionTitleEn": "Legal System",
+      "words": [
+        { "id": 1, "en": "lawyer", "zh": "律师" },
+        { "id": 2, "en": "court officer", "zh": "庭警" },
+        { "id": 3, "en": "judge", "zh": "法官" },
+        { "id": 4, "en": "trial", "zh": "审判" },
+        { "id": 5, "en": "prosecutor", "zh": "原告律师" },
+        { "id": 6, "en": "witness", "zh": "证人" },
+        { "id": 7, "en": "jury", "zh": "陪审团" },
+        { "id": 8, "en": "jury box", "zh": "陪审团席位" },
+        { "id": 9, "en": "defense (US) / defence (UK)", "zh": "辩方" },
+        { "id": 10, "en": "defendant (US) / accused (UK)", "zh": "被告" },
+        { "id": 11, "en": "court (US) / law court (UK)", "zh": "法庭" },
+        { "id": 12, "en": "prosecution", "zh": "控方" },
+        { "id": 13, "en": "plaintiff (US) / claimant (UK)", "zh": "原告" },
+        { "id": 14, "en": "courtroom", "zh": "审判室" },
+        { "id": 15, "en": "stenographer", "zh": "速记员" },
+        { "id": 16, "en": "court official", "zh": "法庭官员" },
+        { "id": 17, "en": "lawyer's office", "zh": "律师事务所" },
+        { "id": 18, "en": "summons", "zh": "传票" },
+        { "id": 19, "en": "client", "zh": "客户" },
+        { "id": 20, "en": "warrant", "zh": "授权令" },
+        { "id": 21, "en": "writ", "zh": "令状" },
+        { "id": 22, "en": "charge", "zh": "控告" },
+        { "id": 23, "en": "legal advice", "zh": "法律咨询" },
+        { "id": 24, "en": "statement", "zh": "陈述" },
+        { "id": 25, "en": "court date", "zh": "开庭日" },
+        { "id": 26, "en": "court case", "zh": "诉讼案" },
+        { "id": 27, "en": "verdict", "zh": "裁决" },
+        { "id": 28, "en": "to sentence", "zh": "宣判" },
+        { "id": 29, "en": "jury deliberation", "zh": "陪审团审议" },
+        { "id": 30, "en": "foreperson", "zh": "陪审团主席" },
+        { "id": 31, "en": "vote", "zh": "投票表决" }
+      ]
+    }
+  ]
+}

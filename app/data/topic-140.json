@@ -1,0 +1,86 @@
+{
+  "id": "140",
+  "title": "游戏",
+  "titleEn": "Games",
+  "category": "休闲",
+  "pages": [
+    {
+      "pageNum": 288,
+      "image": "assets/images/page_288.jpg",
+      "section": "140.1",
+      "sectionTitle": "下棋",
+      "sectionTitleEn": "Chess",
+      "words": [
+        { "id": 1, "en": "chessboard", "zh": "棋盘" },
+        { "id": 2, "en": "pieces", "zh": "棋子" },
+        { "id": 3, "en": "king", "zh": "王" },
+        { "id": 4, "en": "bishop", "zh": "象" },
+        { "id": 5, "en": "knight", "zh": "马" },
+        { "id": 6, "en": "square", "zh": "方格" },
+        { "id": 7, "en": "white", "zh": "白棋" },
+        { "id": 8, "en": "rook", "zh": "车" },
+        { "id": 9, "en": "pawn", "zh": "兵" },
+        { "id": 10, "en": "queen", "zh": "后" },
+        { "id": 11, "en": "black", "zh": "黑棋" },
+        { "id": 12, "en": "i'm going to move my knight.", "zh": "我要走马。" }
+      ]
+    },
+    {
+      "pageNum": 288,
+      "image": "assets/images/page_288.jpg",
+      "section": "140.3",
+      "sectionTitle": "游戏",
+      "sectionTitleEn": "Games",
+      "words": [
+        { "id": 13, "en": "board games", "zh": "桌游" },
+        { "id": 14, "en": "points", "zh": "得分" },
+        { "id": 15, "en": "score", "zh": "分数" },
+        { "id": 16, "en": "tic-tac-toe (us) / noughts and crosses (uk)", "zh": "井字棋" },
+        { "id": 17, "en": "dice", "zh": "骰子" },
+        { "id": 18, "en": "solitaire", "zh": "单人跳棋" },
+        { "id": 19, "en": "pieces", "zh": "棋子" },
+        { "id": 20, "en": "jigsaw puzzle", "zh": "拼图" },
+        { "id": 21, "en": "dominoes", "zh": "多米诺骨牌" },
+        { "id": 22, "en": "darts", "zh": "飞镖" },
+        { "id": 23, "en": "dartboard", "zh": "飞镖盘" },
+        { "id": 24, "en": "bull's-eye (us) / bullseye (uk)", "zh": "靶心" }
+      ]
+    },
+    {
+      "pageNum": 289,
+      "image": "assets/images/page_290.jpg",
+      "section": "140.2",
+      "sectionTitle": "打牌",
+      "sectionTitleEn": "Cards",
+      "words": [
+        { "id": 25, "en": "jack", "zh": "J牌" },
+        { "id": 26, "en": "queen", "zh": "王后" },
+        { "id": 27, "en": "king", "zh": "国王" },
+        { "id": 28, "en": "ace", "zh": "A牌" },
+        { "id": 29, "en": "joker", "zh": "小丑" },
+        { "id": 30, "en": "heart", "zh": "红桃" },
+        { "id": 31, "en": "diamond", "zh": "方块" },
+        { "id": 32, "en": "club", "zh": "梅花" },
+        { "id": 33, "en": "spade", "zh": "黑桃" },
+        { "id": 34, "en": "to shuffle", "zh": "洗牌" },
+        { "id": 35, "en": "to deal", "zh": "发牌" },
+        { "id": 36, "en": "deck of cards / pack of cards", "zh": "一副牌" },
+        { "id": 37, "en": "solitaire (us) / patience (uk)", "zh": "单人纸牌游戏" },
+        { "id": 38, "en": "bridge", "zh": "桥牌" },
+        { "id": 39, "en": "snap", "zh": "呼\"同\"牌游戏" },
+        { "id": 40, "en": "it's your turn!", "zh": "轮到你了！" },
+        { "id": 41, "en": "player", "zh": "玩家" },
+        { "id": 42, "en": "to play", "zh": "玩" },
+        { "id": 43, "en": "to win", "zh": "获胜" },
+        { "id": 44, "en": "to lose", "zh": "失败" },
+        { "id": 45, "en": "ludo", "zh": "飞行棋" },
+        { "id": 46, "en": "to take", "zh": "吃棋" },
+        { "id": 47, "en": "to move", "zh": "走棋" },
+        { "id": 48, "en": "checkers (us) / draughts (uk)", "zh": "国际跳棋" },
+        { "id": 49, "en": "chutes and ladders (us) / snakes and ladders (uk)", "zh": "蛇梯棋" },
+        { "id": 50, "en": "go", "zh": "围棋" },
+        { "id": 51, "en": "backgammon", "zh": "西洋双陆棋" }
+      ]
+    }
+  ]
+}

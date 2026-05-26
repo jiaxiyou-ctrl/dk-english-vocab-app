@@ -1,0 +1,91 @@
+{
+  "id": "18",
+  "title": "美容",
+  "titleEn": "Beauty",
+  "category": "外貌",
+  "pages": [
+    {
+      "pageNum": 46,
+      "image": "assets/images/page_46.jpg",
+      "section": "18.1",
+      "sectionTitle": "化妆品",
+      "sectionTitleEn": "Makeup",
+      "words": [
+        { "id": 1, "en": "mirror", "zh": "化妆镜" },
+        { "id": 2, "en": "lip liner", "zh": "唇线笔" },
+        { "id": 3, "en": "eyebrow brush", "zh": "眉刷" },
+        { "id": 4, "en": "lip brush", "zh": "唇刷" },
+        { "id": 5, "en": "concealer", "zh": "遮瑕膏" },
+        { "id": 6, "en": "powder puff", "zh": "粉扑" },
+        { "id": 7, "en": "eyebrow pencil", "zh": "眉笔" },
+        { "id": 8, "en": "face powder", "zh": "粉饼" },
+        { "id": 9, "en": "makeup bag", "zh": "化妆包" },
+        { "id": 10, "en": "blush (US) / blusher (UK)", "zh": "腮红" },
+        { "id": 11, "en": "eyeliner", "zh": "眼线笔" },
+        { "id": 12, "en": "eyeshadow", "zh": "眼影" },
+        { "id": 13, "en": "foundation", "zh": "粉底" },
+        { "id": 14, "en": "mascara", "zh": "睫毛膏" },
+        { "id": 15, "en": "lipstick", "zh": "口红" }
+      ]
+    },
+    {
+      "pageNum": 46,
+      "image": "assets/images/page_46.jpg",
+      "section": "18.2",
+      "sectionTitle": "肤质",
+      "sectionTitleEn": "Skin types",
+      "words": [
+        { "id": 16, "en": "normal", "zh": "正常" },
+        { "id": 17, "en": "dry", "zh": "干性" },
+        { "id": 18, "en": "oily", "zh": "油性" },
+        { "id": 19, "en": "sensitive", "zh": "敏感性" },
+        { "id": 20, "en": "combination", "zh": "混合性" }
+      ]
+    },
+    {
+      "pageNum": 47,
+      "image": "assets/images/page_47.jpg",
+      "section": "18.3",
+      "sectionTitle": "指甲护理",
+      "sectionTitleEn": "Nail care",
+      "words": [
+        { "id": 21, "en": "nail scissors", "zh": "指甲剪" },
+        { "id": 22, "en": "nail clippers", "zh": "指甲刀" },
+        { "id": 23, "en": "nail polish / nail varnish (UK)", "zh": "指甲油" },
+        { "id": 24, "en": "nail polish remover", "zh": "洗甲水" },
+        { "id": 25, "en": "nail file", "zh": "指甲锉" },
+        { "id": 26, "en": "hand cream", "zh": "护手霜" }
+      ]
+    },
+    {
+      "pageNum": 47,
+      "image": "assets/images/page_47.jpg",
+      "section": "18.4",
+      "sectionTitle": "洗漱用品和美容护理",
+      "sectionTitleEn": "Toiletries and beauty treatments",
+      "words": [
+        { "id": 27, "en": "moisturizer", "zh": "保湿霜" },
+        { "id": 28, "en": "toner", "zh": "爽肤水" },
+        { "id": 29, "en": "face wash", "zh": "洗面奶" },
+        { "id": 30, "en": "cleanser", "zh": "洁面水" },
+        { "id": 31, "en": "perfume", "zh": "香水" },
+        { "id": 32, "en": "aftershave", "zh": "须后水" },
+        { "id": 33, "en": "lip balm", "zh": "润唇膏" },
+        { "id": 34, "en": "bubble bath", "zh": "泡泡浴液" },
+        { "id": 35, "en": "cotton balls", "zh": "棉球" },
+        { "id": 36, "en": "hair dye", "zh": "染发剂" },
+        { "id": 37, "en": "tweezers", "zh": "眉夹" },
+        { "id": 38, "en": "wax", "zh": "热蜡" },
+        { "id": 39, "en": "pedicure", "zh": "趾甲护理" },
+        { "id": 40, "en": "tanning cream (US) / self-tanning lotion (UK)", "zh": "美黑霜" },
+        { "id": 41, "en": "tanning mitt", "zh": "美黑手套" },
+        { "id": 42, "en": "tanning bed (US) / sun bed (UK)", "zh": "紫外线浴床" },
+        { "id": 43, "en": "UV tubes", "zh": "紫外线管" },
+        { "id": 44, "en": "tanning goggles", "zh": "美黑护目镜" },
+        { "id": 45, "en": "facial", "zh": "面部护理" },
+        { "id": 46, "en": "face mask", "zh": "面膜" },
+        { "id": 47, "en": "hair towel wrap", "zh": "干发巾" }
+      ]
+    }
+  ]
+}

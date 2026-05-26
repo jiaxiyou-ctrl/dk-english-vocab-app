@@ -1,0 +1,83 @@
+{
+  "id": "30",
+  "title": "卧室",
+  "titleEn": "Bedroom",
+  "category": "家",
+  "pages": [
+    {
+      "pageNum": 70,
+      "image": "assets/images/page_71.jpg",
+      "section": "30.1",
+      "sectionTitle": "卧室",
+      "sectionTitleEn": "Bedroom",
+      "words": [
+        { "id": 1, "en": "coat hanger", "zh": "衣架" },
+        { "id": 2, "en": "bed linen", "zh": "床上用品" },
+        { "id": 3, "en": "alarm clock", "zh": "闹钟" },
+        { "id": 4, "en": "headboard", "zh": "床头板" },
+        { "id": 5, "en": "pillowcase", "zh": "枕套" },
+        { "id": 14, "en": "wardrobe", "zh": "衣柜" },
+        { "id": 15, "en": "carpeting (US) / carpet (UK)", "zh": "地毯" },
+        { "id": 16, "en": "drawer", "zh": "抽屉" },
+        { "id": 17, "en": "clock radio", "zh": "收音机闹钟" },
+        { "id": 18, "en": "nightstand (US) / bedside table (UK)", "zh": "床头柜" },
+        { "id": 19, "en": "duvet", "zh": "羽绒被" },
+        { "id": 20, "en": "foot board", "zh": "床脚板" },
+        { "id": 21, "en": "pillow", "zh": "枕头" },
+        { "id": 22, "en": "bed", "zh": "床" },
+        { "id": 27, "en": "twin bed (US) / single bed (UK)", "zh": "单人床" },
+        { "id": 28, "en": "double bed", "zh": "双人床" },
+        { "id": 29, "en": "box spring (US) / bedspring (UK)", "zh": "弹簧床面" },
+        { "id": 30, "en": "Ottoman", "zh": "箱式凳" },
+        { "id": 31, "en": "linen chest", "zh": "衣箱" },
+        { "id": 32, "en": "throw", "zh": "薄垫" },
+        { "id": 33, "en": "quilt", "zh": "被子" },
+        { "id": 34, "en": "blanket", "zh": "毯子" },
+        { "id": 35, "en": "electric blanket", "zh": "电热毯" },
+        { "id": 36, "en": "closet (US) / built-in wardrobe (UK)", "zh": "内嵌式衣橱" },
+        { "id": 37, "en": "hot-water bottle", "zh": "热水袋" }
+      ]
+    },
+    {
+      "pageNum": 71,
+      "image": "assets/images/page_72.jpg",
+      "section": "30.1",
+      "sectionTitle": "卧室（续）",
+      "sectionTitleEn": "Bedroom (continued)",
+      "words": [
+        { "id": 6, "en": "mattress", "zh": "床垫" },
+        { "id": 7, "en": "valance", "zh": "床裙" },
+        { "id": 8, "en": "tissue box", "zh": "纸巾盒" },
+        { "id": 9, "en": "mirror", "zh": "镜子" },
+        { "id": 10, "en": "dream", "zh": "梦" },
+        { "id": 11, "en": "nightmare", "zh": "噩梦" },
+        { "id": 12, "en": "insomnia", "zh": "失眠" },
+        { "id": 13, "en": "to snore", "zh": "打呼噜" },
+        { "id": 23, "en": "bedside lamp", "zh": "床头灯" },
+        { "id": 24, "en": "vanity (US) / dressing table (UK)", "zh": "梳妆台" },
+        { "id": 25, "en": "baseboard (US) / skirting board (UK)", "zh": "护壁板" },
+        { "id": 26, "en": "dresser (US) / chest of drawers (UK)", "zh": "五斗橱" }
+      ]
+    },
+    {
+      "pageNum": 71,
+      "image": "assets/images/page_72.jpg",
+      "section": "30.2",
+      "sectionTitle": "育儿室",
+      "sectionTitleEn": "Nursery",
+      "words": [
+        { "id": 38, "en": "baby monitor", "zh": "婴儿监视器" },
+        { "id": 39, "en": "crib (US) / cot (UK)", "zh": "婴儿床" },
+        { "id": 40, "en": "bars", "zh": "护栏" },
+        { "id": 41, "en": "sheet", "zh": "床单" },
+        { "id": 42, "en": "Moses basket", "zh": "婴儿睡篮" },
+        { "id": 43, "en": "night-light (US) / night light (UK)", "zh": "小夜灯" },
+        { "id": 44, "en": "mobile", "zh": "活动玩具" },
+        { "id": 45, "en": "changing mat", "zh": "婴儿换衣垫" },
+        { "id": 46, "en": "changing table", "zh": "婴儿换衣桌" },
+        { "id": 47, "en": "teddy bear", "zh": "泰迪熊" },
+        { "id": 48, "en": "floor", "zh": "地板" }
+      ]
+    }
+  ]
+}

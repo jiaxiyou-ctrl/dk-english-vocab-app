@@ -1,0 +1,112 @@
+{
+  "id": "164",
+  "title": "宠物",
+  "titleEn": "Pets",
+  "category": "自然世界",
+  "pages": [
+    {
+      "pageNum": 336,
+      "image": "assets/images/page_336.jpg",
+      "section": "164.1",
+      "sectionTitle": "猫的品种",
+      "sectionTitleEn": "Cat Breeds",
+      "words": [
+        { "id": 1, "en": "british shorthair", "zh": "英国短毛猫" },
+        { "id": 2, "en": "ragdoll", "zh": "布偶猫" },
+        { "id": 3, "en": "maine coon", "zh": "缅因猫" },
+        { "id": 4, "en": "sphinx", "zh": "斯芬克斯猫" },
+        { "id": 5, "en": "exotic shorthair", "zh": "异国短毛猫" },
+        { "id": 6, "en": "himalayan", "zh": "喜马拉雅猫" },
+        { "id": 7, "en": "persian", "zh": "波斯猫" },
+        { "id": 8, "en": "burmese", "zh": "缅甸猫" },
+        { "id": 9, "en": "siamese", "zh": "暹罗猫" },
+        { "id": 10, "en": "bengal", "zh": "孟加拉猫" },
+        { "id": 11, "en": "bombay", "zh": "孟买猫" },
+        { "id": 12, "en": "japanese bobtail", "zh": "日本短尾猫" },
+        { "id": 13, "en": "angora", "zh": "安哥拉猫" },
+        { "id": 14, "en": "abyssinian", "zh": "阿比西尼亚猫" },
+        { "id": 15, "en": "american curl", "zh": "美国卷耳猫" },
+        { "id": 16, "en": "to meow", "zh": "喵喵叫" },
+        { "id": 17, "en": "to purr", "zh": "发出咕噜声" },
+        { "id": 18, "en": "to hide", "zh": "躲藏" },
+        { "id": 19, "en": "to molt (US) / to moult (UK)", "zh": "换毛" },
+        { "id": 20, "en": "kitten", "zh": "小猫" }
+      ]
+    },
+    {
+      "pageNum": 336,
+      "image": "assets/images/page_336.jpg",
+      "section": "164.3",
+      "sectionTitle": "其他宠物",
+      "sectionTitleEn": "Other Pets",
+      "words": [
+        { "id": 21, "en": "hamster", "zh": "仓鼠" },
+        { "id": 22, "en": "gerbil", "zh": "沙鼠" },
+        { "id": 23, "en": "mouse", "zh": "小鼠" },
+        { "id": 24, "en": "to squeak", "zh": "吱吱叫" },
+        { "id": 25, "en": "guinea pig", "zh": "豚鼠" },
+        { "id": 26, "en": "rabbit", "zh": "兔子" },
+        { "id": 27, "en": "to hop", "zh": "蹦" },
+        { "id": 28, "en": "ferret", "zh": "雪貂" },
+        { "id": 29, "en": "fish", "zh": "鱼" },
+        { "id": 30, "en": "lizard", "zh": "蜥蜴" },
+        { "id": 31, "en": "stick insect", "zh": "竹节虫" },
+        { "id": 32, "en": "tortoise", "zh": "龟" },
+        { "id": 33, "en": "budgerigar / budgie", "zh": "虎皮鹦鹉" },
+        { "id": 34, "en": "cockatiel", "zh": "鸡尾鹦鹉" }
+      ]
+    },
+    {
+      "pageNum": 337,
+      "image": "assets/images/page_337.jpg",
+      "section": "164.2",
+      "sectionTitle": "狗的品种",
+      "sectionTitleEn": "Dog Breeds",
+      "words": [
+        { "id": 35, "en": "pug", "zh": "哈巴狗" },
+        { "id": 36, "en": "german shepherd", "zh": "德国牧羊犬" },
+        { "id": 37, "en": "shih tzu", "zh": "狮子犬" },
+        { "id": 38, "en": "basset hound", "zh": "巴吉度猎犬" },
+        { "id": 39, "en": "pomeranian", "zh": "博美犬" },
+        { "id": 40, "en": "chihuahua", "zh": "吉娃娃" },
+        { "id": 41, "en": "dalmatian", "zh": "斑点狗" },
+        { "id": 42, "en": "labrador", "zh": "拉布拉多犬" },
+        { "id": 43, "en": "beagle", "zh": "比格犬" },
+        { "id": 44, "en": "poodle", "zh": "贵宾犬" },
+        { "id": 45, "en": "great dane", "zh": "大丹犬" },
+        { "id": 46, "en": "boxer", "zh": "拳击犬" },
+        { "id": 47, "en": "retriever", "zh": "寻回犬" },
+        { "id": 48, "en": "border collie", "zh": "边境牧羊犬" },
+        { "id": 49, "en": "puppy", "zh": "小狗" },
+        { "id": 50, "en": "dachshund", "zh": "腊肠犬" },
+        { "id": 51, "en": "doberman", "zh": "杜宾犬" },
+        { "id": 52, "en": "siberian husky", "zh": "西伯利亚雪橇犬" },
+        { "id": 53, "en": "to scratch", "zh": "搔痒" },
+        { "id": 54, "en": "to beg", "zh": "讨食" },
+        { "id": 55, "en": "to sniff", "zh": "嗅闻" },
+        { "id": 56, "en": "to bark", "zh": "吠叫" },
+        { "id": 57, "en": "setter", "zh": "赛特猎犬" }
+      ]
+    },
+    {
+      "pageNum": 337,
+      "image": "assets/images/page_337.jpg",
+      "section": "164.4",
+      "sectionTitle": "宠物用品",
+      "sectionTitleEn": "Pet Supplies",
+      "words": [
+        { "id": 58, "en": "fish tank / aquarium", "zh": "水族箱" },
+        { "id": 59, "en": "basket", "zh": "篮子" },
+        { "id": 60, "en": "doghouse (US) / kennel (UK)", "zh": "狗舍" },
+        { "id": 61, "en": "cage", "zh": "笼子" },
+        { "id": 62, "en": "rabbit hutch", "zh": "兔笼" },
+        { "id": 63, "en": "litterbox (US) / litter tray (UK)", "zh": "宠物使盆" },
+        { "id": 64, "en": "leash / lead (UK)", "zh": "宠物绳" },
+        { "id": 65, "en": "vivarium", "zh": "生态缸" },
+        { "id": 66, "en": "birdseed", "zh": "鸟食谷粒" },
+        { "id": 67, "en": "treats", "zh": "宠物零食" },
+        { "id": 68, "en": "toys", "zh": "玩具" }
+      ]
+    }
+  ]
+}

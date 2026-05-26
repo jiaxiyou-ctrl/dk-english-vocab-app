@@ -1,0 +1,97 @@
+{
+  "id": "115",
+  "title": "高尔夫",
+  "titleEn": "Golf",
+  "category": "运动",
+  "pages": [
+    {
+      "pageNum": 238,
+      "image": "assets/images/page_239.jpg",
+      "section": "115.1",
+      "sectionTitle": "高尔夫球场",
+      "sectionTitleEn": "Golf Course",
+      "words": [
+        { "id": 1, "en": "hole", "zh": "球洞" },
+        { "id": 2, "en": "flag", "zh": "旗" },
+        { "id": 3, "en": "green", "zh": "球洞区" },
+        { "id": 4, "en": "bunker", "zh": "沙坑" },
+        { "id": 5, "en": "water hazard", "zh": "水障碍" },
+        { "id": 6, "en": "fairway", "zh": "球道" },
+        { "id": 7, "en": "rough", "zh": "长草区" },
+        { "id": 8, "en": "golf course", "zh": "高尔夫球场" },
+        { "id": 9, "en": "teeing ground", "zh": "发球区" },
+        { "id": 10, "en": "swing", "zh": "挥杆" },
+        { "id": 11, "en": "stance", "zh": "站姿" },
+        { "id": 12, "en": "golfer", "zh": "高尔夫球手" },
+        { "id": 13, "en": "clubhouse", "zh": "会所" },
+        { "id": 14, "en": "cart (US) / buggy (UK)", "zh": "高尔夫球车" },
+        { "id": 15, "en": "caddy", "zh": "球童" },
+        { "id": 16, "en": "par", "zh": "校准杆数" },
+        { "id": 17, "en": "over par", "zh": "超过标准杆数" },
+        { "id": 18, "en": "under par", "zh": "低于标准杆数" },
+        { "id": 19, "en": "handicap", "zh": "让杆数" },
+        { "id": 20, "en": "line of play", "zh": "打球线" },
+        { "id": 21, "en": "practice swing", "zh": "练习挥杆" },
+        { "id": 22, "en": "backswing", "zh": "向后挥杆" },
+        { "id": 23, "en": "hole in one", "zh": "一杆进洞" },
+        { "id": 24, "en": "tournament", "zh": "锦标赛" },
+        { "id": 25, "en": "spectators", "zh": "观众" }
+      ]
+    },
+    {
+      "pageNum": 239,
+      "image": "assets/images/page_240.jpg",
+      "section": "115.2",
+      "sectionTitle": "高尔夫装备",
+      "sectionTitleEn": "Golf Equipment",
+      "words": [
+        { "id": 26, "en": "golf cap", "zh": "高尔夫帽" },
+        { "id": 27, "en": "golf ball", "zh": "高尔夫球" },
+        { "id": 28, "en": "tee", "zh": "球座" },
+        { "id": 29, "en": "glove", "zh": "手套" },
+        { "id": 30, "en": "golf shoe", "zh": "高尔夫球鞋" },
+        { "id": 31, "en": "spikes", "zh": "鞋钉" },
+        { "id": 32, "en": "golf bag", "zh": "高尔夫球袋" },
+        { "id": 33, "en": "harness", "zh": "背带" },
+        { "id": 34, "en": "stand", "zh": "支架" },
+        { "id": 35, "en": "golf push cart (US) / golf trolley (UK)", "zh": "高尔夫球包车" }
+      ]
+    },
+    {
+      "pageNum": 239,
+      "image": "assets/images/page_240.jpg",
+      "section": "115.3",
+      "sectionTitle": "高尔夫球杆",
+      "sectionTitleEn": "Golf Club",
+      "words": [
+        { "id": 36, "en": "grip", "zh": "握把" },
+        { "id": 37, "en": "shaft", "zh": "杆身" },
+        { "id": 38, "en": "neck", "zh": "杆颈" },
+        { "id": 39, "en": "groove", "zh": "杆面槽" },
+        { "id": 40, "en": "ferrule", "zh": "金属包箍" },
+        { "id": 41, "en": "heel", "zh": "根部" },
+        { "id": 42, "en": "putter", "zh": "推杆" },
+        { "id": 43, "en": "sole", "zh": "底部" },
+        { "id": 44, "en": "wood", "zh": "木杆" },
+        { "id": 45, "en": "toe", "zh": "趾部" },
+        { "id": 46, "en": "wedge", "zh": "挖起杆" },
+        { "id": 47, "en": "iron", "zh": "铁杆" }
+      ]
+    },
+    {
+      "pageNum": 239,
+      "image": "assets/images/page_240.jpg",
+      "section": "115.4",
+      "sectionTitle": "高尔夫相关的动词",
+      "sectionTitleEn": "Golf Verbs",
+      "words": [
+        { "id": 48, "en": "to tee off", "zh": "开球" },
+        { "id": 49, "en": "to drive", "zh": "远打" },
+        { "id": 50, "en": "to swing", "zh": "挥杆" },
+        { "id": 51, "en": "to putt", "zh": "轻击" },
+        { "id": 52, "en": "to chip", "zh": "切击" },
+        { "id": 53, "en": "to win", "zh": "获胜" }
+      ]
+    }
+  ]
+}

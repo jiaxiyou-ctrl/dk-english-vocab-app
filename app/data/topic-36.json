@@ -1,0 +1,84 @@
+{
+  "id": "36",
+  "title": "工具",
+  "titleEn": "Tools",
+  "category": "家",
+  "pages": [
+    {
+      "pageNum": 82,
+      "image": "assets/images/page_82.jpg",
+      "section": "36.1",
+      "sectionTitle": "工具箱",
+      "sectionTitleEn": "Toolbox",
+      "words": [
+        { "id": 1, "en": "monkey wrench", "zh": "活动扳手" },
+        { "id": 2, "en": "socket wrench", "zh": "套筒扳手" },
+        { "id": 3, "en": "needle-nose pliers", "zh": "尖嘴钳" },
+        { "id": 4, "en": "wrench (US) / spanner (UK)", "zh": "扳手" },
+        { "id": 5, "en": "flat head screwdriver", "zh": "一字螺丝刀" },
+        { "id": 6, "en": "Phillips screwdriver", "zh": "十字螺丝刀" },
+        { "id": 7, "en": "bull-nose pliers", "zh": "钢丝钳" },
+        { "id": 8, "en": "toolbox", "zh": "工具箱" },
+        { "id": 9, "en": "hammer", "zh": "锤子" }
+      ]
+    },
+    {
+      "pageNum": 82,
+      "image": "assets/images/page_82.jpg",
+      "section": "36.2",
+      "sectionTitle": "钻头",
+      "sectionTitleEn": "Drill Bits",
+      "words": [
+        { "id": 10, "en": "metal bit", "zh": "金属钻头" },
+        { "id": 11, "en": "masonry bit", "zh": "石工钻头" },
+        { "id": 12, "en": "carpentry bit", "zh": "木工钻头" },
+        { "id": 13, "en": "flat wood bit", "zh": "平木钻头" },
+        { "id": 14, "en": "security bit", "zh": "安全钻头" },
+        { "id": 15, "en": "reamer", "zh": "钻孔器" }
+      ]
+    },
+    {
+      "pageNum": 83,
+      "image": "assets/images/page_83.jpg",
+      "section": "36.3",
+      "sectionTitle": "工具",
+      "sectionTitleEn": "Tools",
+      "words": [
+        { "id": 16, "en": "tool belt", "zh": "工具腰带" },
+        { "id": 17, "en": "nail", "zh": "钉子" },
+        { "id": 18, "en": "screw", "zh": "螺丝" },
+        { "id": 19, "en": "bolt", "zh": "螺栓" },
+        { "id": 20, "en": "washer", "zh": "垫圈" },
+        { "id": 21, "en": "nut", "zh": "螺母" },
+        { "id": 22, "en": "hex keys / Allen keys (UK)", "zh": "六角扳手" },
+        { "id": 23, "en": "tape measure", "zh": "卷尺" },
+        { "id": 24, "en": "craft knife", "zh": "美工刀" },
+        { "id": 25, "en": "hacksaw", "zh": "钢锯" },
+        { "id": 26, "en": "tenon saw", "zh": "开榫锯" },
+        { "id": 27, "en": "handsaw", "zh": "手锯" },
+        { "id": 28, "en": "plane", "zh": "刨子" },
+        { "id": 29, "en": "hand drill", "zh": "手摇钻" },
+        { "id": 30, "en": "wrench (US) / spanner (UK)", "zh": "扳钳" },
+        { "id": 31, "en": "chisel", "zh": "凿子" },
+        { "id": 32, "en": "file", "zh": "锉刀" },
+        { "id": 33, "en": "sharpening stone", "zh": "磨刀石" },
+        { "id": 34, "en": "ladder", "zh": "梯子" },
+        { "id": 35, "en": "rung", "zh": "梯子横档" },
+        { "id": 36, "en": "wire strippers", "zh": "电线剥皮钳" },
+        { "id": 37, "en": "wire cutters", "zh": "钢丝钳" },
+        { "id": 38, "en": "insulating tape", "zh": "绝缘胶带" },
+        { "id": 39, "en": "pipe cutter", "zh": "切管机" },
+        { "id": 40, "en": "plunger", "zh": "搋子" },
+        { "id": 41, "en": "mallet", "zh": "大木槌" },
+        { "id": 42, "en": "ax (US) / axe (UK)", "zh": "斧子" },
+        { "id": 43, "en": "steel wool (US) / wire wool (UK)", "zh": "钢丝棉" },
+        { "id": 44, "en": "sandpaper", "zh": "砂纸" },
+        { "id": 45, "en": "safety goggles", "zh": "防护眼镜" },
+        { "id": 46, "en": "soldering iron", "zh": "烙铁" },
+        { "id": 47, "en": "solder", "zh": "焊料" },
+        { "id": 48, "en": "vial", "zh": "玻璃小瓶" },
+        { "id": 49, "en": "level (US) / spirit level (UK)", "zh": "水平仪" }
+      ]
+    }
+  ]
+}

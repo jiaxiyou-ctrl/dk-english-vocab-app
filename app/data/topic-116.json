@@ -1,0 +1,89 @@
+{
+  "id": "116",
+  "title": "田径运动",
+  "titleEn": "Track and Field",
+  "category": "运动",
+  "pages": [
+    {
+      "pageNum": 240,
+      "image": "assets/images/page_240.jpg",
+      "section": "116.1",
+      "sectionTitle": "田径跑道",
+      "sectionTitleEn": "Athletics Track",
+      "words": [
+        { "id": 1, "en": "starting line", "zh": "起跑线" },
+        { "id": 2, "en": "spectators", "zh": "观众" },
+        { "id": 3, "en": "hurdles", "zh": "跨栏" },
+        { "id": 4, "en": "finish line", "zh": "终点线" },
+        { "id": 5, "en": "track", "zh": "跑道" },
+        { "id": 6, "en": "lane", "zh": "分道" },
+        { "id": 7, "en": "athlete", "zh": "田径运动员" }
+      ]
+    },
+    {
+      "pageNum": 240,
+      "image": "assets/images/page_240.jpg",
+      "section": "116.2",
+      "sectionTitle": "径赛项目",
+      "sectionTitleEn": "Track Events",
+      "words": [
+        { "id": 8, "en": "race", "zh": "赛跑" },
+        { "id": 9, "en": "starting block", "zh": "起跑器" },
+        { "id": 10, "en": "sprinter", "zh": "短跑运动员" },
+        { "id": 11, "en": "T11 (visual impairment) race", "zh": "视力障碍赛跑" },
+        { "id": 12, "en": "wheelchair race", "zh": "轮椅竞速" },
+        { "id": 13, "en": "relay race", "zh": "接力赛" },
+        { "id": 14, "en": "baton", "zh": "接力棒" },
+        { "id": 15, "en": "marathon", "zh": "马拉松" },
+        { "id": 16, "en": "photo finish", "zh": "终点摄影记录" }
+      ]
+    },
+    {
+      "pageNum": 241,
+      "image": "assets/images/page_241.jpg",
+      "section": "116.3",
+      "sectionTitle": "田赛项目",
+      "sectionTitleEn": "Field Events",
+      "words": [
+        { "id": 17, "en": "discus", "zh": "铁饼" },
+        { "id": 18, "en": "shot put", "zh": "铅球" },
+        { "id": 19, "en": "hammer", "zh": "链球" },
+        { "id": 20, "en": "javelin", "zh": "标枪" },
+        { "id": 21, "en": "pole vault", "zh": "撑竿跳高" },
+        { "id": 22, "en": "long jump", "zh": "跳远" },
+        { "id": 23, "en": "high jump", "zh": "跳高" },
+        { "id": 24, "en": "triple jump", "zh": "三级跳远" },
+        { "id": 25, "en": "crossbar", "zh": "横梁" },
+        { "id": 26, "en": "laser run", "zh": "激光跑" },
+        { "id": 27, "en": "fencing", "zh": "击剑" }
+      ]
+    },
+    {
+      "pageNum": 241,
+      "image": "assets/images/page_241.jpg",
+      "section": "116.4",
+      "sectionTitle": "领奖台",
+      "sectionTitleEn": "Podium",
+      "words": [
+        { "id": 28, "en": "gold", "zh": "金牌" },
+        { "id": 29, "en": "silver", "zh": "银牌" },
+        { "id": 30, "en": "bronze", "zh": "铜牌" },
+        { "id": 31, "en": "medals", "zh": "奖牌" },
+        { "id": 32, "en": "podium", "zh": "领奖台" }
+      ]
+    },
+    {
+      "pageNum": 241,
+      "image": "assets/images/page_241.jpg",
+      "section": "116.5",
+      "sectionTitle": "全能项目",
+      "sectionTitleEn": "Combined Events",
+      "words": [
+        { "id": 33, "en": "triathlon", "zh": "铁人三项" },
+        { "id": 34, "en": "modern pentathlon", "zh": "现代五项" },
+        { "id": 35, "en": "women's heptathlon", "zh": "女子七项全能" },
+        { "id": 36, "en": "men's decathlon", "zh": "男子十项全能" }
+      ]
+    }
+  ]
+}

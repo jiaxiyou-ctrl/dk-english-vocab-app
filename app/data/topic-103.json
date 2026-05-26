@@ -1,0 +1,85 @@
+{
+  "id": "103",
+  "title": "飞机",
+  "titleEn": "Airplane",
+  "category": "交通",
+  "pages": [
+    {
+      "pageNum": 214,
+      "image": "assets/images/page_214.jpg",
+      "section": "103.1",
+      "sectionTitle": "客机",
+      "sectionTitleEn": "Passenger Plane",
+      "words": [
+        { "id": 1, "en": "co-pilot", "zh": "副驾驶员" },
+        { "id": 2, "en": "pilot", "zh": "飞行员" },
+        { "id": 3, "en": "flight attendant", "zh": "空乘人员" },
+        { "id": 4, "en": "business class", "zh": "商务舱" },
+        { "id": 5, "en": "economy class", "zh": "经济舱" },
+        { "id": 6, "en": "aileron", "zh": "副翼" },
+        { "id": 7, "en": "window", "zh": "窗户" },
+        { "id": 8, "en": "fin", "zh": "尾翼" },
+        { "id": 9, "en": "rudder", "zh": "方向舵" },
+        { "id": 10, "en": "tail", "zh": "尾部" },
+        { "id": 11, "en": "tailplane", "zh": "水平尾翼" },
+        { "id": 12, "en": "emergency exit", "zh": "紧急出口" },
+        { "id": 13, "en": "cockpit", "zh": "驾驶室" },
+        { "id": 14, "en": "nose", "zh": "机头" },
+        { "id": 15, "en": "nosewheel", "zh": "前轮" },
+        { "id": 16, "en": "carry-on (US) / hand luggage (UK)", "zh": "随身行李" },
+        { "id": 17, "en": "jumbo jet", "zh": "巨型喷气机" },
+        { "id": 18, "en": "engine", "zh": "引擎" },
+        { "id": 19, "en": "landing gear", "zh": "起落架" },
+        { "id": 20, "en": "wing", "zh": "机翼" }
+      ]
+    },
+    {
+      "pageNum": 215,
+      "image": "assets/images/page_215.jpg",
+      "section": "103.2",
+      "sectionTitle": "机舱",
+      "sectionTitleEn": "Cabin",
+      "words": [
+        { "id": 1, "en": "reading light", "zh": "阅读灯" },
+        { "id": 2, "en": "air vent", "zh": "出风口" },
+        { "id": 3, "en": "overhead locker", "zh": "行李架" },
+        { "id": 4, "en": "aisle", "zh": "过道" },
+        { "id": 5, "en": "seat back", "zh": "座椅靠背" },
+        { "id": 6, "en": "seat", "zh": "座位" },
+        { "id": 7, "en": "tray table", "zh": "托盘桌" },
+        { "id": 8, "en": "seat belt", "zh": "安全带" },
+        { "id": 9, "en": "armrest", "zh": "扶手" },
+        { "id": 10, "en": "row", "zh": "排" }
+      ]
+    },
+    {
+      "pageNum": 214,
+      "image": "assets/images/page_214.jpg",
+      "section": "103.3",
+      "sectionTitle": "飞行器类型",
+      "sectionTitleEn": "Types of Aircraft",
+      "words": [
+        { "id": 1, "en": "private jet", "zh": "私人飞机" },
+        { "id": 2, "en": "jet engine", "zh": "喷气发动机" },
+        { "id": 3, "en": "light aircraft", "zh": "轻型飞机" },
+        { "id": 4, "en": "propeller", "zh": "螺旋桨" },
+        { "id": 5, "en": "helicopter", "zh": "直升机" },
+        { "id": 6, "en": "rotor blade", "zh": "旋翼叶片" },
+        { "id": 7, "en": "cargo plane", "zh": "货机" },
+        { "id": 8, "en": "biplane", "zh": "双翼飞机" },
+        { "id": 9, "en": "monoplane", "zh": "单翼飞机" },
+        { "id": 10, "en": "seaplane", "zh": "水上飞机" },
+        { "id": 11, "en": "hot-air balloon", "zh": "热气球" },
+        { "id": 12, "en": "basket", "zh": "吊篮" },
+        { "id": 13, "en": "envelope", "zh": "热气球气囊" },
+        { "id": 14, "en": "burner", "zh": "燃烧器" },
+        { "id": 15, "en": "airship", "zh": "飞艇" },
+        { "id": 16, "en": "microlight", "zh": "微型飞机" },
+        { "id": 17, "en": "gyrocopter", "zh": "旋翼机" },
+        { "id": 18, "en": "glider", "zh": "滑翔机" },
+        { "id": 19, "en": "paramotor", "zh": "动力飞行伞" },
+        { "id": 20, "en": "canopy", "zh": "伞盖" }
+      ]
+    }
+  ]
+}

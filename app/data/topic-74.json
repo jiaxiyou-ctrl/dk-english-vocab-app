@@ -1,0 +1,121 @@
+{
+  "id": "74",
+  "title": "数学",
+  "titleEn": "Math",
+  "category": "学习",
+  "pages": [
+    {
+      "pageNum": 156,
+      "image": "assets/images/page_156.jpg",
+      "section": "74.1",
+      "sectionTitle": "图形",
+      "sectionTitleEn": "Shapes",
+      "words": [
+        { "id": 1, "en": "oval", "zh": "椭圆形" },
+        { "id": 2, "en": "square", "zh": "正方形" },
+        { "id": 3, "en": "diagonal", "zh": "对角的" },
+        { "id": 4, "en": "rectangle", "zh": "长方形" },
+        { "id": 5, "en": "triangle", "zh": "三角形" },
+        { "id": 6, "en": "angle", "zh": "角" },
+        { "id": 7, "en": "hypotenuse", "zh": "斜边" },
+        { "id": 8, "en": "center (US) / centre (UK)", "zh": "圆心" },
+        { "id": 9, "en": "circumference", "zh": "周长" },
+        { "id": 10, "en": "arc", "zh": "弧形" },
+        { "id": 11, "en": "radius", "zh": "半径" },
+        { "id": 12, "en": "diameter", "zh": "直径" },
+        { "id": 13, "en": "circle", "zh": "圆" },
+        { "id": 14, "en": "parallelogram", "zh": "平行四边形" },
+        { "id": 15, "en": "rhombus", "zh": "菱形" },
+        { "id": 16, "en": "trapezoid (US) / trapezium (UK)", "zh": "梯形" },
+        { "id": 17, "en": "pentagon", "zh": "五边形" },
+        { "id": 18, "en": "hexagon", "zh": "六边形" },
+        { "id": 19, "en": "octagon", "zh": "八边形" }
+      ]
+    },
+    {
+      "pageNum": 156,
+      "image": "assets/images/page_156.jpg",
+      "section": "74.2",
+      "sectionTitle": "立体图形",
+      "sectionTitleEn": "3D Shapes",
+      "words": [
+        { "id": 20, "en": "cone", "zh": "圆锥体" },
+        { "id": 21, "en": "apex", "zh": "顶点" },
+        { "id": 22, "en": "base", "zh": "底面" },
+        { "id": 23, "en": "cube", "zh": "立方体" },
+        { "id": 24, "en": "side", "zh": "面" },
+        { "id": 25, "en": "cylinder", "zh": "圆柱体" },
+        { "id": 26, "en": "pyramid", "zh": "棱锥体" },
+        { "id": 27, "en": "sphere", "zh": "球体" }
+      ]
+    },
+    {
+      "pageNum": 156,
+      "image": "assets/images/page_156.jpg",
+      "section": "74.3",
+      "sectionTitle": "线",
+      "sectionTitleEn": "Lines",
+      "words": [
+        { "id": 28, "en": "straight", "zh": "直线" },
+        { "id": 29, "en": "parallel", "zh": "平行线" },
+        { "id": 30, "en": "perpendicular", "zh": "垂直线" },
+        { "id": 31, "en": "right angle", "zh": "直角" },
+        { "id": 32, "en": "curved", "zh": "曲线" }
+      ]
+    },
+    {
+      "pageNum": 157,
+      "image": "assets/images/page_157.jpg",
+      "section": "74.4",
+      "sectionTitle": "测量",
+      "sectionTitleEn": "Measurement",
+      "words": [
+        { "id": 33, "en": "volume", "zh": "体积" },
+        { "id": 34, "en": "fraction", "zh": "分数" },
+        { "id": 35, "en": "numerator", "zh": "分子" },
+        { "id": 36, "en": "denominator", "zh": "分母" },
+        { "id": 37, "en": "height", "zh": "高度" },
+        { "id": 38, "en": "dimensions", "zh": "维度" },
+        { "id": 39, "en": "depth", "zh": "深度" },
+        { "id": 40, "en": "length", "zh": "长度" },
+        { "id": 41, "en": "width", "zh": "宽度" },
+        { "id": 42, "en": "area", "zh": "面积" }
+      ]
+    },
+    {
+      "pageNum": 157,
+      "image": "assets/images/page_157.jpg",
+      "section": "74.5",
+      "sectionTitle": "算法",
+      "sectionTitleEn": "Arithmetic",
+      "words": [
+        { "id": 43, "en": "plus sign", "zh": "加号" },
+        { "id": 44, "en": "minus sign", "zh": "减号" },
+        { "id": 45, "en": "multiplication sign", "zh": "乘号" },
+        { "id": 46, "en": "division sign", "zh": "除号" },
+        { "id": 47, "en": "equals", "zh": "等号" },
+        { "id": 48, "en": "to count", "zh": "计数" },
+        { "id": 49, "en": "to add", "zh": "加" },
+        { "id": 50, "en": "to subtract", "zh": "减" },
+        { "id": 51, "en": "to multiply", "zh": "乘" },
+        { "id": 52, "en": "to divide", "zh": "除" },
+        { "id": 53, "en": "equation", "zh": "方程式" },
+        { "id": 54, "en": "percentage", "zh": "百分比" }
+      ]
+    },
+    {
+      "pageNum": 157,
+      "image": "assets/images/page_157.jpg",
+      "section": "74.6",
+      "sectionTitle": "数学工具",
+      "sectionTitleEn": "Math Tools",
+      "words": [
+        { "id": 55, "en": "triangle (US) / set square (UK)", "zh": "三角尺" },
+        { "id": 56, "en": "protractor", "zh": "量角器" },
+        { "id": 57, "en": "ruler", "zh": "尺子" },
+        { "id": 58, "en": "compass", "zh": "圆规" },
+        { "id": 59, "en": "calculator", "zh": "计算器" }
+      ]
+    }
+  ]
+}
