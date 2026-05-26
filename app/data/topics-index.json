@@ -1,0 +1,31 @@
+{
+  "categories": [
+    {
+      "name": "人",
+      "color": "#4a7c59",
+      "topics": [
+        { "id": "01", "title": "身体各部分", "titleEn": "The Body", "page": 12, "totalWords": 47, "hasData": true },
+        { "id": "02", "title": "手和脚", "titleEn": "Hands and Feet", "page": 14, "totalWords": 0, "hasData": false },
+        { "id": "03", "title": "肌肉和骨骼", "titleEn": "Muscles and Skeleton", "page": 16, "totalWords": 0, "hasData": false },
+        { "id": "04", "title": "内部器官", "titleEn": "Internal Organs", "page": 18, "totalWords": 0, "hasData": false },
+        { "id": "05", "title": "家庭", "titleEn": "Family", "page": 20, "totalWords": 0, "hasData": false }
+      ]
+    },
+    {
+      "name": "外貌",
+      "color": "#7b5ea7",
+      "topics": [
+        { "id": "06", "title": "发型和美发", "titleEn": "Hair", "page": 24, "totalWords": 0, "hasData": false },
+        { "id": "07", "title": "美容", "titleEn": "Beauty", "page": 26, "totalWords": 0, "hasData": false }
+      ]
+    },
+    {
+      "name": "健康",
+      "color": "#c0392b",
+      "topics": [
+        { "id": "08", "title": "疾病和损伤", "titleEn": "Illness and Injury", "page": 48, "totalWords": 0, "hasData": false },
+        { "id": "09", "title": "看医生", "titleEn": "Doctor", "page": 50, "totalWords": 0, "hasData": false }
+      ]
+    }
+  ]
+}
