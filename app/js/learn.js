@@ -14,10 +14,7 @@ const Learn = {
       <div class="learn-header">
         <button class="back-btn" onclick="window.location.hash='#/'">&larr;</button>
         ${this.renderTopicSelect(topicData.id, topicsIndex)}
-        <button class="image-toggle-btn" style="background:none;border:1px solid #5a7a9a;color:white;padding:4px 10px;border-radius:4px;cursor:pointer;font-size:13px;"
-          onclick="Learn.toggleImagePanel()">
-          收起图片
-        </button>
+        <button class="image-toggle-btn" onclick="Learn.toggleImagePanel()">收起图片</button>
       </div>
       <div class="learn-body">
         <div class="image-panel" id="imagePanel">
