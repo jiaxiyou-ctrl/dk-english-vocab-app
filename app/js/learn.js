@@ -66,6 +66,8 @@ const Learn = {
 
   setupScrollSync() {
     if (this.observer) this.observer.disconnect();
+    this.visibilityMap = {};
+    this.activeSectionIndex = -1;
 
     const imagePanel = document.getElementById('imagePanel');
     const images = imagePanel.querySelectorAll('img[data-img-index]');
@@ -74,23 +76,30 @@ const Learn = {
     this.observer = new IntersectionObserver((entries) => {
       if (this.syncScrolling) return;
 
-      let mostVisible = null;
-      let maxRatio = 0;
       entries.forEach(entry => {
-        if (entry.intersectionRatio > maxRatio) {
-          maxRatio = entry.intersectionRatio;
-          mostVisible = entry.target;
-        }
+        const idx = entry.target.dataset.imgIndex;
+        this.visibilityMap[idx] = entry.intersectionRatio;
       });
 
-      if (mostVisible && maxRatio > 0.3) {
-        const imgIdx = parseInt(mostVisible.dataset.imgIndex);
-        const sectionIdx = this.imageMap[imgIdx].firstSectionIndex;
-        this.scrollWordListToSection(sectionIdx);
+      let bestIdx = null;
+      let bestRatio = 0;
+      for (const [idx, ratio] of Object.entries(this.visibilityMap)) {
+        if (ratio > bestRatio) {
+          bestRatio = ratio;
+          bestIdx = idx;
+        }
+      }
+
+      if (bestIdx !== null && bestRatio > 0.2) {
+        const sectionIdx = this.imageMap[parseInt(bestIdx)].firstSectionIndex;
+        if (sectionIdx !== this.activeSectionIndex) {
+          this.activeSectionIndex = sectionIdx;
+          this.scrollWordListToSection(sectionIdx);
+        }
       }
     }, {
       root: imagePanel,
-      threshold: [0, 0.3, 0.5, 0.7, 1.0]
+      threshold: [0, 0.1, 0.2, 0.3, 0.5, 0.7, 1.0]
     });
 
     images.forEach(img => this.observer.observe(img));
@@ -100,11 +109,6 @@ const Learn = {
     const dividers = document.querySelectorAll('.section-divider');
     const target = dividers[sectionIndex];
     if (!target) return;
-
-    if (target.dataset.active === 'true') return;
-
-    dividers.forEach(d => d.dataset.active = 'false');
-    target.dataset.active = 'true';
 
     this.syncScrolling = true;
     const wordList = document.getElementById('wordList');
