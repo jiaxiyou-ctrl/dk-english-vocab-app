@@ -6,53 +6,221 @@
   "pages": [
     {
       "pageNum": 274,
-      "image": "assets/images/page_274.jpg",
+      "image": "assets/images/page_275.jpg",
       "section": "133.1",
       "sectionTitle": "露天活动",
       "sectionTitleEn": "Open-Air Activities",
       "words": [
-        { "id": 1, "en": "jogging", "zh": "慢跑" },
-        { "id": 2, "en": "tai chi", "zh": "太极" },
-        { "id": 3, "en": "frisbee", "zh": "飞盘" },
-        { "id": 4, "en": "hide-and-seek", "zh": "捉迷藏" },
-        { "id": 5, "en": "sunbathing", "zh": "日光浴" },
-        { "id": 6, "en": "metal detecting", "zh": "金属探测" },
-        { "id": 7, "en": "picnic", "zh": "野餐" },
-        { "id": 8, "en": "picnic basket / hamper (uk)", "zh": "野餐篮" },
-        { "id": 9, "en": "skipping", "zh": "跳绳" },
-        { "id": 10, "en": "park", "zh": "公园" },
-        { "id": 11, "en": "hiking", "zh": "远足" },
-        { "id": 12, "en": "landscape painting", "zh": "风景画" },
-        { "id": 13, "en": "mountain biking", "zh": "山地车运动" },
-        { "id": 14, "en": "atv riding (us) / quad biking (uk)", "zh": "全地形车越野" },
-        { "id": 15, "en": "orienteering", "zh": "定向越野" },
-        { "id": 16, "en": "mountaineering", "zh": "登山运动" },
-        { "id": 17, "en": "wildlife photography", "zh": "野生动物摄影" },
-        { "id": 18, "en": "mushroom picking", "zh": "采蘑菇" },
-        { "id": 19, "en": "horse riding", "zh": "骑马" },
-        { "id": 20, "en": "horse trail (us) / bridle path (uk)", "zh": "马道" },
-        { "id": 21, "en": "national park", "zh": "国家公园" },
-        { "id": 22, "en": "tree climbing", "zh": "爬树" },
-        { "id": 23, "en": "tree house", "zh": "树屋" },
-        { "id": 24, "en": "swing", "zh": "秋千" },
-        { "id": 25, "en": "gardening", "zh": "园艺" },
-        { "id": 26, "en": "croquet", "zh": "槌球" },
-        { "id": 27, "en": "bird-watching", "zh": "观鸟" },
-        { "id": 28, "en": "paintballing", "zh": "彩弹射击" },
-        { "id": 29, "en": "safari park", "zh": "野生动物园" },
-        { "id": 30, "en": "nature reserve", "zh": "自然保护区" },
-        { "id": 31, "en": "wading pool (us) / paddling pool (uk)", "zh": "戏水池" },
-        { "id": 32, "en": "skateboarding", "zh": "滑板运动" },
-        { "id": 33, "en": "scootering", "zh": "骑滑板车" },
-        { "id": 34, "en": "rollerblading", "zh": "滑旱冰" },
-        { "id": 35, "en": "cycling", "zh": "骑自行车" },
-        { "id": 36, "en": "parkour", "zh": "跑酷" },
-        { "id": 37, "en": "zoo", "zh": "动物园" },
-        { "id": 38, "en": "adventure playground", "zh": "冒险乐园" },
-        { "id": 39, "en": "theme park", "zh": "主题公园" },
-        { "id": 40, "en": "carousel", "zh": "旋转木马" },
-        { "id": 41, "en": "ferris wheel", "zh": "摩天轮" },
-        { "id": 42, "en": "roller-coaster", "zh": "过山车" }
+        {
+          "id": 1,
+          "en": "jogging",
+          "zh": "慢跑"
+        },
+        {
+          "id": 2,
+          "en": "tai chi",
+          "zh": "太极"
+        },
+        {
+          "id": 3,
+          "en": "frisbee",
+          "zh": "飞盘"
+        },
+        {
+          "id": 4,
+          "en": "hide-and-seek",
+          "zh": "捉迷藏"
+        },
+        {
+          "id": 5,
+          "en": "sunbathing",
+          "zh": "日光浴"
+        },
+        {
+          "id": 6,
+          "en": "metal detecting",
+          "zh": "金属探测"
+        },
+        {
+          "id": 7,
+          "en": "picnic",
+          "zh": "野餐"
+        },
+        {
+          "id": 8,
+          "en": "picnic basket / hamper (uk)",
+          "zh": "野餐篮"
+        },
+        {
+          "id": 9,
+          "en": "skipping",
+          "zh": "跳绳"
+        },
+        {
+          "id": 10,
+          "en": "park",
+          "zh": "公园"
+        },
+        {
+          "id": 11,
+          "en": "hiking",
+          "zh": "远足"
+        },
+        {
+          "id": 12,
+          "en": "landscape painting",
+          "zh": "风景画"
+        },
+        {
+          "id": 13,
+          "en": "mountain biking",
+          "zh": "山地车运动"
+        },
+        {
+          "id": 14,
+          "en": "atv riding (us) / quad biking (uk)",
+          "zh": "全地形车越野"
+        },
+        {
+          "id": 15,
+          "en": "orienteering",
+          "zh": "定向越野"
+        },
+        {
+          "id": 16,
+          "en": "mountaineering",
+          "zh": "登山运动"
+        },
+        {
+          "id": 17,
+          "en": "wildlife photography",
+          "zh": "野生动物摄影"
+        },
+        {
+          "id": 18,
+          "en": "mushroom picking",
+          "zh": "采蘑菇"
+        },
+        {
+          "id": 19,
+          "en": "horse riding",
+          "zh": "骑马"
+        },
+        {
+          "id": 20,
+          "en": "horse trail (us) / bridle path (uk)",
+          "zh": "马道"
+        },
+        {
+          "id": 21,
+          "en": "national park",
+          "zh": "国家公园"
+        },
+        {
+          "id": 22,
+          "en": "tree climbing",
+          "zh": "爬树"
+        },
+        {
+          "id": 23,
+          "en": "tree house",
+          "zh": "树屋"
+        },
+        {
+          "id": 24,
+          "en": "swing",
+          "zh": "秋千"
+        },
+        {
+          "id": 25,
+          "en": "gardening",
+          "zh": "园艺"
+        },
+        {
+          "id": 26,
+          "en": "croquet",
+          "zh": "槌球"
+        },
+        {
+          "id": 27,
+          "en": "bird-watching",
+          "zh": "观鸟"
+        },
+        {
+          "id": 28,
+          "en": "paintballing",
+          "zh": "彩弹射击"
+        },
+        {
+          "id": 29,
+          "en": "safari park",
+          "zh": "野生动物园"
+        },
+        {
+          "id": 30,
+          "en": "nature reserve",
+          "zh": "自然保护区"
+        },
+        {
+          "id": 31,
+          "en": "wading pool (us) / paddling pool (uk)",
+          "zh": "戏水池"
+        },
+        {
+          "id": 32,
+          "en": "skateboarding",
+          "zh": "滑板运动"
+        },
+        {
+          "id": 33,
+          "en": "scootering",
+          "zh": "骑滑板车"
+        },
+        {
+          "id": 34,
+          "en": "rollerblading",
+          "zh": "滑旱冰"
+        },
+        {
+          "id": 35,
+          "en": "cycling",
+          "zh": "骑自行车"
+        },
+        {
+          "id": 36,
+          "en": "parkour",
+          "zh": "跑酷"
+        },
+        {
+          "id": 37,
+          "en": "zoo",
+          "zh": "动物园"
+        },
+        {
+          "id": 38,
+          "en": "adventure playground",
+          "zh": "冒险乐园"
+        },
+        {
+          "id": 39,
+          "en": "theme park",
+          "zh": "主题公园"
+        },
+        {
+          "id": 40,
+          "en": "carousel",
+          "zh": "旋转木马"
+        },
+        {
+          "id": 41,
+          "en": "ferris wheel",
+          "zh": "摩天轮"
+        },
+        {
+          "id": 42,
+          "en": "roller-coaster",
+          "zh": "过山车"
+        }
       ]
     }
   ]

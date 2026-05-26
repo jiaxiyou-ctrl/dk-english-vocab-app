@@ -6,75 +6,295 @@
   "pages": [
     {
       "pageNum": 148,
-      "image": "assets/images/page_148.jpg",
+      "image": "assets/images/page_149.jpg",
       "section": "70.1",
       "sectionTitle": "快餐店",
       "sectionTitleEn": "Fast Food Restaurant",
       "words": [
-        { "id": 1, "en": "price list", "zh": "价目表" },
-        { "id": 2, "en": "straw", "zh": "吸管" },
-        { "id": 3, "en": "soft drink", "zh": "软饮料" },
-        { "id": 4, "en": "fries (US) / chips (UK)", "zh": "薯条" },
-        { "id": 5, "en": "hamburger", "zh": "汉堡" },
-        { "id": 6, "en": "paper napkin", "zh": "纸巾" },
-        { "id": 7, "en": "tray", "zh": "托盘" },
-        { "id": 8, "en": "burger bar", "zh": "汉堡吧" },
-        { "id": 9, "en": "to eat in", "zh": "堂食" },
-        { "id": 10, "en": "carryout (US) / take-away (UK)", "zh": "外带" },
-        { "id": 11, "en": "home delivery", "zh": "送餐上门" },
-        { "id": 12, "en": "street stall", "zh": "路边摊" },
-        { "id": 13, "en": "menu", "zh": "菜单" },
-        { "id": 14, "en": "milkshake", "zh": "奶昔" },
-        { "id": 15, "en": "canned drink", "zh": "罐装饮料" },
-        { "id": 16, "en": "soda (US) / fizzy drink (UK)", "zh": "碳酸饮料" },
-        { "id": 17, "en": "meal deal", "zh": "套餐" },
-        { "id": 18, "en": "reusable cup", "zh": "可重复使用杯" },
-        { "id": 19, "en": "sauce", "zh": "调味汁" },
-        { "id": 20, "en": "food truck (US) / food van (UK)", "zh": "餐车" },
-        { "id": 21, "en": "waffle", "zh": "华夫饼" },
-        { "id": 22, "en": "ice cream", "zh": "冰激凌" },
-        { "id": 23, "en": "muffin", "zh": "麦芬" },
-        { "id": 24, "en": "donut (US) / doughnut (UK)", "zh": "甜甜圈" },
-        { "id": 25, "en": "food delivery driver", "zh": "外卖骑手" }
+        {
+          "id": 1,
+          "en": "price list",
+          "zh": "价目表"
+        },
+        {
+          "id": 2,
+          "en": "straw",
+          "zh": "吸管"
+        },
+        {
+          "id": 3,
+          "en": "soft drink",
+          "zh": "软饮料"
+        },
+        {
+          "id": 4,
+          "en": "fries (US) / chips (UK)",
+          "zh": "薯条"
+        },
+        {
+          "id": 5,
+          "en": "hamburger",
+          "zh": "汉堡"
+        },
+        {
+          "id": 6,
+          "en": "paper napkin",
+          "zh": "纸巾"
+        },
+        {
+          "id": 7,
+          "en": "tray",
+          "zh": "托盘"
+        },
+        {
+          "id": 8,
+          "en": "burger bar",
+          "zh": "汉堡吧"
+        },
+        {
+          "id": 9,
+          "en": "to eat in",
+          "zh": "堂食"
+        },
+        {
+          "id": 10,
+          "en": "carryout (US) / take-away (UK)",
+          "zh": "外带"
+        },
+        {
+          "id": 11,
+          "en": "home delivery",
+          "zh": "送餐上门"
+        },
+        {
+          "id": 12,
+          "en": "street stall",
+          "zh": "路边摊"
+        },
+        {
+          "id": 13,
+          "en": "menu",
+          "zh": "菜单"
+        },
+        {
+          "id": 14,
+          "en": "milkshake",
+          "zh": "奶昔"
+        },
+        {
+          "id": 15,
+          "en": "canned drink",
+          "zh": "罐装饮料"
+        },
+        {
+          "id": 16,
+          "en": "soda (US) / fizzy drink (UK)",
+          "zh": "碳酸饮料"
+        },
+        {
+          "id": 17,
+          "en": "meal deal",
+          "zh": "套餐"
+        },
+        {
+          "id": 18,
+          "en": "reusable cup",
+          "zh": "可重复使用杯"
+        },
+        {
+          "id": 19,
+          "en": "sauce",
+          "zh": "调味汁"
+        },
+        {
+          "id": 20,
+          "en": "food truck (US) / food van (UK)",
+          "zh": "餐车"
+        },
+        {
+          "id": 21,
+          "en": "waffle",
+          "zh": "华夫饼"
+        },
+        {
+          "id": 22,
+          "en": "ice cream",
+          "zh": "冰激凌"
+        },
+        {
+          "id": 23,
+          "en": "muffin",
+          "zh": "麦芬"
+        },
+        {
+          "id": 24,
+          "en": "donut (US) / doughnut (UK)",
+          "zh": "甜甜圈"
+        },
+        {
+          "id": 25,
+          "en": "food delivery driver",
+          "zh": "外卖骑手"
+        }
       ]
     },
     {
       "pageNum": 149,
-      "image": "assets/images/page_149.jpg",
+      "image": "assets/images/page_150.jpg",
       "section": "70.1",
       "sectionTitle": "快餐店（续）",
       "sectionTitleEn": "Fast Food Restaurant (continued)",
       "words": [
-        { "id": 26, "en": "veggie burger", "zh": "素食汉堡" },
-        { "id": 27, "en": "cheeseburger", "zh": "芝士汉堡" },
-        { "id": 28, "en": "chicken sandwich (US) / chicken burger (UK)", "zh": "鸡肉汉堡" },
-        { "id": 29, "en": "burger", "zh": "汉堡" },
-        { "id": 30, "en": "chicken nuggets", "zh": "鸡块" },
-        { "id": 31, "en": "fried chicken", "zh": "炸鸡" },
-        { "id": 32, "en": "hash browns", "zh": "薯饼" },
-        { "id": 33, "en": "fish and chips", "zh": "炸鱼薯条" },
-        { "id": 34, "en": "ketchup", "zh": "番茄酱" },
-        { "id": 35, "en": "mustard", "zh": "芥末酱" },
-        { "id": 36, "en": "hot dog", "zh": "热狗" },
-        { "id": 37, "en": "kebab", "zh": "烤肉串" },
-        { "id": 38, "en": "ribs", "zh": "肋排" },
-        { "id": 39, "en": "noodles", "zh": "面条" },
-        { "id": 40, "en": "dumplings", "zh": "饺子" },
-        { "id": 41, "en": "empanada", "zh": "肉馅卷饼" },
-        { "id": 42, "en": "wrap", "zh": "墨西哥卷" },
-        { "id": 43, "en": "filling", "zh": "内馅" },
-        { "id": 44, "en": "crêpe", "zh": "可丽饼" },
-        { "id": 45, "en": "taco", "zh": "塔可饼" },
-        { "id": 46, "en": "falafel", "zh": "炸豆丸子" },
-        { "id": 47, "en": "nachos", "zh": "玉米片" },
-        { "id": 48, "en": "sandwich", "zh": "三明治" },
-        { "id": 49, "en": "club sandwich", "zh": "俱乐部三明治" },
-        { "id": 50, "en": "open sandwich", "zh": "单片三明治" },
-        { "id": 51, "en": "pizza oven", "zh": "比萨烤箱" },
-        { "id": 52, "en": "pizza", "zh": "比萨" },
-        { "id": 53, "en": "topping", "zh": "比萨顶料" },
-        { "id": 54, "en": "tomato sauce", "zh": "番茄沙司" },
-        { "id": 55, "en": "pizzeria", "zh": "比萨饼店" }
+        {
+          "id": 26,
+          "en": "veggie burger",
+          "zh": "素食汉堡"
+        },
+        {
+          "id": 27,
+          "en": "cheeseburger",
+          "zh": "芝士汉堡"
+        },
+        {
+          "id": 28,
+          "en": "chicken sandwich (US) / chicken burger (UK)",
+          "zh": "鸡肉汉堡"
+        },
+        {
+          "id": 29,
+          "en": "burger",
+          "zh": "汉堡"
+        },
+        {
+          "id": 30,
+          "en": "chicken nuggets",
+          "zh": "鸡块"
+        },
+        {
+          "id": 31,
+          "en": "fried chicken",
+          "zh": "炸鸡"
+        },
+        {
+          "id": 32,
+          "en": "hash browns",
+          "zh": "薯饼"
+        },
+        {
+          "id": 33,
+          "en": "fish and chips",
+          "zh": "炸鱼薯条"
+        },
+        {
+          "id": 34,
+          "en": "ketchup",
+          "zh": "番茄酱"
+        },
+        {
+          "id": 35,
+          "en": "mustard",
+          "zh": "芥末酱"
+        },
+        {
+          "id": 36,
+          "en": "hot dog",
+          "zh": "热狗"
+        },
+        {
+          "id": 37,
+          "en": "kebab",
+          "zh": "烤肉串"
+        },
+        {
+          "id": 38,
+          "en": "ribs",
+          "zh": "肋排"
+        },
+        {
+          "id": 39,
+          "en": "noodles",
+          "zh": "面条"
+        },
+        {
+          "id": 40,
+          "en": "dumplings",
+          "zh": "饺子"
+        },
+        {
+          "id": 41,
+          "en": "empanada",
+          "zh": "肉馅卷饼"
+        },
+        {
+          "id": 42,
+          "en": "wrap",
+          "zh": "墨西哥卷"
+        },
+        {
+          "id": 43,
+          "en": "filling",
+          "zh": "内馅"
+        },
+        {
+          "id": 44,
+          "en": "crêpe",
+          "zh": "可丽饼"
+        },
+        {
+          "id": 45,
+          "en": "taco",
+          "zh": "塔可饼"
+        },
+        {
+          "id": 46,
+          "en": "falafel",
+          "zh": "炸豆丸子"
+        },
+        {
+          "id": 47,
+          "en": "nachos",
+          "zh": "玉米片"
+        },
+        {
+          "id": 48,
+          "en": "sandwich",
+          "zh": "三明治"
+        },
+        {
+          "id": 49,
+          "en": "club sandwich",
+          "zh": "俱乐部三明治"
+        },
+        {
+          "id": 50,
+          "en": "open sandwich",
+          "zh": "单片三明治"
+        },
+        {
+          "id": 51,
+          "en": "pizza oven",
+          "zh": "比萨烤箱"
+        },
+        {
+          "id": 52,
+          "en": "pizza",
+          "zh": "比萨"
+        },
+        {
+          "id": 53,
+          "en": "topping",
+          "zh": "比萨顶料"
+        },
+        {
+          "id": 54,
+          "en": "tomato sauce",
+          "zh": "番茄沙司"
+        },
+        {
+          "id": 55,
+          "en": "pizzeria",
+          "zh": "比萨饼店"
+        }
       ]
     }
   ]

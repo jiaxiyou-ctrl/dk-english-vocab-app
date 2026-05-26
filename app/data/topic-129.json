@@ -6,93 +6,385 @@
   "pages": [
     {
       "pageNum": 266,
-      "image": "assets/images/page_266.jpg",
+      "image": "assets/images/page_267.jpg",
       "section": "129.1",
       "sectionTitle": "流行音乐",
       "sectionTitleEn": "Pop Music",
       "words": [
-        { "id": 1, "en": "rig", "zh": "承托操纵装置" },
-        { "id": 2, "en": "drummer", "zh": "鼓手" },
-        { "id": 3, "en": "acoustic guitarist", "zh": "原声吉他手" },
-        { "id": 4, "en": "lead singer", "zh": "主唱" },
-        { "id": 5, "en": "electric guitarist", "zh": "电吉他手" },
-        { "id": 6, "en": "stage lights", "zh": "舞台灯光" },
-        { "id": 7, "en": "bass guitarist", "zh": "贝斯手" },
-        { "id": 8, "en": "speaker", "zh": "扬声器" },
-        { "id": 9, "en": "fans", "zh": "粉丝" },
-        { "id": 10, "en": "pop concert", "zh": "流行音乐会" },
-        { "id": 11, "en": "amplifier", "zh": "扩音器" },
-        { "id": 12, "en": "turntable", "zh": "唱盘" },
-        { "id": 13, "en": "dj console", "zh": "唱片装填控制台" },
-        { "id": 14, "en": "vinyl records", "zh": "黑胶唱片" },
-        { "id": 15, "en": "backing singers", "zh": "伴唱歌手" },
-        { "id": 16, "en": "song", "zh": "歌曲" },
-        { "id": 17, "en": "melody", "zh": "旋律" },
-        { "id": 18, "en": "beat", "zh": "节拍" },
-        { "id": 19, "en": "band", "zh": "乐队" },
-        { "id": 20, "en": "album", "zh": "专辑" },
-        { "id": 21, "en": "jazz", "zh": "爵士乐" },
-        { "id": 22, "en": "the blues", "zh": "布鲁斯音乐" },
-        { "id": 23, "en": "punk", "zh": "朋克音乐" },
-        { "id": 24, "en": "folk", "zh": "民谣音乐" },
-        { "id": 25, "en": "pop", "zh": "流行音乐" },
-        { "id": 26, "en": "k-pop", "zh": "韩国流行音乐" },
-        { "id": 27, "en": "heavy metal", "zh": "重金属音乐" },
-        { "id": 28, "en": "hip-hop", "zh": "嘻哈音乐" },
-        { "id": 29, "en": "country", "zh": "乡村音乐" },
-        { "id": 30, "en": "rock", "zh": "摇滚音乐" },
-        { "id": 31, "en": "soul", "zh": "灵魂音乐" },
-        { "id": 32, "en": "latin", "zh": "拉丁音乐" }
+        {
+          "id": 1,
+          "en": "rig",
+          "zh": "承托操纵装置"
+        },
+        {
+          "id": 2,
+          "en": "drummer",
+          "zh": "鼓手"
+        },
+        {
+          "id": 3,
+          "en": "acoustic guitarist",
+          "zh": "原声吉他手"
+        },
+        {
+          "id": 4,
+          "en": "lead singer",
+          "zh": "主唱"
+        },
+        {
+          "id": 5,
+          "en": "electric guitarist",
+          "zh": "电吉他手"
+        },
+        {
+          "id": 6,
+          "en": "stage lights",
+          "zh": "舞台灯光"
+        },
+        {
+          "id": 7,
+          "en": "bass guitarist",
+          "zh": "贝斯手"
+        },
+        {
+          "id": 8,
+          "en": "speaker",
+          "zh": "扬声器"
+        },
+        {
+          "id": 9,
+          "en": "fans",
+          "zh": "粉丝"
+        },
+        {
+          "id": 10,
+          "en": "pop concert",
+          "zh": "流行音乐会"
+        },
+        {
+          "id": 11,
+          "en": "amplifier",
+          "zh": "扩音器"
+        },
+        {
+          "id": 12,
+          "en": "turntable",
+          "zh": "唱盘"
+        },
+        {
+          "id": 13,
+          "en": "dj console",
+          "zh": "唱片装填控制台"
+        },
+        {
+          "id": 14,
+          "en": "vinyl records",
+          "zh": "黑胶唱片"
+        },
+        {
+          "id": 15,
+          "en": "backing singers",
+          "zh": "伴唱歌手"
+        },
+        {
+          "id": 16,
+          "en": "song",
+          "zh": "歌曲"
+        },
+        {
+          "id": 17,
+          "en": "melody",
+          "zh": "旋律"
+        },
+        {
+          "id": 18,
+          "en": "beat",
+          "zh": "节拍"
+        },
+        {
+          "id": 19,
+          "en": "band",
+          "zh": "乐队"
+        },
+        {
+          "id": 20,
+          "en": "album",
+          "zh": "专辑"
+        },
+        {
+          "id": 21,
+          "en": "jazz",
+          "zh": "爵士乐"
+        },
+        {
+          "id": 22,
+          "en": "the blues",
+          "zh": "布鲁斯音乐"
+        },
+        {
+          "id": 23,
+          "en": "punk",
+          "zh": "朋克音乐"
+        },
+        {
+          "id": 24,
+          "en": "folk",
+          "zh": "民谣音乐"
+        },
+        {
+          "id": 25,
+          "en": "pop",
+          "zh": "流行音乐"
+        },
+        {
+          "id": 26,
+          "en": "k-pop",
+          "zh": "韩国流行音乐"
+        },
+        {
+          "id": 27,
+          "en": "heavy metal",
+          "zh": "重金属音乐"
+        },
+        {
+          "id": 28,
+          "en": "hip-hop",
+          "zh": "嘻哈音乐"
+        },
+        {
+          "id": 29,
+          "en": "country",
+          "zh": "乡村音乐"
+        },
+        {
+          "id": 30,
+          "en": "rock",
+          "zh": "摇滚音乐"
+        },
+        {
+          "id": 31,
+          "en": "soul",
+          "zh": "灵魂音乐"
+        },
+        {
+          "id": 32,
+          "en": "latin",
+          "zh": "拉丁音乐"
+        }
       ]
     },
     {
       "pageNum": 267,
-      "image": "assets/images/page_267.jpg",
+      "image": "assets/images/page_268.jpg",
       "section": "129.2",
       "sectionTitle": "其他乐器",
       "sectionTitleEn": "Other Instruments",
       "words": [
-        { "id": 33, "en": "harmonica", "zh": "口琴" },
-        { "id": 34, "en": "panpipe", "zh": "排箫" },
-        { "id": 35, "en": "recorder", "zh": "竖笛" },
-        { "id": 36, "en": "flute", "zh": "长笛" },
-        { "id": 37, "en": "didgeridoo", "zh": "迪吉里杜管" },
-        { "id": 38, "en": "bagpipes", "zh": "风笛" },
-        { "id": 39, "en": "trumpet", "zh": "小号" },
-        { "id": 40, "en": "saxophone", "zh": "萨克斯" },
-        { "id": 41, "en": "accordion", "zh": "手风琴" },
-        { "id": 42, "en": "keyboard", "zh": "键盘" },
-        { "id": 43, "en": "piano", "zh": "钢琴" },
-        { "id": 44, "en": "violin", "zh": "小提琴" },
-        { "id": 45, "en": "oud", "zh": "乌得琴" },
-        { "id": 46, "en": "sitar", "zh": "锡塔尔琴" },
-        { "id": 47, "en": "banjo", "zh": "班卓琴" },
-        { "id": 48, "en": "mandolin", "zh": "曼陀林" },
-        { "id": 49, "en": "ukulele", "zh": "尤克里里" },
-        { "id": 50, "en": "reverb", "zh": "混响" },
-        { "id": 51, "en": "pick-up", "zh": "拾音器" },
-        { "id": 52, "en": "body", "zh": "琴身" },
-        { "id": 53, "en": "neck", "zh": "琴颈" },
-        { "id": 54, "en": "tuning peg", "zh": "调音弦轴" },
-        { "id": 55, "en": "headstock", "zh": "琴头" },
-        { "id": 56, "en": "nut", "zh": "琴枕" },
-        { "id": 57, "en": "fret", "zh": "品" },
-        { "id": 58, "en": "waist", "zh": "琴腰" },
-        { "id": 59, "en": "tuner", "zh": "调音器" },
-        { "id": 60, "en": "jack connector", "zh": "插孔连接器" },
-        { "id": 61, "en": "electric guitar", "zh": "电吉他" },
-        { "id": 62, "en": "position markers", "zh": "标记点" },
-        { "id": 63, "en": "neck", "zh": "琴颈" },
-        { "id": 64, "en": "string", "zh": "琴弦" },
-        { "id": 65, "en": "sound hole", "zh": "音孔" },
-        { "id": 66, "en": "bridge", "zh": "琴马" },
-        { "id": 67, "en": "acoustic guitar", "zh": "原声吉他" },
-        { "id": 68, "en": "dance", "zh": "舞曲" },
-        { "id": 69, "en": "bhangra", "zh": "班格拉舞曲" },
-        { "id": 70, "en": "reggae", "zh": "雷鬼音乐" },
-        { "id": 71, "en": "opera", "zh": "歌剧" },
-        { "id": 72, "en": "classical music", "zh": "古典音乐" },
-        { "id": 73, "en": "gospel", "zh": "福音音乐" }
+        {
+          "id": 33,
+          "en": "harmonica",
+          "zh": "口琴"
+        },
+        {
+          "id": 34,
+          "en": "panpipe",
+          "zh": "排箫"
+        },
+        {
+          "id": 35,
+          "en": "recorder",
+          "zh": "竖笛"
+        },
+        {
+          "id": 36,
+          "en": "flute",
+          "zh": "长笛"
+        },
+        {
+          "id": 37,
+          "en": "didgeridoo",
+          "zh": "迪吉里杜管"
+        },
+        {
+          "id": 38,
+          "en": "bagpipes",
+          "zh": "风笛"
+        },
+        {
+          "id": 39,
+          "en": "trumpet",
+          "zh": "小号"
+        },
+        {
+          "id": 40,
+          "en": "saxophone",
+          "zh": "萨克斯"
+        },
+        {
+          "id": 41,
+          "en": "accordion",
+          "zh": "手风琴"
+        },
+        {
+          "id": 42,
+          "en": "keyboard",
+          "zh": "键盘"
+        },
+        {
+          "id": 43,
+          "en": "piano",
+          "zh": "钢琴"
+        },
+        {
+          "id": 44,
+          "en": "violin",
+          "zh": "小提琴"
+        },
+        {
+          "id": 45,
+          "en": "oud",
+          "zh": "乌得琴"
+        },
+        {
+          "id": 46,
+          "en": "sitar",
+          "zh": "锡塔尔琴"
+        },
+        {
+          "id": 47,
+          "en": "banjo",
+          "zh": "班卓琴"
+        },
+        {
+          "id": 48,
+          "en": "mandolin",
+          "zh": "曼陀林"
+        },
+        {
+          "id": 49,
+          "en": "ukulele",
+          "zh": "尤克里里"
+        },
+        {
+          "id": 50,
+          "en": "reverb",
+          "zh": "混响"
+        },
+        {
+          "id": 51,
+          "en": "pick-up",
+          "zh": "拾音器"
+        },
+        {
+          "id": 52,
+          "en": "body",
+          "zh": "琴身"
+        },
+        {
+          "id": 53,
+          "en": "neck",
+          "zh": "琴颈"
+        },
+        {
+          "id": 54,
+          "en": "tuning peg",
+          "zh": "调音弦轴"
+        },
+        {
+          "id": 55,
+          "en": "headstock",
+          "zh": "琴头"
+        },
+        {
+          "id": 56,
+          "en": "nut",
+          "zh": "琴枕"
+        },
+        {
+          "id": 57,
+          "en": "fret",
+          "zh": "品"
+        },
+        {
+          "id": 58,
+          "en": "waist",
+          "zh": "琴腰"
+        },
+        {
+          "id": 59,
+          "en": "tuner",
+          "zh": "调音器"
+        },
+        {
+          "id": 60,
+          "en": "jack connector",
+          "zh": "插孔连接器"
+        },
+        {
+          "id": 61,
+          "en": "electric guitar",
+          "zh": "电吉他"
+        },
+        {
+          "id": 62,
+          "en": "position markers",
+          "zh": "标记点"
+        },
+        {
+          "id": 63,
+          "en": "neck",
+          "zh": "琴颈"
+        },
+        {
+          "id": 64,
+          "en": "string",
+          "zh": "琴弦"
+        },
+        {
+          "id": 65,
+          "en": "sound hole",
+          "zh": "音孔"
+        },
+        {
+          "id": 66,
+          "en": "bridge",
+          "zh": "琴马"
+        },
+        {
+          "id": 67,
+          "en": "acoustic guitar",
+          "zh": "原声吉他"
+        },
+        {
+          "id": 68,
+          "en": "dance",
+          "zh": "舞曲"
+        },
+        {
+          "id": 69,
+          "en": "bhangra",
+          "zh": "班格拉舞曲"
+        },
+        {
+          "id": 70,
+          "en": "reggae",
+          "zh": "雷鬼音乐"
+        },
+        {
+          "id": 71,
+          "en": "opera",
+          "zh": "歌剧"
+        },
+        {
+          "id": 72,
+          "en": "classical music",
+          "zh": "古典音乐"
+        },
+        {
+          "id": 73,
+          "en": "gospel",
+          "zh": "福音音乐"
+        }
       ]
     }
   ]

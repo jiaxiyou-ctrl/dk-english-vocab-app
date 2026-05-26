@@ -6,62 +6,230 @@
   "pages": [
     {
       "pageNum": 268,
-      "image": "assets/images/page_268.jpg",
+      "image": "assets/images/page_269.jpg",
       "section": "130.1",
       "sectionTitle": "博物馆和美术馆",
       "sectionTitleEn": "Museums and Art Galleries",
       "words": [
-        { "id": 1, "en": "gallery", "zh": "画廊" },
-        { "id": 2, "en": "entrance", "zh": "入口" },
-        { "id": 3, "en": "wheelchair ramp", "zh": "轮椅坡道" },
-        { "id": 4, "en": "museum", "zh": "博物馆" },
-        { "id": 5, "en": "restrooms (us) / toilets (uk)", "zh": "卫生间" },
-        { "id": 6, "en": "cloakroom", "zh": "衣帽间" },
-        { "id": 7, "en": "admission fee", "zh": "入场费" },
-        { "id": 8, "en": "ticket", "zh": "门票" },
-        { "id": 9, "en": "ticket office", "zh": "售票处" },
-        { "id": 10, "en": "donation", "zh": "捐款" },
-        { "id": 11, "en": "floor plan", "zh": "平面图" },
-        { "id": 12, "en": "curator", "zh": "馆长" },
-        { "id": 13, "en": "exhibition", "zh": "展览" },
-        { "id": 14, "en": "exhibit", "zh": "展品" },
-        { "id": 15, "en": "permanent exhibition", "zh": "常设展览" },
-        { "id": 16, "en": "temporary exhibition", "zh": "短期展览" },
-        { "id": 17, "en": "installation", "zh": "装置" },
-        { "id": 18, "en": "collection", "zh": "藏品" },
-        { "id": 19, "en": "conservation", "zh": "文物保护" },
-        { "id": 20, "en": "tour guide", "zh": "导游" },
-        { "id": 21, "en": "audio guide", "zh": "语音导览" },
-        { "id": 22, "en": "no photography", "zh": "禁止拍照" },
-        { "id": 23, "en": "gift shop", "zh": "礼品店" }
+        {
+          "id": 1,
+          "en": "gallery",
+          "zh": "画廊"
+        },
+        {
+          "id": 2,
+          "en": "entrance",
+          "zh": "入口"
+        },
+        {
+          "id": 3,
+          "en": "wheelchair ramp",
+          "zh": "轮椅坡道"
+        },
+        {
+          "id": 4,
+          "en": "museum",
+          "zh": "博物馆"
+        },
+        {
+          "id": 5,
+          "en": "restrooms (us) / toilets (uk)",
+          "zh": "卫生间"
+        },
+        {
+          "id": 6,
+          "en": "cloakroom",
+          "zh": "衣帽间"
+        },
+        {
+          "id": 7,
+          "en": "admission fee",
+          "zh": "入场费"
+        },
+        {
+          "id": 8,
+          "en": "ticket",
+          "zh": "门票"
+        },
+        {
+          "id": 9,
+          "en": "ticket office",
+          "zh": "售票处"
+        },
+        {
+          "id": 10,
+          "en": "donation",
+          "zh": "捐款"
+        },
+        {
+          "id": 11,
+          "en": "floor plan",
+          "zh": "平面图"
+        },
+        {
+          "id": 12,
+          "en": "curator",
+          "zh": "馆长"
+        },
+        {
+          "id": 13,
+          "en": "exhibition",
+          "zh": "展览"
+        },
+        {
+          "id": 14,
+          "en": "exhibit",
+          "zh": "展品"
+        },
+        {
+          "id": 15,
+          "en": "permanent exhibition",
+          "zh": "常设展览"
+        },
+        {
+          "id": 16,
+          "en": "temporary exhibition",
+          "zh": "短期展览"
+        },
+        {
+          "id": 17,
+          "en": "installation",
+          "zh": "装置"
+        },
+        {
+          "id": 18,
+          "en": "collection",
+          "zh": "藏品"
+        },
+        {
+          "id": 19,
+          "en": "conservation",
+          "zh": "文物保护"
+        },
+        {
+          "id": 20,
+          "en": "tour guide",
+          "zh": "导游"
+        },
+        {
+          "id": 21,
+          "en": "audio guide",
+          "zh": "语音导览"
+        },
+        {
+          "id": 22,
+          "en": "no photography",
+          "zh": "禁止拍照"
+        },
+        {
+          "id": 23,
+          "en": "gift shop",
+          "zh": "礼品店"
+        }
       ]
     },
     {
       "pageNum": 269,
-      "image": "assets/images/page_269.jpg",
+      "image": "assets/images/page_270.jpg",
       "section": "130.2",
       "sectionTitle": "艺术风格",
       "sectionTitleEn": "Art Styles",
       "words": [
-        { "id": 24, "en": "sculpture", "zh": "雕塑" },
-        { "id": 25, "en": "surveillance camera", "zh": "监控摄像头" },
-        { "id": 26, "en": "label", "zh": "标识" },
-        { "id": 27, "en": "masterpiece", "zh": "杰作" },
-        { "id": 28, "en": "security guard", "zh": "保安" },
-        { "id": 29, "en": "frame", "zh": "画框" },
-        { "id": 30, "en": "painting", "zh": "画" },
-        { "id": 31, "en": "oil painting", "zh": "油画" },
-        { "id": 32, "en": "watercolor (us) / watercolour (uk)", "zh": "水彩画" },
-        { "id": 33, "en": "classicism", "zh": "古典主义" },
-        { "id": 34, "en": "impressionism", "zh": "印象主义" },
-        { "id": 35, "en": "post-impressionism", "zh": "后印象主义" },
-        { "id": 36, "en": "cubism", "zh": "立体主义" },
-        { "id": 37, "en": "surrealism", "zh": "超现实主义" },
-        { "id": 38, "en": "bauhaus", "zh": "包豪斯风格" },
-        { "id": 39, "en": "pop art", "zh": "波普艺术" },
-        { "id": 40, "en": "art deco", "zh": "装饰艺术" },
-        { "id": 41, "en": "art nouveau", "zh": "新艺术主义" },
-        { "id": 42, "en": "conceptual art", "zh": "概念艺术" }
+        {
+          "id": 24,
+          "en": "sculpture",
+          "zh": "雕塑"
+        },
+        {
+          "id": 25,
+          "en": "surveillance camera",
+          "zh": "监控摄像头"
+        },
+        {
+          "id": 26,
+          "en": "label",
+          "zh": "标识"
+        },
+        {
+          "id": 27,
+          "en": "masterpiece",
+          "zh": "杰作"
+        },
+        {
+          "id": 28,
+          "en": "security guard",
+          "zh": "保安"
+        },
+        {
+          "id": 29,
+          "en": "frame",
+          "zh": "画框"
+        },
+        {
+          "id": 30,
+          "en": "painting",
+          "zh": "画"
+        },
+        {
+          "id": 31,
+          "en": "oil painting",
+          "zh": "油画"
+        },
+        {
+          "id": 32,
+          "en": "watercolor (us) / watercolour (uk)",
+          "zh": "水彩画"
+        },
+        {
+          "id": 33,
+          "en": "classicism",
+          "zh": "古典主义"
+        },
+        {
+          "id": 34,
+          "en": "impressionism",
+          "zh": "印象主义"
+        },
+        {
+          "id": 35,
+          "en": "post-impressionism",
+          "zh": "后印象主义"
+        },
+        {
+          "id": 36,
+          "en": "cubism",
+          "zh": "立体主义"
+        },
+        {
+          "id": 37,
+          "en": "surrealism",
+          "zh": "超现实主义"
+        },
+        {
+          "id": 38,
+          "en": "bauhaus",
+          "zh": "包豪斯风格"
+        },
+        {
+          "id": 39,
+          "en": "pop art",
+          "zh": "波普艺术"
+        },
+        {
+          "id": 40,
+          "en": "art deco",
+          "zh": "装饰艺术"
+        },
+        {
+          "id": 41,
+          "en": "art nouveau",
+          "zh": "新艺术主义"
+        },
+        {
+          "id": 42,
+          "en": "conceptual art",
+          "zh": "概念艺术"
+        }
       ]
     }
   ]

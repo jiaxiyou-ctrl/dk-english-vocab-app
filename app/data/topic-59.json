@@ -6,77 +6,305 @@
   "pages": [
     {
       "pageNum": 128,
-      "image": "assets/images/page_128.jpg",
+      "image": "assets/images/page_129.jpg",
       "section": "59.1",
       "sectionTitle": "香料",
       "sectionTitleEn": "Spices",
       "words": [
-        { "id": 1, "en": "anise", "zh": "茴芹" },
-        { "id": 2, "en": "mace", "zh": "肉豆蔻衣" },
-        { "id": 3, "en": "nutmeg", "zh": "肉豆蔻" },
-        { "id": 4, "en": "cloves", "zh": "丁香" },
-        { "id": 5, "en": "vanilla", "zh": "香草" },
-        { "id": 6, "en": "turmeric", "zh": "姜黄根" },
-        { "id": 7, "en": "cumin", "zh": "小茴香" },
-        { "id": 8, "en": "coriander seeds", "zh": "芫荽籽" },
-        { "id": 9, "en": "saffron", "zh": "藏红花" },
-        { "id": 10, "en": "peppercorns", "zh": "胡椒粒" },
-        { "id": 11, "en": "paprika", "zh": "辣椒粉" },
-        { "id": 12, "en": "cardamom", "zh": "小豆蔻" },
-        { "id": 13, "en": "cinnamon", "zh": "肉桂" },
-        { "id": 14, "en": "cinnamon stick", "zh": "桂皮" },
-        { "id": 15, "en": "ground cinnamon", "zh": "肉桂粉" },
-        { "id": 16, "en": "star anise", "zh": "八角茴香" },
-        { "id": 17, "en": "sumac", "zh": "盐肤木香料" },
-        { "id": 18, "en": "five spice", "zh": "五香" },
-        { "id": 19, "en": "ras el hanout", "zh": "摩洛哥混合香料" },
-        { "id": 20, "en": "allspice", "zh": "多香果" },
-        { "id": 21, "en": "curry powder", "zh": "咖喱粉" },
-        { "id": 22, "en": "white mustard", "zh": "白芥" },
-        { "id": 23, "en": "black mustard", "zh": "黑芥末" },
-        { "id": 24, "en": "ginger", "zh": "姜" },
-        { "id": 25, "en": "cayenne pepper", "zh": "红椒粉" },
-        { "id": 26, "en": "jalapeños", "zh": "墨西哥辣椒" },
-        { "id": 27, "en": "bird's eye chiles (US) / bird's eye chillies (UK)", "zh": "鸟眼辣椒" },
-        { "id": 28, "en": "ground chile (US) / ground chilli (UK)", "zh": "研磨辣椒粉" },
-        { "id": 29, "en": "caraway seeds", "zh": "葛缕子籽" },
-        { "id": 30, "en": "poppy seeds", "zh": "罂粟籽" },
-        { "id": 31, "en": "fennel seeds", "zh": "茴香籽" },
-        { "id": 32, "en": "nigella seeds", "zh": "黑种草籽" },
-        { "id": 33, "en": "fresh chiles (US) / fresh chillies (UK)", "zh": "新鲜辣椒" },
-        { "id": 34, "en": "chile flakes (US) / chilli flakes (UK)", "zh": "辣椒末" }
+        {
+          "id": 1,
+          "en": "anise",
+          "zh": "茴芹"
+        },
+        {
+          "id": 2,
+          "en": "mace",
+          "zh": "肉豆蔻衣"
+        },
+        {
+          "id": 3,
+          "en": "nutmeg",
+          "zh": "肉豆蔻"
+        },
+        {
+          "id": 4,
+          "en": "cloves",
+          "zh": "丁香"
+        },
+        {
+          "id": 5,
+          "en": "vanilla",
+          "zh": "香草"
+        },
+        {
+          "id": 6,
+          "en": "turmeric",
+          "zh": "姜黄根"
+        },
+        {
+          "id": 7,
+          "en": "cumin",
+          "zh": "小茴香"
+        },
+        {
+          "id": 8,
+          "en": "coriander seeds",
+          "zh": "芫荽籽"
+        },
+        {
+          "id": 9,
+          "en": "saffron",
+          "zh": "藏红花"
+        },
+        {
+          "id": 10,
+          "en": "peppercorns",
+          "zh": "胡椒粒"
+        },
+        {
+          "id": 11,
+          "en": "paprika",
+          "zh": "辣椒粉"
+        },
+        {
+          "id": 12,
+          "en": "cardamom",
+          "zh": "小豆蔻"
+        },
+        {
+          "id": 13,
+          "en": "cinnamon",
+          "zh": "肉桂"
+        },
+        {
+          "id": 14,
+          "en": "cinnamon stick",
+          "zh": "桂皮"
+        },
+        {
+          "id": 15,
+          "en": "ground cinnamon",
+          "zh": "肉桂粉"
+        },
+        {
+          "id": 16,
+          "en": "star anise",
+          "zh": "八角茴香"
+        },
+        {
+          "id": 17,
+          "en": "sumac",
+          "zh": "盐肤木香料"
+        },
+        {
+          "id": 18,
+          "en": "five spice",
+          "zh": "五香"
+        },
+        {
+          "id": 19,
+          "en": "ras el hanout",
+          "zh": "摩洛哥混合香料"
+        },
+        {
+          "id": 20,
+          "en": "allspice",
+          "zh": "多香果"
+        },
+        {
+          "id": 21,
+          "en": "curry powder",
+          "zh": "咖喱粉"
+        },
+        {
+          "id": 22,
+          "en": "white mustard",
+          "zh": "白芥"
+        },
+        {
+          "id": 23,
+          "en": "black mustard",
+          "zh": "黑芥末"
+        },
+        {
+          "id": 24,
+          "en": "ginger",
+          "zh": "姜"
+        },
+        {
+          "id": 25,
+          "en": "cayenne pepper",
+          "zh": "红椒粉"
+        },
+        {
+          "id": 26,
+          "en": "jalapeños",
+          "zh": "墨西哥辣椒"
+        },
+        {
+          "id": 27,
+          "en": "bird's eye chiles (US) / bird's eye chillies (UK)",
+          "zh": "鸟眼辣椒"
+        },
+        {
+          "id": 28,
+          "en": "ground chile (US) / ground chilli (UK)",
+          "zh": "研磨辣椒粉"
+        },
+        {
+          "id": 29,
+          "en": "caraway seeds",
+          "zh": "葛缕子籽"
+        },
+        {
+          "id": 30,
+          "en": "poppy seeds",
+          "zh": "罂粟籽"
+        },
+        {
+          "id": 31,
+          "en": "fennel seeds",
+          "zh": "茴香籽"
+        },
+        {
+          "id": 32,
+          "en": "nigella seeds",
+          "zh": "黑种草籽"
+        },
+        {
+          "id": 33,
+          "en": "fresh chiles (US) / fresh chillies (UK)",
+          "zh": "新鲜辣椒"
+        },
+        {
+          "id": 34,
+          "en": "chile flakes (US) / chilli flakes (UK)",
+          "zh": "辣椒末"
+        }
       ]
     },
     {
       "pageNum": 128,
-      "image": "assets/images/page_128.jpg",
+      "image": "assets/images/page_129.jpg",
       "section": "59.2",
       "sectionTitle": "草药",
       "sectionTitleEn": "Herbs",
       "words": [
-        { "id": 35, "en": "fennel", "zh": "茴香" },
-        { "id": 36, "en": "bay leaf", "zh": "月桂叶" },
-        { "id": 37, "en": "parsley", "zh": "欧芹" },
-        { "id": 38, "en": "chives", "zh": "香葱" },
-        { "id": 39, "en": "mint", "zh": "薄荷" },
-        { "id": 40, "en": "cilantro (US) / coriander (UK)", "zh": "香菜" },
-        { "id": 41, "en": "hyssop", "zh": "海索草" },
-        { "id": 42, "en": "dill", "zh": "莳萝" },
-        { "id": 43, "en": "rosemary", "zh": "迷迭香" },
-        { "id": 44, "en": "chervil", "zh": "雪维菜" },
-        { "id": 45, "en": "lovage", "zh": "拉维纪草" },
-        { "id": 46, "en": "sorrel", "zh": "酸模" },
-        { "id": 47, "en": "thyme", "zh": "百里香" },
-        { "id": 48, "en": "sage", "zh": "鼠尾草" },
-        { "id": 49, "en": "tarragon", "zh": "龙蒿" },
-        { "id": 50, "en": "marjoram", "zh": "墨角兰" },
-        { "id": 51, "en": "basil", "zh": "罗勒叶" },
-        { "id": 52, "en": "oregano", "zh": "牛至" },
-        { "id": 53, "en": "lemongrass", "zh": "柠檬草" },
-        { "id": 54, "en": "lemon balm", "zh": "柠檬香蜂草" },
-        { "id": 55, "en": "borage", "zh": "琉璃苣" },
-        { "id": 56, "en": "fenugreek leaves", "zh": "葫芦巴叶" },
-        { "id": 57, "en": "bouquet garni", "zh": "香料束" }
+        {
+          "id": 35,
+          "en": "fennel",
+          "zh": "茴香"
+        },
+        {
+          "id": 36,
+          "en": "bay leaf",
+          "zh": "月桂叶"
+        },
+        {
+          "id": 37,
+          "en": "parsley",
+          "zh": "欧芹"
+        },
+        {
+          "id": 38,
+          "en": "chives",
+          "zh": "香葱"
+        },
+        {
+          "id": 39,
+          "en": "mint",
+          "zh": "薄荷"
+        },
+        {
+          "id": 40,
+          "en": "cilantro (US) / coriander (UK)",
+          "zh": "香菜"
+        },
+        {
+          "id": 41,
+          "en": "hyssop",
+          "zh": "海索草"
+        },
+        {
+          "id": 42,
+          "en": "dill",
+          "zh": "莳萝"
+        },
+        {
+          "id": 43,
+          "en": "rosemary",
+          "zh": "迷迭香"
+        },
+        {
+          "id": 44,
+          "en": "chervil",
+          "zh": "雪维菜"
+        },
+        {
+          "id": 45,
+          "en": "lovage",
+          "zh": "拉维纪草"
+        },
+        {
+          "id": 46,
+          "en": "sorrel",
+          "zh": "酸模"
+        },
+        {
+          "id": 47,
+          "en": "thyme",
+          "zh": "百里香"
+        },
+        {
+          "id": 48,
+          "en": "sage",
+          "zh": "鼠尾草"
+        },
+        {
+          "id": 49,
+          "en": "tarragon",
+          "zh": "龙蒿"
+        },
+        {
+          "id": 50,
+          "en": "marjoram",
+          "zh": "墨角兰"
+        },
+        {
+          "id": 51,
+          "en": "basil",
+          "zh": "罗勒叶"
+        },
+        {
+          "id": 52,
+          "en": "oregano",
+          "zh": "牛至"
+        },
+        {
+          "id": 53,
+          "en": "lemongrass",
+          "zh": "柠檬草"
+        },
+        {
+          "id": 54,
+          "en": "lemon balm",
+          "zh": "柠檬香蜂草"
+        },
+        {
+          "id": 55,
+          "en": "borage",
+          "zh": "琉璃苣"
+        },
+        {
+          "id": 56,
+          "en": "fenugreek leaves",
+          "zh": "葫芦巴叶"
+        },
+        {
+          "id": 57,
+          "en": "bouquet garni",
+          "zh": "香料束"
+        }
       ]
     }
   ]

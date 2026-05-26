@@ -6,81 +6,289 @@
   "pages": [
     {
       "pageNum": 126,
-      "image": "assets/images/page_126.jpg",
+      "image": "assets/images/page_127.jpg",
       "section": "58.1",
       "sectionTitle": "瓜类",
       "sectionTitleEn": "Melons",
       "words": [
-        { "id": 1, "en": "watermelon", "zh": "西瓜" },
-        { "id": 2, "en": "cantaloupe", "zh": "哈密瓜" },
-        { "id": 3, "en": "honeydew melon", "zh": "蜜瓜" },
-        { "id": 4, "en": "Canary melon", "zh": "金丝瓜" },
-        { "id": 5, "en": "charentais", "zh": "夏朗特瓜" },
-        { "id": 6, "en": "galia", "zh": "加利亚甜瓜" }
+        {
+          "id": 1,
+          "en": "watermelon",
+          "zh": "西瓜"
+        },
+        {
+          "id": 2,
+          "en": "cantaloupe",
+          "zh": "哈密瓜"
+        },
+        {
+          "id": 3,
+          "en": "honeydew melon",
+          "zh": "蜜瓜"
+        },
+        {
+          "id": 4,
+          "en": "Canary melon",
+          "zh": "金丝瓜"
+        },
+        {
+          "id": 5,
+          "en": "charentais",
+          "zh": "夏朗特瓜"
+        },
+        {
+          "id": 6,
+          "en": "galia",
+          "zh": "加利亚甜瓜"
+        }
       ]
     },
     {
       "pageNum": 126,
-      "image": "assets/images/page_126.jpg",
+      "image": "assets/images/page_127.jpg",
       "section": "58.2",
       "sectionTitle": "其他水果",
       "sectionTitleEn": "Other Fruit",
       "words": [
-        { "id": 7, "en": "papaya", "zh": "番木瓜" },
-        { "id": 8, "en": "seeds", "zh": "籽" },
-        { "id": 9, "en": "skin", "zh": "果皮" },
-        { "id": 10, "en": "flesh", "zh": "果肉" },
-        { "id": 11, "en": "quince", "zh": "榅桲" },
-        { "id": 12, "en": "passion fruit", "zh": "百香果" },
-        { "id": 13, "en": "guava", "zh": "番石榴" },
-        { "id": 14, "en": "starfruit", "zh": "阳桃" },
-        { "id": 15, "en": "persimmon", "zh": "柿子" },
-        { "id": 16, "en": "feijoa", "zh": "费约果" },
-        { "id": 17, "en": "pineapple", "zh": "菠萝" },
-        { "id": 18, "en": "prickly pear", "zh": "仙人掌果" },
-        { "id": 19, "en": "tamarillo", "zh": "树番茄" },
-        { "id": 20, "en": "jackfruit", "zh": "波罗蜜" },
-        { "id": 21, "en": "mangosteen", "zh": "山竹" },
-        { "id": 22, "en": "pomegranate", "zh": "石榴" },
-        { "id": 23, "en": "banana", "zh": "香蕉" },
-        { "id": 24, "en": "kiwi (US) / kiwi fruit (UK)", "zh": "猕猴桃" },
-        { "id": 25, "en": "apple", "zh": "苹果" },
-        { "id": 26, "en": "crab apples", "zh": "沙果" },
-        { "id": 27, "en": "pear", "zh": "梨" },
-        { "id": 28, "en": "rhubarb", "zh": "大黄" }
+        {
+          "id": 7,
+          "en": "papaya",
+          "zh": "番木瓜"
+        },
+        {
+          "id": 8,
+          "en": "seeds",
+          "zh": "籽"
+        },
+        {
+          "id": 9,
+          "en": "skin",
+          "zh": "果皮"
+        },
+        {
+          "id": 10,
+          "en": "flesh",
+          "zh": "果肉"
+        },
+        {
+          "id": 11,
+          "en": "quince",
+          "zh": "榅桲"
+        },
+        {
+          "id": 12,
+          "en": "passion fruit",
+          "zh": "百香果"
+        },
+        {
+          "id": 13,
+          "en": "guava",
+          "zh": "番石榴"
+        },
+        {
+          "id": 14,
+          "en": "starfruit",
+          "zh": "阳桃"
+        },
+        {
+          "id": 15,
+          "en": "persimmon",
+          "zh": "柿子"
+        },
+        {
+          "id": 16,
+          "en": "feijoa",
+          "zh": "费约果"
+        },
+        {
+          "id": 17,
+          "en": "pineapple",
+          "zh": "菠萝"
+        },
+        {
+          "id": 18,
+          "en": "prickly pear",
+          "zh": "仙人掌果"
+        },
+        {
+          "id": 19,
+          "en": "tamarillo",
+          "zh": "树番茄"
+        },
+        {
+          "id": 20,
+          "en": "jackfruit",
+          "zh": "波罗蜜"
+        },
+        {
+          "id": 21,
+          "en": "mangosteen",
+          "zh": "山竹"
+        },
+        {
+          "id": 22,
+          "en": "pomegranate",
+          "zh": "石榴"
+        },
+        {
+          "id": 23,
+          "en": "banana",
+          "zh": "香蕉"
+        },
+        {
+          "id": 24,
+          "en": "kiwi (US) / kiwi fruit (UK)",
+          "zh": "猕猴桃"
+        },
+        {
+          "id": 25,
+          "en": "apple",
+          "zh": "苹果"
+        },
+        {
+          "id": 26,
+          "en": "crab apples",
+          "zh": "沙果"
+        },
+        {
+          "id": 27,
+          "en": "pear",
+          "zh": "梨"
+        },
+        {
+          "id": 28,
+          "en": "rhubarb",
+          "zh": "大黄"
+        }
       ]
     },
     {
       "pageNum": 127,
-      "image": "assets/images/page_127.jpg",
+      "image": "assets/images/page_128.jpg",
       "section": "58.3",
       "sectionTitle": "坚果和干果",
       "sectionTitleEn": "Nuts and Dried Fruit",
       "words": [
-        { "id": 29, "en": "peanut", "zh": "花生" },
-        { "id": 30, "en": "raisin", "zh": "葡萄干" },
-        { "id": 31, "en": "pistachio", "zh": "开心果" },
-        { "id": 32, "en": "walnut", "zh": "核桃" },
-        { "id": 33, "en": "hazelnut", "zh": "榛子" },
-        { "id": 34, "en": "cashew (US) / cashew nut (UK)", "zh": "腰果" },
-        { "id": 35, "en": "golden raisin (US) / sultana (UK)", "zh": "金葡萄干" },
-        { "id": 36, "en": "currant", "zh": "无核小葡萄干" },
-        { "id": 37, "en": "dried fig", "zh": "无花果干" },
-        { "id": 38, "en": "date", "zh": "椰枣" },
-        { "id": 39, "en": "pine nuts", "zh": "松子" },
-        { "id": 40, "en": "brazil nuts", "zh": "巴西坚果" },
-        { "id": 41, "en": "pecans", "zh": "美洲山核桃" },
-        { "id": 42, "en": "almonds", "zh": "杏仁" },
-        { "id": 43, "en": "ginkgo nuts", "zh": "银杏果" },
-        { "id": 44, "en": "kola nuts", "zh": "可乐果" },
-        { "id": 45, "en": "chestnuts", "zh": "栗子" },
-        { "id": 46, "en": "macadamias", "zh": "澳洲坚果" },
-        { "id": 47, "en": "dried apricots", "zh": "杏干" },
-        { "id": 48, "en": "prunes", "zh": "李子干" },
-        { "id": 49, "en": "coconut", "zh": "椰子" },
-        { "id": 50, "en": "milk", "zh": "椰浆" },
-        { "id": 51, "en": "flesh", "zh": "椰肉" },
-        { "id": 52, "en": "shell", "zh": "椰壳" }
+        {
+          "id": 29,
+          "en": "peanut",
+          "zh": "花生"
+        },
+        {
+          "id": 30,
+          "en": "raisin",
+          "zh": "葡萄干"
+        },
+        {
+          "id": 31,
+          "en": "pistachio",
+          "zh": "开心果"
+        },
+        {
+          "id": 32,
+          "en": "walnut",
+          "zh": "核桃"
+        },
+        {
+          "id": 33,
+          "en": "hazelnut",
+          "zh": "榛子"
+        },
+        {
+          "id": 34,
+          "en": "cashew (US) / cashew nut (UK)",
+          "zh": "腰果"
+        },
+        {
+          "id": 35,
+          "en": "golden raisin (US) / sultana (UK)",
+          "zh": "金葡萄干"
+        },
+        {
+          "id": 36,
+          "en": "currant",
+          "zh": "无核小葡萄干"
+        },
+        {
+          "id": 37,
+          "en": "dried fig",
+          "zh": "无花果干"
+        },
+        {
+          "id": 38,
+          "en": "date",
+          "zh": "椰枣"
+        },
+        {
+          "id": 39,
+          "en": "pine nuts",
+          "zh": "松子"
+        },
+        {
+          "id": 40,
+          "en": "brazil nuts",
+          "zh": "巴西坚果"
+        },
+        {
+          "id": 41,
+          "en": "pecans",
+          "zh": "美洲山核桃"
+        },
+        {
+          "id": 42,
+          "en": "almonds",
+          "zh": "杏仁"
+        },
+        {
+          "id": 43,
+          "en": "ginkgo nuts",
+          "zh": "银杏果"
+        },
+        {
+          "id": 44,
+          "en": "kola nuts",
+          "zh": "可乐果"
+        },
+        {
+          "id": 45,
+          "en": "chestnuts",
+          "zh": "栗子"
+        },
+        {
+          "id": 46,
+          "en": "macadamias",
+          "zh": "澳洲坚果"
+        },
+        {
+          "id": 47,
+          "en": "dried apricots",
+          "zh": "杏干"
+        },
+        {
+          "id": 48,
+          "en": "prunes",
+          "zh": "李子干"
+        },
+        {
+          "id": 49,
+          "en": "coconut",
+          "zh": "椰子"
+        },
+        {
+          "id": 50,
+          "en": "milk",
+          "zh": "椰浆"
+        },
+        {
+          "id": 51,
+          "en": "flesh",
+          "zh": "椰肉"
+        },
+        {
+          "id": 52,
+          "en": "shell",
+          "zh": "椰壳"
+        }
       ]
     }
   ]

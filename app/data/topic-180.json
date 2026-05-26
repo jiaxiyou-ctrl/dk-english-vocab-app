@@ -6,23 +6,71 @@
   "pages": [
     {
       "pageNum": 369,
-      "image": "assets/images/page_369.jpg",
+      "image": "assets/images/page_370.jpg",
       "section": "180.1",
       "sectionTitle": "问路",
       "sectionTitleEn": "Asking for Directions",
       "words": [
-        { "id": 1, "en": "can you help me, please?", "zh": "请你帮我好吗？" },
-        { "id": 2, "en": "yes, of course.", "zh": "当然可以。" },
-        { "id": 3, "en": "where is the train station?", "zh": "火车站在哪里？" },
-        { "id": 4, "en": "it's a 15-minute walk. turn left at the supermarket.", "zh": "步行15分钟。在超市处左转。" },
-        { "id": 5, "en": "how far is it to the hotel?", "zh": "到酒店有多远？" },
-        { "id": 6, "en": "we've lost our way!", "zh": "我们迷路了！" },
-        { "id": 7, "en": "we should ask for help.", "zh": "我们应该寻求帮助。" },
-        { "id": 8, "en": "can you show us the way to the lake?", "zh": "你能指路去湖边吗？" },
-        { "id": 9, "en": "how do we get to the beach?", "zh": "我们怎么去海滩？" },
-        { "id": 10, "en": "it's straight ahead!", "zh": "一直走就到了！" },
-        { "id": 11, "en": "where can i find a good place to eat?", "zh": "我在哪里可以找到好的餐厅？" },
-        { "id": 12, "en": "try the café next to the post office.", "zh": "试试邮局旁边的咖啡馆。" }
+        {
+          "id": 1,
+          "en": "can you help me, please?",
+          "zh": "请你帮我好吗？"
+        },
+        {
+          "id": 2,
+          "en": "yes, of course.",
+          "zh": "当然可以。"
+        },
+        {
+          "id": 3,
+          "en": "where is the train station?",
+          "zh": "火车站在哪里？"
+        },
+        {
+          "id": 4,
+          "en": "it's a 15-minute walk. turn left at the supermarket.",
+          "zh": "步行15分钟。在超市处左转。"
+        },
+        {
+          "id": 5,
+          "en": "how far is it to the hotel?",
+          "zh": "到酒店有多远？"
+        },
+        {
+          "id": 6,
+          "en": "we've lost our way!",
+          "zh": "我们迷路了！"
+        },
+        {
+          "id": 7,
+          "en": "we should ask for help.",
+          "zh": "我们应该寻求帮助。"
+        },
+        {
+          "id": 8,
+          "en": "can you show us the way to the lake?",
+          "zh": "你能指路去湖边吗？"
+        },
+        {
+          "id": 9,
+          "en": "how do we get to the beach?",
+          "zh": "我们怎么去海滩？"
+        },
+        {
+          "id": 10,
+          "en": "it's straight ahead!",
+          "zh": "一直走就到了！"
+        },
+        {
+          "id": 11,
+          "en": "where can i find a good place to eat?",
+          "zh": "我在哪里可以找到好的餐厅？"
+        },
+        {
+          "id": 12,
+          "en": "try the café next to the post office.",
+          "zh": "试试邮局旁边的咖啡馆。"
+        }
       ]
     }
   ]

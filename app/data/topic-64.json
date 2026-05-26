@@ -6,89 +6,329 @@
   "pages": [
     {
       "pageNum": 138,
-      "image": "assets/images/page_138.jpg",
-      "section": "64.1",
-      "sectionTitle": "熟食店",
-      "sectionTitleEn": "The Deli",
-      "words": [
-        { "id": 1, "en": "salami", "zh": "萨拉米香肠" },
-        { "id": 2, "en": "prosciutto", "zh": "意大利熏火腿" },
-        { "id": 3, "en": "pepperoni", "zh": "意大利辣香肠" },
-        { "id": 4, "en": "dry-cured meat", "zh": "干腌肉" },
-        { "id": 5, "en": "vinegar", "zh": "醋" },
-        { "id": 6, "en": "oil", "zh": "油" },
-        { "id": 7, "en": "feta", "zh": "菲达奶酪" },
-        { "id": 15, "en": "spicy sausage", "zh": "辣香肠" },
-        { "id": 16, "en": "cooked meat", "zh": "熟肉" },
-        { "id": 17, "en": "pâté", "zh": "肉酱" },
-        { "id": 18, "en": "corned beef (US) / salt beef (UK)", "zh": "咸牛肉" },
-        { "id": 19, "en": "pastrami", "zh": "黑牛肉" },
-        { "id": 20, "en": "pies", "zh": "派" },
-        { "id": 21, "en": "Edam", "zh": "艾登奶酪" },
-        { "id": 22, "en": "Parmesan", "zh": "帕尔马干酪" },
-        { "id": 23, "en": "cheddar", "zh": "切达干酪" },
-        { "id": 24, "en": "Brie", "zh": "布里干酪" },
-        { "id": 25, "en": "flan", "zh": "果馅饼" },
-        { "id": 27, "en": "chiles (US) / chillies (UK)", "zh": "辣椒" },
-        { "id": 28, "en": "stuffed vine leaves", "zh": "葡萄叶卷饭" },
-        { "id": 29, "en": "green olives", "zh": "绿橄榄" },
-        { "id": 30, "en": "black olives", "zh": "黑橄榄" },
-        { "id": 31, "en": "stuffed olives", "zh": "填馅橄榄" },
-        { "id": 32, "en": "capers", "zh": "马拉椒" },
-        { "id": 33, "en": "Iberian ham", "zh": "伊比利亚火腿" },
-        { "id": 34, "en": "chorizo", "zh": "口利左香肠" },
-        { "id": 35, "en": "in oil", "zh": "浸在油里" },
-        { "id": 36, "en": "sauces", "zh": "酱汁" },
-        { "id": 37, "en": "marinated", "zh": "腌制的" },
-        { "id": 38, "en": "salted", "zh": "盐渍的" },
-        { "id": 39, "en": "cured meat", "zh": "腌肉" }
-      ]
-    },
-    {
-      "pageNum": 139,
       "image": "assets/images/page_139.jpg",
       "section": "64.1",
       "sectionTitle": "熟食店",
       "sectionTitleEn": "The Deli",
       "words": [
-        { "id": 8, "en": "rind", "zh": "外皮" },
-        { "id": 10, "en": "paneer", "zh": "印度奶酪" },
-        { "id": 11, "en": "halloumi", "zh": "哈罗米奶酪" },
-        { "id": 12, "en": "mozzarella", "zh": "马苏里拉奶酪" },
-        { "id": 13, "en": "manchego", "zh": "曼彻格奶酪" },
-        { "id": 14, "en": "cheeses", "zh": "奶酪" },
-        { "id": 26, "en": "Camembert", "zh": "卡门贝干酪" },
-        { "id": 40, "en": "smoked salmon", "zh": "烟熏鲑鱼" },
-        { "id": 41, "en": "smoked mackerel", "zh": "烟熏鲭鱼" },
-        { "id": 42, "en": "smoked haddock", "zh": "烟熏黑线鳕" },
-        { "id": 43, "en": "smoked fish", "zh": "熏鱼" },
-        { "id": 44, "en": "in brine", "zh": "浸在盐卤里" },
-        { "id": 45, "en": "anchovies", "zh": "鳀鱼" },
-        { "id": 46, "en": "sardines", "zh": "沙丁鱼" },
-        { "id": 47, "en": "marinated fish", "zh": "腌鱼" }
+        {
+          "id": 1,
+          "en": "salami",
+          "zh": "萨拉米香肠"
+        },
+        {
+          "id": 2,
+          "en": "prosciutto",
+          "zh": "意大利熏火腿"
+        },
+        {
+          "id": 3,
+          "en": "pepperoni",
+          "zh": "意大利辣香肠"
+        },
+        {
+          "id": 4,
+          "en": "dry-cured meat",
+          "zh": "干腌肉"
+        },
+        {
+          "id": 5,
+          "en": "vinegar",
+          "zh": "醋"
+        },
+        {
+          "id": 6,
+          "en": "oil",
+          "zh": "油"
+        },
+        {
+          "id": 7,
+          "en": "feta",
+          "zh": "菲达奶酪"
+        },
+        {
+          "id": 15,
+          "en": "spicy sausage",
+          "zh": "辣香肠"
+        },
+        {
+          "id": 16,
+          "en": "cooked meat",
+          "zh": "熟肉"
+        },
+        {
+          "id": 17,
+          "en": "pâté",
+          "zh": "肉酱"
+        },
+        {
+          "id": 18,
+          "en": "corned beef (US) / salt beef (UK)",
+          "zh": "咸牛肉"
+        },
+        {
+          "id": 19,
+          "en": "pastrami",
+          "zh": "黑牛肉"
+        },
+        {
+          "id": 20,
+          "en": "pies",
+          "zh": "派"
+        },
+        {
+          "id": 21,
+          "en": "Edam",
+          "zh": "艾登奶酪"
+        },
+        {
+          "id": 22,
+          "en": "Parmesan",
+          "zh": "帕尔马干酪"
+        },
+        {
+          "id": 23,
+          "en": "cheddar",
+          "zh": "切达干酪"
+        },
+        {
+          "id": 24,
+          "en": "Brie",
+          "zh": "布里干酪"
+        },
+        {
+          "id": 25,
+          "en": "flan",
+          "zh": "果馅饼"
+        },
+        {
+          "id": 27,
+          "en": "chiles (US) / chillies (UK)",
+          "zh": "辣椒"
+        },
+        {
+          "id": 28,
+          "en": "stuffed vine leaves",
+          "zh": "葡萄叶卷饭"
+        },
+        {
+          "id": 29,
+          "en": "green olives",
+          "zh": "绿橄榄"
+        },
+        {
+          "id": 30,
+          "en": "black olives",
+          "zh": "黑橄榄"
+        },
+        {
+          "id": 31,
+          "en": "stuffed olives",
+          "zh": "填馅橄榄"
+        },
+        {
+          "id": 32,
+          "en": "capers",
+          "zh": "马拉椒"
+        },
+        {
+          "id": 33,
+          "en": "Iberian ham",
+          "zh": "伊比利亚火腿"
+        },
+        {
+          "id": 34,
+          "en": "chorizo",
+          "zh": "口利左香肠"
+        },
+        {
+          "id": 35,
+          "en": "in oil",
+          "zh": "浸在油里"
+        },
+        {
+          "id": 36,
+          "en": "sauces",
+          "zh": "酱汁"
+        },
+        {
+          "id": 37,
+          "en": "marinated",
+          "zh": "腌制的"
+        },
+        {
+          "id": 38,
+          "en": "salted",
+          "zh": "盐渍的"
+        },
+        {
+          "id": 39,
+          "en": "cured meat",
+          "zh": "腌肉"
+        }
       ]
     },
     {
       "pageNum": 139,
-      "image": "assets/images/page_139.jpg",
+      "image": "assets/images/page_140.jpg",
+      "section": "64.1",
+      "sectionTitle": "熟食店",
+      "sectionTitleEn": "The Deli",
+      "words": [
+        {
+          "id": 8,
+          "en": "rind",
+          "zh": "外皮"
+        },
+        {
+          "id": 10,
+          "en": "paneer",
+          "zh": "印度奶酪"
+        },
+        {
+          "id": 11,
+          "en": "halloumi",
+          "zh": "哈罗米奶酪"
+        },
+        {
+          "id": 12,
+          "en": "mozzarella",
+          "zh": "马苏里拉奶酪"
+        },
+        {
+          "id": 13,
+          "en": "manchego",
+          "zh": "曼彻格奶酪"
+        },
+        {
+          "id": 14,
+          "en": "cheeses",
+          "zh": "奶酪"
+        },
+        {
+          "id": 26,
+          "en": "Camembert",
+          "zh": "卡门贝干酪"
+        },
+        {
+          "id": 40,
+          "en": "smoked salmon",
+          "zh": "烟熏鲑鱼"
+        },
+        {
+          "id": 41,
+          "en": "smoked mackerel",
+          "zh": "烟熏鲭鱼"
+        },
+        {
+          "id": 42,
+          "en": "smoked haddock",
+          "zh": "烟熏黑线鳕"
+        },
+        {
+          "id": 43,
+          "en": "smoked fish",
+          "zh": "熏鱼"
+        },
+        {
+          "id": 44,
+          "en": "in brine",
+          "zh": "浸在盐卤里"
+        },
+        {
+          "id": 45,
+          "en": "anchovies",
+          "zh": "鳀鱼"
+        },
+        {
+          "id": 46,
+          "en": "sardines",
+          "zh": "沙丁鱼"
+        },
+        {
+          "id": 47,
+          "en": "marinated fish",
+          "zh": "腌鱼"
+        }
+      ]
+    },
+    {
+      "pageNum": 139,
+      "image": "assets/images/page_140.jpg",
       "section": "64.2",
       "sectionTitle": "面条和意大利面食",
       "sectionTitleEn": "Noodles and Pasta",
       "words": [
-        { "id": 48, "en": "lasagne", "zh": "千层面" },
-        { "id": 49, "en": "conchiglie / shells", "zh": "贝壳意面" },
-        { "id": 50, "en": "fusilli", "zh": "螺旋意面" },
-        { "id": 51, "en": "macaroni", "zh": "水管意面" },
-        { "id": 52, "en": "gnocchi", "zh": "意式土豆团" },
-        { "id": 53, "en": "penne", "zh": "斜管意面" },
-        { "id": 54, "en": "cannelloni", "zh": "意式肉卷" },
-        { "id": 55, "en": "tortellini", "zh": "意式饺子" },
-        { "id": 56, "en": "noodles", "zh": "面条" },
-        { "id": 57, "en": "rice noodles", "zh": "米粉" },
-        { "id": 58, "en": "ramen", "zh": "拉面" },
-        { "id": 59, "en": "udon", "zh": "乌冬面" },
-        { "id": 60, "en": "spaghetti", "zh": "细条意面" },
-        { "id": 61, "en": "Bolognese sauce", "zh": "意式肉酱" }
+        {
+          "id": 48,
+          "en": "lasagne",
+          "zh": "千层面"
+        },
+        {
+          "id": 49,
+          "en": "conchiglie / shells",
+          "zh": "贝壳意面"
+        },
+        {
+          "id": 50,
+          "en": "fusilli",
+          "zh": "螺旋意面"
+        },
+        {
+          "id": 51,
+          "en": "macaroni",
+          "zh": "水管意面"
+        },
+        {
+          "id": 52,
+          "en": "gnocchi",
+          "zh": "意式土豆团"
+        },
+        {
+          "id": 53,
+          "en": "penne",
+          "zh": "斜管意面"
+        },
+        {
+          "id": 54,
+          "en": "cannelloni",
+          "zh": "意式肉卷"
+        },
+        {
+          "id": 55,
+          "en": "tortellini",
+          "zh": "意式饺子"
+        },
+        {
+          "id": 56,
+          "en": "noodles",
+          "zh": "面条"
+        },
+        {
+          "id": 57,
+          "en": "rice noodles",
+          "zh": "米粉"
+        },
+        {
+          "id": 58,
+          "en": "ramen",
+          "zh": "拉面"
+        },
+        {
+          "id": 59,
+          "en": "udon",
+          "zh": "乌冬面"
+        },
+        {
+          "id": 60,
+          "en": "spaghetti",
+          "zh": "细条意面"
+        },
+        {
+          "id": 61,
+          "en": "Bolognese sauce",
+          "zh": "意式肉酱"
+        }
       ]
     }
   ]

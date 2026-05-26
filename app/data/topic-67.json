@@ -6,31 +6,111 @@
   "pages": [
     {
       "pageNum": 143,
-      "image": "assets/images/page_143.jpg",
+      "image": "assets/images/page_144.jpg",
       "section": "67.1",
       "sectionTitle": "糖果店",
       "sectionTitleEn": "The Candy Store",
       "words": [
-        { "id": 1, "en": "fruit gum", "zh": "水果软糖" },
-        { "id": 2, "en": "halva", "zh": "哈尔瓦酥糖" },
-        { "id": 3, "en": "mint", "zh": "薄荷糖" },
-        { "id": 4, "en": "toffee", "zh": "太妃糖" },
-        { "id": 5, "en": "soft candy (US) / soft sweets (UK)", "zh": "软糖" },
-        { "id": 6, "en": "licorice (US) / liquorice (UK)", "zh": "甘草糖" },
-        { "id": 7, "en": "candy cane", "zh": "拐杖糖" },
-        { "id": 8, "en": "jelly beans", "zh": "糖豆" },
-        { "id": 9, "en": "chocolate bar", "zh": "巧克力棒" },
-        { "id": 10, "en": "dark chocolate", "zh": "黑巧克力" },
-        { "id": 11, "en": "hard candy (US) / boiled sweets (UK)", "zh": "硬糖" },
-        { "id": 12, "en": "Turkish delight", "zh": "土耳其软糖" },
-        { "id": 13, "en": "lollipop", "zh": "棒棒糖" },
-        { "id": 14, "en": "nougat", "zh": "牛轧糖" },
-        { "id": 15, "en": "milk chocolate", "zh": "牛奶巧克力" },
-        { "id": 16, "en": "white chocolate", "zh": "白巧克力" },
-        { "id": 17, "en": "cotton candy (US) / candy floss (UK)", "zh": "棉花糖" },
-        { "id": 18, "en": "penny candy (US) / pick 'n' mix (UK)", "zh": "一便士糖" },
-        { "id": 19, "en": "marshmallow", "zh": "棉花软糖" },
-        { "id": 20, "en": "chewing gum", "zh": "口香糖" }
+        {
+          "id": 1,
+          "en": "fruit gum",
+          "zh": "水果软糖"
+        },
+        {
+          "id": 2,
+          "en": "halva",
+          "zh": "哈尔瓦酥糖"
+        },
+        {
+          "id": 3,
+          "en": "mint",
+          "zh": "薄荷糖"
+        },
+        {
+          "id": 4,
+          "en": "toffee",
+          "zh": "太妃糖"
+        },
+        {
+          "id": 5,
+          "en": "soft candy (US) / soft sweets (UK)",
+          "zh": "软糖"
+        },
+        {
+          "id": 6,
+          "en": "licorice (US) / liquorice (UK)",
+          "zh": "甘草糖"
+        },
+        {
+          "id": 7,
+          "en": "candy cane",
+          "zh": "拐杖糖"
+        },
+        {
+          "id": 8,
+          "en": "jelly beans",
+          "zh": "糖豆"
+        },
+        {
+          "id": 9,
+          "en": "chocolate bar",
+          "zh": "巧克力棒"
+        },
+        {
+          "id": 10,
+          "en": "dark chocolate",
+          "zh": "黑巧克力"
+        },
+        {
+          "id": 11,
+          "en": "hard candy (US) / boiled sweets (UK)",
+          "zh": "硬糖"
+        },
+        {
+          "id": 12,
+          "en": "Turkish delight",
+          "zh": "土耳其软糖"
+        },
+        {
+          "id": 13,
+          "en": "lollipop",
+          "zh": "棒棒糖"
+        },
+        {
+          "id": 14,
+          "en": "nougat",
+          "zh": "牛轧糖"
+        },
+        {
+          "id": 15,
+          "en": "milk chocolate",
+          "zh": "牛奶巧克力"
+        },
+        {
+          "id": 16,
+          "en": "white chocolate",
+          "zh": "白巧克力"
+        },
+        {
+          "id": 17,
+          "en": "cotton candy (US) / candy floss (UK)",
+          "zh": "棉花糖"
+        },
+        {
+          "id": 18,
+          "en": "penny candy (US) / pick 'n' mix (UK)",
+          "zh": "一便士糖"
+        },
+        {
+          "id": 19,
+          "en": "marshmallow",
+          "zh": "棉花软糖"
+        },
+        {
+          "id": 20,
+          "en": "chewing gum",
+          "zh": "口香糖"
+        }
       ]
     }
   ]

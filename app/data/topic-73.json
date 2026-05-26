@@ -6,46 +6,186 @@
   "pages": [
     {
       "pageNum": 154,
-      "image": "assets/images/page_154.jpg",
+      "image": "assets/images/page_155.jpg",
       "section": "73.1",
       "sectionTitle": "学校和学习",
       "sectionTitleEn": "School and Learning",
       "words": [
-        { "id": 1, "en": "school", "zh": "学校" },
-        { "id": 2, "en": "classroom", "zh": "教室" },
-        { "id": 3, "en": "class", "zh": "课堂" },
-        { "id": 4, "en": "teacher", "zh": "教师" },
-        { "id": 5, "en": "whiteboard", "zh": "白板" },
-        { "id": 6, "en": "pupil", "zh": "小学生" },
-        { "id": 7, "en": "desk", "zh": "书桌" },
-        { "id": 8, "en": "school students", "zh": "学生" },
-        { "id": 9, "en": "school bag", "zh": "书包" },
-        { "id": 10, "en": "literature", "zh": "文学" },
-        { "id": 11, "en": "math (US) / maths (UK)", "zh": "数学" },
-        { "id": 12, "en": "geography", "zh": "地理" },
-        { "id": 13, "en": "history", "zh": "历史" },
-        { "id": 14, "en": "science", "zh": "科学" },
-        { "id": 15, "en": "chemistry", "zh": "化学" },
-        { "id": 16, "en": "physics", "zh": "物理" },
-        { "id": 17, "en": "biology", "zh": "生物" },
-        { "id": 18, "en": "english", "zh": "英语" },
-        { "id": 19, "en": "languages", "zh": "语言" },
-        { "id": 20, "en": "design and technology", "zh": "设计与技术" },
-        { "id": 21, "en": "information technology", "zh": "信息技术" },
-        { "id": 22, "en": "art", "zh": "艺术" },
-        { "id": 23, "en": "music", "zh": "音乐" },
-        { "id": 24, "en": "drama", "zh": "戏剧" },
-        { "id": 25, "en": "physical education", "zh": "体育课" },
-        { "id": 26, "en": "head teacher / principal", "zh": "校长" },
-        { "id": 27, "en": "homework", "zh": "家庭作业" },
-        { "id": 28, "en": "lesson", "zh": "课程" },
-        { "id": 29, "en": "exam", "zh": "考试" },
-        { "id": 30, "en": "essay", "zh": "论文" },
-        { "id": 31, "en": "grade", "zh": "成绩" },
-        { "id": 32, "en": "encyclopedia", "zh": "百科全书" },
-        { "id": 33, "en": "dictionary", "zh": "字典" },
-        { "id": 34, "en": "atlas", "zh": "地图集" },
-        { "id": 35, "en": "test", "zh": "测试" }
+        {
+          "id": 1,
+          "en": "school",
+          "zh": "学校"
+        },
+        {
+          "id": 2,
+          "en": "classroom",
+          "zh": "教室"
+        },
+        {
+          "id": 3,
+          "en": "class",
+          "zh": "课堂"
+        },
+        {
+          "id": 4,
+          "en": "teacher",
+          "zh": "教师"
+        },
+        {
+          "id": 5,
+          "en": "whiteboard",
+          "zh": "白板"
+        },
+        {
+          "id": 6,
+          "en": "pupil",
+          "zh": "小学生"
+        },
+        {
+          "id": 7,
+          "en": "desk",
+          "zh": "书桌"
+        },
+        {
+          "id": 8,
+          "en": "school students",
+          "zh": "学生"
+        },
+        {
+          "id": 9,
+          "en": "school bag",
+          "zh": "书包"
+        },
+        {
+          "id": 10,
+          "en": "literature",
+          "zh": "文学"
+        },
+        {
+          "id": 11,
+          "en": "math (US) / maths (UK)",
+          "zh": "数学"
+        },
+        {
+          "id": 12,
+          "en": "geography",
+          "zh": "地理"
+        },
+        {
+          "id": 13,
+          "en": "history",
+          "zh": "历史"
+        },
+        {
+          "id": 14,
+          "en": "science",
+          "zh": "科学"
+        },
+        {
+          "id": 15,
+          "en": "chemistry",
+          "zh": "化学"
+        },
+        {
+          "id": 16,
+          "en": "physics",
+          "zh": "物理"
+        },
+        {
+          "id": 17,
+          "en": "biology",
+          "zh": "生物"
+        },
+        {
+          "id": 18,
+          "en": "english",
+          "zh": "英语"
+        },
+        {
+          "id": 19,
+          "en": "languages",
+          "zh": "语言"
+        },
+        {
+          "id": 20,
+          "en": "design and technology",
+          "zh": "设计与技术"
+        },
+        {
+          "id": 21,
+          "en": "information technology",
+          "zh": "信息技术"
+        },
+        {
+          "id": 22,
+          "en": "art",
+          "zh": "艺术"
+        },
+        {
+          "id": 23,
+          "en": "music",
+          "zh": "音乐"
+        },
+        {
+          "id": 24,
+          "en": "drama",
+          "zh": "戏剧"
+        },
+        {
+          "id": 25,
+          "en": "physical education",
+          "zh": "体育课"
+        },
+        {
+          "id": 26,
+          "en": "head teacher / principal",
+          "zh": "校长"
+        },
+        {
+          "id": 27,
+          "en": "homework",
+          "zh": "家庭作业"
+        },
+        {
+          "id": 28,
+          "en": "lesson",
+          "zh": "课程"
+        },
+        {
+          "id": 29,
+          "en": "exam",
+          "zh": "考试"
+        },
+        {
+          "id": 30,
+          "en": "essay",
+          "zh": "论文"
+        },
+        {
+          "id": 31,
+          "en": "grade",
+          "zh": "成绩"
+        },
+        {
+          "id": 32,
+          "en": "encyclopedia",
+          "zh": "百科全书"
+        },
+        {
+          "id": 33,
+          "en": "dictionary",
+          "zh": "字典"
+        },
+        {
+          "id": 34,
+          "en": "atlas",
+          "zh": "地图集"
+        },
+        {
+          "id": 35,
+          "en": "test",
+          "zh": "测试"
+        }
       ]
     }
   ]

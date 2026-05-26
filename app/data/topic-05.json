@@ -6,96 +6,328 @@
   "pages": [
     {
       "pageNum": 20,
-      "image": "assets/images/page_20.jpg",
+      "image": "assets/images/page_21.jpg",
       "section": "5.1",
       "sectionTitle": "卡罗的家庭",
       "sectionTitleEn": "Carlo's Family",
       "words": [
-        { "id": 1, "en": "grandfather", "zh": "祖父" },
-        { "id": 2, "en": "grandmother", "zh": "祖母" },
-        { "id": 3, "en": "grandparents", "zh": "祖父母" },
-        { "id": 4, "en": "father-in-law", "zh": "岳父" },
-        { "id": 5, "en": "mother-in-law", "zh": "岳母" },
-        { "id": 6, "en": "uncle", "zh": "舅舅" },
-        { "id": 7, "en": "mother / mom (US) / mum (UK)", "zh": "母亲/妈妈" },
-        { "id": 8, "en": "father / dad", "zh": "父亲/爸爸" },
-        { "id": 9, "en": "aunt", "zh": "姑姑" },
-        { "id": 10, "en": "uncle", "zh": "姑父" },
-        { "id": 11, "en": "sister-in-law", "zh": "嫂" },
-        { "id": 12, "en": "wife", "zh": "妻子" },
-        { "id": 13, "en": "brother", "zh": "兄弟" },
-        { "id": 14, "en": "sister", "zh": "姐妹" },
-        { "id": 15, "en": "brother-in-law", "zh": "妹夫" },
-        { "id": 16, "en": "cousin", "zh": "表亲" },
-        { "id": 17, "en": "daughter-in-law", "zh": "儿媳" },
-        { "id": 18, "en": "son", "zh": "儿子" },
-        { "id": 19, "en": "daughter", "zh": "女儿" },
-        { "id": 20, "en": "son-in-law", "zh": "女婿" },
-        { "id": 21, "en": "nephew", "zh": "侄子" },
-        { "id": 22, "en": "niece", "zh": "侄女" },
-        { "id": 23, "en": "grandson", "zh": "孙子" },
-        { "id": 24, "en": "granddaughter", "zh": "孙女" },
-        { "id": 25, "en": "grandchildren", "zh": "孙辈" },
-        { "id": 26, "en": "married", "zh": "已婚" },
-        { "id": 27, "en": "divorced", "zh": "离异" },
-        { "id": 28, "en": "children", "zh": "子女" },
-        { "id": 29, "en": "non-blood relative", "zh": "非血缘关系的亲属" }
+        {
+          "id": 1,
+          "en": "grandfather",
+          "zh": "祖父"
+        },
+        {
+          "id": 2,
+          "en": "grandmother",
+          "zh": "祖母"
+        },
+        {
+          "id": 3,
+          "en": "grandparents",
+          "zh": "祖父母"
+        },
+        {
+          "id": 4,
+          "en": "father-in-law",
+          "zh": "岳父"
+        },
+        {
+          "id": 5,
+          "en": "mother-in-law",
+          "zh": "岳母"
+        },
+        {
+          "id": 6,
+          "en": "uncle",
+          "zh": "舅舅"
+        },
+        {
+          "id": 7,
+          "en": "mother / mom (US) / mum (UK)",
+          "zh": "母亲/妈妈"
+        },
+        {
+          "id": 8,
+          "en": "father / dad",
+          "zh": "父亲/爸爸"
+        },
+        {
+          "id": 9,
+          "en": "aunt",
+          "zh": "姑姑"
+        },
+        {
+          "id": 10,
+          "en": "uncle",
+          "zh": "姑父"
+        },
+        {
+          "id": 11,
+          "en": "sister-in-law",
+          "zh": "嫂"
+        },
+        {
+          "id": 12,
+          "en": "wife",
+          "zh": "妻子"
+        },
+        {
+          "id": 13,
+          "en": "brother",
+          "zh": "兄弟"
+        },
+        {
+          "id": 14,
+          "en": "sister",
+          "zh": "姐妹"
+        },
+        {
+          "id": 15,
+          "en": "brother-in-law",
+          "zh": "妹夫"
+        },
+        {
+          "id": 16,
+          "en": "cousin",
+          "zh": "表亲"
+        },
+        {
+          "id": 17,
+          "en": "daughter-in-law",
+          "zh": "儿媳"
+        },
+        {
+          "id": 18,
+          "en": "son",
+          "zh": "儿子"
+        },
+        {
+          "id": 19,
+          "en": "daughter",
+          "zh": "女儿"
+        },
+        {
+          "id": 20,
+          "en": "son-in-law",
+          "zh": "女婿"
+        },
+        {
+          "id": 21,
+          "en": "nephew",
+          "zh": "侄子"
+        },
+        {
+          "id": 22,
+          "en": "niece",
+          "zh": "侄女"
+        },
+        {
+          "id": 23,
+          "en": "grandson",
+          "zh": "孙子"
+        },
+        {
+          "id": 24,
+          "en": "granddaughter",
+          "zh": "孙女"
+        },
+        {
+          "id": 25,
+          "en": "grandchildren",
+          "zh": "孙辈"
+        },
+        {
+          "id": 26,
+          "en": "married",
+          "zh": "已婚"
+        },
+        {
+          "id": 27,
+          "en": "divorced",
+          "zh": "离异"
+        },
+        {
+          "id": 28,
+          "en": "children",
+          "zh": "子女"
+        },
+        {
+          "id": 29,
+          "en": "non-blood relative",
+          "zh": "非血缘关系的亲属"
+        }
       ]
     },
     {
       "pageNum": 21,
-      "image": "assets/images/page_21.jpg",
+      "image": "assets/images/page_22.jpg",
       "section": "5.2",
       "sectionTitle": "萨拉的家庭",
       "sectionTitleEn": "Sara's Family",
       "words": [
-        { "id": 30, "en": "grandparents", "zh": "祖父母" },
-        { "id": 31, "en": "stepmother / stepmom (US) / stepmum (UK)", "zh": "继母" },
-        { "id": 32, "en": "parents", "zh": "父母" },
-        { "id": 33, "en": "stepsister", "zh": "继姐妹" },
-        { "id": 34, "en": "stepbrother", "zh": "继兄弟" }
+        {
+          "id": 30,
+          "en": "grandparents",
+          "zh": "祖父母"
+        },
+        {
+          "id": 31,
+          "en": "stepmother / stepmom (US) / stepmum (UK)",
+          "zh": "继母"
+        },
+        {
+          "id": 32,
+          "en": "parents",
+          "zh": "父母"
+        },
+        {
+          "id": 33,
+          "en": "stepsister",
+          "zh": "继姐妹"
+        },
+        {
+          "id": 34,
+          "en": "stepbrother",
+          "zh": "继兄弟"
+        }
       ]
     },
     {
       "pageNum": 21,
-      "image": "assets/images/page_21.jpg",
+      "image": "assets/images/page_22.jpg",
       "section": "5.3",
       "sectionTitle": "人际关系",
       "sectionTitleEn": "Relationships",
       "words": [
-        { "id": 35, "en": "boyfriend and girlfriend", "zh": "男朋友和女朋友" },
-        { "id": 36, "en": "partner", "zh": "配偶" },
-        { "id": 37, "en": "single parent", "zh": "单亲" },
-        { "id": 38, "en": "widow", "zh": "遗孀" },
-        { "id": 39, "en": "married", "zh": "已婚" },
-        { "id": 40, "en": "husband", "zh": "丈夫" },
-        { "id": 41, "en": "wife", "zh": "妻子" },
-        { "id": 42, "en": "divorced", "zh": "离异" },
-        { "id": 43, "en": "ex-wife", "zh": "前妻" },
-        { "id": 44, "en": "ex-husband", "zh": "前夫" },
-        { "id": 45, "en": "siblings", "zh": "兄弟姐妹" },
-        { "id": 46, "en": "twins", "zh": "双胞胎" },
-        { "id": 47, "en": "triplets", "zh": "三胞胎" },
-        { "id": 48, "en": "only child", "zh": "独生子女" }
+        {
+          "id": 35,
+          "en": "boyfriend and girlfriend",
+          "zh": "男朋友和女朋友"
+        },
+        {
+          "id": 36,
+          "en": "partner",
+          "zh": "配偶"
+        },
+        {
+          "id": 37,
+          "en": "single parent",
+          "zh": "单亲"
+        },
+        {
+          "id": 38,
+          "en": "widow",
+          "zh": "遗孀"
+        },
+        {
+          "id": 39,
+          "en": "married",
+          "zh": "已婚"
+        },
+        {
+          "id": 40,
+          "en": "husband",
+          "zh": "丈夫"
+        },
+        {
+          "id": 41,
+          "en": "wife",
+          "zh": "妻子"
+        },
+        {
+          "id": 42,
+          "en": "divorced",
+          "zh": "离异"
+        },
+        {
+          "id": 43,
+          "en": "ex-wife",
+          "zh": "前妻"
+        },
+        {
+          "id": 44,
+          "en": "ex-husband",
+          "zh": "前夫"
+        },
+        {
+          "id": 45,
+          "en": "siblings",
+          "zh": "兄弟姐妹"
+        },
+        {
+          "id": 46,
+          "en": "twins",
+          "zh": "双胞胎"
+        },
+        {
+          "id": 47,
+          "en": "triplets",
+          "zh": "三胞胎"
+        },
+        {
+          "id": 48,
+          "en": "only child",
+          "zh": "独生子女"
+        }
       ]
     },
     {
       "pageNum": 21,
-      "image": "assets/images/page_21.jpg",
+      "image": "assets/images/page_22.jpg",
       "section": "5.4",
       "sectionTitle": "成长过程",
       "sectionTitleEn": "Stages of Life",
       "words": [
-        { "id": 49, "en": "baby", "zh": "婴儿" },
-        { "id": 50, "en": "toddler", "zh": "幼儿" },
-        { "id": 51, "en": "child", "zh": "儿童" },
-        { "id": 52, "en": "girl", "zh": "女孩" },
-        { "id": 53, "en": "boy", "zh": "男孩" },
-        { "id": 54, "en": "teenagers", "zh": "青少年" },
-        { "id": 55, "en": "adults", "zh": "成人" },
-        { "id": 56, "en": "woman", "zh": "女人" },
-        { "id": 57, "en": "man", "zh": "男人" },
-        { "id": 58, "en": "elderly", "zh": "老人" }
+        {
+          "id": 49,
+          "en": "baby",
+          "zh": "婴儿"
+        },
+        {
+          "id": 50,
+          "en": "toddler",
+          "zh": "幼儿"
+        },
+        {
+          "id": 51,
+          "en": "child",
+          "zh": "儿童"
+        },
+        {
+          "id": 52,
+          "en": "girl",
+          "zh": "女孩"
+        },
+        {
+          "id": 53,
+          "en": "boy",
+          "zh": "男孩"
+        },
+        {
+          "id": 54,
+          "en": "teenagers",
+          "zh": "青少年"
+        },
+        {
+          "id": 55,
+          "en": "adults",
+          "zh": "成人"
+        },
+        {
+          "id": 56,
+          "en": "woman",
+          "zh": "女人"
+        },
+        {
+          "id": 57,
+          "en": "man",
+          "zh": "男人"
+        },
+        {
+          "id": 58,
+          "en": "elderly",
+          "zh": "老人"
+        }
       ]
     }
   ]

@@ -6,84 +6,376 @@
   "pages": [
     {
       "pageNum": 222,
-      "image": "assets/images/page_222.jpg",
+      "image": "assets/images/page_223.jpg",
       "section": "107.1",
       "sectionTitle": "美式橄榄球",
       "sectionTitleEn": "American Football",
       "words": [
-        { "id": 1, "en": "left cornerback", "zh": "左角卫" },
-        { "id": 2, "en": "outside linebacker", "zh": "线外后卫" },
-        { "id": 3, "en": "left defensive end", "zh": "左防守端锋" },
-        { "id": 4, "en": "left safety", "zh": "左安全卫" },
-        { "id": 5, "en": "left defensive tackle", "zh": "左防守擒抱" },
-        { "id": 6, "en": "middle linebacker", "zh": "中后卫" },
-        { "id": 7, "en": "right defensive tackle", "zh": "右防守擒抱" },
-        { "id": 8, "en": "right safety", "zh": "右安全卫" },
-        { "id": 9, "en": "right defensive end", "zh": "右防守端锋" },
-        { "id": 10, "en": "outside linebacker", "zh": "线外后卫" },
-        { "id": 11, "en": "right cornerback", "zh": "右角卫" },
-        { "id": 12, "en": "wide receiver", "zh": "外接手" },
-        { "id": 13, "en": "right tackle", "zh": "右截锋" },
-        { "id": 14, "en": "right guard", "zh": "右护锋" },
-        { "id": 15, "en": "center (US) / centre (UK)", "zh": "中锋" },
-        { "id": 16, "en": "left guard", "zh": "左护锋" },
-        { "id": 17, "en": "left tackle", "zh": "左截锋" },
-        { "id": 18, "en": "running back / halfback", "zh": "中后卫" },
-        { "id": 19, "en": "fullback", "zh": "后卫" },
-        { "id": 20, "en": "quarterback", "zh": "四分卫" },
-        { "id": 21, "en": "wide receiver", "zh": "外接手" },
-        { "id": 22, "en": "American football positions", "zh": "美式橄榄球位置" },
-        { "id": 23, "en": "defense (US) / defence (UK)", "zh": "防守方" },
-        { "id": 24, "en": "offense (US) / offence (UK)", "zh": "进攻方" },
-        { "id": 25, "en": "fans", "zh": "粉丝" },
-        { "id": 26, "en": "players' bench", "zh": "球员席" },
-        { "id": 27, "en": "end zone", "zh": "球门区" },
-        { "id": 28, "en": "goalpost", "zh": "门柱" },
-        { "id": 29, "en": "neutral zone", "zh": "中立区" },
-        { "id": 30, "en": "sideline", "zh": "边线" },
-        { "id": 31, "en": "referee", "zh": "裁判" },
-        { "id": 32, "en": "goal line", "zh": "得分线" },
-        { "id": 33, "en": "end line", "zh": "端线" },
-        { "id": 34, "en": "hash marks", "zh": "码标" },
-        { "id": 35, "en": "yard line", "zh": "码线" },
-        { "id": 36, "en": "fifty-yard line", "zh": "五十码线" },
-        { "id": 37, "en": "field / pitch", "zh": "球场" },
-        { "id": 38, "en": "chin strap", "zh": "下颚带" },
-        { "id": 39, "en": "helmet", "zh": "头盔" },
-        { "id": 40, "en": "neck pad", "zh": "护颈" },
-        { "id": 41, "en": "face mask", "zh": "防护面具" },
-        { "id": 42, "en": "shoulder pad", "zh": "护肩" },
-        { "id": 43, "en": "team jersey", "zh": "队服" },
-        { "id": 44, "en": "player's number", "zh": "球员号码" },
-        { "id": 45, "en": "elbow pads", "zh": "护肘" },
-        { "id": 46, "en": "wrist band", "zh": "腕带" },
-        { "id": 47, "en": "gloves", "zh": "手套" },
-        { "id": 48, "en": "hip, thigh, and knee pads", "zh": "髋、大腿、膝盖护具" },
-        { "id": 49, "en": "pants", "zh": "球裤" },
-        { "id": 50, "en": "soccer cleats (US) / football boots (UK)", "zh": "美式橄榄球鞋" },
-        { "id": 51, "en": "sock", "zh": "球袜" },
-        { "id": 52, "en": "football player", "zh": "美式橄榄球运动员" },
-        { "id": 53, "en": "mouth guard", "zh": "口腔保护器" },
-        { "id": 54, "en": "chest protector", "zh": "护胸" },
-        { "id": 55, "en": "team", "zh": "队伍" },
-        { "id": 56, "en": "to tackle", "zh": "擒抱" },
-        { "id": 57, "en": "to pass", "zh": "传球" },
-        { "id": 58, "en": "to catch", "zh": "接球" },
-        { "id": 59, "en": "time out", "zh": "暂停" },
-        { "id": 60, "en": "to gain yards", "zh": "带球" },
-        { "id": 61, "en": "to fumble", "zh": "漏接" },
-        { "id": 62, "en": "to throw", "zh": "抛球" },
-        { "id": 63, "en": "to kick", "zh": "踢球" },
-        { "id": 64, "en": "touchdown", "zh": "达阵" },
-        { "id": 65, "en": "to chase", "zh": "追赶" },
-        { "id": 66, "en": "cheerleader", "zh": "啦啦队员" },
-        { "id": 67, "en": "football", "zh": "美式橄榄球" },
-        { "id": 68, "en": "leather", "zh": "皮革" },
-        { "id": 69, "en": "lace", "zh": "系带" },
-        { "id": 70, "en": "time", "zh": "时间" },
-        { "id": 71, "en": "home", "zh": "主场" },
-        { "id": 72, "en": "visitor", "zh": "客场" },
-        { "id": 73, "en": "scoreboard", "zh": "记分牌" }
+        {
+          "id": 1,
+          "en": "left cornerback",
+          "zh": "左角卫"
+        },
+        {
+          "id": 2,
+          "en": "outside linebacker",
+          "zh": "线外后卫"
+        },
+        {
+          "id": 3,
+          "en": "left defensive end",
+          "zh": "左防守端锋"
+        },
+        {
+          "id": 4,
+          "en": "left safety",
+          "zh": "左安全卫"
+        },
+        {
+          "id": 5,
+          "en": "left defensive tackle",
+          "zh": "左防守擒抱"
+        },
+        {
+          "id": 6,
+          "en": "middle linebacker",
+          "zh": "中后卫"
+        },
+        {
+          "id": 7,
+          "en": "right defensive tackle",
+          "zh": "右防守擒抱"
+        },
+        {
+          "id": 8,
+          "en": "right safety",
+          "zh": "右安全卫"
+        },
+        {
+          "id": 9,
+          "en": "right defensive end",
+          "zh": "右防守端锋"
+        },
+        {
+          "id": 10,
+          "en": "outside linebacker",
+          "zh": "线外后卫"
+        },
+        {
+          "id": 11,
+          "en": "right cornerback",
+          "zh": "右角卫"
+        },
+        {
+          "id": 12,
+          "en": "wide receiver",
+          "zh": "外接手"
+        },
+        {
+          "id": 13,
+          "en": "right tackle",
+          "zh": "右截锋"
+        },
+        {
+          "id": 14,
+          "en": "right guard",
+          "zh": "右护锋"
+        },
+        {
+          "id": 15,
+          "en": "center (US) / centre (UK)",
+          "zh": "中锋"
+        },
+        {
+          "id": 16,
+          "en": "left guard",
+          "zh": "左护锋"
+        },
+        {
+          "id": 17,
+          "en": "left tackle",
+          "zh": "左截锋"
+        },
+        {
+          "id": 18,
+          "en": "running back / halfback",
+          "zh": "中后卫"
+        },
+        {
+          "id": 19,
+          "en": "fullback",
+          "zh": "后卫"
+        },
+        {
+          "id": 20,
+          "en": "quarterback",
+          "zh": "四分卫"
+        },
+        {
+          "id": 21,
+          "en": "wide receiver",
+          "zh": "外接手"
+        },
+        {
+          "id": 22,
+          "en": "American football positions",
+          "zh": "美式橄榄球位置"
+        },
+        {
+          "id": 23,
+          "en": "defense (US) / defence (UK)",
+          "zh": "防守方"
+        },
+        {
+          "id": 24,
+          "en": "offense (US) / offence (UK)",
+          "zh": "进攻方"
+        },
+        {
+          "id": 25,
+          "en": "fans",
+          "zh": "粉丝"
+        },
+        {
+          "id": 26,
+          "en": "players' bench",
+          "zh": "球员席"
+        },
+        {
+          "id": 27,
+          "en": "end zone",
+          "zh": "球门区"
+        },
+        {
+          "id": 28,
+          "en": "goalpost",
+          "zh": "门柱"
+        },
+        {
+          "id": 29,
+          "en": "neutral zone",
+          "zh": "中立区"
+        },
+        {
+          "id": 30,
+          "en": "sideline",
+          "zh": "边线"
+        },
+        {
+          "id": 31,
+          "en": "referee",
+          "zh": "裁判"
+        },
+        {
+          "id": 32,
+          "en": "goal line",
+          "zh": "得分线"
+        },
+        {
+          "id": 33,
+          "en": "end line",
+          "zh": "端线"
+        },
+        {
+          "id": 34,
+          "en": "hash marks",
+          "zh": "码标"
+        },
+        {
+          "id": 35,
+          "en": "yard line",
+          "zh": "码线"
+        },
+        {
+          "id": 36,
+          "en": "fifty-yard line",
+          "zh": "五十码线"
+        },
+        {
+          "id": 37,
+          "en": "field / pitch",
+          "zh": "球场"
+        },
+        {
+          "id": 38,
+          "en": "chin strap",
+          "zh": "下颚带"
+        },
+        {
+          "id": 39,
+          "en": "helmet",
+          "zh": "头盔"
+        },
+        {
+          "id": 40,
+          "en": "neck pad",
+          "zh": "护颈"
+        },
+        {
+          "id": 41,
+          "en": "face mask",
+          "zh": "防护面具"
+        },
+        {
+          "id": 42,
+          "en": "shoulder pad",
+          "zh": "护肩"
+        },
+        {
+          "id": 43,
+          "en": "team jersey",
+          "zh": "队服"
+        },
+        {
+          "id": 44,
+          "en": "player's number",
+          "zh": "球员号码"
+        },
+        {
+          "id": 45,
+          "en": "elbow pads",
+          "zh": "护肘"
+        },
+        {
+          "id": 46,
+          "en": "wrist band",
+          "zh": "腕带"
+        },
+        {
+          "id": 47,
+          "en": "gloves",
+          "zh": "手套"
+        },
+        {
+          "id": 48,
+          "en": "hip, thigh, and knee pads",
+          "zh": "髋、大腿、膝盖护具"
+        },
+        {
+          "id": 49,
+          "en": "pants",
+          "zh": "球裤"
+        },
+        {
+          "id": 50,
+          "en": "soccer cleats (US) / football boots (UK)",
+          "zh": "美式橄榄球鞋"
+        },
+        {
+          "id": 51,
+          "en": "sock",
+          "zh": "球袜"
+        },
+        {
+          "id": 52,
+          "en": "football player",
+          "zh": "美式橄榄球运动员"
+        },
+        {
+          "id": 53,
+          "en": "mouth guard",
+          "zh": "口腔保护器"
+        },
+        {
+          "id": 54,
+          "en": "chest protector",
+          "zh": "护胸"
+        },
+        {
+          "id": 55,
+          "en": "team",
+          "zh": "队伍"
+        },
+        {
+          "id": 56,
+          "en": "to tackle",
+          "zh": "擒抱"
+        },
+        {
+          "id": 57,
+          "en": "to pass",
+          "zh": "传球"
+        },
+        {
+          "id": 58,
+          "en": "to catch",
+          "zh": "接球"
+        },
+        {
+          "id": 59,
+          "en": "time out",
+          "zh": "暂停"
+        },
+        {
+          "id": 60,
+          "en": "to gain yards",
+          "zh": "带球"
+        },
+        {
+          "id": 61,
+          "en": "to fumble",
+          "zh": "漏接"
+        },
+        {
+          "id": 62,
+          "en": "to throw",
+          "zh": "抛球"
+        },
+        {
+          "id": 63,
+          "en": "to kick",
+          "zh": "踢球"
+        },
+        {
+          "id": 64,
+          "en": "touchdown",
+          "zh": "达阵"
+        },
+        {
+          "id": 65,
+          "en": "to chase",
+          "zh": "追赶"
+        },
+        {
+          "id": 66,
+          "en": "cheerleader",
+          "zh": "啦啦队员"
+        },
+        {
+          "id": 67,
+          "en": "football",
+          "zh": "美式橄榄球"
+        },
+        {
+          "id": 68,
+          "en": "leather",
+          "zh": "皮革"
+        },
+        {
+          "id": 69,
+          "en": "lace",
+          "zh": "系带"
+        },
+        {
+          "id": 70,
+          "en": "time",
+          "zh": "时间"
+        },
+        {
+          "id": 71,
+          "en": "home",
+          "zh": "主场"
+        },
+        {
+          "id": 72,
+          "en": "visitor",
+          "zh": "客场"
+        },
+        {
+          "id": 73,
+          "en": "scoreboard",
+          "zh": "记分牌"
+        }
       ]
     }
   ]

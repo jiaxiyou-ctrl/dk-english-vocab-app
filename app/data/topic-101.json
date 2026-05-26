@@ -6,71 +6,311 @@
   "pages": [
     {
       "pageNum": 210,
-      "image": "assets/images/page_210.jpg",
+      "image": "assets/images/page_211.jpg",
       "section": "101.1",
       "sectionTitle": "自行车",
       "sectionTitleEn": "Bicycle",
       "words": [
-        { "id": 1, "en": "seat post", "zh": "座杆" },
-        { "id": 2, "en": "saddle", "zh": "鞍座" },
-        { "id": 3, "en": "cable", "zh": "线缆" },
-        { "id": 4, "en": "crossbar", "zh": "横梁" },
-        { "id": 5, "en": "frame", "zh": "车架" },
-        { "id": 6, "en": "gear lever", "zh": "变速杆" },
-        { "id": 7, "en": "brake lever", "zh": "车闸" },
-        { "id": 8, "en": "handlebar", "zh": "车把" },
-        { "id": 9, "en": "light", "zh": "灯" },
-        { "id": 10, "en": "brake", "zh": "刹车" },
-        { "id": 11, "en": "hub", "zh": "轮毂" },
-        { "id": 12, "en": "gears", "zh": "齿轮" },
-        { "id": 13, "en": "rim", "zh": "轮圈" },
-        { "id": 14, "en": "tire (US) / tyre (UK)", "zh": "轮胎" },
-        { "id": 15, "en": "chain", "zh": "车链" },
-        { "id": 16, "en": "pedal", "zh": "脚踏" },
-        { "id": 17, "en": "road bike", "zh": "公路车" },
-        { "id": 18, "en": "dynamo", "zh": "发电机" },
-        { "id": 19, "en": "fork", "zh": "前叉" },
-        { "id": 20, "en": "wheel", "zh": "车轮" },
-        { "id": 21, "en": "spoke", "zh": "辐条" },
-        { "id": 22, "en": "valve", "zh": "气门" },
-        { "id": 23, "en": "tread", "zh": "胎面" },
-        { "id": 24, "en": "racing bike", "zh": "赛车" },
-        { "id": 25, "en": "touring bike", "zh": "旅行车" },
-        { "id": 26, "en": "mountain bike", "zh": "山地车" },
-        { "id": 27, "en": "electric bike", "zh": "电动车" },
-        { "id": 28, "en": "tandem", "zh": "双座车" },
-        { "id": 29, "en": "basket", "zh": "车篮" },
-        { "id": 30, "en": "child seat", "zh": "儿童座椅" },
-        { "id": 31, "en": "kickstand", "zh": "撑脚架" },
-        { "id": 32, "en": "brake pad", "zh": "刹车片" },
-        { "id": 33, "en": "stabilizers", "zh": "稳定轮" },
-        { "id": 34, "en": "unicycle", "zh": "独轮车" },
-        { "id": 35, "en": "toe clip", "zh": "趾夹" },
-        { "id": 36, "en": "toe strap", "zh": "趾带" },
-        { "id": 37, "en": "lamp", "zh": "前灯" },
-        { "id": 38, "en": "rear light", "zh": "尾灯" },
-        { "id": 39, "en": "inner tube", "zh": "内胎" },
-        { "id": 40, "en": "to get on a bike", "zh": "上自行车" },
-        { "id": 41, "en": "to get off a bike", "zh": "下自行车" },
-        { "id": 42, "en": "to pedal", "zh": "蹬踏" },
-        { "id": 43, "en": "to cycle", "zh": "骑行" },
-        { "id": 44, "en": "to change gear", "zh": "变速" },
-        { "id": 45, "en": "to brake", "zh": "刹车" },
-        { "id": 46, "en": "to fix a puncture", "zh": "补胎" },
-        { "id": 47, "en": "bike lane (US) / cycle lane (UK)", "zh": "自行车道" },
-        { "id": 48, "en": "bike rack", "zh": "自行车支架" },
-        { "id": 49, "en": "pothole", "zh": "坑洞" },
-        { "id": 50, "en": "puncture", "zh": "破胎" },
-        { "id": 51, "en": "patch", "zh": "补胎片" },
-        { "id": 52, "en": "tire lever (US) / tyre lever (UK)", "zh": "轮胎撬杆" },
-        { "id": 53, "en": "glue", "zh": "胶水" },
-        { "id": 54, "en": "puncture repair kit", "zh": "破胎修理包" },
-        { "id": 55, "en": "sprocket", "zh": "扣链齿" },
-        { "id": 56, "en": "water bottle", "zh": "水瓶" },
-        { "id": 57, "en": "bike helmet", "zh": "自行车头盔" },
-        { "id": 58, "en": "reflector", "zh": "反光镜" },
-        { "id": 59, "en": "pump", "zh": "打气筒" },
-        { "id": 60, "en": "lock", "zh": "锁" }
+        {
+          "id": 1,
+          "en": "seat post",
+          "zh": "座杆"
+        },
+        {
+          "id": 2,
+          "en": "saddle",
+          "zh": "鞍座"
+        },
+        {
+          "id": 3,
+          "en": "cable",
+          "zh": "线缆"
+        },
+        {
+          "id": 4,
+          "en": "crossbar",
+          "zh": "横梁"
+        },
+        {
+          "id": 5,
+          "en": "frame",
+          "zh": "车架"
+        },
+        {
+          "id": 6,
+          "en": "gear lever",
+          "zh": "变速杆"
+        },
+        {
+          "id": 7,
+          "en": "brake lever",
+          "zh": "车闸"
+        },
+        {
+          "id": 8,
+          "en": "handlebar",
+          "zh": "车把"
+        },
+        {
+          "id": 9,
+          "en": "light",
+          "zh": "灯"
+        },
+        {
+          "id": 10,
+          "en": "brake",
+          "zh": "刹车"
+        },
+        {
+          "id": 11,
+          "en": "hub",
+          "zh": "轮毂"
+        },
+        {
+          "id": 12,
+          "en": "gears",
+          "zh": "齿轮"
+        },
+        {
+          "id": 13,
+          "en": "rim",
+          "zh": "轮圈"
+        },
+        {
+          "id": 14,
+          "en": "tire (US) / tyre (UK)",
+          "zh": "轮胎"
+        },
+        {
+          "id": 15,
+          "en": "chain",
+          "zh": "车链"
+        },
+        {
+          "id": 16,
+          "en": "pedal",
+          "zh": "脚踏"
+        },
+        {
+          "id": 17,
+          "en": "road bike",
+          "zh": "公路车"
+        },
+        {
+          "id": 18,
+          "en": "dynamo",
+          "zh": "发电机"
+        },
+        {
+          "id": 19,
+          "en": "fork",
+          "zh": "前叉"
+        },
+        {
+          "id": 20,
+          "en": "wheel",
+          "zh": "车轮"
+        },
+        {
+          "id": 21,
+          "en": "spoke",
+          "zh": "辐条"
+        },
+        {
+          "id": 22,
+          "en": "valve",
+          "zh": "气门"
+        },
+        {
+          "id": 23,
+          "en": "tread",
+          "zh": "胎面"
+        },
+        {
+          "id": 24,
+          "en": "racing bike",
+          "zh": "赛车"
+        },
+        {
+          "id": 25,
+          "en": "touring bike",
+          "zh": "旅行车"
+        },
+        {
+          "id": 26,
+          "en": "mountain bike",
+          "zh": "山地车"
+        },
+        {
+          "id": 27,
+          "en": "electric bike",
+          "zh": "电动车"
+        },
+        {
+          "id": 28,
+          "en": "tandem",
+          "zh": "双座车"
+        },
+        {
+          "id": 29,
+          "en": "basket",
+          "zh": "车篮"
+        },
+        {
+          "id": 30,
+          "en": "child seat",
+          "zh": "儿童座椅"
+        },
+        {
+          "id": 31,
+          "en": "kickstand",
+          "zh": "撑脚架"
+        },
+        {
+          "id": 32,
+          "en": "brake pad",
+          "zh": "刹车片"
+        },
+        {
+          "id": 33,
+          "en": "stabilizers",
+          "zh": "稳定轮"
+        },
+        {
+          "id": 34,
+          "en": "unicycle",
+          "zh": "独轮车"
+        },
+        {
+          "id": 35,
+          "en": "toe clip",
+          "zh": "趾夹"
+        },
+        {
+          "id": 36,
+          "en": "toe strap",
+          "zh": "趾带"
+        },
+        {
+          "id": 37,
+          "en": "lamp",
+          "zh": "前灯"
+        },
+        {
+          "id": 38,
+          "en": "rear light",
+          "zh": "尾灯"
+        },
+        {
+          "id": 39,
+          "en": "inner tube",
+          "zh": "内胎"
+        },
+        {
+          "id": 40,
+          "en": "to get on a bike",
+          "zh": "上自行车"
+        },
+        {
+          "id": 41,
+          "en": "to get off a bike",
+          "zh": "下自行车"
+        },
+        {
+          "id": 42,
+          "en": "to pedal",
+          "zh": "蹬踏"
+        },
+        {
+          "id": 43,
+          "en": "to cycle",
+          "zh": "骑行"
+        },
+        {
+          "id": 44,
+          "en": "to change gear",
+          "zh": "变速"
+        },
+        {
+          "id": 45,
+          "en": "to brake",
+          "zh": "刹车"
+        },
+        {
+          "id": 46,
+          "en": "to fix a puncture",
+          "zh": "补胎"
+        },
+        {
+          "id": 47,
+          "en": "bike lane (US) / cycle lane (UK)",
+          "zh": "自行车道"
+        },
+        {
+          "id": 48,
+          "en": "bike rack",
+          "zh": "自行车支架"
+        },
+        {
+          "id": 49,
+          "en": "pothole",
+          "zh": "坑洞"
+        },
+        {
+          "id": 50,
+          "en": "puncture",
+          "zh": "破胎"
+        },
+        {
+          "id": 51,
+          "en": "patch",
+          "zh": "补胎片"
+        },
+        {
+          "id": 52,
+          "en": "tire lever (US) / tyre lever (UK)",
+          "zh": "轮胎撬杆"
+        },
+        {
+          "id": 53,
+          "en": "glue",
+          "zh": "胶水"
+        },
+        {
+          "id": 54,
+          "en": "puncture repair kit",
+          "zh": "破胎修理包"
+        },
+        {
+          "id": 55,
+          "en": "sprocket",
+          "zh": "扣链齿"
+        },
+        {
+          "id": 56,
+          "en": "water bottle",
+          "zh": "水瓶"
+        },
+        {
+          "id": 57,
+          "en": "bike helmet",
+          "zh": "自行车头盔"
+        },
+        {
+          "id": 58,
+          "en": "reflector",
+          "zh": "反光镜"
+        },
+        {
+          "id": 59,
+          "en": "pump",
+          "zh": "打气筒"
+        },
+        {
+          "id": 60,
+          "en": "lock",
+          "zh": "锁"
+        }
       ]
     }
   ]

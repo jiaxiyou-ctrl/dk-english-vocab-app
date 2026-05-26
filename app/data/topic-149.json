@@ -6,86 +6,350 @@
   "pages": [
     {
       "pageNum": 306,
-      "image": "assets/images/page_306.jpg",
+      "image": "assets/images/page_307.jpg",
       "section": "149.1",
       "sectionTitle": "非洲",
       "sectionTitleEn": "Africa",
       "words": [
-        { "id": 1, "en": "Morocco", "zh": "摩洛哥" },
-        { "id": 2, "en": "Mauritania", "zh": "毛里塔尼亚" },
-        { "id": 3, "en": "Cape Verde", "zh": "佛得角" },
-        { "id": 4, "en": "Senegal", "zh": "塞内加尔" },
-        { "id": 5, "en": "Gambia", "zh": "冈比亚" },
-        { "id": 6, "en": "Guinea-Bissau", "zh": "几内亚比绍" },
-        { "id": 7, "en": "Guinea", "zh": "几内亚" },
-        { "id": 8, "en": "Sierra Leone", "zh": "塞拉利昂" },
-        { "id": 9, "en": "Liberia", "zh": "利比里亚" },
-        { "id": 10, "en": "Ivory Coast", "zh": "科特迪瓦" },
-        { "id": 11, "en": "Burkina Faso", "zh": "布基纳法索" },
-        { "id": 12, "en": "Mali", "zh": "马里" },
-        { "id": 13, "en": "Algeria", "zh": "阿尔及利亚" },
-        { "id": 14, "en": "Tunisia", "zh": "突尼斯" },
-        { "id": 15, "en": "Libya", "zh": "利比亚" },
-        { "id": 16, "en": "Niger", "zh": "尼日尔" },
-        { "id": 17, "en": "Ghana", "zh": "加纳" },
-        { "id": 18, "en": "Togo", "zh": "多哥" },
-        { "id": 19, "en": "Benin", "zh": "贝宁" },
-        { "id": 20, "en": "Nigeria", "zh": "尼日利亚" },
-        { "id": 21, "en": "São Tomé and Príncipe", "zh": "圣多美和普林西比" },
-        { "id": 22, "en": "Equatorial Guinea", "zh": "赤道几内亚" },
-        { "id": 23, "en": "Gabon", "zh": "加蓬" },
-        { "id": 24, "en": "Cameroon", "zh": "喀麦隆" },
-        { "id": 25, "en": "Chad", "zh": "乍得" },
-        { "id": 26, "en": "Rwanda", "zh": "卢旺达" },
-        { "id": 27, "en": "Burundi", "zh": "布隆迪" },
-        { "id": 28, "en": "Tanzania", "zh": "坦桑尼亚" },
-        { "id": 29, "en": "Mozambique", "zh": "莫桑比克" },
-        { "id": 30, "en": "Malawi", "zh": "马拉维" },
-        { "id": 31, "en": "Republic of the Congo", "zh": "刚果共和国" },
-        { "id": 32, "en": "Democratic Republic of the Congo", "zh": "刚果民主共和国" },
-        { "id": 33, "en": "Zambia", "zh": "赞比亚" },
-        { "id": 34, "en": "Angola", "zh": "安哥拉" },
-        { "id": 35, "en": "Namibia", "zh": "纳米比亚" },
-        { "id": 36, "en": "Botswana", "zh": "博茨瓦纳" },
-        { "id": 37, "en": "Zimbabwe", "zh": "津巴布韦" },
-        { "id": 38, "en": "South Africa", "zh": "南非" },
-        { "id": 39, "en": "Lesotho", "zh": "莱索托" },
-        { "id": 40, "en": "Comoros", "zh": "科摩罗" },
-        { "id": 41, "en": "Madagascar", "zh": "马达加斯加" },
-        { "id": 42, "en": "Egypt", "zh": "埃及" },
-        { "id": 43, "en": "Sudan", "zh": "苏丹" },
-        { "id": 44, "en": "South Sudan", "zh": "南苏丹" },
-        { "id": 45, "en": "Ethiopia", "zh": "埃塞俄比亚" },
-        { "id": 46, "en": "Eritrea", "zh": "厄立特里亚" },
-        { "id": 47, "en": "Somalia", "zh": "索马里" },
-        { "id": 48, "en": "Kenya", "zh": "肯尼亚" },
-        { "id": 49, "en": "Uganda", "zh": "乌干达" },
-        { "id": 50, "en": "Djibouti", "zh": "吉布提" },
-        { "id": 51, "en": "Seychelles", "zh": "塞舌尔" },
-        { "id": 52, "en": "Mauritius", "zh": "毛里求斯" },
-        { "id": 53, "en": "Central African Republic", "zh": "中非共和国" },
-        { "id": 54, "en": "Eswatini", "zh": "斯威士兰" }
+        {
+          "id": 1,
+          "en": "Morocco",
+          "zh": "摩洛哥"
+        },
+        {
+          "id": 2,
+          "en": "Mauritania",
+          "zh": "毛里塔尼亚"
+        },
+        {
+          "id": 3,
+          "en": "Cape Verde",
+          "zh": "佛得角"
+        },
+        {
+          "id": 4,
+          "en": "Senegal",
+          "zh": "塞内加尔"
+        },
+        {
+          "id": 5,
+          "en": "Gambia",
+          "zh": "冈比亚"
+        },
+        {
+          "id": 6,
+          "en": "Guinea-Bissau",
+          "zh": "几内亚比绍"
+        },
+        {
+          "id": 7,
+          "en": "Guinea",
+          "zh": "几内亚"
+        },
+        {
+          "id": 8,
+          "en": "Sierra Leone",
+          "zh": "塞拉利昂"
+        },
+        {
+          "id": 9,
+          "en": "Liberia",
+          "zh": "利比里亚"
+        },
+        {
+          "id": 10,
+          "en": "Ivory Coast",
+          "zh": "科特迪瓦"
+        },
+        {
+          "id": 11,
+          "en": "Burkina Faso",
+          "zh": "布基纳法索"
+        },
+        {
+          "id": 12,
+          "en": "Mali",
+          "zh": "马里"
+        },
+        {
+          "id": 13,
+          "en": "Algeria",
+          "zh": "阿尔及利亚"
+        },
+        {
+          "id": 14,
+          "en": "Tunisia",
+          "zh": "突尼斯"
+        },
+        {
+          "id": 15,
+          "en": "Libya",
+          "zh": "利比亚"
+        },
+        {
+          "id": 16,
+          "en": "Niger",
+          "zh": "尼日尔"
+        },
+        {
+          "id": 17,
+          "en": "Ghana",
+          "zh": "加纳"
+        },
+        {
+          "id": 18,
+          "en": "Togo",
+          "zh": "多哥"
+        },
+        {
+          "id": 19,
+          "en": "Benin",
+          "zh": "贝宁"
+        },
+        {
+          "id": 20,
+          "en": "Nigeria",
+          "zh": "尼日利亚"
+        },
+        {
+          "id": 21,
+          "en": "São Tomé and Príncipe",
+          "zh": "圣多美和普林西比"
+        },
+        {
+          "id": 22,
+          "en": "Equatorial Guinea",
+          "zh": "赤道几内亚"
+        },
+        {
+          "id": 23,
+          "en": "Gabon",
+          "zh": "加蓬"
+        },
+        {
+          "id": 24,
+          "en": "Cameroon",
+          "zh": "喀麦隆"
+        },
+        {
+          "id": 25,
+          "en": "Chad",
+          "zh": "乍得"
+        },
+        {
+          "id": 26,
+          "en": "Rwanda",
+          "zh": "卢旺达"
+        },
+        {
+          "id": 27,
+          "en": "Burundi",
+          "zh": "布隆迪"
+        },
+        {
+          "id": 28,
+          "en": "Tanzania",
+          "zh": "坦桑尼亚"
+        },
+        {
+          "id": 29,
+          "en": "Mozambique",
+          "zh": "莫桑比克"
+        },
+        {
+          "id": 30,
+          "en": "Malawi",
+          "zh": "马拉维"
+        },
+        {
+          "id": 31,
+          "en": "Republic of the Congo",
+          "zh": "刚果共和国"
+        },
+        {
+          "id": 32,
+          "en": "Democratic Republic of the Congo",
+          "zh": "刚果民主共和国"
+        },
+        {
+          "id": 33,
+          "en": "Zambia",
+          "zh": "赞比亚"
+        },
+        {
+          "id": 34,
+          "en": "Angola",
+          "zh": "安哥拉"
+        },
+        {
+          "id": 35,
+          "en": "Namibia",
+          "zh": "纳米比亚"
+        },
+        {
+          "id": 36,
+          "en": "Botswana",
+          "zh": "博茨瓦纳"
+        },
+        {
+          "id": 37,
+          "en": "Zimbabwe",
+          "zh": "津巴布韦"
+        },
+        {
+          "id": 38,
+          "en": "South Africa",
+          "zh": "南非"
+        },
+        {
+          "id": 39,
+          "en": "Lesotho",
+          "zh": "莱索托"
+        },
+        {
+          "id": 40,
+          "en": "Comoros",
+          "zh": "科摩罗"
+        },
+        {
+          "id": 41,
+          "en": "Madagascar",
+          "zh": "马达加斯加"
+        },
+        {
+          "id": 42,
+          "en": "Egypt",
+          "zh": "埃及"
+        },
+        {
+          "id": 43,
+          "en": "Sudan",
+          "zh": "苏丹"
+        },
+        {
+          "id": 44,
+          "en": "South Sudan",
+          "zh": "南苏丹"
+        },
+        {
+          "id": 45,
+          "en": "Ethiopia",
+          "zh": "埃塞俄比亚"
+        },
+        {
+          "id": 46,
+          "en": "Eritrea",
+          "zh": "厄立特里亚"
+        },
+        {
+          "id": 47,
+          "en": "Somalia",
+          "zh": "索马里"
+        },
+        {
+          "id": 48,
+          "en": "Kenya",
+          "zh": "肯尼亚"
+        },
+        {
+          "id": 49,
+          "en": "Uganda",
+          "zh": "乌干达"
+        },
+        {
+          "id": 50,
+          "en": "Djibouti",
+          "zh": "吉布提"
+        },
+        {
+          "id": 51,
+          "en": "Seychelles",
+          "zh": "塞舌尔"
+        },
+        {
+          "id": 52,
+          "en": "Mauritius",
+          "zh": "毛里求斯"
+        },
+        {
+          "id": 53,
+          "en": "Central African Republic",
+          "zh": "中非共和国"
+        },
+        {
+          "id": 54,
+          "en": "Eswatini",
+          "zh": "斯威士兰"
+        }
       ]
     },
     {
       "pageNum": 307,
-      "image": "assets/images/page_307.jpg",
+      "image": "assets/images/page_308.jpg",
       "section": "149.2",
       "sectionTitle": "南美洲",
       "sectionTitleEn": "South America",
       "words": [
-        { "id": 55, "en": "Venezuela", "zh": "委内瑞拉" },
-        { "id": 56, "en": "Colombia", "zh": "哥伦比亚" },
-        { "id": 57, "en": "Brazil", "zh": "巴西" },
-        { "id": 58, "en": "Bolivia", "zh": "玻利维亚" },
-        { "id": 59, "en": "Ecuador", "zh": "厄瓜多尔" },
-        { "id": 60, "en": "Peru", "zh": "秘鲁" },
-        { "id": 61, "en": "Chile", "zh": "智利" },
-        { "id": 62, "en": "Argentina", "zh": "阿根廷" },
-        { "id": 63, "en": "Guyana", "zh": "圭亚那" },
-        { "id": 64, "en": "Suriname", "zh": "苏里南" },
-        { "id": 65, "en": "Paraguay", "zh": "巴拉圭" },
-        { "id": 66, "en": "Uruguay", "zh": "乌拉圭" }
+        {
+          "id": 55,
+          "en": "Venezuela",
+          "zh": "委内瑞拉"
+        },
+        {
+          "id": 56,
+          "en": "Colombia",
+          "zh": "哥伦比亚"
+        },
+        {
+          "id": 57,
+          "en": "Brazil",
+          "zh": "巴西"
+        },
+        {
+          "id": 58,
+          "en": "Bolivia",
+          "zh": "玻利维亚"
+        },
+        {
+          "id": 59,
+          "en": "Ecuador",
+          "zh": "厄瓜多尔"
+        },
+        {
+          "id": 60,
+          "en": "Peru",
+          "zh": "秘鲁"
+        },
+        {
+          "id": 61,
+          "en": "Chile",
+          "zh": "智利"
+        },
+        {
+          "id": 62,
+          "en": "Argentina",
+          "zh": "阿根廷"
+        },
+        {
+          "id": 63,
+          "en": "Guyana",
+          "zh": "圭亚那"
+        },
+        {
+          "id": 64,
+          "en": "Suriname",
+          "zh": "苏里南"
+        },
+        {
+          "id": 65,
+          "en": "Paraguay",
+          "zh": "巴拉圭"
+        },
+        {
+          "id": 66,
+          "en": "Uruguay",
+          "zh": "乌拉圭"
+        }
       ]
     }
   ]

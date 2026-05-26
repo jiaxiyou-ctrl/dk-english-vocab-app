@@ -6,79 +6,315 @@
   "pages": [
     {
       "pageNum": 264,
-      "image": "assets/images/page_264.jpg",
+      "image": "assets/images/page_265.jpg",
       "section": "128.1",
       "sectionTitle": "管弦乐器",
       "sectionTitleEn": "Orchestral Instruments",
       "words": [
-        { "id": 1, "en": "woodwind", "zh": "木管乐组" },
-        { "id": 2, "en": "percussion", "zh": "打击乐组" },
-        { "id": 3, "en": "brass", "zh": "铜管乐组" },
-        { "id": 4, "en": "strings", "zh": "弦乐组" },
-        { "id": 5, "en": "orchestra", "zh": "管弦乐团" },
-        { "id": 6, "en": "harp", "zh": "竖琴" },
-        { "id": 7, "en": "cymbals", "zh": "钹" },
-        { "id": 8, "en": "snare drum", "zh": "小鼓" },
-        { "id": 9, "en": "xylophone", "zh": "木琴" },
-        { "id": 10, "en": "french horn", "zh": "圆号" },
-        { "id": 11, "en": "flute", "zh": "长笛" },
-        { "id": 12, "en": "piano", "zh": "钢琴" },
-        { "id": 13, "en": "oboe", "zh": "双簧管" },
-        { "id": 14, "en": "trumpet", "zh": "小号" },
-        { "id": 15, "en": "clarinet", "zh": "单簧管" },
-        { "id": 16, "en": "kettledrum", "zh": "定音鼓" },
-        { "id": 17, "en": "trombone", "zh": "长号" },
-        { "id": 18, "en": "bass drum", "zh": "低音鼓" },
-        { "id": 19, "en": "gong", "zh": "锣" },
-        { "id": 20, "en": "saxophone", "zh": "萨克斯" },
-        { "id": 21, "en": "tuba", "zh": "大号" },
-        { "id": 22, "en": "bassoon", "zh": "巴松管" },
-        { "id": 23, "en": "violin", "zh": "小提琴" },
-        { "id": 24, "en": "music stand", "zh": "乐谱架" },
-        { "id": 25, "en": "conductor", "zh": "乐队指挥" },
-        { "id": 26, "en": "podium", "zh": "指挥台" },
-        { "id": 27, "en": "viola", "zh": "中提琴" },
-        { "id": 28, "en": "cello", "zh": "大提琴" },
-        { "id": 29, "en": "double bass", "zh": "低音提琴" },
-        { "id": 30, "en": "vibraphone", "zh": "颤音琴" },
-        { "id": 31, "en": "bongo drums", "zh": "邦戈鼓" },
-        { "id": 32, "en": "tubular bells", "zh": "管钟" },
-        { "id": 33, "en": "tambourine", "zh": "小手鼓" },
-        { "id": 34, "en": "triangle", "zh": "三角铁" },
-        { "id": 35, "en": "maracas", "zh": "砂槌" },
-        { "id": 36, "en": "english horn (us) / cor anglais (uk)", "zh": "次中音双簧管" },
-        { "id": 37, "en": "piccolo", "zh": "短笛" },
-        { "id": 38, "en": "pipe organ", "zh": "管风琴" },
-        { "id": 39, "en": "solo", "zh": "独唱" },
-        { "id": 40, "en": "composer", "zh": "作曲家" },
-        { "id": 41, "en": "choir", "zh": "合唱团" },
-        { "id": 42, "en": "to compose", "zh": "作曲" },
-        { "id": 43, "en": "to conduct", "zh": "指挥" },
-        { "id": 44, "en": "to play (the trumpet)", "zh": "演奏（小号）" },
-        { "id": 45, "en": "piano overture", "zh": "钢琴序曲" },
-        { "id": 46, "en": "symphony", "zh": "交响乐" },
-        { "id": 47, "en": "violin sonata", "zh": "小提琴奏鸣曲" }
+        {
+          "id": 1,
+          "en": "woodwind",
+          "zh": "木管乐组"
+        },
+        {
+          "id": 2,
+          "en": "percussion",
+          "zh": "打击乐组"
+        },
+        {
+          "id": 3,
+          "en": "brass",
+          "zh": "铜管乐组"
+        },
+        {
+          "id": 4,
+          "en": "strings",
+          "zh": "弦乐组"
+        },
+        {
+          "id": 5,
+          "en": "orchestra",
+          "zh": "管弦乐团"
+        },
+        {
+          "id": 6,
+          "en": "harp",
+          "zh": "竖琴"
+        },
+        {
+          "id": 7,
+          "en": "cymbals",
+          "zh": "钹"
+        },
+        {
+          "id": 8,
+          "en": "snare drum",
+          "zh": "小鼓"
+        },
+        {
+          "id": 9,
+          "en": "xylophone",
+          "zh": "木琴"
+        },
+        {
+          "id": 10,
+          "en": "french horn",
+          "zh": "圆号"
+        },
+        {
+          "id": 11,
+          "en": "flute",
+          "zh": "长笛"
+        },
+        {
+          "id": 12,
+          "en": "piano",
+          "zh": "钢琴"
+        },
+        {
+          "id": 13,
+          "en": "oboe",
+          "zh": "双簧管"
+        },
+        {
+          "id": 14,
+          "en": "trumpet",
+          "zh": "小号"
+        },
+        {
+          "id": 15,
+          "en": "clarinet",
+          "zh": "单簧管"
+        },
+        {
+          "id": 16,
+          "en": "kettledrum",
+          "zh": "定音鼓"
+        },
+        {
+          "id": 17,
+          "en": "trombone",
+          "zh": "长号"
+        },
+        {
+          "id": 18,
+          "en": "bass drum",
+          "zh": "低音鼓"
+        },
+        {
+          "id": 19,
+          "en": "gong",
+          "zh": "锣"
+        },
+        {
+          "id": 20,
+          "en": "saxophone",
+          "zh": "萨克斯"
+        },
+        {
+          "id": 21,
+          "en": "tuba",
+          "zh": "大号"
+        },
+        {
+          "id": 22,
+          "en": "bassoon",
+          "zh": "巴松管"
+        },
+        {
+          "id": 23,
+          "en": "violin",
+          "zh": "小提琴"
+        },
+        {
+          "id": 24,
+          "en": "music stand",
+          "zh": "乐谱架"
+        },
+        {
+          "id": 25,
+          "en": "conductor",
+          "zh": "乐队指挥"
+        },
+        {
+          "id": 26,
+          "en": "podium",
+          "zh": "指挥台"
+        },
+        {
+          "id": 27,
+          "en": "viola",
+          "zh": "中提琴"
+        },
+        {
+          "id": 28,
+          "en": "cello",
+          "zh": "大提琴"
+        },
+        {
+          "id": 29,
+          "en": "double bass",
+          "zh": "低音提琴"
+        },
+        {
+          "id": 30,
+          "en": "vibraphone",
+          "zh": "颤音琴"
+        },
+        {
+          "id": 31,
+          "en": "bongo drums",
+          "zh": "邦戈鼓"
+        },
+        {
+          "id": 32,
+          "en": "tubular bells",
+          "zh": "管钟"
+        },
+        {
+          "id": 33,
+          "en": "tambourine",
+          "zh": "小手鼓"
+        },
+        {
+          "id": 34,
+          "en": "triangle",
+          "zh": "三角铁"
+        },
+        {
+          "id": 35,
+          "en": "maracas",
+          "zh": "砂槌"
+        },
+        {
+          "id": 36,
+          "en": "english horn (us) / cor anglais (uk)",
+          "zh": "次中音双簧管"
+        },
+        {
+          "id": 37,
+          "en": "piccolo",
+          "zh": "短笛"
+        },
+        {
+          "id": 38,
+          "en": "pipe organ",
+          "zh": "管风琴"
+        },
+        {
+          "id": 39,
+          "en": "solo",
+          "zh": "独唱"
+        },
+        {
+          "id": 40,
+          "en": "composer",
+          "zh": "作曲家"
+        },
+        {
+          "id": 41,
+          "en": "choir",
+          "zh": "合唱团"
+        },
+        {
+          "id": 42,
+          "en": "to compose",
+          "zh": "作曲"
+        },
+        {
+          "id": 43,
+          "en": "to conduct",
+          "zh": "指挥"
+        },
+        {
+          "id": 44,
+          "en": "to play (the trumpet)",
+          "zh": "演奏（小号）"
+        },
+        {
+          "id": 45,
+          "en": "piano overture",
+          "zh": "钢琴序曲"
+        },
+        {
+          "id": 46,
+          "en": "symphony",
+          "zh": "交响乐"
+        },
+        {
+          "id": 47,
+          "en": "violin sonata",
+          "zh": "小提琴奏鸣曲"
+        }
       ]
     },
     {
       "pageNum": 265,
-      "image": "assets/images/page_265.jpg",
+      "image": "assets/images/page_266.jpg",
       "section": "128.2",
       "sectionTitle": "乐谱和音乐符号",
       "sectionTitleEn": "Musical Notation",
       "words": [
-        { "id": 48, "en": "notation", "zh": "音乐符号" },
-        { "id": 49, "en": "note", "zh": "音符" },
-        { "id": 50, "en": "bass clef", "zh": "低音谱号" },
-        { "id": 51, "en": "treble clef", "zh": "高音谱号" },
-        { "id": 52, "en": "score", "zh": "乐谱" },
-        { "id": 53, "en": "chord", "zh": "和弦" },
-        { "id": 54, "en": "scale", "zh": "音阶" },
-        { "id": 55, "en": "lower pitch", "zh": "低音" },
-        { "id": 56, "en": "higher pitch", "zh": "高音" },
-        { "id": 57, "en": "pitch", "zh": "音高" },
-        { "id": 58, "en": "sharp", "zh": "升半音" },
-        { "id": 59, "en": "flat", "zh": "降半音" }
+        {
+          "id": 48,
+          "en": "notation",
+          "zh": "音乐符号"
+        },
+        {
+          "id": 49,
+          "en": "note",
+          "zh": "音符"
+        },
+        {
+          "id": 50,
+          "en": "bass clef",
+          "zh": "低音谱号"
+        },
+        {
+          "id": 51,
+          "en": "treble clef",
+          "zh": "高音谱号"
+        },
+        {
+          "id": 52,
+          "en": "score",
+          "zh": "乐谱"
+        },
+        {
+          "id": 53,
+          "en": "chord",
+          "zh": "和弦"
+        },
+        {
+          "id": 54,
+          "en": "scale",
+          "zh": "音阶"
+        },
+        {
+          "id": 55,
+          "en": "lower pitch",
+          "zh": "低音"
+        },
+        {
+          "id": 56,
+          "en": "higher pitch",
+          "zh": "高音"
+        },
+        {
+          "id": 57,
+          "en": "pitch",
+          "zh": "音高"
+        },
+        {
+          "id": 58,
+          "en": "sharp",
+          "zh": "升半音"
+        },
+        {
+          "id": 59,
+          "en": "flat",
+          "zh": "降半音"
+        }
       ]
     }
   ]

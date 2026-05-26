@@ -6,70 +6,270 @@
   "pages": [
     {
       "pageNum": 188,
-      "image": "assets/images/page_188.jpg",
-      "section": "90.1",
-      "sectionTitle": "职业",
-      "sectionTitleEn": "Occupations",
-      "words": [
-        { "id": 1, "en": "security guard", "zh": "保安" },
-        { "id": 2, "en": "window cleaner", "zh": "擦窗工" },
-        { "id": 3, "en": "artist", "zh": "艺术家" },
-        { "id": 4, "en": "bodyguard", "zh": "保镖" },
-        { "id": 5, "en": "psychologist", "zh": "心理医生" },
-        { "id": 6, "en": "businessman", "zh": "男商人" },
-        { "id": 7, "en": "businesswoman", "zh": "女商人" },
-        { "id": 8, "en": "accountant", "zh": "会计" },
-        { "id": 9, "en": "chef", "zh": "厨师" },
-        { "id": 10, "en": "construction worker (US) / builder (UK)", "zh": "建筑工人" },
-        { "id": 11, "en": "radio dj", "zh": "电台主持人" },
-        { "id": 12, "en": "engineer", "zh": "工程师" },
-        { "id": 13, "en": "fashion designer", "zh": "时装设计师" },
-        { "id": 14, "en": "rock star", "zh": "摇滚明星" },
-        { "id": 15, "en": "flight instructor", "zh": "飞行教员" },
-        { "id": 16, "en": "janitor", "zh": "清洁工" },
-        { "id": 17, "en": "tour guide", "zh": "导游" },
-        { "id": 18, "en": "mail carrier (US) / postman / postwoman (UK)", "zh": "邮递员" },
-        { "id": 19, "en": "personal assistant (pa)", "zh": "私人助理" },
-        { "id": 20, "en": "librarian", "zh": "图书管理员" },
-        { "id": 21, "en": "locksmith", "zh": "锁匠" },
-        { "id": 22, "en": "paramedic", "zh": "护理人员" },
-        { "id": 23, "en": "music teacher", "zh": "音乐老师" },
-        { "id": 24, "en": "childcare provider", "zh": "育儿师" },
-        { "id": 25, "en": "kitchen fitter", "zh": "厨房装配工" },
-        { "id": 26, "en": "taxi driver", "zh": "出租车司机" },
-        { "id": 27, "en": "zookeeper", "zh": "动物园管理员" },
-        { "id": 28, "en": "judge", "zh": "法官" },
-        { "id": 29, "en": "you should have a lot of courtroom experience before you become a judge.", "zh": "在成为法官之前，你应该积累很多法庭经验。" }
-      ]
-    },
-    {
-      "pageNum": 189,
       "image": "assets/images/page_189.jpg",
       "section": "90.1",
       "sectionTitle": "职业",
       "sectionTitleEn": "Occupations",
       "words": [
-        { "id": 30, "en": "anesthesiologist (US) / anaesthetist (UK)", "zh": "麻醉师" },
-        { "id": 31, "en": "surgeon", "zh": "外科医生" },
-        { "id": 32, "en": "my shift started at 8 o'clock this morning.", "zh": "我今天早上8点开始上班。" },
-        { "id": 33, "en": "driver", "zh": "司机" },
-        { "id": 34, "en": "secretary", "zh": "秘书" },
-        { "id": 35, "en": "receptionist", "zh": "接待员" },
-        { "id": 36, "en": "flight attendant", "zh": "空乘人员" },
-        { "id": 37, "en": "scientist", "zh": "科学家" },
-        { "id": 38, "en": "bus driver", "zh": "公交司机" },
-        { "id": 39, "en": "musician", "zh": "音乐家" },
-        { "id": 40, "en": "surveyor", "zh": "测绘员" },
-        { "id": 41, "en": "lawyer", "zh": "律师" },
-        { "id": 42, "en": "teacher", "zh": "教师" },
-        { "id": 43, "en": "journalist", "zh": "记者" },
-        { "id": 44, "en": "train driver", "zh": "火车司机" },
-        { "id": 45, "en": "travel agent", "zh": "旅行社代理人" },
-        { "id": 46, "en": "truck driver (US) / lorry driver (UK)", "zh": "卡车司机" },
-        { "id": 47, "en": "architect", "zh": "建筑师" },
-        { "id": 48, "en": "writer", "zh": "作家" },
-        { "id": 49, "en": "yoga teacher", "zh": "瑜伽老师" },
-        { "id": 50, "en": "pilot", "zh": "飞行员" }
+        {
+          "id": 1,
+          "en": "security guard",
+          "zh": "保安"
+        },
+        {
+          "id": 2,
+          "en": "window cleaner",
+          "zh": "擦窗工"
+        },
+        {
+          "id": 3,
+          "en": "artist",
+          "zh": "艺术家"
+        },
+        {
+          "id": 4,
+          "en": "bodyguard",
+          "zh": "保镖"
+        },
+        {
+          "id": 5,
+          "en": "psychologist",
+          "zh": "心理医生"
+        },
+        {
+          "id": 6,
+          "en": "businessman",
+          "zh": "男商人"
+        },
+        {
+          "id": 7,
+          "en": "businesswoman",
+          "zh": "女商人"
+        },
+        {
+          "id": 8,
+          "en": "accountant",
+          "zh": "会计"
+        },
+        {
+          "id": 9,
+          "en": "chef",
+          "zh": "厨师"
+        },
+        {
+          "id": 10,
+          "en": "construction worker (US) / builder (UK)",
+          "zh": "建筑工人"
+        },
+        {
+          "id": 11,
+          "en": "radio dj",
+          "zh": "电台主持人"
+        },
+        {
+          "id": 12,
+          "en": "engineer",
+          "zh": "工程师"
+        },
+        {
+          "id": 13,
+          "en": "fashion designer",
+          "zh": "时装设计师"
+        },
+        {
+          "id": 14,
+          "en": "rock star",
+          "zh": "摇滚明星"
+        },
+        {
+          "id": 15,
+          "en": "flight instructor",
+          "zh": "飞行教员"
+        },
+        {
+          "id": 16,
+          "en": "janitor",
+          "zh": "清洁工"
+        },
+        {
+          "id": 17,
+          "en": "tour guide",
+          "zh": "导游"
+        },
+        {
+          "id": 18,
+          "en": "mail carrier (US) / postman / postwoman (UK)",
+          "zh": "邮递员"
+        },
+        {
+          "id": 19,
+          "en": "personal assistant (pa)",
+          "zh": "私人助理"
+        },
+        {
+          "id": 20,
+          "en": "librarian",
+          "zh": "图书管理员"
+        },
+        {
+          "id": 21,
+          "en": "locksmith",
+          "zh": "锁匠"
+        },
+        {
+          "id": 22,
+          "en": "paramedic",
+          "zh": "护理人员"
+        },
+        {
+          "id": 23,
+          "en": "music teacher",
+          "zh": "音乐老师"
+        },
+        {
+          "id": 24,
+          "en": "childcare provider",
+          "zh": "育儿师"
+        },
+        {
+          "id": 25,
+          "en": "kitchen fitter",
+          "zh": "厨房装配工"
+        },
+        {
+          "id": 26,
+          "en": "taxi driver",
+          "zh": "出租车司机"
+        },
+        {
+          "id": 27,
+          "en": "zookeeper",
+          "zh": "动物园管理员"
+        },
+        {
+          "id": 28,
+          "en": "judge",
+          "zh": "法官"
+        },
+        {
+          "id": 29,
+          "en": "you should have a lot of courtroom experience before you become a judge.",
+          "zh": "在成为法官之前，你应该积累很多法庭经验。"
+        }
+      ]
+    },
+    {
+      "pageNum": 189,
+      "image": "assets/images/page_190.jpg",
+      "section": "90.1",
+      "sectionTitle": "职业",
+      "sectionTitleEn": "Occupations",
+      "words": [
+        {
+          "id": 30,
+          "en": "anesthesiologist (US) / anaesthetist (UK)",
+          "zh": "麻醉师"
+        },
+        {
+          "id": 31,
+          "en": "surgeon",
+          "zh": "外科医生"
+        },
+        {
+          "id": 32,
+          "en": "my shift started at 8 o'clock this morning.",
+          "zh": "我今天早上8点开始上班。"
+        },
+        {
+          "id": 33,
+          "en": "driver",
+          "zh": "司机"
+        },
+        {
+          "id": 34,
+          "en": "secretary",
+          "zh": "秘书"
+        },
+        {
+          "id": 35,
+          "en": "receptionist",
+          "zh": "接待员"
+        },
+        {
+          "id": 36,
+          "en": "flight attendant",
+          "zh": "空乘人员"
+        },
+        {
+          "id": 37,
+          "en": "scientist",
+          "zh": "科学家"
+        },
+        {
+          "id": 38,
+          "en": "bus driver",
+          "zh": "公交司机"
+        },
+        {
+          "id": 39,
+          "en": "musician",
+          "zh": "音乐家"
+        },
+        {
+          "id": 40,
+          "en": "surveyor",
+          "zh": "测绘员"
+        },
+        {
+          "id": 41,
+          "en": "lawyer",
+          "zh": "律师"
+        },
+        {
+          "id": 42,
+          "en": "teacher",
+          "zh": "教师"
+        },
+        {
+          "id": 43,
+          "en": "journalist",
+          "zh": "记者"
+        },
+        {
+          "id": 44,
+          "en": "train driver",
+          "zh": "火车司机"
+        },
+        {
+          "id": 45,
+          "en": "travel agent",
+          "zh": "旅行社代理人"
+        },
+        {
+          "id": 46,
+          "en": "truck driver (US) / lorry driver (UK)",
+          "zh": "卡车司机"
+        },
+        {
+          "id": 47,
+          "en": "architect",
+          "zh": "建筑师"
+        },
+        {
+          "id": 48,
+          "en": "writer",
+          "zh": "作家"
+        },
+        {
+          "id": 49,
+          "en": "yoga teacher",
+          "zh": "瑜伽老师"
+        },
+        {
+          "id": 50,
+          "en": "pilot",
+          "zh": "飞行员"
+        }
       ]
     }
   ]

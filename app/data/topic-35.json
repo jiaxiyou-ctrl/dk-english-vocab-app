@@ -6,87 +6,319 @@
   "pages": [
     {
       "pageNum": 80,
-      "image": "assets/images/page_80.jpg",
+      "image": "assets/images/page_81.jpg",
       "section": "35.1",
       "sectionTitle": "工具和手工设备",
       "sectionTitleEn": "Tools and Workshop Equipment",
       "words": [
-        { "id": 1, "en": "jigsaw", "zh": "绫花锯" },
-        { "id": 2, "en": "cordless drill", "zh": "充电式电钻" },
-        { "id": 3, "en": "battery pack", "zh": "电池盒" },
-        { "id": 4, "en": "wood glue", "zh": "木工胶" },
-        { "id": 5, "en": "level (US) / spirit level (UK)", "zh": "水平仪" },
-        { "id": 6, "en": "glue gun", "zh": "胶枪" },
-        { "id": 7, "en": "electric drill", "zh": "电钻" },
-        { "id": 8, "en": "circular saw", "zh": "圆锯" },
-        { "id": 9, "en": "tool rack", "zh": "工具架" },
-        { "id": 10, "en": "brace", "zh": "手摇曲柄钻" },
-        { "id": 11, "en": "sander", "zh": "打磨机" },
-        { "id": 12, "en": "work bench", "zh": "工作台" },
-        { "id": 13, "en": "G-clamp", "zh": "G型台钳" },
-        { "id": 14, "en": "router", "zh": "槽刨" },
-        { "id": 15, "en": "extension cord (US) / extension lead (UK)", "zh": "电源延长线" },
-        { "id": 16, "en": "drill bit", "zh": "钻头" },
-        { "id": 17, "en": "chuck", "zh": "固定卡盘" }
+        {
+          "id": 1,
+          "en": "jigsaw",
+          "zh": "绫花锯"
+        },
+        {
+          "id": 2,
+          "en": "cordless drill",
+          "zh": "充电式电钻"
+        },
+        {
+          "id": 3,
+          "en": "battery pack",
+          "zh": "电池盒"
+        },
+        {
+          "id": 4,
+          "en": "wood glue",
+          "zh": "木工胶"
+        },
+        {
+          "id": 5,
+          "en": "level (US) / spirit level (UK)",
+          "zh": "水平仪"
+        },
+        {
+          "id": 6,
+          "en": "glue gun",
+          "zh": "胶枪"
+        },
+        {
+          "id": 7,
+          "en": "electric drill",
+          "zh": "电钻"
+        },
+        {
+          "id": 8,
+          "en": "circular saw",
+          "zh": "圆锯"
+        },
+        {
+          "id": 9,
+          "en": "tool rack",
+          "zh": "工具架"
+        },
+        {
+          "id": 10,
+          "en": "brace",
+          "zh": "手摇曲柄钻"
+        },
+        {
+          "id": 11,
+          "en": "sander",
+          "zh": "打磨机"
+        },
+        {
+          "id": 12,
+          "en": "work bench",
+          "zh": "工作台"
+        },
+        {
+          "id": 13,
+          "en": "G-clamp",
+          "zh": "G型台钳"
+        },
+        {
+          "id": 14,
+          "en": "router",
+          "zh": "槽刨"
+        },
+        {
+          "id": 15,
+          "en": "extension cord (US) / extension lead (UK)",
+          "zh": "电源延长线"
+        },
+        {
+          "id": 16,
+          "en": "drill bit",
+          "zh": "钻头"
+        },
+        {
+          "id": 17,
+          "en": "chuck",
+          "zh": "固定卡盘"
+        }
       ]
     },
     {
       "pageNum": 80,
-      "image": "assets/images/page_80.jpg",
+      "image": "assets/images/page_81.jpg",
       "section": "35.2",
       "sectionTitle": "手工活相关的动词",
       "sectionTitleEn": "DIY Verbs",
       "words": [
-        { "id": 18, "en": "to cut", "zh": "剪" },
-        { "id": 19, "en": "to saw", "zh": "锯" },
-        { "id": 20, "en": "to drill", "zh": "钻孔" },
-        { "id": 21, "en": "to hammer", "zh": "钉" },
-        { "id": 22, "en": "to plane", "zh": "刨" },
-        { "id": 23, "en": "to turn", "zh": "车削" },
-        { "id": 24, "en": "to carve", "zh": "雕刻" },
-        { "id": 25, "en": "to tile", "zh": "贴瓷砖" },
-        { "id": 26, "en": "to solder", "zh": "焊接" },
-        { "id": 27, "en": "solder", "zh": "焊料" },
-        { "id": 28, "en": "soldering iron", "zh": "烙铁" },
-        { "id": 29, "en": "to install (US) / fit (UK) a carpet", "zh": "铺地毯" },
-        { "id": 30, "en": "to unclog (US) / unblock (UK) the sink", "zh": "疏通水槽" },
-        { "id": 31, "en": "to rewire the house", "zh": "给房子重新布线" },
-        { "id": 32, "en": "to lay bricks", "zh": "砌砖" },
-        { "id": 33, "en": "to convert the loft", "zh": "改造阁楼" },
-        { "id": 34, "en": "to make curtains", "zh": "制作窗帘" },
-        { "id": 35, "en": "to put up shelves", "zh": "安装架子" },
-        { "id": 36, "en": "to change a light bulb", "zh": "换灯泡" },
-        { "id": 37, "en": "to unclog (US) / unblock (UK) the toilet", "zh": "疏通马桶" },
-        { "id": 38, "en": "to knock down a wall", "zh": "拆墙" },
-        { "id": 39, "en": "to paint a wall", "zh": "漆墙" },
-        { "id": 40, "en": "to fix a fence", "zh": "修围栏" }
+        {
+          "id": 18,
+          "en": "to cut",
+          "zh": "剪"
+        },
+        {
+          "id": 19,
+          "en": "to saw",
+          "zh": "锯"
+        },
+        {
+          "id": 20,
+          "en": "to drill",
+          "zh": "钻孔"
+        },
+        {
+          "id": 21,
+          "en": "to hammer",
+          "zh": "钉"
+        },
+        {
+          "id": 22,
+          "en": "to plane",
+          "zh": "刨"
+        },
+        {
+          "id": 23,
+          "en": "to turn",
+          "zh": "车削"
+        },
+        {
+          "id": 24,
+          "en": "to carve",
+          "zh": "雕刻"
+        },
+        {
+          "id": 25,
+          "en": "to tile",
+          "zh": "贴瓷砖"
+        },
+        {
+          "id": 26,
+          "en": "to solder",
+          "zh": "焊接"
+        },
+        {
+          "id": 27,
+          "en": "solder",
+          "zh": "焊料"
+        },
+        {
+          "id": 28,
+          "en": "soldering iron",
+          "zh": "烙铁"
+        },
+        {
+          "id": 29,
+          "en": "to install (US) / fit (UK) a carpet",
+          "zh": "铺地毯"
+        },
+        {
+          "id": 30,
+          "en": "to unclog (US) / unblock (UK) the sink",
+          "zh": "疏通水槽"
+        },
+        {
+          "id": 31,
+          "en": "to rewire the house",
+          "zh": "给房子重新布线"
+        },
+        {
+          "id": 32,
+          "en": "to lay bricks",
+          "zh": "砌砖"
+        },
+        {
+          "id": 33,
+          "en": "to convert the loft",
+          "zh": "改造阁楼"
+        },
+        {
+          "id": 34,
+          "en": "to make curtains",
+          "zh": "制作窗帘"
+        },
+        {
+          "id": 35,
+          "en": "to put up shelves",
+          "zh": "安装架子"
+        },
+        {
+          "id": 36,
+          "en": "to change a light bulb",
+          "zh": "换灯泡"
+        },
+        {
+          "id": 37,
+          "en": "to unclog (US) / unblock (UK) the toilet",
+          "zh": "疏通马桶"
+        },
+        {
+          "id": 38,
+          "en": "to knock down a wall",
+          "zh": "拆墙"
+        },
+        {
+          "id": 39,
+          "en": "to paint a wall",
+          "zh": "漆墙"
+        },
+        {
+          "id": 40,
+          "en": "to fix a fence",
+          "zh": "修围栏"
+        }
       ]
     },
     {
       "pageNum": 81,
-      "image": "assets/images/page_81.jpg",
+      "image": "assets/images/page_82.jpg",
       "section": "35.3",
       "sectionTitle": "材料",
       "sectionTitleEn": "Materials",
       "words": [
-        { "id": 41, "en": "wood", "zh": "木材" },
-        { "id": 42, "en": "hardwood", "zh": "硬木" },
-        { "id": 43, "en": "softwood", "zh": "软木" },
-        { "id": 44, "en": "hardboard", "zh": "纤维板" },
-        { "id": 45, "en": "particle board (US) / chipboard (UK)", "zh": "刨花板" },
-        { "id": 46, "en": "plywood", "zh": "胶合板" },
-        { "id": 47, "en": "MDF", "zh": "层压板" },
-        { "id": 48, "en": "tiles", "zh": "瓷砖" },
-        { "id": 49, "en": "concrete", "zh": "混凝土" },
-        { "id": 50, "en": "metal", "zh": "金属" },
-        { "id": 51, "en": "wire", "zh": "钢丝网" },
-        { "id": 52, "en": "flagstone", "zh": "石板" },
-        { "id": 53, "en": "insulation", "zh": "绝缘材料" },
-        { "id": 54, "en": "sand", "zh": "沙子" },
-        { "id": 55, "en": "gravel", "zh": "碎石" },
-        { "id": 56, "en": "bricks", "zh": "砖头" },
-        { "id": 57, "en": "glass", "zh": "玻璃" },
-        { "id": 58, "en": "mortar", "zh": "砂浆" }
+        {
+          "id": 41,
+          "en": "wood",
+          "zh": "木材"
+        },
+        {
+          "id": 42,
+          "en": "hardwood",
+          "zh": "硬木"
+        },
+        {
+          "id": 43,
+          "en": "softwood",
+          "zh": "软木"
+        },
+        {
+          "id": 44,
+          "en": "hardboard",
+          "zh": "纤维板"
+        },
+        {
+          "id": 45,
+          "en": "particle board (US) / chipboard (UK)",
+          "zh": "刨花板"
+        },
+        {
+          "id": 46,
+          "en": "plywood",
+          "zh": "胶合板"
+        },
+        {
+          "id": 47,
+          "en": "MDF",
+          "zh": "层压板"
+        },
+        {
+          "id": 48,
+          "en": "tiles",
+          "zh": "瓷砖"
+        },
+        {
+          "id": 49,
+          "en": "concrete",
+          "zh": "混凝土"
+        },
+        {
+          "id": 50,
+          "en": "metal",
+          "zh": "金属"
+        },
+        {
+          "id": 51,
+          "en": "wire",
+          "zh": "钢丝网"
+        },
+        {
+          "id": 52,
+          "en": "flagstone",
+          "zh": "石板"
+        },
+        {
+          "id": 53,
+          "en": "insulation",
+          "zh": "绝缘材料"
+        },
+        {
+          "id": 54,
+          "en": "sand",
+          "zh": "沙子"
+        },
+        {
+          "id": 55,
+          "en": "gravel",
+          "zh": "碎石"
+        },
+        {
+          "id": 56,
+          "en": "bricks",
+          "zh": "砖头"
+        },
+        {
+          "id": 57,
+          "en": "glass",
+          "zh": "玻璃"
+        },
+        {
+          "id": 58,
+          "en": "mortar",
+          "zh": "砂浆"
+        }
       ]
     }
   ]

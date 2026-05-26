@@ -6,66 +6,250 @@
   "pages": [
     {
       "pageNum": 226,
-      "image": "assets/images/page_226.jpg",
+      "image": "assets/images/page_227.jpg",
       "section": "109.1",
       "sectionTitle": "足球比赛",
       "sectionTitleEn": "Soccer Match",
       "words": [
-        { "id": 1, "en": "goalpost", "zh": "门柱" },
-        { "id": 2, "en": "penalty area", "zh": "罚球区" },
-        { "id": 3, "en": "security (US) / steward (UK)", "zh": "安保人员" },
-        { "id": 4, "en": "fans", "zh": "粉丝" },
-        { "id": 5, "en": "linesman", "zh": "边裁" },
-        { "id": 6, "en": "manager", "zh": "教练" },
-        { "id": 7, "en": "half-way line", "zh": "中场线" },
-        { "id": 8, "en": "referee", "zh": "裁判" },
-        { "id": 9, "en": "substitutes", "zh": "替补队员" },
-        { "id": 10, "en": "players' bench", "zh": "球员席" },
-        { "id": 11, "en": "banner", "zh": "横幅" },
-        { "id": 12, "en": "stand", "zh": "看台" },
-        { "id": 13, "en": "penalty spot", "zh": "罚球点" },
-        { "id": 14, "en": "bar", "zh": "球门横梁" },
-        { "id": 15, "en": "mascot", "zh": "吉祥物" },
-        { "id": 16, "en": "corner", "zh": "角" },
-        { "id": 17, "en": "defender", "zh": "防守队员" },
-        { "id": 18, "en": "forward (US) / striker (UK)", "zh": "前锋" },
-        { "id": 19, "en": "center circle (US) / centre circle (UK)", "zh": "中圈" },
-        { "id": 20, "en": "ball", "zh": "足球" },
-        { "id": 21, "en": "players' entrance / exit", "zh": "球员入口/出口" },
-        { "id": 22, "en": "midfielder", "zh": "中场球员" },
-        { "id": 23, "en": "field (US) / pitch (UK)", "zh": "球场" },
-        { "id": 24, "en": "corner flag", "zh": "角旗" },
-        { "id": 25, "en": "goal", "zh": "球门" },
-        { "id": 26, "en": "goalkeeper", "zh": "守门员" },
-        { "id": 27, "en": "net", "zh": "球门网" },
-        { "id": 28, "en": "gloves", "zh": "手套" },
-        { "id": 29, "en": "to take a penalty", "zh": "罚点球" },
-        { "id": 30, "en": "penalty kick", "zh": "点球" }
+        {
+          "id": 1,
+          "en": "goalpost",
+          "zh": "门柱"
+        },
+        {
+          "id": 2,
+          "en": "penalty area",
+          "zh": "罚球区"
+        },
+        {
+          "id": 3,
+          "en": "security (US) / steward (UK)",
+          "zh": "安保人员"
+        },
+        {
+          "id": 4,
+          "en": "fans",
+          "zh": "粉丝"
+        },
+        {
+          "id": 5,
+          "en": "linesman",
+          "zh": "边裁"
+        },
+        {
+          "id": 6,
+          "en": "manager",
+          "zh": "教练"
+        },
+        {
+          "id": 7,
+          "en": "half-way line",
+          "zh": "中场线"
+        },
+        {
+          "id": 8,
+          "en": "referee",
+          "zh": "裁判"
+        },
+        {
+          "id": 9,
+          "en": "substitutes",
+          "zh": "替补队员"
+        },
+        {
+          "id": 10,
+          "en": "players' bench",
+          "zh": "球员席"
+        },
+        {
+          "id": 11,
+          "en": "banner",
+          "zh": "横幅"
+        },
+        {
+          "id": 12,
+          "en": "stand",
+          "zh": "看台"
+        },
+        {
+          "id": 13,
+          "en": "penalty spot",
+          "zh": "罚球点"
+        },
+        {
+          "id": 14,
+          "en": "bar",
+          "zh": "球门横梁"
+        },
+        {
+          "id": 15,
+          "en": "mascot",
+          "zh": "吉祥物"
+        },
+        {
+          "id": 16,
+          "en": "corner",
+          "zh": "角"
+        },
+        {
+          "id": 17,
+          "en": "defender",
+          "zh": "防守队员"
+        },
+        {
+          "id": 18,
+          "en": "forward (US) / striker (UK)",
+          "zh": "前锋"
+        },
+        {
+          "id": 19,
+          "en": "center circle (US) / centre circle (UK)",
+          "zh": "中圈"
+        },
+        {
+          "id": 20,
+          "en": "ball",
+          "zh": "足球"
+        },
+        {
+          "id": 21,
+          "en": "players' entrance / exit",
+          "zh": "球员入口/出口"
+        },
+        {
+          "id": 22,
+          "en": "midfielder",
+          "zh": "中场球员"
+        },
+        {
+          "id": 23,
+          "en": "field (US) / pitch (UK)",
+          "zh": "球场"
+        },
+        {
+          "id": 24,
+          "en": "corner flag",
+          "zh": "角旗"
+        },
+        {
+          "id": 25,
+          "en": "goal",
+          "zh": "球门"
+        },
+        {
+          "id": 26,
+          "en": "goalkeeper",
+          "zh": "守门员"
+        },
+        {
+          "id": 27,
+          "en": "net",
+          "zh": "球门网"
+        },
+        {
+          "id": 28,
+          "en": "gloves",
+          "zh": "手套"
+        },
+        {
+          "id": 29,
+          "en": "to take a penalty",
+          "zh": "罚点球"
+        },
+        {
+          "id": 30,
+          "en": "penalty kick",
+          "zh": "点球"
+        }
       ]
     },
     {
       "pageNum": 226,
-      "image": "assets/images/page_226.jpg",
+      "image": "assets/images/page_227.jpg",
       "section": "109.2",
       "sectionTitle": "计时和规则",
       "sectionTitleEn": "Time and Rules",
       "words": [
-        { "id": 31, "en": "kickoff", "zh": "开球" },
-        { "id": 32, "en": "half time", "zh": "中场" },
-        { "id": 33, "en": "full time", "zh": "全场" },
-        { "id": 34, "en": "throw-in", "zh": "掷界外球" },
-        { "id": 35, "en": "final whistle", "zh": "终场哨声" },
-        { "id": 36, "en": "stoppage time (US) / injury time (UK)", "zh": "伤停补时" },
-        { "id": 37, "en": "to win", "zh": "获胜" },
-        { "id": 38, "en": "winners' cup", "zh": "优胜奖杯" },
-        { "id": 39, "en": "corner kick", "zh": "角球" },
-        { "id": 40, "en": "yellow card", "zh": "黄牌" },
-        { "id": 41, "en": "red card", "zh": "红牌" },
-        { "id": 42, "en": "to be sent off", "zh": "被罚下" },
-        { "id": 43, "en": "to tie (US) / to draw (UK)", "zh": "打平手" },
-        { "id": 44, "en": "to lose", "zh": "失败" },
-        { "id": 45, "en": "soccer jersey (US) / football shirt (UK)", "zh": "足球衫" },
-        { "id": 46, "en": "soccer cleats (US) / football boots (UK)", "zh": "足球打鞋" }
+        {
+          "id": 31,
+          "en": "kickoff",
+          "zh": "开球"
+        },
+        {
+          "id": 32,
+          "en": "half time",
+          "zh": "中场"
+        },
+        {
+          "id": 33,
+          "en": "full time",
+          "zh": "全场"
+        },
+        {
+          "id": 34,
+          "en": "throw-in",
+          "zh": "掷界外球"
+        },
+        {
+          "id": 35,
+          "en": "final whistle",
+          "zh": "终场哨声"
+        },
+        {
+          "id": 36,
+          "en": "stoppage time (US) / injury time (UK)",
+          "zh": "伤停补时"
+        },
+        {
+          "id": 37,
+          "en": "to win",
+          "zh": "获胜"
+        },
+        {
+          "id": 38,
+          "en": "winners' cup",
+          "zh": "优胜奖杯"
+        },
+        {
+          "id": 39,
+          "en": "corner kick",
+          "zh": "角球"
+        },
+        {
+          "id": 40,
+          "en": "yellow card",
+          "zh": "黄牌"
+        },
+        {
+          "id": 41,
+          "en": "red card",
+          "zh": "红牌"
+        },
+        {
+          "id": 42,
+          "en": "to be sent off",
+          "zh": "被罚下"
+        },
+        {
+          "id": 43,
+          "en": "to tie (US) / to draw (UK)",
+          "zh": "打平手"
+        },
+        {
+          "id": 44,
+          "en": "to lose",
+          "zh": "失败"
+        },
+        {
+          "id": 45,
+          "en": "soccer jersey (US) / football shirt (UK)",
+          "zh": "足球衫"
+        },
+        {
+          "id": 46,
+          "en": "soccer cleats (US) / football boots (UK)",
+          "zh": "足球打鞋"
+        }
       ]
     }
   ]

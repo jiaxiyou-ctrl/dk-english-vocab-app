@@ -5,81 +5,285 @@
   "category": "人",
   "pages": [
     {
-      "pageNum": 13,
+      "pageNum": 12,
       "image": "assets/images/page_13.jpg",
       "section": "1.1",
       "sectionTitle": "人的身体",
       "sectionTitleEn": "The Human Body",
       "words": [
-        { "id": 1, "en": "head", "zh": "头" },
-        { "id": 2, "en": "shoulder", "zh": "肩膀" },
-        { "id": 3, "en": "chest", "zh": "胸部" },
-        { "id": 4, "en": "arm", "zh": "手臂" },
-        { "id": 5, "en": "abdomen", "zh": "腹部" },
-        { "id": 6, "en": "hand", "zh": "手" },
-        { "id": 7, "en": "thigh", "zh": "大腿" },
-        { "id": 8, "en": "leg", "zh": "腿" },
-        { "id": 9, "en": "foot", "zh": "脚" },
-        { "id": 10, "en": "groin", "zh": "腹股沟" },
-        { "id": 11, "en": "genitals", "zh": "生殖器" },
-        { "id": 12, "en": "calf", "zh": "小腿肚" },
-        { "id": 13, "en": "heel", "zh": "脚后跟" },
-        { "id": 14, "en": "breast", "zh": "乳房" },
-        { "id": 15, "en": "nipple", "zh": "乳头" },
-        { "id": 16, "en": "neck", "zh": "脖子" },
-        { "id": 17, "en": "armpit", "zh": "腋窝" },
-        { "id": 18, "en": "elbow", "zh": "肘部" },
-        { "id": 19, "en": "waist", "zh": "腰" },
-        { "id": 20, "en": "forearm", "zh": "前臂" },
-        { "id": 21, "en": "wrist", "zh": "手腕" },
-        { "id": 22, "en": "hip", "zh": "臀部" },
-        { "id": 23, "en": "navel", "zh": "肚脐" },
-        { "id": 24, "en": "knee", "zh": "膝盖" },
-        { "id": 25, "en": "shin", "zh": "胫" },
-        { "id": 26, "en": "ankle", "zh": "脚踝" }
+        {
+          "id": 1,
+          "en": "head",
+          "zh": "头"
+        },
+        {
+          "id": 2,
+          "en": "shoulder",
+          "zh": "肩膀"
+        },
+        {
+          "id": 3,
+          "en": "chest",
+          "zh": "胸部"
+        },
+        {
+          "id": 4,
+          "en": "arm",
+          "zh": "手臂"
+        },
+        {
+          "id": 5,
+          "en": "abdomen",
+          "zh": "腹部"
+        },
+        {
+          "id": 6,
+          "en": "hand",
+          "zh": "手"
+        },
+        {
+          "id": 7,
+          "en": "thigh",
+          "zh": "大腿"
+        },
+        {
+          "id": 8,
+          "en": "leg",
+          "zh": "腿"
+        },
+        {
+          "id": 9,
+          "en": "foot",
+          "zh": "脚"
+        },
+        {
+          "id": 10,
+          "en": "groin",
+          "zh": "腹股沟"
+        },
+        {
+          "id": 11,
+          "en": "genitals",
+          "zh": "生殖器"
+        },
+        {
+          "id": 12,
+          "en": "calf",
+          "zh": "小腿肚"
+        },
+        {
+          "id": 13,
+          "en": "heel",
+          "zh": "脚后跟"
+        },
+        {
+          "id": 14,
+          "en": "breast",
+          "zh": "乳房"
+        },
+        {
+          "id": 15,
+          "en": "nipple",
+          "zh": "乳头"
+        },
+        {
+          "id": 16,
+          "en": "neck",
+          "zh": "脖子"
+        },
+        {
+          "id": 17,
+          "en": "armpit",
+          "zh": "腋窝"
+        },
+        {
+          "id": 18,
+          "en": "elbow",
+          "zh": "肘部"
+        },
+        {
+          "id": 19,
+          "en": "waist",
+          "zh": "腰"
+        },
+        {
+          "id": 20,
+          "en": "forearm",
+          "zh": "前臂"
+        },
+        {
+          "id": 21,
+          "en": "wrist",
+          "zh": "手腕"
+        },
+        {
+          "id": 22,
+          "en": "hip",
+          "zh": "臀部"
+        },
+        {
+          "id": 23,
+          "en": "navel",
+          "zh": "肚脐"
+        },
+        {
+          "id": 24,
+          "en": "knee",
+          "zh": "膝盖"
+        },
+        {
+          "id": 25,
+          "en": "shin",
+          "zh": "胫"
+        },
+        {
+          "id": 26,
+          "en": "ankle",
+          "zh": "脚踝"
+        }
       ]
     },
     {
-      "pageNum": 14,
+      "pageNum": 13,
       "image": "assets/images/page_14.jpg",
       "section": "1.2",
       "sectionTitle": "脸",
       "sectionTitleEn": "The Face",
       "words": [
-        { "id": 27, "en": "eyelid", "zh": "眼睑" },
-        { "id": 28, "en": "hair", "zh": "头发" },
-        { "id": 29, "en": "temple", "zh": "太阳穴" },
-        { "id": 30, "en": "cheek", "zh": "脸颊" },
-        { "id": 31, "en": "lips", "zh": "嘴唇" },
-        { "id": 32, "en": "jaw", "zh": "下颌" },
-        { "id": 33, "en": "forehead", "zh": "额头" },
-        { "id": 34, "en": "eyebrow", "zh": "眉毛" },
-        { "id": 35, "en": "skin", "zh": "皮肤" },
-        { "id": 36, "en": "chin", "zh": "下巴" },
-        { "id": 37, "en": "eye", "zh": "眼睛" },
-        { "id": 38, "en": "ear", "zh": "耳朵" },
-        { "id": 39, "en": "nose", "zh": "鼻子" },
-        { "id": 40, "en": "nostrils", "zh": "鼻孔" },
-        { "id": 41, "en": "mouth", "zh": "嘴" },
-        { "id": 42, "en": "teeth", "zh": "牙齿" }
+        {
+          "id": 27,
+          "en": "eyelid",
+          "zh": "眼睑"
+        },
+        {
+          "id": 28,
+          "en": "hair",
+          "zh": "头发"
+        },
+        {
+          "id": 29,
+          "en": "temple",
+          "zh": "太阳穴"
+        },
+        {
+          "id": 30,
+          "en": "cheek",
+          "zh": "脸颊"
+        },
+        {
+          "id": 31,
+          "en": "lips",
+          "zh": "嘴唇"
+        },
+        {
+          "id": 32,
+          "en": "jaw",
+          "zh": "下颌"
+        },
+        {
+          "id": 33,
+          "en": "forehead",
+          "zh": "额头"
+        },
+        {
+          "id": 34,
+          "en": "eyebrow",
+          "zh": "眉毛"
+        },
+        {
+          "id": 35,
+          "en": "skin",
+          "zh": "皮肤"
+        },
+        {
+          "id": 36,
+          "en": "chin",
+          "zh": "下巴"
+        },
+        {
+          "id": 37,
+          "en": "eye",
+          "zh": "眼睛"
+        },
+        {
+          "id": 38,
+          "en": "ear",
+          "zh": "耳朵"
+        },
+        {
+          "id": 39,
+          "en": "nose",
+          "zh": "鼻子"
+        },
+        {
+          "id": 40,
+          "en": "nostrils",
+          "zh": "鼻孔"
+        },
+        {
+          "id": 41,
+          "en": "mouth",
+          "zh": "嘴"
+        },
+        {
+          "id": 42,
+          "en": "teeth",
+          "zh": "牙齿"
+        }
       ]
     },
     {
-      "pageNum": 14,
+      "pageNum": 13,
       "image": "assets/images/page_14.jpg",
       "section": "1.3",
       "sectionTitle": "眼睛",
       "sectionTitleEn": "The Eye",
       "words": [
-        { "id": 43, "en": "tear duct", "zh": "泪管" },
-        { "id": 44, "en": "eyelashes", "zh": "睫毛" },
-        { "id": 45, "en": "iris", "zh": "虹膜" },
-        { "id": 46, "en": "pupil", "zh": "瞳孔" },
-        { "id": 47, "en": "blue", "zh": "蓝色" },
-        { "id": 48, "en": "brown", "zh": "棕色" },
-        { "id": 49, "en": "green", "zh": "绿色" },
-        { "id": 50, "en": "hazel", "zh": "淡褐色" },
-        { "id": 51, "en": "gray", "zh": "灰色" }
+        {
+          "id": 43,
+          "en": "tear duct",
+          "zh": "泪管"
+        },
+        {
+          "id": 44,
+          "en": "eyelashes",
+          "zh": "睫毛"
+        },
+        {
+          "id": 45,
+          "en": "iris",
+          "zh": "虹膜"
+        },
+        {
+          "id": 46,
+          "en": "pupil",
+          "zh": "瞳孔"
+        },
+        {
+          "id": 47,
+          "en": "blue",
+          "zh": "蓝色"
+        },
+        {
+          "id": 48,
+          "en": "brown",
+          "zh": "棕色"
+        },
+        {
+          "id": 49,
+          "en": "green",
+          "zh": "绿色"
+        },
+        {
+          "id": 50,
+          "en": "hazel",
+          "zh": "淡褐色"
+        },
+        {
+          "id": 51,
+          "en": "gray",
+          "zh": "灰色"
+        }
       ]
     }
   ]

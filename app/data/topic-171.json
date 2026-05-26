@@ -6,86 +6,278 @@
   "pages": [
     {
       "pageNum": 350,
-      "image": "assets/images/page_350.jpg",
+      "image": "assets/images/page_351.jpg",
       "section": "171.1",
       "sectionTitle": "表述时间",
       "sectionTitleEn": "Telling the Time",
       "words": [
-        { "id": 1, "en": "what time is it?", "zh": "现在几点？" },
-        { "id": 2, "en": "it's three o'clock.", "zh": "现在三点钟。" },
-        { "id": 3, "en": "one o'clock", "zh": "一点钟" },
-        { "id": 4, "en": "five past one", "zh": "一点零五分" },
-        { "id": 5, "en": "ten past one", "zh": "一点十分" },
-        { "id": 6, "en": "quarter past one", "zh": "一点一刻" },
-        { "id": 7, "en": "twenty past one", "zh": "一点二十分" },
-        { "id": 8, "en": "twenty-five past one", "zh": "一点二十五分" },
-        { "id": 9, "en": "one thirty / half past one", "zh": "一点半" },
-        { "id": 10, "en": "twenty-five to two", "zh": "一点三十五分" },
-        { "id": 11, "en": "twenty to two", "zh": "一点四十分" },
-        { "id": 12, "en": "quarter to two", "zh": "一点四十五分" },
-        { "id": 13, "en": "ten to two", "zh": "一点五十分" },
-        { "id": 14, "en": "five to two", "zh": "一点五十五分" },
-        { "id": 15, "en": "two o'clock", "zh": "两点钟" },
-        { "id": 16, "en": "second", "zh": "秒" },
-        { "id": 17, "en": "minute", "zh": "分钟" },
-        { "id": 18, "en": "quarter of an hour", "zh": "一刻钟" }
+        {
+          "id": 1,
+          "en": "what time is it?",
+          "zh": "现在几点？"
+        },
+        {
+          "id": 2,
+          "en": "it's three o'clock.",
+          "zh": "现在三点钟。"
+        },
+        {
+          "id": 3,
+          "en": "one o'clock",
+          "zh": "一点钟"
+        },
+        {
+          "id": 4,
+          "en": "five past one",
+          "zh": "一点零五分"
+        },
+        {
+          "id": 5,
+          "en": "ten past one",
+          "zh": "一点十分"
+        },
+        {
+          "id": 6,
+          "en": "quarter past one",
+          "zh": "一点一刻"
+        },
+        {
+          "id": 7,
+          "en": "twenty past one",
+          "zh": "一点二十分"
+        },
+        {
+          "id": 8,
+          "en": "twenty-five past one",
+          "zh": "一点二十五分"
+        },
+        {
+          "id": 9,
+          "en": "one thirty / half past one",
+          "zh": "一点半"
+        },
+        {
+          "id": 10,
+          "en": "twenty-five to two",
+          "zh": "一点三十五分"
+        },
+        {
+          "id": 11,
+          "en": "twenty to two",
+          "zh": "一点四十分"
+        },
+        {
+          "id": 12,
+          "en": "quarter to two",
+          "zh": "一点四十五分"
+        },
+        {
+          "id": 13,
+          "en": "ten to two",
+          "zh": "一点五十分"
+        },
+        {
+          "id": 14,
+          "en": "five to two",
+          "zh": "一点五十五分"
+        },
+        {
+          "id": 15,
+          "en": "two o'clock",
+          "zh": "两点钟"
+        },
+        {
+          "id": 16,
+          "en": "second",
+          "zh": "秒"
+        },
+        {
+          "id": 17,
+          "en": "minute",
+          "zh": "分钟"
+        },
+        {
+          "id": 18,
+          "en": "quarter of an hour",
+          "zh": "一刻钟"
+        }
       ]
     },
     {
       "pageNum": 350,
-      "image": "assets/images/page_350.jpg",
+      "image": "assets/images/page_351.jpg",
       "section": "171.2",
       "sectionTitle": "一天的不同时段",
       "sectionTitleEn": "Times of Day",
       "words": [
-        { "id": 19, "en": "dawn", "zh": "黎明" },
-        { "id": 20, "en": "sunrise", "zh": "日出" },
-        { "id": 21, "en": "morning", "zh": "上午" },
-        { "id": 22, "en": "midday", "zh": "正午" },
-        { "id": 23, "en": "afternoon", "zh": "下午" }
+        {
+          "id": 19,
+          "en": "dawn",
+          "zh": "黎明"
+        },
+        {
+          "id": 20,
+          "en": "sunrise",
+          "zh": "日出"
+        },
+        {
+          "id": 21,
+          "en": "morning",
+          "zh": "上午"
+        },
+        {
+          "id": 22,
+          "en": "midday",
+          "zh": "正午"
+        },
+        {
+          "id": 23,
+          "en": "afternoon",
+          "zh": "下午"
+        }
       ]
     },
     {
       "pageNum": 351,
-      "image": "assets/images/page_351.jpg",
+      "image": "assets/images/page_352.jpg",
       "section": "171.1",
       "sectionTitle": "表述时间",
       "sectionTitleEn": "Telling the Time",
       "words": [
-        { "id": 24, "en": "twenty minutes", "zh": "二十分钟" },
-        { "id": 25, "en": "half an hour", "zh": "半小时" },
-        { "id": 26, "en": "forty minutes", "zh": "四十分钟" },
-        { "id": 27, "en": "an hour", "zh": "一小时" },
-        { "id": 28, "en": "now", "zh": "现在" },
-        { "id": 29, "en": "early", "zh": "早" },
-        { "id": 30, "en": "on time", "zh": "准时" },
-        { "id": 31, "en": "late", "zh": "迟到" },
-        { "id": 32, "en": "later", "zh": "后来" },
-        { "id": 33, "en": "hourly", "zh": "每小时" },
-        { "id": 34, "en": "always", "zh": "总是" },
-        { "id": 35, "en": "never", "zh": "从不" },
-        { "id": 36, "en": "second hand", "zh": "秒针" },
-        { "id": 37, "en": "minute hand", "zh": "分针" },
-        { "id": 38, "en": "clock", "zh": "钟表" },
-        { "id": 39, "en": "hour hand", "zh": "时针" },
-        { "id": 40, "en": "what time does it start?", "zh": "什么时候开始？" },
-        { "id": 41, "en": "at 6pm. we're going to be late!", "zh": "下午六点。我们要迟到了！" },
-        { "id": 42, "en": "to be late", "zh": "迟到" }
+        {
+          "id": 24,
+          "en": "twenty minutes",
+          "zh": "二十分钟"
+        },
+        {
+          "id": 25,
+          "en": "half an hour",
+          "zh": "半小时"
+        },
+        {
+          "id": 26,
+          "en": "forty minutes",
+          "zh": "四十分钟"
+        },
+        {
+          "id": 27,
+          "en": "an hour",
+          "zh": "一小时"
+        },
+        {
+          "id": 28,
+          "en": "now",
+          "zh": "现在"
+        },
+        {
+          "id": 29,
+          "en": "early",
+          "zh": "早"
+        },
+        {
+          "id": 30,
+          "en": "on time",
+          "zh": "准时"
+        },
+        {
+          "id": 31,
+          "en": "late",
+          "zh": "迟到"
+        },
+        {
+          "id": 32,
+          "en": "later",
+          "zh": "后来"
+        },
+        {
+          "id": 33,
+          "en": "hourly",
+          "zh": "每小时"
+        },
+        {
+          "id": 34,
+          "en": "always",
+          "zh": "总是"
+        },
+        {
+          "id": 35,
+          "en": "never",
+          "zh": "从不"
+        },
+        {
+          "id": 36,
+          "en": "second hand",
+          "zh": "秒针"
+        },
+        {
+          "id": 37,
+          "en": "minute hand",
+          "zh": "分针"
+        },
+        {
+          "id": 38,
+          "en": "clock",
+          "zh": "钟表"
+        },
+        {
+          "id": 39,
+          "en": "hour hand",
+          "zh": "时针"
+        },
+        {
+          "id": 40,
+          "en": "what time does it start?",
+          "zh": "什么时候开始？"
+        },
+        {
+          "id": 41,
+          "en": "at 6pm. we're going to be late!",
+          "zh": "下午六点。我们要迟到了！"
+        },
+        {
+          "id": 42,
+          "en": "to be late",
+          "zh": "迟到"
+        }
       ]
     },
     {
       "pageNum": 351,
-      "image": "assets/images/page_351.jpg",
+      "image": "assets/images/page_352.jpg",
       "section": "171.2",
       "sectionTitle": "一天的不同时段",
       "sectionTitleEn": "Times of Day",
       "words": [
-        { "id": 43, "en": "evening", "zh": "傍晚" },
-        { "id": 44, "en": "sunset", "zh": "日落" },
-        { "id": 45, "en": "dusk", "zh": "黄昏" },
-        { "id": 46, "en": "midnight", "zh": "午夜" },
-        { "id": 47, "en": "night", "zh": "夜晚" },
-        { "id": 48, "en": "day", "zh": "白天" }
+        {
+          "id": 43,
+          "en": "evening",
+          "zh": "傍晚"
+        },
+        {
+          "id": 44,
+          "en": "sunset",
+          "zh": "日落"
+        },
+        {
+          "id": 45,
+          "en": "dusk",
+          "zh": "黄昏"
+        },
+        {
+          "id": 46,
+          "en": "midnight",
+          "zh": "午夜"
+        },
+        {
+          "id": 47,
+          "en": "night",
+          "zh": "夜晚"
+        },
+        {
+          "id": 48,
+          "en": "day",
+          "zh": "白天"
+        }
       ]
     }
   ]

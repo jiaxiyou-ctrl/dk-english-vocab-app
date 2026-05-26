@@ -6,71 +6,275 @@
   "pages": [
     {
       "pageNum": 208,
-      "image": "assets/images/page_208.jpg",
+      "image": "assets/images/page_209.jpg",
       "section": "100.1",
       "sectionTitle": "摩托车",
       "sectionTitleEn": "Motorcycle",
       "words": [
-        { "id": 1, "en": "controls", "zh": "操控装置" },
-        { "id": 2, "en": "turn signal (US) / indicator (UK)", "zh": "转向灯" },
-        { "id": 3, "en": "clutch", "zh": "离合器" },
-        { "id": 4, "en": "speedometer", "zh": "速度表" },
-        { "id": 5, "en": "horn", "zh": "喇叭" },
-        { "id": 6, "en": "brake", "zh": "刹车" },
-        { "id": 7, "en": "throttle", "zh": "油门" },
-        { "id": 8, "en": "carrier", "zh": "载物架" },
-        { "id": 9, "en": "helmet", "zh": "头盔" },
-        { "id": 10, "en": "clothing", "zh": "摩托服" },
-        { "id": 11, "en": "visor", "zh": "头盔面罩" },
-        { "id": 12, "en": "reflector strap", "zh": "反光肩带" },
-        { "id": 13, "en": "glove", "zh": "手套" },
-        { "id": 14, "en": "leather suit (US) / leathers (UK)", "zh": "皮衣" },
-        { "id": 15, "en": "knee pad", "zh": "护膝" },
-        { "id": 16, "en": "boot", "zh": "靴子" },
-        { "id": 17, "en": "pillion", "zh": "后座" },
-        { "id": 18, "en": "seat", "zh": "驾驶座" },
-        { "id": 19, "en": "oil tank", "zh": "机油箱" },
-        { "id": 20, "en": "fuel tank", "zh": "燃油箱" },
-        { "id": 21, "en": "windshield (US) / windscreen (UK)", "zh": "风挡" },
-        { "id": 22, "en": "headlight", "zh": "前灯" },
-        { "id": 23, "en": "reflector", "zh": "反光板" },
-        { "id": 24, "en": "tail light", "zh": "尾灯" },
-        { "id": 25, "en": "exhaust pipe", "zh": "排气管" },
-        { "id": 26, "en": "muffler (US) / silencer (UK)", "zh": "排气消音器" },
-        { "id": 27, "en": "brake rotor (US) / brake disk (UK)", "zh": "刹车盘" },
-        { "id": 28, "en": "gearbox", "zh": "变速箱" },
-        { "id": 29, "en": "engine", "zh": "引擎" },
-        { "id": 30, "en": "air filter", "zh": "空气过滤器" },
-        { "id": 31, "en": "brake pedal", "zh": "刹车踏板" },
-        { "id": 32, "en": "mudguard", "zh": "挡泥板" },
-        { "id": 33, "en": "suspension", "zh": "悬架" },
-        { "id": 34, "en": "axle", "zh": "轮轴" },
-        { "id": 35, "en": "tire (US) / tyre (UK)", "zh": "轮胎" }
+        {
+          "id": 1,
+          "en": "controls",
+          "zh": "操控装置"
+        },
+        {
+          "id": 2,
+          "en": "turn signal (US) / indicator (UK)",
+          "zh": "转向灯"
+        },
+        {
+          "id": 3,
+          "en": "clutch",
+          "zh": "离合器"
+        },
+        {
+          "id": 4,
+          "en": "speedometer",
+          "zh": "速度表"
+        },
+        {
+          "id": 5,
+          "en": "horn",
+          "zh": "喇叭"
+        },
+        {
+          "id": 6,
+          "en": "brake",
+          "zh": "刹车"
+        },
+        {
+          "id": 7,
+          "en": "throttle",
+          "zh": "油门"
+        },
+        {
+          "id": 8,
+          "en": "carrier",
+          "zh": "载物架"
+        },
+        {
+          "id": 9,
+          "en": "helmet",
+          "zh": "头盔"
+        },
+        {
+          "id": 10,
+          "en": "clothing",
+          "zh": "摩托服"
+        },
+        {
+          "id": 11,
+          "en": "visor",
+          "zh": "头盔面罩"
+        },
+        {
+          "id": 12,
+          "en": "reflector strap",
+          "zh": "反光肩带"
+        },
+        {
+          "id": 13,
+          "en": "glove",
+          "zh": "手套"
+        },
+        {
+          "id": 14,
+          "en": "leather suit (US) / leathers (UK)",
+          "zh": "皮衣"
+        },
+        {
+          "id": 15,
+          "en": "knee pad",
+          "zh": "护膝"
+        },
+        {
+          "id": 16,
+          "en": "boot",
+          "zh": "靴子"
+        },
+        {
+          "id": 17,
+          "en": "pillion",
+          "zh": "后座"
+        },
+        {
+          "id": 18,
+          "en": "seat",
+          "zh": "驾驶座"
+        },
+        {
+          "id": 19,
+          "en": "oil tank",
+          "zh": "机油箱"
+        },
+        {
+          "id": 20,
+          "en": "fuel tank",
+          "zh": "燃油箱"
+        },
+        {
+          "id": 21,
+          "en": "windshield (US) / windscreen (UK)",
+          "zh": "风挡"
+        },
+        {
+          "id": 22,
+          "en": "headlight",
+          "zh": "前灯"
+        },
+        {
+          "id": 23,
+          "en": "reflector",
+          "zh": "反光板"
+        },
+        {
+          "id": 24,
+          "en": "tail light",
+          "zh": "尾灯"
+        },
+        {
+          "id": 25,
+          "en": "exhaust pipe",
+          "zh": "排气管"
+        },
+        {
+          "id": 26,
+          "en": "muffler (US) / silencer (UK)",
+          "zh": "排气消音器"
+        },
+        {
+          "id": 27,
+          "en": "brake rotor (US) / brake disk (UK)",
+          "zh": "刹车盘"
+        },
+        {
+          "id": 28,
+          "en": "gearbox",
+          "zh": "变速箱"
+        },
+        {
+          "id": 29,
+          "en": "engine",
+          "zh": "引擎"
+        },
+        {
+          "id": 30,
+          "en": "air filter",
+          "zh": "空气过滤器"
+        },
+        {
+          "id": 31,
+          "en": "brake pedal",
+          "zh": "刹车踏板"
+        },
+        {
+          "id": 32,
+          "en": "mudguard",
+          "zh": "挡泥板"
+        },
+        {
+          "id": 33,
+          "en": "suspension",
+          "zh": "悬架"
+        },
+        {
+          "id": 34,
+          "en": "axle",
+          "zh": "轮轴"
+        },
+        {
+          "id": 35,
+          "en": "tire (US) / tyre (UK)",
+          "zh": "轮胎"
+        }
       ]
     },
     {
       "pageNum": 209,
-      "image": "assets/images/page_209.jpg",
+      "image": "assets/images/page_210.jpg",
       "section": "100.2",
       "sectionTitle": "摩托车类型",
       "sectionTitleEn": "Types of Motorcycle",
       "words": [
-        { "id": 1, "en": "off-road motorcycle", "zh": "越野摩托车" },
-        { "id": 2, "en": "raised mudguard", "zh": "加高的挡泥板" },
-        { "id": 3, "en": "race number", "zh": "赛车号码" },
-        { "id": 4, "en": "deep-tread tire (US) / deep-tread tyre (UK)", "zh": "深花纹轮胎" },
-        { "id": 5, "en": "racing bike", "zh": "赛车" },
-        { "id": 6, "en": "tourer", "zh": "旅行摩托车" },
-        { "id": 7, "en": "all-terrain vehicle / quad bike", "zh": "全地形车" },
-        { "id": 8, "en": "side car", "zh": "边车" },
-        { "id": 9, "en": "electric motorcycle", "zh": "电动摩托车" },
-        { "id": 10, "en": "electric scooter", "zh": "电动滑板车" },
-        { "id": 11, "en": "three-wheeler", "zh": "三轮车" },
-        { "id": 12, "en": "motor scooter", "zh": "小型摩托车" },
-        { "id": 13, "en": "rider", "zh": "骑手" },
-        { "id": 14, "en": "to ride pillion", "zh": "骑后座" },
-        { "id": 15, "en": "to get on / mount", "zh": "上车" },
-        { "id": 16, "en": "to get off / dismount", "zh": "下车" }
+        {
+          "id": 1,
+          "en": "off-road motorcycle",
+          "zh": "越野摩托车"
+        },
+        {
+          "id": 2,
+          "en": "raised mudguard",
+          "zh": "加高的挡泥板"
+        },
+        {
+          "id": 3,
+          "en": "race number",
+          "zh": "赛车号码"
+        },
+        {
+          "id": 4,
+          "en": "deep-tread tire (US) / deep-tread tyre (UK)",
+          "zh": "深花纹轮胎"
+        },
+        {
+          "id": 5,
+          "en": "racing bike",
+          "zh": "赛车"
+        },
+        {
+          "id": 6,
+          "en": "tourer",
+          "zh": "旅行摩托车"
+        },
+        {
+          "id": 7,
+          "en": "all-terrain vehicle / quad bike",
+          "zh": "全地形车"
+        },
+        {
+          "id": 8,
+          "en": "side car",
+          "zh": "边车"
+        },
+        {
+          "id": 9,
+          "en": "electric motorcycle",
+          "zh": "电动摩托车"
+        },
+        {
+          "id": 10,
+          "en": "electric scooter",
+          "zh": "电动滑板车"
+        },
+        {
+          "id": 11,
+          "en": "three-wheeler",
+          "zh": "三轮车"
+        },
+        {
+          "id": 12,
+          "en": "motor scooter",
+          "zh": "小型摩托车"
+        },
+        {
+          "id": 13,
+          "en": "rider",
+          "zh": "骑手"
+        },
+        {
+          "id": 14,
+          "en": "to ride pillion",
+          "zh": "骑后座"
+        },
+        {
+          "id": 15,
+          "en": "to get on / mount",
+          "zh": "上车"
+        },
+        {
+          "id": 16,
+          "en": "to get off / dismount",
+          "zh": "下车"
+        }
       ]
     }
   ]

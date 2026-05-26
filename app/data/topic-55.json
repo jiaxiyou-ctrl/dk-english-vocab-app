@@ -6,73 +6,285 @@
   "pages": [
     {
       "pageNum": 120,
-      "image": "assets/images/page_120.jpg",
+      "image": "assets/images/page_121.jpg",
       "section": "55.1",
       "sectionTitle": "蔬菜",
       "sectionTitleEn": "Vegetables",
       "words": [
-        { "id": 1, "en": "fava beans (US) / broad beans (UK)", "zh": "蚕豆" },
-        { "id": 2, "en": "runner beans", "zh": "红花菜豆" },
-        { "id": 3, "en": "green beans / French beans (UK)", "zh": "四季豆" },
-        { "id": 4, "en": "dried beans", "zh": "干豆" },
-        { "id": 5, "en": "celery", "zh": "芹菜" },
-        { "id": 6, "en": "collards", "zh": "甘蓝" },
-        { "id": 7, "en": "garden peas", "zh": "青豆" },
-        { "id": 8, "en": "pod", "zh": "豆荚" },
-        { "id": 9, "en": "pea", "zh": "豌豆" },
-        { "id": 10, "en": "sugar-snap peas (US) / mangetout (UK)", "zh": "菜豆" },
-        { "id": 11, "en": "okra", "zh": "秋葵" },
-        { "id": 12, "en": "bamboo", "zh": "竹笋" },
-        { "id": 13, "en": "bean sprouts", "zh": "豆芽" },
-        { "id": 14, "en": "savoy cabbage", "zh": "野甘蓝" },
-        { "id": 15, "en": "chicory", "zh": "菊苣" },
-        { "id": 16, "en": "fennel", "zh": "茴香" },
-        { "id": 17, "en": "palm hearts", "zh": "棕榈芯" },
-        { "id": 18, "en": "baby corn (US) / baby sweetcorn (UK)", "zh": "玉米笋" },
-        { "id": 19, "en": "kernel", "zh": "玉米粒" },
-        { "id": 20, "en": "corn / sweetcorn (UK)", "zh": "玉米" },
-        { "id": 21, "en": "cabbage", "zh": "卷心菜" },
-        { "id": 22, "en": "red cabbage", "zh": "红球甘蓝" },
-        { "id": 23, "en": "endive", "zh": "苦苣" },
-        { "id": 24, "en": "dandelion", "zh": "蒲公英" },
-        { "id": 25, "en": "Swiss chard", "zh": "甜叶菜" },
-        { "id": 26, "en": "kale", "zh": "羽衣甘蓝" },
-        { "id": 27, "en": "sorrel", "zh": "酸模" },
-        { "id": 28, "en": "spinach", "zh": "菠菜" },
-        { "id": 29, "en": "cavolo nero", "zh": "黑甘蓝" },
-        { "id": 30, "en": "beet greens (US) / beet leaves (UK)", "zh": "甜菜叶" },
-        { "id": 31, "en": "bok choi (US) / pak-choi (UK)", "zh": "油菜" },
-        { "id": 32, "en": "kohlrabi", "zh": "球茎甘蓝" },
-        { "id": 33, "en": "Brussels sprouts", "zh": "抱子甘蓝" },
-        { "id": 34, "en": "spring greens", "zh": "嫩圆白菜" },
-        { "id": 35, "en": "broccoli", "zh": "西兰花" },
-        { "id": 36, "en": "stalk", "zh": "菜梗" },
-        { "id": 37, "en": "floret", "zh": "花部" },
-        { "id": 38, "en": "leaf", "zh": "叶子" },
-        { "id": 39, "en": "organic vegetables", "zh": "有机蔬菜" },
-        { "id": 40, "en": "pesticides", "zh": "杀虫剂" }
+        {
+          "id": 1,
+          "en": "fava beans (US) / broad beans (UK)",
+          "zh": "蚕豆"
+        },
+        {
+          "id": 2,
+          "en": "runner beans",
+          "zh": "红花菜豆"
+        },
+        {
+          "id": 3,
+          "en": "green beans / French beans (UK)",
+          "zh": "四季豆"
+        },
+        {
+          "id": 4,
+          "en": "dried beans",
+          "zh": "干豆"
+        },
+        {
+          "id": 5,
+          "en": "celery",
+          "zh": "芹菜"
+        },
+        {
+          "id": 6,
+          "en": "collards",
+          "zh": "甘蓝"
+        },
+        {
+          "id": 7,
+          "en": "garden peas",
+          "zh": "青豆"
+        },
+        {
+          "id": 8,
+          "en": "pod",
+          "zh": "豆荚"
+        },
+        {
+          "id": 9,
+          "en": "pea",
+          "zh": "豌豆"
+        },
+        {
+          "id": 10,
+          "en": "sugar-snap peas (US) / mangetout (UK)",
+          "zh": "菜豆"
+        },
+        {
+          "id": 11,
+          "en": "okra",
+          "zh": "秋葵"
+        },
+        {
+          "id": 12,
+          "en": "bamboo",
+          "zh": "竹笋"
+        },
+        {
+          "id": 13,
+          "en": "bean sprouts",
+          "zh": "豆芽"
+        },
+        {
+          "id": 14,
+          "en": "savoy cabbage",
+          "zh": "野甘蓝"
+        },
+        {
+          "id": 15,
+          "en": "chicory",
+          "zh": "菊苣"
+        },
+        {
+          "id": 16,
+          "en": "fennel",
+          "zh": "茴香"
+        },
+        {
+          "id": 17,
+          "en": "palm hearts",
+          "zh": "棕榈芯"
+        },
+        {
+          "id": 18,
+          "en": "baby corn (US) / baby sweetcorn (UK)",
+          "zh": "玉米笋"
+        },
+        {
+          "id": 19,
+          "en": "kernel",
+          "zh": "玉米粒"
+        },
+        {
+          "id": 20,
+          "en": "corn / sweetcorn (UK)",
+          "zh": "玉米"
+        },
+        {
+          "id": 21,
+          "en": "cabbage",
+          "zh": "卷心菜"
+        },
+        {
+          "id": 22,
+          "en": "red cabbage",
+          "zh": "红球甘蓝"
+        },
+        {
+          "id": 23,
+          "en": "endive",
+          "zh": "苦苣"
+        },
+        {
+          "id": 24,
+          "en": "dandelion",
+          "zh": "蒲公英"
+        },
+        {
+          "id": 25,
+          "en": "Swiss chard",
+          "zh": "甜叶菜"
+        },
+        {
+          "id": 26,
+          "en": "kale",
+          "zh": "羽衣甘蓝"
+        },
+        {
+          "id": 27,
+          "en": "sorrel",
+          "zh": "酸模"
+        },
+        {
+          "id": 28,
+          "en": "spinach",
+          "zh": "菠菜"
+        },
+        {
+          "id": 29,
+          "en": "cavolo nero",
+          "zh": "黑甘蓝"
+        },
+        {
+          "id": 30,
+          "en": "beet greens (US) / beet leaves (UK)",
+          "zh": "甜菜叶"
+        },
+        {
+          "id": 31,
+          "en": "bok choi (US) / pak-choi (UK)",
+          "zh": "油菜"
+        },
+        {
+          "id": 32,
+          "en": "kohlrabi",
+          "zh": "球茎甘蓝"
+        },
+        {
+          "id": 33,
+          "en": "Brussels sprouts",
+          "zh": "抱子甘蓝"
+        },
+        {
+          "id": 34,
+          "en": "spring greens",
+          "zh": "嫩圆白菜"
+        },
+        {
+          "id": 35,
+          "en": "broccoli",
+          "zh": "西兰花"
+        },
+        {
+          "id": 36,
+          "en": "stalk",
+          "zh": "菜梗"
+        },
+        {
+          "id": 37,
+          "en": "floret",
+          "zh": "花部"
+        },
+        {
+          "id": 38,
+          "en": "leaf",
+          "zh": "叶子"
+        },
+        {
+          "id": 39,
+          "en": "organic vegetables",
+          "zh": "有机蔬菜"
+        },
+        {
+          "id": 40,
+          "en": "pesticides",
+          "zh": "杀虫剂"
+        }
       ]
     },
     {
       "pageNum": 121,
-      "image": "assets/images/page_121.jpg",
+      "image": "assets/images/page_122.jpg",
       "section": "55.2",
       "sectionTitle": "沙拉蔬菜",
       "sectionTitleEn": "Salad Vegetables",
       "words": [
-        { "id": 41, "en": "cress", "zh": "水芹" },
-        { "id": 42, "en": "arugula (US) / rocket (UK)", "zh": "芝麻菜" },
-        { "id": 43, "en": "iceberg lettuce", "zh": "冰山生菜" },
-        { "id": 44, "en": "romaine lettuce", "zh": "罗马生菜" },
-        { "id": 45, "en": "little gem", "zh": "小叶莴苣" },
-        { "id": 46, "en": "spring onion", "zh": "葱" },
-        { "id": 47, "en": "cherry tomatoes", "zh": "圣女果" },
-        { "id": 48, "en": "cucumber", "zh": "黄瓜" },
-        { "id": 49, "en": "frisée", "zh": "碎叶菊苣" },
-        { "id": 50, "en": "watercress", "zh": "豆瓣菜" },
-        { "id": 51, "en": "radicchio", "zh": "红菊苣" },
-        { "id": 52, "en": "lettuce", "zh": "生菜" },
-        { "id": 53, "en": "salad", "zh": "沙拉" }
+        {
+          "id": 41,
+          "en": "cress",
+          "zh": "水芹"
+        },
+        {
+          "id": 42,
+          "en": "arugula (US) / rocket (UK)",
+          "zh": "芝麻菜"
+        },
+        {
+          "id": 43,
+          "en": "iceberg lettuce",
+          "zh": "冰山生菜"
+        },
+        {
+          "id": 44,
+          "en": "romaine lettuce",
+          "zh": "罗马生菜"
+        },
+        {
+          "id": 45,
+          "en": "little gem",
+          "zh": "小叶莴苣"
+        },
+        {
+          "id": 46,
+          "en": "spring onion",
+          "zh": "葱"
+        },
+        {
+          "id": 47,
+          "en": "cherry tomatoes",
+          "zh": "圣女果"
+        },
+        {
+          "id": 48,
+          "en": "cucumber",
+          "zh": "黄瓜"
+        },
+        {
+          "id": 49,
+          "en": "frisée",
+          "zh": "碎叶菊苣"
+        },
+        {
+          "id": 50,
+          "en": "watercress",
+          "zh": "豆瓣菜"
+        },
+        {
+          "id": 51,
+          "en": "radicchio",
+          "zh": "红菊苣"
+        },
+        {
+          "id": 52,
+          "en": "lettuce",
+          "zh": "生菜"
+        },
+        {
+          "id": 53,
+          "en": "salad",
+          "zh": "沙拉"
+        }
       ]
     }
   ]

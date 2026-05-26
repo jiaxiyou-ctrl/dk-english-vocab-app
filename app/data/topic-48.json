@@ -6,92 +6,308 @@
   "pages": [
     {
       "pageNum": 106,
-      "image": "assets/images/page_106.jpg",
+      "image": "assets/images/page_107.jpg",
       "section": "48.1",
       "sectionTitle": "超市",
       "sectionTitleEn": "Supermarket",
       "words": [
-        { "id": 1, "en": "open", "zh": "开门的" },
-        { "id": 2, "en": "closed", "zh": "关闭的" },
-        { "id": 3, "en": "customer", "zh": "顾客" },
-        { "id": 4, "en": "receipt", "zh": "收据" },
-        { "id": 5, "en": "special offer", "zh": "特价优惠" },
-        { "id": 6, "en": "bargain", "zh": "讨价还价" },
-        { "id": 7, "en": "wide range", "zh": "种类繁多" },
-        { "id": 8, "en": "line (US) / queue (UK)", "zh": "排队" },
-        { "id": 9, "en": "card machine", "zh": "刷卡机" },
-        { "id": 10, "en": "online shopping", "zh": "网上购物" },
-        { "id": 11, "en": "delivery man", "zh": "送货员" },
-        { "id": 12, "en": "home delivery", "zh": "送货上门" }
+        {
+          "id": 1,
+          "en": "open",
+          "zh": "开门的"
+        },
+        {
+          "id": 2,
+          "en": "closed",
+          "zh": "关闭的"
+        },
+        {
+          "id": 3,
+          "en": "customer",
+          "zh": "顾客"
+        },
+        {
+          "id": 4,
+          "en": "receipt",
+          "zh": "收据"
+        },
+        {
+          "id": 5,
+          "en": "special offer",
+          "zh": "特价优惠"
+        },
+        {
+          "id": 6,
+          "en": "bargain",
+          "zh": "讨价还价"
+        },
+        {
+          "id": 7,
+          "en": "wide range",
+          "zh": "种类繁多"
+        },
+        {
+          "id": 8,
+          "en": "line (US) / queue (UK)",
+          "zh": "排队"
+        },
+        {
+          "id": 9,
+          "en": "card machine",
+          "zh": "刷卡机"
+        },
+        {
+          "id": 10,
+          "en": "online shopping",
+          "zh": "网上购物"
+        },
+        {
+          "id": 11,
+          "en": "delivery man",
+          "zh": "送货员"
+        },
+        {
+          "id": 12,
+          "en": "home delivery",
+          "zh": "送货上门"
+        }
       ]
     },
     {
       "pageNum": 106,
-      "image": "assets/images/page_106.jpg",
+      "image": "assets/images/page_107.jpg",
       "section": "48.2",
       "sectionTitle": "收银处",
       "sectionTitleEn": "Checkout",
       "words": [
-        { "id": 13, "en": "exit", "zh": "出口" },
-        { "id": 14, "en": "cashier", "zh": "收银员" },
-        { "id": 15, "en": "cash register (US) / till (UK)", "zh": "收银机" },
-        { "id": 16, "en": "shelves", "zh": "货架" },
-        { "id": 17, "en": "self checkout", "zh": "自助结账" },
-        { "id": 18, "en": "shopping bag (US) / carrier bag (UK)", "zh": "手提袋" },
-        { "id": 19, "en": "conveyor belt", "zh": "传送带" },
-        { "id": 20, "en": "basket", "zh": "购物篮" },
-        { "id": 21, "en": "shopping cart (US) / trolley (UK)", "zh": "购物车" },
-        { "id": 22, "en": "checkout", "zh": "结账" },
-        { "id": 23, "en": "barcode", "zh": "条形码" },
-        { "id": 24, "en": "scanner", "zh": "扫码器" },
-        { "id": 25, "en": "coupon (US) / discount voucher (UK)", "zh": "优惠券" }
+        {
+          "id": 13,
+          "en": "exit",
+          "zh": "出口"
+        },
+        {
+          "id": 14,
+          "en": "cashier",
+          "zh": "收银员"
+        },
+        {
+          "id": 15,
+          "en": "cash register (US) / till (UK)",
+          "zh": "收银机"
+        },
+        {
+          "id": 16,
+          "en": "shelves",
+          "zh": "货架"
+        },
+        {
+          "id": 17,
+          "en": "self checkout",
+          "zh": "自助结账"
+        },
+        {
+          "id": 18,
+          "en": "shopping bag (US) / carrier bag (UK)",
+          "zh": "手提袋"
+        },
+        {
+          "id": 19,
+          "en": "conveyor belt",
+          "zh": "传送带"
+        },
+        {
+          "id": 20,
+          "en": "basket",
+          "zh": "购物篮"
+        },
+        {
+          "id": 21,
+          "en": "shopping cart (US) / trolley (UK)",
+          "zh": "购物车"
+        },
+        {
+          "id": 22,
+          "en": "checkout",
+          "zh": "结账"
+        },
+        {
+          "id": 23,
+          "en": "barcode",
+          "zh": "条形码"
+        },
+        {
+          "id": 24,
+          "en": "scanner",
+          "zh": "扫码器"
+        },
+        {
+          "id": 25,
+          "en": "coupon (US) / discount voucher (UK)",
+          "zh": "优惠券"
+        }
       ]
     },
     {
       "pageNum": 107,
-      "image": "assets/images/page_107.jpg",
+      "image": "assets/images/page_108.jpg",
       "section": "48.3",
       "sectionTitle": "过道/分区",
       "sectionTitleEn": "Aisles",
       "words": [
-        { "id": 26, "en": "bakery", "zh": "面包房" },
-        { "id": 27, "en": "dairy", "zh": "乳制品" },
-        { "id": 28, "en": "breakfast cereals", "zh": "早餐麦片" },
-        { "id": 29, "en": "tinned / canned food", "zh": "罐头食品" },
-        { "id": 30, "en": "candy (US) / confectionery (UK)", "zh": "糖果" },
-        { "id": 31, "en": "vegetables", "zh": "蔬菜" },
-        { "id": 32, "en": "fruit", "zh": "水果" },
-        { "id": 33, "en": "meat and poultry", "zh": "肉类" },
-        { "id": 34, "en": "fish", "zh": "鱼类" },
-        { "id": 35, "en": "deli", "zh": "熟食区" },
-        { "id": 36, "en": "frozen food", "zh": "冷冻食品" },
-        { "id": 37, "en": "convenience food", "zh": "方便食品" },
-        { "id": 38, "en": "drinks", "zh": "饮品" },
-        { "id": 39, "en": "household products", "zh": "家居用品" },
-        { "id": 40, "en": "toiletries", "zh": "卫浴用品" },
-        { "id": 41, "en": "baby products", "zh": "婴儿用品" },
-        { "id": 42, "en": "electrical goods", "zh": "电子产品" },
-        { "id": 43, "en": "pet food", "zh": "宠物食品" }
+        {
+          "id": 26,
+          "en": "bakery",
+          "zh": "面包房"
+        },
+        {
+          "id": 27,
+          "en": "dairy",
+          "zh": "乳制品"
+        },
+        {
+          "id": 28,
+          "en": "breakfast cereals",
+          "zh": "早餐麦片"
+        },
+        {
+          "id": 29,
+          "en": "tinned / canned food",
+          "zh": "罐头食品"
+        },
+        {
+          "id": 30,
+          "en": "candy (US) / confectionery (UK)",
+          "zh": "糖果"
+        },
+        {
+          "id": 31,
+          "en": "vegetables",
+          "zh": "蔬菜"
+        },
+        {
+          "id": 32,
+          "en": "fruit",
+          "zh": "水果"
+        },
+        {
+          "id": 33,
+          "en": "meat and poultry",
+          "zh": "肉类"
+        },
+        {
+          "id": 34,
+          "en": "fish",
+          "zh": "鱼类"
+        },
+        {
+          "id": 35,
+          "en": "deli",
+          "zh": "熟食区"
+        },
+        {
+          "id": 36,
+          "en": "frozen food",
+          "zh": "冷冻食品"
+        },
+        {
+          "id": 37,
+          "en": "convenience food",
+          "zh": "方便食品"
+        },
+        {
+          "id": 38,
+          "en": "drinks",
+          "zh": "饮品"
+        },
+        {
+          "id": 39,
+          "en": "household products",
+          "zh": "家居用品"
+        },
+        {
+          "id": 40,
+          "en": "toiletries",
+          "zh": "卫浴用品"
+        },
+        {
+          "id": 41,
+          "en": "baby products",
+          "zh": "婴儿用品"
+        },
+        {
+          "id": 42,
+          "en": "electrical goods",
+          "zh": "电子产品"
+        },
+        {
+          "id": 43,
+          "en": "pet food",
+          "zh": "宠物食品"
+        }
       ]
     },
     {
       "pageNum": 107,
-      "image": "assets/images/page_107.jpg",
+      "image": "assets/images/page_108.jpg",
       "section": "48.4",
       "sectionTitle": "报摊/售货亭",
       "sectionTitleEn": "Newsstand / Kiosk",
       "words": [
-        { "id": 44, "en": "newspaper", "zh": "报纸" },
-        { "id": 45, "en": "magazine", "zh": "杂志" },
-        { "id": 46, "en": "comic", "zh": "漫画" },
-        { "id": 47, "en": "postcard", "zh": "明信片" },
-        { "id": 48, "en": "tourist map", "zh": "旅游地图" },
-        { "id": 49, "en": "stamps", "zh": "邮票" },
-        { "id": 50, "en": "travel card", "zh": "旅行卡" },
-        { "id": 51, "en": "sim card", "zh": "手机卡" },
-        { "id": 52, "en": "snack bar", "zh": "零食棒" },
-        { "id": 53, "en": "chips (US) / crisps (UK)", "zh": "薯片" },
-        { "id": 54, "en": "water", "zh": "水" }
+        {
+          "id": 44,
+          "en": "newspaper",
+          "zh": "报纸"
+        },
+        {
+          "id": 45,
+          "en": "magazine",
+          "zh": "杂志"
+        },
+        {
+          "id": 46,
+          "en": "comic",
+          "zh": "漫画"
+        },
+        {
+          "id": 47,
+          "en": "postcard",
+          "zh": "明信片"
+        },
+        {
+          "id": 48,
+          "en": "tourist map",
+          "zh": "旅游地图"
+        },
+        {
+          "id": 49,
+          "en": "stamps",
+          "zh": "邮票"
+        },
+        {
+          "id": 50,
+          "en": "travel card",
+          "zh": "旅行卡"
+        },
+        {
+          "id": 51,
+          "en": "sim card",
+          "zh": "手机卡"
+        },
+        {
+          "id": 52,
+          "en": "snack bar",
+          "zh": "零食棒"
+        },
+        {
+          "id": 53,
+          "en": "chips (US) / crisps (UK)",
+          "zh": "薯片"
+        },
+        {
+          "id": 54,
+          "en": "water",
+          "zh": "水"
+        }
       ]
     }
   ]

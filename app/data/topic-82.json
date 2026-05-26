@@ -6,88 +6,324 @@
   "pages": [
     {
       "pageNum": 172,
-      "image": "assets/images/page_172.jpg",
+      "image": "assets/images/page_173.jpg",
       "section": "82.1",
       "sectionTitle": "办公室",
       "sectionTitleEn": "Office",
       "words": [
-        { "id": 1, "en": "bulletin board (US) / notice board (UK)", "zh": "公告板" },
-        { "id": 2, "en": "files / folders", "zh": "文件夹" },
-        { "id": 3, "en": "lamp", "zh": "灯" },
-        { "id": 4, "en": "computer", "zh": "电脑" },
-        { "id": 5, "en": "trash can (US) / bin (UK)", "zh": "垃圾桶" },
-        { "id": 6, "en": "paper", "zh": "纸" },
-        { "id": 7, "en": "notepad", "zh": "记事本" },
-        { "id": 8, "en": "sticky notes", "zh": "便利贴" },
-        { "id": 9, "en": "trays", "zh": "文件篮" },
-        { "id": 10, "en": "water cooler", "zh": "饮水机" },
-        { "id": 11, "en": "printer", "zh": "打印机" },
-        { "id": 12, "en": "filing cabinet", "zh": "文件柜" },
-        { "id": 13, "en": "drawer", "zh": "抽屉" },
-        { "id": 14, "en": "desk", "zh": "桌子" },
-        { "id": 15, "en": "chair", "zh": "椅子" },
-        { "id": 16, "en": "workstation", "zh": "工位" }
+        {
+          "id": 1,
+          "en": "bulletin board (US) / notice board (UK)",
+          "zh": "公告板"
+        },
+        {
+          "id": 2,
+          "en": "files / folders",
+          "zh": "文件夹"
+        },
+        {
+          "id": 3,
+          "en": "lamp",
+          "zh": "灯"
+        },
+        {
+          "id": 4,
+          "en": "computer",
+          "zh": "电脑"
+        },
+        {
+          "id": 5,
+          "en": "trash can (US) / bin (UK)",
+          "zh": "垃圾桶"
+        },
+        {
+          "id": 6,
+          "en": "paper",
+          "zh": "纸"
+        },
+        {
+          "id": 7,
+          "en": "notepad",
+          "zh": "记事本"
+        },
+        {
+          "id": 8,
+          "en": "sticky notes",
+          "zh": "便利贴"
+        },
+        {
+          "id": 9,
+          "en": "trays",
+          "zh": "文件篮"
+        },
+        {
+          "id": 10,
+          "en": "water cooler",
+          "zh": "饮水机"
+        },
+        {
+          "id": 11,
+          "en": "printer",
+          "zh": "打印机"
+        },
+        {
+          "id": 12,
+          "en": "filing cabinet",
+          "zh": "文件柜"
+        },
+        {
+          "id": 13,
+          "en": "drawer",
+          "zh": "抽屉"
+        },
+        {
+          "id": 14,
+          "en": "desk",
+          "zh": "桌子"
+        },
+        {
+          "id": 15,
+          "en": "chair",
+          "zh": "椅子"
+        },
+        {
+          "id": 16,
+          "en": "workstation",
+          "zh": "工位"
+        }
       ]
     },
     {
       "pageNum": 172,
-      "image": "assets/images/page_172.jpg",
+      "image": "assets/images/page_173.jpg",
       "section": "82.2",
       "sectionTitle": "会议室设备",
       "sectionTitleEn": "Meeting Room Equipment",
       "words": [
-        { "id": 17, "en": "presentation", "zh": "展示" },
-        { "id": 18, "en": "proposal", "zh": "提案" },
-        { "id": 19, "en": "report", "zh": "报告" },
-        { "id": 20, "en": "digital projector", "zh": "数字投影仪" },
-        { "id": 21, "en": "meeting", "zh": "会议" },
-        { "id": 22, "en": "flip chart", "zh": "翻页挂图" },
-        { "id": 23, "en": "easel", "zh": "画架" }
+        {
+          "id": 17,
+          "en": "presentation",
+          "zh": "展示"
+        },
+        {
+          "id": 18,
+          "en": "proposal",
+          "zh": "提案"
+        },
+        {
+          "id": 19,
+          "en": "report",
+          "zh": "报告"
+        },
+        {
+          "id": 20,
+          "en": "digital projector",
+          "zh": "数字投影仪"
+        },
+        {
+          "id": 21,
+          "en": "meeting",
+          "zh": "会议"
+        },
+        {
+          "id": 22,
+          "en": "flip chart",
+          "zh": "翻页挂图"
+        },
+        {
+          "id": 23,
+          "en": "easel",
+          "zh": "画架"
+        }
       ]
     },
     {
       "pageNum": 173,
-      "image": "assets/images/page_173.jpg",
+      "image": "assets/images/page_174.jpg",
       "section": "82.3",
       "sectionTitle": "办公室设备",
       "sectionTitleEn": "Office Equipment",
       "words": [
-        { "id": 24, "en": "photocopier", "zh": "复印机" },
-        { "id": 25, "en": "scanner", "zh": "扫描仪" },
-        { "id": 26, "en": "telephone / phone", "zh": "电话" },
-        { "id": 27, "en": "laptop", "zh": "笔记本电脑" },
-        { "id": 28, "en": "projector", "zh": "投影仪" },
-        { "id": 29, "en": "headset", "zh": "耳机" },
-        { "id": 30, "en": "shredder", "zh": "碎纸机" },
-        { "id": 31, "en": "cell phone (US) / mobile phone (UK)", "zh": "手机" },
-        { "id": 32, "en": "footrest", "zh": "搁脚凳" },
-        { "id": 33, "en": "kneeling chair", "zh": "跪椅" },
-        { "id": 34, "en": "movable panel", "zh": "可动面板" },
-        { "id": 35, "en": "stationery", "zh": "文具" },
-        { "id": 36, "en": "letter", "zh": "信" },
-        { "id": 37, "en": "envelope", "zh": "信封" },
-        { "id": 38, "en": "calendar", "zh": "日历" },
-        { "id": 39, "en": "planner (US) / diary (UK)", "zh": "日程本" },
-        { "id": 40, "en": "clipboard", "zh": "写字夹板" },
-        { "id": 41, "en": "hole punch", "zh": "打孔机" },
-        { "id": 42, "en": "rubber bands", "zh": "橡皮筋" },
-        { "id": 43, "en": "binder clip", "zh": "长尾夹" },
-        { "id": 44, "en": "scissors", "zh": "剪刀" },
-        { "id": 45, "en": "pencil sharpener", "zh": "卷笔刀" },
-        { "id": 46, "en": "stapler", "zh": "订书机" },
-        { "id": 47, "en": "staples", "zh": "订书钉" },
-        { "id": 48, "en": "correction fluid", "zh": "涂改液" },
-        { "id": 49, "en": "minutes", "zh": "会议记录" },
-        { "id": 50, "en": "ring binder", "zh": "活页夹" },
-        { "id": 51, "en": "highlighter", "zh": "荧光笔" },
-        { "id": 52, "en": "glue", "zh": "胶水" },
-        { "id": 53, "en": "tape", "zh": "胶带" },
-        { "id": 54, "en": "thumbtack (US) / drawing pin (UK)", "zh": "图钉" },
-        { "id": 55, "en": "pencil", "zh": "铅笔" },
-        { "id": 56, "en": "pen", "zh": "笔" },
-        { "id": 57, "en": "paper clips", "zh": "回形针" },
-        { "id": 58, "en": "eraser (US) / rubber (UK)", "zh": "橡皮" },
-        { "id": 59, "en": "ruler", "zh": "尺子" }
+        {
+          "id": 24,
+          "en": "photocopier",
+          "zh": "复印机"
+        },
+        {
+          "id": 25,
+          "en": "scanner",
+          "zh": "扫描仪"
+        },
+        {
+          "id": 26,
+          "en": "telephone / phone",
+          "zh": "电话"
+        },
+        {
+          "id": 27,
+          "en": "laptop",
+          "zh": "笔记本电脑"
+        },
+        {
+          "id": 28,
+          "en": "projector",
+          "zh": "投影仪"
+        },
+        {
+          "id": 29,
+          "en": "headset",
+          "zh": "耳机"
+        },
+        {
+          "id": 30,
+          "en": "shredder",
+          "zh": "碎纸机"
+        },
+        {
+          "id": 31,
+          "en": "cell phone (US) / mobile phone (UK)",
+          "zh": "手机"
+        },
+        {
+          "id": 32,
+          "en": "footrest",
+          "zh": "搁脚凳"
+        },
+        {
+          "id": 33,
+          "en": "kneeling chair",
+          "zh": "跪椅"
+        },
+        {
+          "id": 34,
+          "en": "movable panel",
+          "zh": "可动面板"
+        },
+        {
+          "id": 35,
+          "en": "stationery",
+          "zh": "文具"
+        },
+        {
+          "id": 36,
+          "en": "letter",
+          "zh": "信"
+        },
+        {
+          "id": 37,
+          "en": "envelope",
+          "zh": "信封"
+        },
+        {
+          "id": 38,
+          "en": "calendar",
+          "zh": "日历"
+        },
+        {
+          "id": 39,
+          "en": "planner (US) / diary (UK)",
+          "zh": "日程本"
+        },
+        {
+          "id": 40,
+          "en": "clipboard",
+          "zh": "写字夹板"
+        },
+        {
+          "id": 41,
+          "en": "hole punch",
+          "zh": "打孔机"
+        },
+        {
+          "id": 42,
+          "en": "rubber bands",
+          "zh": "橡皮筋"
+        },
+        {
+          "id": 43,
+          "en": "binder clip",
+          "zh": "长尾夹"
+        },
+        {
+          "id": 44,
+          "en": "scissors",
+          "zh": "剪刀"
+        },
+        {
+          "id": 45,
+          "en": "pencil sharpener",
+          "zh": "卷笔刀"
+        },
+        {
+          "id": 46,
+          "en": "stapler",
+          "zh": "订书机"
+        },
+        {
+          "id": 47,
+          "en": "staples",
+          "zh": "订书钉"
+        },
+        {
+          "id": 48,
+          "en": "correction fluid",
+          "zh": "涂改液"
+        },
+        {
+          "id": 49,
+          "en": "minutes",
+          "zh": "会议记录"
+        },
+        {
+          "id": 50,
+          "en": "ring binder",
+          "zh": "活页夹"
+        },
+        {
+          "id": 51,
+          "en": "highlighter",
+          "zh": "荧光笔"
+        },
+        {
+          "id": 52,
+          "en": "glue",
+          "zh": "胶水"
+        },
+        {
+          "id": 53,
+          "en": "tape",
+          "zh": "胶带"
+        },
+        {
+          "id": 54,
+          "en": "thumbtack (US) / drawing pin (UK)",
+          "zh": "图钉"
+        },
+        {
+          "id": 55,
+          "en": "pencil",
+          "zh": "铅笔"
+        },
+        {
+          "id": 56,
+          "en": "pen",
+          "zh": "笔"
+        },
+        {
+          "id": 57,
+          "en": "paper clips",
+          "zh": "回形针"
+        },
+        {
+          "id": 58,
+          "en": "eraser (US) / rubber (UK)",
+          "zh": "橡皮"
+        },
+        {
+          "id": 59,
+          "en": "ruler",
+          "zh": "尺子"
+        }
       ]
     }
   ]

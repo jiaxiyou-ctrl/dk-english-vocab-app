@@ -6,93 +6,313 @@
   "pages": [
     {
       "pageNum": 260,
-      "image": "assets/images/page_260.jpg",
-      "section": "126.1",
-      "sectionTitle": "剧院",
-      "sectionTitleEn": "Theater",
-      "words": [
-        { "id": 1, "en": "performer", "zh": "表演者" },
-        { "id": 2, "en": "set", "zh": "布景" },
-        { "id": 3, "en": "curtain", "zh": "幕帘" },
-        { "id": 4, "en": "balcony (us) / grand circle (uk)", "zh": "楼座" },
-        { "id": 5, "en": "box", "zh": "包厢" },
-        { "id": 6, "en": "wings", "zh": "侧舞台" },
-        { "id": 7, "en": "stage", "zh": "舞台" },
-        { "id": 8, "en": "orchestra pit", "zh": "管弦乐池" },
-        { "id": 9, "en": "orchestra seating (us) / stalls (uk)", "zh": "池座" },
-        { "id": 10, "en": "mezzanine (us) / dress circle (uk)", "zh": "楼厅前座" },
-        { "id": 11, "en": "aisle", "zh": "通道" },
-        { "id": 12, "en": "seating", "zh": "座位" },
-        { "id": 13, "en": "theater (us) / theatre (uk)", "zh": "剧院" },
-        { "id": 14, "en": "audience", "zh": "观众" },
-        { "id": 15, "en": "row", "zh": "排" },
-        { "id": 16, "en": "play", "zh": "戏剧" },
-        { "id": 17, "en": "costumes", "zh": "戏服" },
-        { "id": 18, "en": "props", "zh": "道具" },
-        { "id": 19, "en": "sets", "zh": "布景" },
-        { "id": 20, "en": "backdrop", "zh": "背景幕" },
-        { "id": 21, "en": "script", "zh": "剧本" },
-        { "id": 22, "en": "producer", "zh": "制作人" },
-        { "id": 23, "en": "director", "zh": "导演" },
-        { "id": 24, "en": "actor", "zh": "演员" },
-        { "id": 25, "en": "cast", "zh": "演员阵容" },
-        { "id": 26, "en": "opening night", "zh": "开幕夜" },
-        { "id": 27, "en": "intermission (us) / interval (uk)", "zh": "幕间休息" }
-      ]
-    },
-    {
-      "pageNum": 261,
       "image": "assets/images/page_261.jpg",
       "section": "126.1",
       "sectionTitle": "剧院",
       "sectionTitleEn": "Theater",
       "words": [
-        { "id": 28, "en": "program (us) / programme (uk)", "zh": "节目单" },
-        { "id": 29, "en": "usher", "zh": "引座员" },
-        { "id": 30, "en": "tragedy", "zh": "悲剧" },
-        { "id": 31, "en": "comedy", "zh": "喜剧" },
-        { "id": 32, "en": "musical", "zh": "音乐剧" },
-        { "id": 33, "en": "standing ovation", "zh": "起立鼓掌" }
+        {
+          "id": 1,
+          "en": "performer",
+          "zh": "表演者"
+        },
+        {
+          "id": 2,
+          "en": "set",
+          "zh": "布景"
+        },
+        {
+          "id": 3,
+          "en": "curtain",
+          "zh": "幕帘"
+        },
+        {
+          "id": 4,
+          "en": "balcony (us) / grand circle (uk)",
+          "zh": "楼座"
+        },
+        {
+          "id": 5,
+          "en": "box",
+          "zh": "包厢"
+        },
+        {
+          "id": 6,
+          "en": "wings",
+          "zh": "侧舞台"
+        },
+        {
+          "id": 7,
+          "en": "stage",
+          "zh": "舞台"
+        },
+        {
+          "id": 8,
+          "en": "orchestra pit",
+          "zh": "管弦乐池"
+        },
+        {
+          "id": 9,
+          "en": "orchestra seating (us) / stalls (uk)",
+          "zh": "池座"
+        },
+        {
+          "id": 10,
+          "en": "mezzanine (us) / dress circle (uk)",
+          "zh": "楼厅前座"
+        },
+        {
+          "id": 11,
+          "en": "aisle",
+          "zh": "通道"
+        },
+        {
+          "id": 12,
+          "en": "seating",
+          "zh": "座位"
+        },
+        {
+          "id": 13,
+          "en": "theater (us) / theatre (uk)",
+          "zh": "剧院"
+        },
+        {
+          "id": 14,
+          "en": "audience",
+          "zh": "观众"
+        },
+        {
+          "id": 15,
+          "en": "row",
+          "zh": "排"
+        },
+        {
+          "id": 16,
+          "en": "play",
+          "zh": "戏剧"
+        },
+        {
+          "id": 17,
+          "en": "costumes",
+          "zh": "戏服"
+        },
+        {
+          "id": 18,
+          "en": "props",
+          "zh": "道具"
+        },
+        {
+          "id": 19,
+          "en": "sets",
+          "zh": "布景"
+        },
+        {
+          "id": 20,
+          "en": "backdrop",
+          "zh": "背景幕"
+        },
+        {
+          "id": 21,
+          "en": "script",
+          "zh": "剧本"
+        },
+        {
+          "id": 22,
+          "en": "producer",
+          "zh": "制作人"
+        },
+        {
+          "id": 23,
+          "en": "director",
+          "zh": "导演"
+        },
+        {
+          "id": 24,
+          "en": "actor",
+          "zh": "演员"
+        },
+        {
+          "id": 25,
+          "en": "cast",
+          "zh": "演员阵容"
+        },
+        {
+          "id": 26,
+          "en": "opening night",
+          "zh": "开幕夜"
+        },
+        {
+          "id": 27,
+          "en": "intermission (us) / interval (uk)",
+          "zh": "幕间休息"
+        }
       ]
     },
     {
       "pageNum": 261,
-      "image": "assets/images/page_261.jpg",
+      "image": "assets/images/page_262.jpg",
+      "section": "126.1",
+      "sectionTitle": "剧院",
+      "sectionTitleEn": "Theater",
+      "words": [
+        {
+          "id": 28,
+          "en": "program (us) / programme (uk)",
+          "zh": "节目单"
+        },
+        {
+          "id": 29,
+          "en": "usher",
+          "zh": "引座员"
+        },
+        {
+          "id": 30,
+          "en": "tragedy",
+          "zh": "悲剧"
+        },
+        {
+          "id": 31,
+          "en": "comedy",
+          "zh": "喜剧"
+        },
+        {
+          "id": 32,
+          "en": "musical",
+          "zh": "音乐剧"
+        },
+        {
+          "id": 33,
+          "en": "standing ovation",
+          "zh": "起立鼓掌"
+        }
+      ]
+    },
+    {
+      "pageNum": 261,
+      "image": "assets/images/page_262.jpg",
       "section": "126.2",
       "sectionTitle": "芭蕾舞",
       "sectionTitleEn": "Ballet",
       "words": [
-        { "id": 34, "en": "arm", "zh": "手臂" },
-        { "id": 35, "en": "knee", "zh": "膝盖" },
-        { "id": 36, "en": "toe box", "zh": "鞋头" },
-        { "id": 37, "en": "to pirouette / to turn", "zh": "单脚尖旋转" },
-        { "id": 38, "en": "to plié / to bend", "zh": "屈膝" },
-        { "id": 39, "en": "male ballet dancer", "zh": "芭蕾舞男演员" },
-        { "id": 40, "en": "ballerina", "zh": "芭蕾舞女演员" },
-        { "id": 41, "en": "tutu", "zh": "芭蕾舞短裙" },
-        { "id": 42, "en": "ballet leotard", "zh": "芭蕾舞紧身衣" },
-        { "id": 43, "en": "ballet shoes", "zh": "芭蕾舞鞋" },
-        { "id": 44, "en": "performance", "zh": "表演" },
-        { "id": 45, "en": "encore", "zh": "返场" },
-        { "id": 46, "en": "applause", "zh": "掌声" }
+        {
+          "id": 34,
+          "en": "arm",
+          "zh": "手臂"
+        },
+        {
+          "id": 35,
+          "en": "knee",
+          "zh": "膝盖"
+        },
+        {
+          "id": 36,
+          "en": "toe box",
+          "zh": "鞋头"
+        },
+        {
+          "id": 37,
+          "en": "to pirouette / to turn",
+          "zh": "单脚尖旋转"
+        },
+        {
+          "id": 38,
+          "en": "to plié / to bend",
+          "zh": "屈膝"
+        },
+        {
+          "id": 39,
+          "en": "male ballet dancer",
+          "zh": "芭蕾舞男演员"
+        },
+        {
+          "id": 40,
+          "en": "ballerina",
+          "zh": "芭蕾舞女演员"
+        },
+        {
+          "id": 41,
+          "en": "tutu",
+          "zh": "芭蕾舞短裙"
+        },
+        {
+          "id": 42,
+          "en": "ballet leotard",
+          "zh": "芭蕾舞紧身衣"
+        },
+        {
+          "id": 43,
+          "en": "ballet shoes",
+          "zh": "芭蕾舞鞋"
+        },
+        {
+          "id": 44,
+          "en": "performance",
+          "zh": "表演"
+        },
+        {
+          "id": 45,
+          "en": "encore",
+          "zh": "返场"
+        },
+        {
+          "id": 46,
+          "en": "applause",
+          "zh": "掌声"
+        }
       ]
     },
     {
       "pageNum": 261,
-      "image": "assets/images/page_261.jpg",
+      "image": "assets/images/page_262.jpg",
       "section": "126.3",
       "sectionTitle": "歌剧",
       "sectionTitleEn": "Opera",
       "words": [
-        { "id": 47, "en": "bass", "zh": "男低音" },
-        { "id": 48, "en": "baritone", "zh": "男中音" },
-        { "id": 49, "en": "tenor", "zh": "男高音" },
-        { "id": 50, "en": "opera house", "zh": "歌剧院" },
-        { "id": 51, "en": "alto", "zh": "中音" },
-        { "id": 52, "en": "mezzo-soprano", "zh": "次女高音" },
-        { "id": 53, "en": "soprano", "zh": "女高音" },
-        { "id": 54, "en": "prima donna", "zh": "首席女歌手" },
-        { "id": 55, "en": "libretto", "zh": "歌词" }
+        {
+          "id": 47,
+          "en": "bass",
+          "zh": "男低音"
+        },
+        {
+          "id": 48,
+          "en": "baritone",
+          "zh": "男中音"
+        },
+        {
+          "id": 49,
+          "en": "tenor",
+          "zh": "男高音"
+        },
+        {
+          "id": 50,
+          "en": "opera house",
+          "zh": "歌剧院"
+        },
+        {
+          "id": 51,
+          "en": "alto",
+          "zh": "中音"
+        },
+        {
+          "id": 52,
+          "en": "mezzo-soprano",
+          "zh": "次女高音"
+        },
+        {
+          "id": 53,
+          "en": "soprano",
+          "zh": "女高音"
+        },
+        {
+          "id": 54,
+          "en": "prima donna",
+          "zh": "首席女歌手"
+        },
+        {
+          "id": 55,
+          "en": "libretto",
+          "zh": "歌词"
+        }
       ]
     }
   ]

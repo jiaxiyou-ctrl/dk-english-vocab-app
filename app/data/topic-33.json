@@ -6,93 +6,349 @@
   "pages": [
     {
       "pageNum": 76,
-      "image": "assets/images/page_76.jpg",
+      "image": "assets/images/page_77.jpg",
       "section": "33.1",
       "sectionTitle": "电力",
       "sectionTitleEn": "Electricity",
       "words": [
-        { "id": 1, "en": "bayonet fit", "zh": "卡口" },
-        { "id": 2, "en": "CFL (compact fluorescent lamp) bulb", "zh": "紧凑型荧光灯灯泡" },
-        { "id": 3, "en": "incandescent bulb", "zh": "白炽灯泡" },
-        { "id": 4, "en": "screw fit", "zh": "螺旋接头" },
-        { "id": 5, "en": "LED (light emitting diode) bulb", "zh": "发光二极管灯泡" },
-        { "id": 6, "en": "light bulbs", "zh": "灯泡" },
-        { "id": 7, "en": "socket", "zh": "插座" },
-        { "id": 8, "en": "light switch", "zh": "电灯开关" },
-        { "id": 9, "en": "direct current", "zh": "直流电" },
-        { "id": 10, "en": "alternating current", "zh": "交流电" },
-        { "id": 11, "en": "generator", "zh": "发电机" },
-        { "id": 12, "en": "gas space heater", "zh": "燃气取暖器" },
-        { "id": 13, "en": "oil-filled radiator", "zh": "电热油汀" },
-        { "id": 14, "en": "fan space heater", "zh": "风扇取暖器" },
-        { "id": 15, "en": "ceiling fan", "zh": "吊扇" },
-        { "id": 16, "en": "blade", "zh": "扇片" },
-        { "id": 17, "en": "fan", "zh": "风扇" },
-        { "id": 18, "en": "air conditioning", "zh": "空调" },
-        { "id": 19, "en": "power", "zh": "电力" },
-        { "id": 20, "en": "fuse box", "zh": "保险丝盒" },
-        { "id": 21, "en": "breaker (US) / trip switch (UK)", "zh": "断路器" },
-        { "id": 22, "en": "amp", "zh": "安培" },
-        { "id": 23, "en": "live", "zh": "火线" },
-        { "id": 24, "en": "neutral", "zh": "零线" },
-        { "id": 25, "en": "wires", "zh": "电线" },
-        { "id": 26, "en": "ground (US) / earthing (UK)", "zh": "接地" },
-        { "id": 27, "en": "voltage", "zh": "电压" },
-        { "id": 28, "en": "plug", "zh": "插头" },
-        { "id": 29, "en": "pin", "zh": "管脚" },
-        { "id": 30, "en": "electricity meter", "zh": "电表" },
-        { "id": 31, "en": "transformer", "zh": "变压器" },
-        { "id": 32, "en": "power outage (US) / power cut (UK)", "zh": "停电" },
-        { "id": 33, "en": "utility power (US) / mains supply (UK)", "zh": "公用电力" },
-        { "id": 34, "en": "wiring", "zh": "布线" }
+        {
+          "id": 1,
+          "en": "bayonet fit",
+          "zh": "卡口"
+        },
+        {
+          "id": 2,
+          "en": "CFL (compact fluorescent lamp) bulb",
+          "zh": "紧凑型荧光灯灯泡"
+        },
+        {
+          "id": 3,
+          "en": "incandescent bulb",
+          "zh": "白炽灯泡"
+        },
+        {
+          "id": 4,
+          "en": "screw fit",
+          "zh": "螺旋接头"
+        },
+        {
+          "id": 5,
+          "en": "LED (light emitting diode) bulb",
+          "zh": "发光二极管灯泡"
+        },
+        {
+          "id": 6,
+          "en": "light bulbs",
+          "zh": "灯泡"
+        },
+        {
+          "id": 7,
+          "en": "socket",
+          "zh": "插座"
+        },
+        {
+          "id": 8,
+          "en": "light switch",
+          "zh": "电灯开关"
+        },
+        {
+          "id": 9,
+          "en": "direct current",
+          "zh": "直流电"
+        },
+        {
+          "id": 10,
+          "en": "alternating current",
+          "zh": "交流电"
+        },
+        {
+          "id": 11,
+          "en": "generator",
+          "zh": "发电机"
+        },
+        {
+          "id": 12,
+          "en": "gas space heater",
+          "zh": "燃气取暖器"
+        },
+        {
+          "id": 13,
+          "en": "oil-filled radiator",
+          "zh": "电热油汀"
+        },
+        {
+          "id": 14,
+          "en": "fan space heater",
+          "zh": "风扇取暖器"
+        },
+        {
+          "id": 15,
+          "en": "ceiling fan",
+          "zh": "吊扇"
+        },
+        {
+          "id": 16,
+          "en": "blade",
+          "zh": "扇片"
+        },
+        {
+          "id": 17,
+          "en": "fan",
+          "zh": "风扇"
+        },
+        {
+          "id": 18,
+          "en": "air conditioning",
+          "zh": "空调"
+        },
+        {
+          "id": 19,
+          "en": "power",
+          "zh": "电力"
+        },
+        {
+          "id": 20,
+          "en": "fuse box",
+          "zh": "保险丝盒"
+        },
+        {
+          "id": 21,
+          "en": "breaker (US) / trip switch (UK)",
+          "zh": "断路器"
+        },
+        {
+          "id": 22,
+          "en": "amp",
+          "zh": "安培"
+        },
+        {
+          "id": 23,
+          "en": "live",
+          "zh": "火线"
+        },
+        {
+          "id": 24,
+          "en": "neutral",
+          "zh": "零线"
+        },
+        {
+          "id": 25,
+          "en": "wires",
+          "zh": "电线"
+        },
+        {
+          "id": 26,
+          "en": "ground (US) / earthing (UK)",
+          "zh": "接地"
+        },
+        {
+          "id": 27,
+          "en": "voltage",
+          "zh": "电压"
+        },
+        {
+          "id": 28,
+          "en": "plug",
+          "zh": "插头"
+        },
+        {
+          "id": 29,
+          "en": "pin",
+          "zh": "管脚"
+        },
+        {
+          "id": 30,
+          "en": "electricity meter",
+          "zh": "电表"
+        },
+        {
+          "id": 31,
+          "en": "transformer",
+          "zh": "变压器"
+        },
+        {
+          "id": 32,
+          "en": "power outage (US) / power cut (UK)",
+          "zh": "停电"
+        },
+        {
+          "id": 33,
+          "en": "utility power (US) / mains supply (UK)",
+          "zh": "公用电力"
+        },
+        {
+          "id": 34,
+          "en": "wiring",
+          "zh": "布线"
+        }
       ]
     },
     {
       "pageNum": 77,
-      "image": "assets/images/page_77.jpg",
+      "image": "assets/images/page_78.jpg",
       "section": "33.2",
       "sectionTitle": "管道",
       "sectionTitleEn": "Plumbing",
       "words": [
-        { "id": 35, "en": "temperature display", "zh": "温度显示" },
-        { "id": 36, "en": "pressure gauge", "zh": "压力表" },
-        { "id": 37, "en": "central heating furnace (US) / boiler (UK)", "zh": "热水器" },
-        { "id": 38, "en": "faucet (US) / tap (UK)", "zh": "水龙头" },
-        { "id": 39, "en": "drain", "zh": "下水管" },
-        { "id": 40, "en": "shutoff valve", "zh": "截止阀" },
-        { "id": 41, "en": "pipe", "zh": "管子" },
-        { "id": 42, "en": "trap", "zh": "存水弯" },
-        { "id": 43, "en": "sink (US) / basin (UK)", "zh": "洗涤槽" },
-        { "id": 44, "en": "cistern", "zh": "水箱" },
-        { "id": 45, "en": "toilet float", "zh": "马桶浮子" },
-        { "id": 46, "en": "seat", "zh": "座位" },
-        { "id": 47, "en": "bowl", "zh": "桶身" },
-        { "id": 48, "en": "sewer drain pipe (US) / waste pipe (UK)", "zh": "下水道排水管" },
-        { "id": 49, "en": "toilet", "zh": "马桶" },
-        { "id": 50, "en": "radiator", "zh": "散热器" },
-        { "id": 51, "en": "faucet (US) / tap (UK)", "zh": "水龙头" },
-        { "id": 52, "en": "to spring a leak", "zh": "漏水" },
-        { "id": 53, "en": "to call a plumber", "zh": "联系水管工" },
-        { "id": 54, "en": "to repair", "zh": "修理" },
-        { "id": 55, "en": "to install", "zh": "安装" }
+        {
+          "id": 35,
+          "en": "temperature display",
+          "zh": "温度显示"
+        },
+        {
+          "id": 36,
+          "en": "pressure gauge",
+          "zh": "压力表"
+        },
+        {
+          "id": 37,
+          "en": "central heating furnace (US) / boiler (UK)",
+          "zh": "热水器"
+        },
+        {
+          "id": 38,
+          "en": "faucet (US) / tap (UK)",
+          "zh": "水龙头"
+        },
+        {
+          "id": 39,
+          "en": "drain",
+          "zh": "下水管"
+        },
+        {
+          "id": 40,
+          "en": "shutoff valve",
+          "zh": "截止阀"
+        },
+        {
+          "id": 41,
+          "en": "pipe",
+          "zh": "管子"
+        },
+        {
+          "id": 42,
+          "en": "trap",
+          "zh": "存水弯"
+        },
+        {
+          "id": 43,
+          "en": "sink (US) / basin (UK)",
+          "zh": "洗涤槽"
+        },
+        {
+          "id": 44,
+          "en": "cistern",
+          "zh": "水箱"
+        },
+        {
+          "id": 45,
+          "en": "toilet float",
+          "zh": "马桶浮子"
+        },
+        {
+          "id": 46,
+          "en": "seat",
+          "zh": "座位"
+        },
+        {
+          "id": 47,
+          "en": "bowl",
+          "zh": "桶身"
+        },
+        {
+          "id": 48,
+          "en": "sewer drain pipe (US) / waste pipe (UK)",
+          "zh": "下水道排水管"
+        },
+        {
+          "id": 49,
+          "en": "toilet",
+          "zh": "马桶"
+        },
+        {
+          "id": 50,
+          "en": "radiator",
+          "zh": "散热器"
+        },
+        {
+          "id": 51,
+          "en": "faucet (US) / tap (UK)",
+          "zh": "水龙头"
+        },
+        {
+          "id": 52,
+          "en": "to spring a leak",
+          "zh": "漏水"
+        },
+        {
+          "id": 53,
+          "en": "to call a plumber",
+          "zh": "联系水管工"
+        },
+        {
+          "id": 54,
+          "en": "to repair",
+          "zh": "修理"
+        },
+        {
+          "id": 55,
+          "en": "to install",
+          "zh": "安装"
+        }
       ]
     },
     {
       "pageNum": 77,
-      "image": "assets/images/page_77.jpg",
+      "image": "assets/images/page_78.jpg",
       "section": "33.3",
       "sectionTitle": "垃圾",
       "sectionTitleEn": "Waste",
       "words": [
-        { "id": 56, "en": "trash can (US) / rubbish bin (UK)", "zh": "垃圾桶" },
-        { "id": 57, "en": "recycling bin", "zh": "回收桶" },
-        { "id": 58, "en": "sorting unit", "zh": "分类垃圾桶" },
-        { "id": 59, "en": "food compost bin", "zh": "厨余垃圾箱" },
-        { "id": 60, "en": "trash bag (US) / bin liner (UK)", "zh": "垃圾袋" },
-        { "id": 61, "en": "biodegradable waste", "zh": "可降解垃圾" },
-        { "id": 62, "en": "hazardous waste", "zh": "有害垃圾" },
-        { "id": 63, "en": "electrical waste", "zh": "电子垃圾" },
-        { "id": 64, "en": "construction waste", "zh": "建筑垃圾" }
+        {
+          "id": 56,
+          "en": "trash can (US) / rubbish bin (UK)",
+          "zh": "垃圾桶"
+        },
+        {
+          "id": 57,
+          "en": "recycling bin",
+          "zh": "回收桶"
+        },
+        {
+          "id": 58,
+          "en": "sorting unit",
+          "zh": "分类垃圾桶"
+        },
+        {
+          "id": 59,
+          "en": "food compost bin",
+          "zh": "厨余垃圾箱"
+        },
+        {
+          "id": 60,
+          "en": "trash bag (US) / bin liner (UK)",
+          "zh": "垃圾袋"
+        },
+        {
+          "id": 61,
+          "en": "biodegradable waste",
+          "zh": "可降解垃圾"
+        },
+        {
+          "id": 62,
+          "en": "hazardous waste",
+          "zh": "有害垃圾"
+        },
+        {
+          "id": 63,
+          "en": "electrical waste",
+          "zh": "电子垃圾"
+        },
+        {
+          "id": 64,
+          "en": "construction waste",
+          "zh": "建筑垃圾"
+        }
       ]
     }
   ]

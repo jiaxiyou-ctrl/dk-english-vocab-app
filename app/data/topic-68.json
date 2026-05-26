@@ -6,98 +6,338 @@
   "pages": [
     {
       "pageNum": 144,
-      "image": "assets/images/page_144.jpg",
+      "image": "assets/images/page_145.jpg",
       "section": "68.1",
       "sectionTitle": "酒吧",
       "sectionTitleEn": "Bar",
       "words": [
-        { "id": 1, "en": "coffee machine", "zh": "咖啡机" },
-        { "id": 2, "en": "beer", "zh": "啤酒" },
-        { "id": 3, "en": "beer tap", "zh": "啤酒龙头" },
-        { "id": 4, "en": "spirit optics", "zh": "倒酒架" },
-        { "id": 5, "en": "stirrer", "zh": "搅拌勺" },
-        { "id": 6, "en": "bartender", "zh": "酒保" },
-        { "id": 7, "en": "cash register (US) / till (UK)", "zh": "收银机" },
-        { "id": 8, "en": "ice", "zh": "冰" },
-        { "id": 9, "en": "glasses", "zh": "玻璃杯" },
-        { "id": 10, "en": "bar counter", "zh": "吧台" },
-        { "id": 11, "en": "bar stool", "zh": "吧台凳" },
-        { "id": 12, "en": "coaster", "zh": "杯垫" },
-        { "id": 13, "en": "bottle opener", "zh": "开瓶器" },
-        { "id": 14, "en": "bar", "zh": "酒吧" },
-        { "id": 15, "en": "cocktail glass", "zh": "鸡尾酒杯" },
-        { "id": 16, "en": "cocktail shaker", "zh": "鸡尾酒调酒器" },
-        { "id": 17, "en": "ice bucket", "zh": "冰桶" },
-        { "id": 18, "en": "corkscrew", "zh": "瓶塞钻" }
+        {
+          "id": 1,
+          "en": "coffee machine",
+          "zh": "咖啡机"
+        },
+        {
+          "id": 2,
+          "en": "beer",
+          "zh": "啤酒"
+        },
+        {
+          "id": 3,
+          "en": "beer tap",
+          "zh": "啤酒龙头"
+        },
+        {
+          "id": 4,
+          "en": "spirit optics",
+          "zh": "倒酒架"
+        },
+        {
+          "id": 5,
+          "en": "stirrer",
+          "zh": "搅拌勺"
+        },
+        {
+          "id": 6,
+          "en": "bartender",
+          "zh": "酒保"
+        },
+        {
+          "id": 7,
+          "en": "cash register (US) / till (UK)",
+          "zh": "收银机"
+        },
+        {
+          "id": 8,
+          "en": "ice",
+          "zh": "冰"
+        },
+        {
+          "id": 9,
+          "en": "glasses",
+          "zh": "玻璃杯"
+        },
+        {
+          "id": 10,
+          "en": "bar counter",
+          "zh": "吧台"
+        },
+        {
+          "id": 11,
+          "en": "bar stool",
+          "zh": "吧台凳"
+        },
+        {
+          "id": 12,
+          "en": "coaster",
+          "zh": "杯垫"
+        },
+        {
+          "id": 13,
+          "en": "bottle opener",
+          "zh": "开瓶器"
+        },
+        {
+          "id": 14,
+          "en": "bar",
+          "zh": "酒吧"
+        },
+        {
+          "id": 15,
+          "en": "cocktail glass",
+          "zh": "鸡尾酒杯"
+        },
+        {
+          "id": 16,
+          "en": "cocktail shaker",
+          "zh": "鸡尾酒调酒器"
+        },
+        {
+          "id": 17,
+          "en": "ice bucket",
+          "zh": "冰桶"
+        },
+        {
+          "id": 18,
+          "en": "corkscrew",
+          "zh": "瓶塞钻"
+        }
       ]
     },
     {
       "pageNum": 144,
-      "image": "assets/images/page_144.jpg",
+      "image": "assets/images/page_145.jpg",
       "section": "68.2",
       "sectionTitle": "啤酒和葡萄酒",
       "sectionTitleEn": "Beer and Wine",
       "words": [
-        { "id": 19, "en": "lager", "zh": "拉格啤酒" },
-        { "id": 20, "en": "pilsner", "zh": "皮尔森啤酒" },
-        { "id": 21, "en": "wheat beer", "zh": "小麦啤酒" },
-        { "id": 22, "en": "indian pale ale (IPA)", "zh": "印度淡麦芽啤酒" },
-        { "id": 23, "en": "ale", "zh": "麦芽啤酒" },
-        { "id": 24, "en": "stout", "zh": "烈性黑啤酒" },
-        { "id": 25, "en": "alcohol-free beer", "zh": "无醇啤酒" },
-        { "id": 26, "en": "red wine", "zh": "红葡萄酒" },
-        { "id": 27, "en": "white wine", "zh": "白葡萄酒" },
-        { "id": 28, "en": "rosé", "zh": "玫瑰红葡萄酒" },
-        { "id": 29, "en": "sparkling wine", "zh": "气泡酒" },
-        { "id": 30, "en": "champagne", "zh": "香槟" }
+        {
+          "id": 19,
+          "en": "lager",
+          "zh": "拉格啤酒"
+        },
+        {
+          "id": 20,
+          "en": "pilsner",
+          "zh": "皮尔森啤酒"
+        },
+        {
+          "id": 21,
+          "en": "wheat beer",
+          "zh": "小麦啤酒"
+        },
+        {
+          "id": 22,
+          "en": "indian pale ale (IPA)",
+          "zh": "印度淡麦芽啤酒"
+        },
+        {
+          "id": 23,
+          "en": "ale",
+          "zh": "麦芽啤酒"
+        },
+        {
+          "id": 24,
+          "en": "stout",
+          "zh": "烈性黑啤酒"
+        },
+        {
+          "id": 25,
+          "en": "alcohol-free beer",
+          "zh": "无醇啤酒"
+        },
+        {
+          "id": 26,
+          "en": "red wine",
+          "zh": "红葡萄酒"
+        },
+        {
+          "id": 27,
+          "en": "white wine",
+          "zh": "白葡萄酒"
+        },
+        {
+          "id": 28,
+          "en": "rosé",
+          "zh": "玫瑰红葡萄酒"
+        },
+        {
+          "id": 29,
+          "en": "sparkling wine",
+          "zh": "气泡酒"
+        },
+        {
+          "id": 30,
+          "en": "champagne",
+          "zh": "香槟"
+        }
       ]
     },
     {
       "pageNum": 145,
-      "image": "assets/images/page_145.jpg",
+      "image": "assets/images/page_146.jpg",
       "section": "68.3",
       "sectionTitle": "饮品",
       "sectionTitleEn": "Drinks",
       "words": [
-        { "id": 31, "en": "mineral water", "zh": "矿泉水" },
-        { "id": 32, "en": "cider", "zh": "苹果酒" },
-        { "id": 33, "en": "rum", "zh": "朗姆酒" },
-        { "id": 34, "en": "rum and cola", "zh": "朗姆兑可乐" },
-        { "id": 35, "en": "vodka", "zh": "伏特加" },
-        { "id": 36, "en": "vodka and orange", "zh": "伏特加兑橙汁" },
-        { "id": 37, "en": "gin and tonic", "zh": "金汤力" },
-        { "id": 38, "en": "martini", "zh": "马提尼酒" },
-        { "id": 39, "en": "cocktail", "zh": "鸡尾酒" },
-        { "id": 40, "en": "mocktail", "zh": "无酒精鸡尾酒" },
-        { "id": 41, "en": "sherry", "zh": "雪利酒" },
-        { "id": 42, "en": "port", "zh": "波尔图葡萄酒" },
-        { "id": 43, "en": "whiskey (US) / whisky (UK)", "zh": "威士忌" },
-        { "id": 44, "en": "scotch and water", "zh": "威士忌兑水" },
-        { "id": 45, "en": "brandy", "zh": "白兰地" },
-        { "id": 46, "en": "liqueur", "zh": "利口酒" },
-        { "id": 47, "en": "with ice", "zh": "加冰的" },
-        { "id": 48, "en": "without ice", "zh": "不加冰的" },
-        { "id": 49, "en": "single", "zh": "单份的" },
-        { "id": 50, "en": "double", "zh": "双份的" },
-        { "id": 51, "en": "shot", "zh": "一盎司酒" },
-        { "id": 52, "en": "measure", "zh": "量度" },
-        { "id": 53, "en": "ice and lemon", "zh": "冰和柠檬" },
-        { "id": 54, "en": "tongs", "zh": "夹具" }
+        {
+          "id": 31,
+          "en": "mineral water",
+          "zh": "矿泉水"
+        },
+        {
+          "id": 32,
+          "en": "cider",
+          "zh": "苹果酒"
+        },
+        {
+          "id": 33,
+          "en": "rum",
+          "zh": "朗姆酒"
+        },
+        {
+          "id": 34,
+          "en": "rum and cola",
+          "zh": "朗姆兑可乐"
+        },
+        {
+          "id": 35,
+          "en": "vodka",
+          "zh": "伏特加"
+        },
+        {
+          "id": 36,
+          "en": "vodka and orange",
+          "zh": "伏特加兑橙汁"
+        },
+        {
+          "id": 37,
+          "en": "gin and tonic",
+          "zh": "金汤力"
+        },
+        {
+          "id": 38,
+          "en": "martini",
+          "zh": "马提尼酒"
+        },
+        {
+          "id": 39,
+          "en": "cocktail",
+          "zh": "鸡尾酒"
+        },
+        {
+          "id": 40,
+          "en": "mocktail",
+          "zh": "无酒精鸡尾酒"
+        },
+        {
+          "id": 41,
+          "en": "sherry",
+          "zh": "雪利酒"
+        },
+        {
+          "id": 42,
+          "en": "port",
+          "zh": "波尔图葡萄酒"
+        },
+        {
+          "id": 43,
+          "en": "whiskey (US) / whisky (UK)",
+          "zh": "威士忌"
+        },
+        {
+          "id": 44,
+          "en": "scotch and water",
+          "zh": "威士忌兑水"
+        },
+        {
+          "id": 45,
+          "en": "brandy",
+          "zh": "白兰地"
+        },
+        {
+          "id": 46,
+          "en": "liqueur",
+          "zh": "利口酒"
+        },
+        {
+          "id": 47,
+          "en": "with ice",
+          "zh": "加冰的"
+        },
+        {
+          "id": 48,
+          "en": "without ice",
+          "zh": "不加冰的"
+        },
+        {
+          "id": 49,
+          "en": "single",
+          "zh": "单份的"
+        },
+        {
+          "id": 50,
+          "en": "double",
+          "zh": "双份的"
+        },
+        {
+          "id": 51,
+          "en": "shot",
+          "zh": "一盎司酒"
+        },
+        {
+          "id": 52,
+          "en": "measure",
+          "zh": "量度"
+        },
+        {
+          "id": 53,
+          "en": "ice and lemon",
+          "zh": "冰和柠檬"
+        },
+        {
+          "id": 54,
+          "en": "tongs",
+          "zh": "夹具"
+        }
       ]
     },
     {
       "pageNum": 145,
-      "image": "assets/images/page_145.jpg",
+      "image": "assets/images/page_146.jpg",
       "section": "68.4",
       "sectionTitle": "酒吧零食",
       "sectionTitleEn": "Bar Snacks",
       "words": [
-        { "id": 55, "en": "chips (US) / crisps (UK)", "zh": "薯片" },
-        { "id": 56, "en": "nuts", "zh": "坚果" },
-        { "id": 57, "en": "almonds", "zh": "杏仁" },
-        { "id": 58, "en": "cashews (US) / cashew nuts (UK)", "zh": "腰果" },
-        { "id": 59, "en": "peanuts", "zh": "花生" },
-        { "id": 60, "en": "olives", "zh": "橄榄" }
+        {
+          "id": 55,
+          "en": "chips (US) / crisps (UK)",
+          "zh": "薯片"
+        },
+        {
+          "id": 56,
+          "en": "nuts",
+          "zh": "坚果"
+        },
+        {
+          "id": 57,
+          "en": "almonds",
+          "zh": "杏仁"
+        },
+        {
+          "id": 58,
+          "en": "cashews (US) / cashew nuts (UK)",
+          "zh": "腰果"
+        },
+        {
+          "id": 59,
+          "en": "peanuts",
+          "zh": "花生"
+        },
+        {
+          "id": 60,
+          "en": "olives",
+          "zh": "橄榄"
+        }
       ]
     }
   ]

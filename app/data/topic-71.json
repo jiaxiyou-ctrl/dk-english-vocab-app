@@ -6,77 +6,305 @@
   "pages": [
     {
       "pageNum": 150,
-      "image": "assets/images/page_150.jpg",
+      "image": "assets/images/page_151.jpg",
       "section": "71.1",
       "sectionTitle": "自助早餐",
       "sectionTitleEn": "Breakfast Buffet",
       "words": [
-        { "id": 1, "en": "muesli", "zh": "什锦麦片" },
-        { "id": 2, "en": "cereal", "zh": "麦片" },
-        { "id": 3, "en": "milk", "zh": "牛奶" },
-        { "id": 4, "en": "condiments", "zh": "酱料" },
-        { "id": 5, "en": "crispbread", "zh": "薄脆麦饼干" },
-        { "id": 6, "en": "croissant", "zh": "牛角面包" },
-        { "id": 7, "en": "cold meats", "zh": "冷餐肉" },
-        { "id": 8, "en": "brioche", "zh": "法式甜面包" },
-        { "id": 9, "en": "bread basket", "zh": "面包篮" },
-        { "id": 10, "en": "cereal bowl", "zh": "麦片碗" },
-        { "id": 11, "en": "french toast", "zh": "法式吐司" },
-        { "id": 12, "en": "pâté", "zh": "肉酱" },
-        { "id": 13, "en": "fresh fruit", "zh": "新鲜水果" },
-        { "id": 14, "en": "cheese", "zh": "奶酪" },
-        { "id": 15, "en": "butter", "zh": "黄油" },
-        { "id": 16, "en": "bread", "zh": "面包" },
-        { "id": 17, "en": "ham", "zh": "火腿" },
-        { "id": 18, "en": "toasted sandwich", "zh": "烤三明治" },
-        { "id": 19, "en": "omelet (US) / omelette (UK)", "zh": "煎蛋卷" },
-        { "id": 20, "en": "avocado toast", "zh": "牛油果吐司" },
-        { "id": 21, "en": "bagel", "zh": "贝果" },
-        { "id": 22, "en": "cinnamon rolls", "zh": "肉桂卷" },
-        { "id": 23, "en": "waffles", "zh": "华夫饼" },
-        { "id": 24, "en": "cream", "zh": "奶油" },
-        { "id": 25, "en": "jam", "zh": "果酱" },
-        { "id": 26, "en": "marmalade", "zh": "橘子果酱" },
-        { "id": 27, "en": "honey", "zh": "蜂蜜" },
-        { "id": 28, "en": "tea", "zh": "茶" },
-        { "id": 29, "en": "coffee", "zh": "咖啡" },
-        { "id": 30, "en": "fruit juice", "zh": "果汁" },
-        { "id": 31, "en": "dried fruit", "zh": "干果" },
-        { "id": 32, "en": "fruit yogurt (US) / fruit yoghurt (UK)", "zh": "水果酸奶" }
+        {
+          "id": 1,
+          "en": "muesli",
+          "zh": "什锦麦片"
+        },
+        {
+          "id": 2,
+          "en": "cereal",
+          "zh": "麦片"
+        },
+        {
+          "id": 3,
+          "en": "milk",
+          "zh": "牛奶"
+        },
+        {
+          "id": 4,
+          "en": "condiments",
+          "zh": "酱料"
+        },
+        {
+          "id": 5,
+          "en": "crispbread",
+          "zh": "薄脆麦饼干"
+        },
+        {
+          "id": 6,
+          "en": "croissant",
+          "zh": "牛角面包"
+        },
+        {
+          "id": 7,
+          "en": "cold meats",
+          "zh": "冷餐肉"
+        },
+        {
+          "id": 8,
+          "en": "brioche",
+          "zh": "法式甜面包"
+        },
+        {
+          "id": 9,
+          "en": "bread basket",
+          "zh": "面包篮"
+        },
+        {
+          "id": 10,
+          "en": "cereal bowl",
+          "zh": "麦片碗"
+        },
+        {
+          "id": 11,
+          "en": "french toast",
+          "zh": "法式吐司"
+        },
+        {
+          "id": 12,
+          "en": "pâté",
+          "zh": "肉酱"
+        },
+        {
+          "id": 13,
+          "en": "fresh fruit",
+          "zh": "新鲜水果"
+        },
+        {
+          "id": 14,
+          "en": "cheese",
+          "zh": "奶酪"
+        },
+        {
+          "id": 15,
+          "en": "butter",
+          "zh": "黄油"
+        },
+        {
+          "id": 16,
+          "en": "bread",
+          "zh": "面包"
+        },
+        {
+          "id": 17,
+          "en": "ham",
+          "zh": "火腿"
+        },
+        {
+          "id": 18,
+          "en": "toasted sandwich",
+          "zh": "烤三明治"
+        },
+        {
+          "id": 19,
+          "en": "omelet (US) / omelette (UK)",
+          "zh": "煎蛋卷"
+        },
+        {
+          "id": 20,
+          "en": "avocado toast",
+          "zh": "牛油果吐司"
+        },
+        {
+          "id": 21,
+          "en": "bagel",
+          "zh": "贝果"
+        },
+        {
+          "id": 22,
+          "en": "cinnamon rolls",
+          "zh": "肉桂卷"
+        },
+        {
+          "id": 23,
+          "en": "waffles",
+          "zh": "华夫饼"
+        },
+        {
+          "id": 24,
+          "en": "cream",
+          "zh": "奶油"
+        },
+        {
+          "id": 25,
+          "en": "jam",
+          "zh": "果酱"
+        },
+        {
+          "id": 26,
+          "en": "marmalade",
+          "zh": "橘子果酱"
+        },
+        {
+          "id": 27,
+          "en": "honey",
+          "zh": "蜂蜜"
+        },
+        {
+          "id": 28,
+          "en": "tea",
+          "zh": "茶"
+        },
+        {
+          "id": 29,
+          "en": "coffee",
+          "zh": "咖啡"
+        },
+        {
+          "id": 30,
+          "en": "fruit juice",
+          "zh": "果汁"
+        },
+        {
+          "id": 31,
+          "en": "dried fruit",
+          "zh": "干果"
+        },
+        {
+          "id": 32,
+          "en": "fruit yogurt (US) / fruit yoghurt (UK)",
+          "zh": "水果酸奶"
+        }
       ]
     },
     {
       "pageNum": 151,
-      "image": "assets/images/page_151.jpg",
+      "image": "assets/images/page_152.jpg",
       "section": "71.2",
       "sectionTitle": "熟食早餐",
       "sectionTitleEn": "Cooked Breakfast",
       "words": [
-        { "id": 33, "en": "sausage", "zh": "香肠" },
-        { "id": 34, "en": "sausage patties", "zh": "香肠肉饼" },
-        { "id": 35, "en": "bacon", "zh": "培根" },
-        { "id": 36, "en": "kippers", "zh": "腌鱼" },
-        { "id": 37, "en": "smoked salmon", "zh": "烟熏鲑鱼" },
-        { "id": 38, "en": "smoked mackerel", "zh": "烟熏鲭鱼" },
-        { "id": 39, "en": "black pudding / blood sausage (UK)", "zh": "黑布丁" },
-        { "id": 40, "en": "kidneys", "zh": "腰子" },
-        { "id": 41, "en": "scrambled eggs", "zh": "炒蛋" },
-        { "id": 42, "en": "poached egg", "zh": "荷包蛋" },
-        { "id": 43, "en": "boiled egg", "zh": "煮蛋" },
-        { "id": 44, "en": "egg white", "zh": "蛋白" },
-        { "id": 45, "en": "yolk", "zh": "蛋黄" },
-        { "id": 46, "en": "fried egg", "zh": "煎蛋" },
-        { "id": 47, "en": "toast", "zh": "烤吐司" },
-        { "id": 48, "en": "fried mushrooms", "zh": "煎蘑菇" },
-        { "id": 49, "en": "hash browns", "zh": "薯饼" },
-        { "id": 50, "en": "grilled tomato", "zh": "烤番茄" },
-        { "id": 51, "en": "canned tomato (US) / tinned tomato (UK)", "zh": "罐装番茄" },
-        { "id": 52, "en": "baked beans", "zh": "焗豆" },
-        { "id": 53, "en": "breakfast roll", "zh": "早餐卷" },
-        { "id": 54, "en": "breakfast burrito", "zh": "早餐玉米卷饼" },
-        { "id": 55, "en": "potato cakes", "zh": "土豆饼" },
-        { "id": 56, "en": "pancakes", "zh": "薄饼" },
-        { "id": 57, "en": "oatmeal (US) / porridge (UK)", "zh": "麦片粥" }
+        {
+          "id": 33,
+          "en": "sausage",
+          "zh": "香肠"
+        },
+        {
+          "id": 34,
+          "en": "sausage patties",
+          "zh": "香肠肉饼"
+        },
+        {
+          "id": 35,
+          "en": "bacon",
+          "zh": "培根"
+        },
+        {
+          "id": 36,
+          "en": "kippers",
+          "zh": "腌鱼"
+        },
+        {
+          "id": 37,
+          "en": "smoked salmon",
+          "zh": "烟熏鲑鱼"
+        },
+        {
+          "id": 38,
+          "en": "smoked mackerel",
+          "zh": "烟熏鲭鱼"
+        },
+        {
+          "id": 39,
+          "en": "black pudding / blood sausage (UK)",
+          "zh": "黑布丁"
+        },
+        {
+          "id": 40,
+          "en": "kidneys",
+          "zh": "腰子"
+        },
+        {
+          "id": 41,
+          "en": "scrambled eggs",
+          "zh": "炒蛋"
+        },
+        {
+          "id": 42,
+          "en": "poached egg",
+          "zh": "荷包蛋"
+        },
+        {
+          "id": 43,
+          "en": "boiled egg",
+          "zh": "煮蛋"
+        },
+        {
+          "id": 44,
+          "en": "egg white",
+          "zh": "蛋白"
+        },
+        {
+          "id": 45,
+          "en": "yolk",
+          "zh": "蛋黄"
+        },
+        {
+          "id": 46,
+          "en": "fried egg",
+          "zh": "煎蛋"
+        },
+        {
+          "id": 47,
+          "en": "toast",
+          "zh": "烤吐司"
+        },
+        {
+          "id": 48,
+          "en": "fried mushrooms",
+          "zh": "煎蘑菇"
+        },
+        {
+          "id": 49,
+          "en": "hash browns",
+          "zh": "薯饼"
+        },
+        {
+          "id": 50,
+          "en": "grilled tomato",
+          "zh": "烤番茄"
+        },
+        {
+          "id": 51,
+          "en": "canned tomato (US) / tinned tomato (UK)",
+          "zh": "罐装番茄"
+        },
+        {
+          "id": 52,
+          "en": "baked beans",
+          "zh": "焗豆"
+        },
+        {
+          "id": 53,
+          "en": "breakfast roll",
+          "zh": "早餐卷"
+        },
+        {
+          "id": 54,
+          "en": "breakfast burrito",
+          "zh": "早餐玉米卷饼"
+        },
+        {
+          "id": 55,
+          "en": "potato cakes",
+          "zh": "土豆饼"
+        },
+        {
+          "id": 56,
+          "en": "pancakes",
+          "zh": "薄饼"
+        },
+        {
+          "id": 57,
+          "en": "oatmeal (US) / porridge (UK)",
+          "zh": "麦片粥"
+        }
       ]
     }
   ]

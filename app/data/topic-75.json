@@ -6,77 +6,269 @@
   "pages": [
     {
       "pageNum": 158,
-      "image": "assets/images/page_158.jpg",
+      "image": "assets/images/page_159.jpg",
       "section": "75.1",
       "sectionTitle": "物理",
       "sectionTitleEn": "Physics",
       "words": [
-        { "id": 1, "en": "electricity", "zh": "电力" },
-        { "id": 2, "en": "electric field", "zh": "电场" },
-        { "id": 3, "en": "charge", "zh": "充电" },
-        { "id": 4, "en": "volt", "zh": "伏特" },
-        { "id": 5, "en": "battery", "zh": "电池" },
-        { "id": 6, "en": "negative", "zh": "负极" },
-        { "id": 7, "en": "positive", "zh": "正极" },
-        { "id": 8, "en": "direct current", "zh": "直流电" },
-        { "id": 9, "en": "alternating current", "zh": "交流电" },
-        { "id": 10, "en": "semiconductor", "zh": "半导体" },
-        { "id": 11, "en": "conductor", "zh": "导体" },
-        { "id": 12, "en": "alligator clip (US) / crocodile clip (UK)", "zh": "鳄鱼夹" },
-        { "id": 13, "en": "circuit board", "zh": "线路板" },
-        { "id": 14, "en": "transformer", "zh": "变压器" },
-        { "id": 15, "en": "diode", "zh": "二极管" },
-        { "id": 16, "en": "positive electrode", "zh": "正电极" },
-        { "id": 17, "en": "negative electrode", "zh": "负电极" },
-        { "id": 18, "en": "vacuum", "zh": "真空" },
-        { "id": 19, "en": "radio waves", "zh": "无线电波" },
-        { "id": 20, "en": "microwaves", "zh": "微波" },
-        { "id": 21, "en": "infrared", "zh": "红外线" },
-        { "id": 22, "en": "visible light", "zh": "可见光" },
-        { "id": 23, "en": "ultraviolet", "zh": "紫外线" },
-        { "id": 24, "en": "x-rays", "zh": "X射线" },
-        { "id": 25, "en": "gamma radiation", "zh": "伽马射线" },
-        { "id": 26, "en": "electromagnetic spectrum", "zh": "电磁波谱" }
+        {
+          "id": 1,
+          "en": "electricity",
+          "zh": "电力"
+        },
+        {
+          "id": 2,
+          "en": "electric field",
+          "zh": "电场"
+        },
+        {
+          "id": 3,
+          "en": "charge",
+          "zh": "充电"
+        },
+        {
+          "id": 4,
+          "en": "volt",
+          "zh": "伏特"
+        },
+        {
+          "id": 5,
+          "en": "battery",
+          "zh": "电池"
+        },
+        {
+          "id": 6,
+          "en": "negative",
+          "zh": "负极"
+        },
+        {
+          "id": 7,
+          "en": "positive",
+          "zh": "正极"
+        },
+        {
+          "id": 8,
+          "en": "direct current",
+          "zh": "直流电"
+        },
+        {
+          "id": 9,
+          "en": "alternating current",
+          "zh": "交流电"
+        },
+        {
+          "id": 10,
+          "en": "semiconductor",
+          "zh": "半导体"
+        },
+        {
+          "id": 11,
+          "en": "conductor",
+          "zh": "导体"
+        },
+        {
+          "id": 12,
+          "en": "alligator clip (US) / crocodile clip (UK)",
+          "zh": "鳄鱼夹"
+        },
+        {
+          "id": 13,
+          "en": "circuit board",
+          "zh": "线路板"
+        },
+        {
+          "id": 14,
+          "en": "transformer",
+          "zh": "变压器"
+        },
+        {
+          "id": 15,
+          "en": "diode",
+          "zh": "二极管"
+        },
+        {
+          "id": 16,
+          "en": "positive electrode",
+          "zh": "正电极"
+        },
+        {
+          "id": 17,
+          "en": "negative electrode",
+          "zh": "负电极"
+        },
+        {
+          "id": 18,
+          "en": "vacuum",
+          "zh": "真空"
+        },
+        {
+          "id": 19,
+          "en": "radio waves",
+          "zh": "无线电波"
+        },
+        {
+          "id": 20,
+          "en": "microwaves",
+          "zh": "微波"
+        },
+        {
+          "id": 21,
+          "en": "infrared",
+          "zh": "红外线"
+        },
+        {
+          "id": 22,
+          "en": "visible light",
+          "zh": "可见光"
+        },
+        {
+          "id": 23,
+          "en": "ultraviolet",
+          "zh": "紫外线"
+        },
+        {
+          "id": 24,
+          "en": "x-rays",
+          "zh": "X射线"
+        },
+        {
+          "id": 25,
+          "en": "gamma radiation",
+          "zh": "伽马射线"
+        },
+        {
+          "id": 26,
+          "en": "electromagnetic spectrum",
+          "zh": "电磁波谱"
+        }
       ]
     },
     {
       "pageNum": 159,
-      "image": "assets/images/page_159.jpg",
+      "image": "assets/images/page_160.jpg",
       "section": "75.1",
       "sectionTitle": "物理（续）",
       "sectionTitleEn": "Physics (continued)",
       "words": [
-        { "id": 27, "en": "north pole", "zh": "北极" },
-        { "id": 28, "en": "magnetic field", "zh": "磁场" },
-        { "id": 29, "en": "south pole", "zh": "南极" },
-        { "id": 30, "en": "magnet", "zh": "磁铁" },
-        { "id": 31, "en": "centrifugal force", "zh": "离心力" },
-        { "id": 32, "en": "centripetal force", "zh": "向心力" },
-        { "id": 33, "en": "fission", "zh": "裂变" },
-        { "id": 34, "en": "fusion", "zh": "聚变" },
-        { "id": 35, "en": "radioactivity", "zh": "放射性" },
-        { "id": 36, "en": "particle", "zh": "粒子" },
-        { "id": 37, "en": "particle accelerator", "zh": "粒子加速器" }
+        {
+          "id": 27,
+          "en": "north pole",
+          "zh": "北极"
+        },
+        {
+          "id": 28,
+          "en": "magnetic field",
+          "zh": "磁场"
+        },
+        {
+          "id": 29,
+          "en": "south pole",
+          "zh": "南极"
+        },
+        {
+          "id": 30,
+          "en": "magnet",
+          "zh": "磁铁"
+        },
+        {
+          "id": 31,
+          "en": "centrifugal force",
+          "zh": "离心力"
+        },
+        {
+          "id": 32,
+          "en": "centripetal force",
+          "zh": "向心力"
+        },
+        {
+          "id": 33,
+          "en": "fission",
+          "zh": "裂变"
+        },
+        {
+          "id": 34,
+          "en": "fusion",
+          "zh": "聚变"
+        },
+        {
+          "id": 35,
+          "en": "radioactivity",
+          "zh": "放射性"
+        },
+        {
+          "id": 36,
+          "en": "particle",
+          "zh": "粒子"
+        },
+        {
+          "id": 37,
+          "en": "particle accelerator",
+          "zh": "粒子加速器"
+        }
       ]
     },
     {
       "pageNum": 159,
-      "image": "assets/images/page_159.jpg",
+      "image": "assets/images/page_160.jpg",
       "section": "75.2",
       "sectionTitle": "光学",
       "sectionTitleEn": "Optics",
       "words": [
-        { "id": 38, "en": "lens", "zh": "透镜" },
-        { "id": 39, "en": "convex lens", "zh": "凸透镜" },
-        { "id": 40, "en": "concave lens", "zh": "凹透镜" },
-        { "id": 41, "en": "laser", "zh": "激光" },
-        { "id": 42, "en": "wave", "zh": "光波" },
-        { "id": 43, "en": "wavelength", "zh": "波长" },
-        { "id": 44, "en": "reflection", "zh": "反射" },
-        { "id": 45, "en": "refraction", "zh": "折射" },
-        { "id": 46, "en": "diffraction", "zh": "衍射" },
-        { "id": 47, "en": "prism", "zh": "棱镜" },
-        { "id": 48, "en": "dispersion", "zh": "色散" }
+        {
+          "id": 38,
+          "en": "lens",
+          "zh": "透镜"
+        },
+        {
+          "id": 39,
+          "en": "convex lens",
+          "zh": "凸透镜"
+        },
+        {
+          "id": 40,
+          "en": "concave lens",
+          "zh": "凹透镜"
+        },
+        {
+          "id": 41,
+          "en": "laser",
+          "zh": "激光"
+        },
+        {
+          "id": 42,
+          "en": "wave",
+          "zh": "光波"
+        },
+        {
+          "id": 43,
+          "en": "wavelength",
+          "zh": "波长"
+        },
+        {
+          "id": 44,
+          "en": "reflection",
+          "zh": "反射"
+        },
+        {
+          "id": 45,
+          "en": "refraction",
+          "zh": "折射"
+        },
+        {
+          "id": 46,
+          "en": "diffraction",
+          "zh": "衍射"
+        },
+        {
+          "id": 47,
+          "en": "prism",
+          "zh": "棱镜"
+        },
+        {
+          "id": 48,
+          "en": "dispersion",
+          "zh": "色散"
+        }
       ]
     }
   ]

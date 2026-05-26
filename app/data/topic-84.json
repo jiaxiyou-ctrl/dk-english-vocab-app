@@ -6,80 +6,284 @@
   "pages": [
     {
       "pageNum": 176,
-      "image": "assets/images/page_176.jpg",
+      "image": "assets/images/page_177.jpg",
       "section": "84.1",
       "sectionTitle": "电视演播室",
       "sectionTitleEn": "Television Studio",
       "words": [
-        { "id": 1, "en": "light", "zh": "灯光" },
-        { "id": 2, "en": "sound boom", "zh": "录音吊杆" },
-        { "id": 3, "en": "host (US) / presenter (UK)", "zh": "主持人" },
-        { "id": 4, "en": "camera", "zh": "摄像机" },
-        { "id": 5, "en": "camera crane", "zh": "摄像机升降架" },
-        { "id": 6, "en": "camera operator", "zh": "摄像师" },
-        { "id": 7, "en": "director", "zh": "导演" },
-        { "id": 8, "en": "clapper board", "zh": "场记板" },
-        { "id": 9, "en": "television studio", "zh": "电视演播室" },
-        { "id": 10, "en": "autocue", "zh": "自动提词器" },
-        { "id": 11, "en": "director's chair", "zh": "导演椅" }
+        {
+          "id": 1,
+          "en": "light",
+          "zh": "灯光"
+        },
+        {
+          "id": 2,
+          "en": "sound boom",
+          "zh": "录音吊杆"
+        },
+        {
+          "id": 3,
+          "en": "host (US) / presenter (UK)",
+          "zh": "主持人"
+        },
+        {
+          "id": 4,
+          "en": "camera",
+          "zh": "摄像机"
+        },
+        {
+          "id": 5,
+          "en": "camera crane",
+          "zh": "摄像机升降架"
+        },
+        {
+          "id": 6,
+          "en": "camera operator",
+          "zh": "摄像师"
+        },
+        {
+          "id": 7,
+          "en": "director",
+          "zh": "导演"
+        },
+        {
+          "id": 8,
+          "en": "clapper board",
+          "zh": "场记板"
+        },
+        {
+          "id": 9,
+          "en": "television studio",
+          "zh": "电视演播室"
+        },
+        {
+          "id": 10,
+          "en": "autocue",
+          "zh": "自动提词器"
+        },
+        {
+          "id": 11,
+          "en": "director's chair",
+          "zh": "导演椅"
+        }
       ]
     },
     {
       "pageNum": 176,
-      "image": "assets/images/page_176.jpg",
+      "image": "assets/images/page_177.jpg",
       "section": "84.2",
       "sectionTitle": "广播",
       "sectionTitleEn": "Radio",
       "words": [
-        { "id": 12, "en": "microphone", "zh": "麦克风" },
-        { "id": 13, "en": "mixing desk", "zh": "调音台" },
-        { "id": 14, "en": "headphones", "zh": "头戴式耳机" },
-        { "id": 15, "en": "dj", "zh": "唱片骑师" },
-        { "id": 16, "en": "recording studio", "zh": "录音棚" },
-        { "id": 17, "en": "sound technician", "zh": "音效师" },
-        { "id": 18, "en": "radio station", "zh": "无线电台" },
-        { "id": 19, "en": "to broadcast", "zh": "广播" },
-        { "id": 20, "en": "digital", "zh": "数码的" },
-        { "id": 21, "en": "fm", "zh": "调频的" },
-        { "id": 22, "en": "frequency", "zh": "频率" }
+        {
+          "id": 12,
+          "en": "microphone",
+          "zh": "麦克风"
+        },
+        {
+          "id": 13,
+          "en": "mixing desk",
+          "zh": "调音台"
+        },
+        {
+          "id": 14,
+          "en": "headphones",
+          "zh": "头戴式耳机"
+        },
+        {
+          "id": 15,
+          "en": "dj",
+          "zh": "唱片骑师"
+        },
+        {
+          "id": 16,
+          "en": "recording studio",
+          "zh": "录音棚"
+        },
+        {
+          "id": 17,
+          "en": "sound technician",
+          "zh": "音效师"
+        },
+        {
+          "id": 18,
+          "en": "radio station",
+          "zh": "无线电台"
+        },
+        {
+          "id": 19,
+          "en": "to broadcast",
+          "zh": "广播"
+        },
+        {
+          "id": 20,
+          "en": "digital",
+          "zh": "数码的"
+        },
+        {
+          "id": 21,
+          "en": "fm",
+          "zh": "调频的"
+        },
+        {
+          "id": 22,
+          "en": "frequency",
+          "zh": "频率"
+        }
       ]
     },
     {
       "pageNum": 177,
-      "image": "assets/images/page_177.jpg",
+      "image": "assets/images/page_178.jpg",
       "section": "84.3",
       "sectionTitle": "社交媒体和网络媒体",
       "sectionTitleEn": "Social Media and Online Media",
       "words": [
-        { "id": 23, "en": "to follow", "zh": "关注" },
-        { "id": 24, "en": "to like", "zh": "点赞" },
-        { "id": 25, "en": "to go viral", "zh": "迅速传播" },
-        { "id": 26, "en": "to trend", "zh": "上热门" },
-        { "id": 27, "en": "avatar", "zh": "虚拟形象" },
-        { "id": 28, "en": "vlog", "zh": "视频博客" },
-        { "id": 29, "en": "vlogger", "zh": "视频博主" },
-        { "id": 30, "en": "blog", "zh": "博客" },
-        { "id": 31, "en": "blogger", "zh": "博主" },
-        { "id": 32, "en": "to share", "zh": "分享" },
-        { "id": 33, "en": "to block", "zh": "屏蔽" },
-        { "id": 34, "en": "to post", "zh": "发帖" },
-        { "id": 35, "en": "to dm someone", "zh": "站内私信" },
-        { "id": 36, "en": "influencer", "zh": "网红" },
-        { "id": 37, "en": "follower", "zh": "粉丝" },
-        { "id": 38, "en": "podcast", "zh": "播客" },
-        { "id": 39, "en": "emoji", "zh": "表情符号" },
-        { "id": 40, "en": "hashtag", "zh": "话题标签" },
-        { "id": 41, "en": "thread", "zh": "主题帖" },
-        { "id": 42, "en": "newsfeed", "zh": "新闻动态" },
-        { "id": 43, "en": "status update", "zh": "状态更新" },
-        { "id": 44, "en": "cms (content management system)", "zh": "内容管理系统" },
-        { "id": 45, "en": "platform", "zh": "平台" },
-        { "id": 46, "en": "cookie", "zh": "缓存" },
-        { "id": 47, "en": "pop-up", "zh": "弹窗" },
-        { "id": 48, "en": "news website", "zh": "新闻网站" },
-        { "id": 49, "en": "magazine website", "zh": "杂志网站" },
-        { "id": 50, "en": "community website", "zh": "社区网站" },
-        { "id": 51, "en": "trolling", "zh": "网络骚扰" }
+        {
+          "id": 23,
+          "en": "to follow",
+          "zh": "关注"
+        },
+        {
+          "id": 24,
+          "en": "to like",
+          "zh": "点赞"
+        },
+        {
+          "id": 25,
+          "en": "to go viral",
+          "zh": "迅速传播"
+        },
+        {
+          "id": 26,
+          "en": "to trend",
+          "zh": "上热门"
+        },
+        {
+          "id": 27,
+          "en": "avatar",
+          "zh": "虚拟形象"
+        },
+        {
+          "id": 28,
+          "en": "vlog",
+          "zh": "视频博客"
+        },
+        {
+          "id": 29,
+          "en": "vlogger",
+          "zh": "视频博主"
+        },
+        {
+          "id": 30,
+          "en": "blog",
+          "zh": "博客"
+        },
+        {
+          "id": 31,
+          "en": "blogger",
+          "zh": "博主"
+        },
+        {
+          "id": 32,
+          "en": "to share",
+          "zh": "分享"
+        },
+        {
+          "id": 33,
+          "en": "to block",
+          "zh": "屏蔽"
+        },
+        {
+          "id": 34,
+          "en": "to post",
+          "zh": "发帖"
+        },
+        {
+          "id": 35,
+          "en": "to dm someone",
+          "zh": "站内私信"
+        },
+        {
+          "id": 36,
+          "en": "influencer",
+          "zh": "网红"
+        },
+        {
+          "id": 37,
+          "en": "follower",
+          "zh": "粉丝"
+        },
+        {
+          "id": 38,
+          "en": "podcast",
+          "zh": "播客"
+        },
+        {
+          "id": 39,
+          "en": "emoji",
+          "zh": "表情符号"
+        },
+        {
+          "id": 40,
+          "en": "hashtag",
+          "zh": "话题标签"
+        },
+        {
+          "id": 41,
+          "en": "thread",
+          "zh": "主题帖"
+        },
+        {
+          "id": 42,
+          "en": "newsfeed",
+          "zh": "新闻动态"
+        },
+        {
+          "id": 43,
+          "en": "status update",
+          "zh": "状态更新"
+        },
+        {
+          "id": 44,
+          "en": "cms (content management system)",
+          "zh": "内容管理系统"
+        },
+        {
+          "id": 45,
+          "en": "platform",
+          "zh": "平台"
+        },
+        {
+          "id": 46,
+          "en": "cookie",
+          "zh": "缓存"
+        },
+        {
+          "id": 47,
+          "en": "pop-up",
+          "zh": "弹窗"
+        },
+        {
+          "id": 48,
+          "en": "news website",
+          "zh": "新闻网站"
+        },
+        {
+          "id": 49,
+          "en": "magazine website",
+          "zh": "杂志网站"
+        },
+        {
+          "id": 50,
+          "en": "community website",
+          "zh": "社区网站"
+        },
+        {
+          "id": 51,
+          "en": "trolling",
+          "zh": "网络骚扰"
+        }
       ]
     }
   ]

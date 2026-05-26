@@ -6,96 +6,328 @@
   "pages": [
     {
       "pageNum": 114,
-      "image": "assets/images/page_114.jpg",
+      "image": "assets/images/page_115.jpg",
       "section": "52.1",
       "sectionTitle": "饮品",
       "sectionTitleEn": "Drinks",
       "words": [
-        { "id": 1, "en": "coffee", "zh": "咖啡" },
-        { "id": 2, "en": "tea", "zh": "茶" },
-        { "id": 3, "en": "hot chocolate", "zh": "热巧克力" },
-        { "id": 4, "en": "herbal tea", "zh": "草药茶" },
-        { "id": 5, "en": "iced tea", "zh": "冰茶" },
-        { "id": 6, "en": "lemonade", "zh": "柠檬水" },
-        { "id": 7, "en": "juice", "zh": "果汁" },
-        { "id": 8, "en": "mineral water", "zh": "矿泉水" },
-        { "id": 9, "en": "tap water", "zh": "自来水" },
-        { "id": 10, "en": "smoothie", "zh": "思慕雪" },
-        { "id": 11, "en": "orangeade", "zh": "橙汁" },
-        { "id": 12, "en": "cola", "zh": "可乐" },
-        { "id": 13, "en": "milkshake", "zh": "奶昔" },
-        { "id": 14, "en": "sports drink / energy drink", "zh": "运动饮料/能量饮料" },
-        { "id": 15, "en": "red wine", "zh": "红葡萄酒" },
-        { "id": 16, "en": "white wine", "zh": "白葡萄酒" },
-        { "id": 17, "en": "rosé wine", "zh": "玫瑰红葡萄酒" },
-        { "id": 18, "en": "beer", "zh": "啤酒" }
+        {
+          "id": 1,
+          "en": "coffee",
+          "zh": "咖啡"
+        },
+        {
+          "id": 2,
+          "en": "tea",
+          "zh": "茶"
+        },
+        {
+          "id": 3,
+          "en": "hot chocolate",
+          "zh": "热巧克力"
+        },
+        {
+          "id": 4,
+          "en": "herbal tea",
+          "zh": "草药茶"
+        },
+        {
+          "id": 5,
+          "en": "iced tea",
+          "zh": "冰茶"
+        },
+        {
+          "id": 6,
+          "en": "lemonade",
+          "zh": "柠檬水"
+        },
+        {
+          "id": 7,
+          "en": "juice",
+          "zh": "果汁"
+        },
+        {
+          "id": 8,
+          "en": "mineral water",
+          "zh": "矿泉水"
+        },
+        {
+          "id": 9,
+          "en": "tap water",
+          "zh": "自来水"
+        },
+        {
+          "id": 10,
+          "en": "smoothie",
+          "zh": "思慕雪"
+        },
+        {
+          "id": 11,
+          "en": "orangeade",
+          "zh": "橙汁"
+        },
+        {
+          "id": 12,
+          "en": "cola",
+          "zh": "可乐"
+        },
+        {
+          "id": 13,
+          "en": "milkshake",
+          "zh": "奶昔"
+        },
+        {
+          "id": 14,
+          "en": "sports drink / energy drink",
+          "zh": "运动饮料/能量饮料"
+        },
+        {
+          "id": 15,
+          "en": "red wine",
+          "zh": "红葡萄酒"
+        },
+        {
+          "id": 16,
+          "en": "white wine",
+          "zh": "白葡萄酒"
+        },
+        {
+          "id": 17,
+          "en": "rosé wine",
+          "zh": "玫瑰红葡萄酒"
+        },
+        {
+          "id": 18,
+          "en": "beer",
+          "zh": "啤酒"
+        }
       ]
     },
     {
       "pageNum": 114,
-      "image": "assets/images/page_114.jpg",
+      "image": "assets/images/page_115.jpg",
       "section": "52.2",
       "sectionTitle": "容器",
       "sectionTitleEn": "Containers",
       "words": [
-        { "id": 19, "en": "bottle", "zh": "瓶" },
-        { "id": 20, "en": "glass", "zh": "玻璃杯" },
-        { "id": 21, "en": "carton", "zh": "盒" },
-        { "id": 22, "en": "jar", "zh": "罐" },
-        { "id": 23, "en": "bag", "zh": "袋" },
-        { "id": 24, "en": "packet", "zh": "包" },
-        { "id": 25, "en": "box", "zh": "箱" },
-        { "id": 26, "en": "can (US) / tin (UK)", "zh": "罐头" },
-        { "id": 27, "en": "hot drink container (US) / flask (UK)", "zh": "热水瓶" },
-        { "id": 28, "en": "bowl", "zh": "碗" },
-        { "id": 29, "en": "airtight container", "zh": "密封容器" },
-        { "id": 30, "en": "Mason jar", "zh": "梅森罐" }
+        {
+          "id": 19,
+          "en": "bottle",
+          "zh": "瓶"
+        },
+        {
+          "id": 20,
+          "en": "glass",
+          "zh": "玻璃杯"
+        },
+        {
+          "id": 21,
+          "en": "carton",
+          "zh": "盒"
+        },
+        {
+          "id": 22,
+          "en": "jar",
+          "zh": "罐"
+        },
+        {
+          "id": 23,
+          "en": "bag",
+          "zh": "袋"
+        },
+        {
+          "id": 24,
+          "en": "packet",
+          "zh": "包"
+        },
+        {
+          "id": 25,
+          "en": "box",
+          "zh": "箱"
+        },
+        {
+          "id": 26,
+          "en": "can (US) / tin (UK)",
+          "zh": "罐头"
+        },
+        {
+          "id": 27,
+          "en": "hot drink container (US) / flask (UK)",
+          "zh": "热水瓶"
+        },
+        {
+          "id": 28,
+          "en": "bowl",
+          "zh": "碗"
+        },
+        {
+          "id": 29,
+          "en": "airtight container",
+          "zh": "密封容器"
+        },
+        {
+          "id": 30,
+          "en": "Mason jar",
+          "zh": "梅森罐"
+        }
       ]
     },
     {
       "pageNum": 115,
-      "image": "assets/images/page_115.jpg",
+      "image": "assets/images/page_116.jpg",
       "section": "52.3",
       "sectionTitle": "饮食相关的形容词",
       "sectionTitleEn": "Food Adjectives",
       "words": [
-        { "id": 31, "en": "sweet", "zh": "甜的" },
-        { "id": 32, "en": "savory (US) / savoury (UK)", "zh": "咸口的" },
-        { "id": 33, "en": "sour", "zh": "酸的" },
-        { "id": 34, "en": "salty", "zh": "咸的" },
-        { "id": 35, "en": "bitter", "zh": "苦的" },
-        { "id": 36, "en": "spicy / hot", "zh": "辣的" },
-        { "id": 37, "en": "fresh", "zh": "新鲜的" },
-        { "id": 38, "en": "bad (US) / off (UK)", "zh": "不新鲜的" },
-        { "id": 39, "en": "strong", "zh": "浓的" },
-        { "id": 40, "en": "iced / chilled", "zh": "冰镇的" },
-        { "id": 41, "en": "carbonated / sparkling", "zh": "碳酸的" },
-        { "id": 42, "en": "non-carbonated / still", "zh": "非碳酸的" },
-        { "id": 43, "en": "rich", "zh": "醇厚的" },
-        { "id": 44, "en": "juicy", "zh": "多汁的" },
-        { "id": 45, "en": "crunchy", "zh": "脆的" },
-        { "id": 46, "en": "delicious", "zh": "美味的" },
-        { "id": 47, "en": "disgusting", "zh": "恶心的" },
-        { "id": 48, "en": "tasty", "zh": "可口的" }
+        {
+          "id": 31,
+          "en": "sweet",
+          "zh": "甜的"
+        },
+        {
+          "id": 32,
+          "en": "savory (US) / savoury (UK)",
+          "zh": "咸口的"
+        },
+        {
+          "id": 33,
+          "en": "sour",
+          "zh": "酸的"
+        },
+        {
+          "id": 34,
+          "en": "salty",
+          "zh": "咸的"
+        },
+        {
+          "id": 35,
+          "en": "bitter",
+          "zh": "苦的"
+        },
+        {
+          "id": 36,
+          "en": "spicy / hot",
+          "zh": "辣的"
+        },
+        {
+          "id": 37,
+          "en": "fresh",
+          "zh": "新鲜的"
+        },
+        {
+          "id": 38,
+          "en": "bad (US) / off (UK)",
+          "zh": "不新鲜的"
+        },
+        {
+          "id": 39,
+          "en": "strong",
+          "zh": "浓的"
+        },
+        {
+          "id": 40,
+          "en": "iced / chilled",
+          "zh": "冰镇的"
+        },
+        {
+          "id": 41,
+          "en": "carbonated / sparkling",
+          "zh": "碳酸的"
+        },
+        {
+          "id": 42,
+          "en": "non-carbonated / still",
+          "zh": "非碳酸的"
+        },
+        {
+          "id": 43,
+          "en": "rich",
+          "zh": "醇厚的"
+        },
+        {
+          "id": 44,
+          "en": "juicy",
+          "zh": "多汁的"
+        },
+        {
+          "id": 45,
+          "en": "crunchy",
+          "zh": "脆的"
+        },
+        {
+          "id": 46,
+          "en": "delicious",
+          "zh": "美味的"
+        },
+        {
+          "id": 47,
+          "en": "disgusting",
+          "zh": "恶心的"
+        },
+        {
+          "id": 48,
+          "en": "tasty",
+          "zh": "可口的"
+        }
       ]
     },
     {
       "pageNum": 115,
-      "image": "assets/images/page_115.jpg",
+      "image": "assets/images/page_116.jpg",
       "section": "52.4",
       "sectionTitle": "饮食相关的动词",
       "sectionTitleEn": "Food Verbs",
       "words": [
-        { "id": 49, "en": "to eat", "zh": "吃" },
-        { "id": 50, "en": "to chew", "zh": "咀嚼" },
-        { "id": 51, "en": "to taste", "zh": "尝" },
-        { "id": 52, "en": "to dine", "zh": "用餐" },
-        { "id": 53, "en": "to nibble", "zh": "小口咬" },
-        { "id": 54, "en": "to bite", "zh": "咬" },
-        { "id": 55, "en": "to swallow", "zh": "吞咽" },
-        { "id": 56, "en": "to sip", "zh": "小口喝" },
-        { "id": 57, "en": "to drink", "zh": "喝" },
-        { "id": 58, "en": "to gulp", "zh": "大口喝" }
+        {
+          "id": 49,
+          "en": "to eat",
+          "zh": "吃"
+        },
+        {
+          "id": 50,
+          "en": "to chew",
+          "zh": "咀嚼"
+        },
+        {
+          "id": 51,
+          "en": "to taste",
+          "zh": "尝"
+        },
+        {
+          "id": 52,
+          "en": "to dine",
+          "zh": "用餐"
+        },
+        {
+          "id": 53,
+          "en": "to nibble",
+          "zh": "小口咬"
+        },
+        {
+          "id": 54,
+          "en": "to bite",
+          "zh": "咬"
+        },
+        {
+          "id": 55,
+          "en": "to swallow",
+          "zh": "吞咽"
+        },
+        {
+          "id": 56,
+          "en": "to sip",
+          "zh": "小口喝"
+        },
+        {
+          "id": 57,
+          "en": "to drink",
+          "zh": "喝"
+        },
+        {
+          "id": 58,
+          "en": "to gulp",
+          "zh": "大口喝"
+        }
       ]
     }
   ]

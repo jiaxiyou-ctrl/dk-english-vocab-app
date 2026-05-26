@@ -6,89 +6,329 @@
   "pages": [
     {
       "pageNum": 152,
-      "image": "assets/images/page_152.jpg",
+      "image": "assets/images/page_153.jpg",
       "section": "72.1",
       "sectionTitle": "膳食和菜肴",
       "sectionTitleEn": "Meals and Dishes",
       "words": [
-        { "id": 1, "en": "omelet (US) / omelette (UK)", "zh": "煎蛋卷" },
-        { "id": 2, "en": "noodle soup", "zh": "面汤" },
-        { "id": 3, "en": "dosa", "zh": "多莎饼" },
-        { "id": 4, "en": "chutney", "zh": "酸辣酱" },
-        { "id": 5, "en": "pie", "zh": "派" },
-        { "id": 6, "en": "greek salad", "zh": "希腊沙拉" },
-        { "id": 7, "en": "soufflé", "zh": "蛋奶酥" },
-        { "id": 8, "en": "sandwich", "zh": "三明治" },
-        { "id": 9, "en": "ramen", "zh": "拉面" },
-        { "id": 10, "en": "lunch", "zh": "午餐" },
-        { "id": 11, "en": "soup", "zh": "汤" },
-        { "id": 12, "en": "cooked vegetables", "zh": "煮好的蔬菜" },
-        { "id": 13, "en": "napkin", "zh": "餐巾" },
-        { "id": 14, "en": "stir-fry", "zh": "炒菜" },
-        { "id": 15, "en": "summer roll", "zh": "夏卷" },
-        { "id": 16, "en": "soy sauce dip", "zh": "酱油碟" },
-        { "id": 17, "en": "hummus", "zh": "鹰嘴豆泥" },
-        { "id": 18, "en": "crudités", "zh": "生菜沙拉" },
-        { "id": 19, "en": "pita bread (US) / pitta bread (UK)", "zh": "皮塔饼" },
-        { "id": 20, "en": "rice", "zh": "米饭" },
-        { "id": 21, "en": "risotto", "zh": "意大利调味饭" },
-        { "id": 22, "en": "paella", "zh": "西班牙海鲜饭" },
-        { "id": 23, "en": "pasta", "zh": "意大利面食" },
-        { "id": 24, "en": "meatballs", "zh": "肉丸" },
-        { "id": 25, "en": "noodles", "zh": "面条" },
-        { "id": 26, "en": "side dishes", "zh": "配菜" },
-        { "id": 27, "en": "spring roll", "zh": "春卷" },
-        { "id": 28, "en": "chopped salad", "zh": "碎沙拉" },
-        { "id": 29, "en": "dressing", "zh": "沙拉酱汁" },
-        { "id": 30, "en": "pickles", "zh": "腌菜" },
-        { "id": 31, "en": "condiments", "zh": "酱料" }
+        {
+          "id": 1,
+          "en": "omelet (US) / omelette (UK)",
+          "zh": "煎蛋卷"
+        },
+        {
+          "id": 2,
+          "en": "noodle soup",
+          "zh": "面汤"
+        },
+        {
+          "id": 3,
+          "en": "dosa",
+          "zh": "多莎饼"
+        },
+        {
+          "id": 4,
+          "en": "chutney",
+          "zh": "酸辣酱"
+        },
+        {
+          "id": 5,
+          "en": "pie",
+          "zh": "派"
+        },
+        {
+          "id": 6,
+          "en": "greek salad",
+          "zh": "希腊沙拉"
+        },
+        {
+          "id": 7,
+          "en": "soufflé",
+          "zh": "蛋奶酥"
+        },
+        {
+          "id": 8,
+          "en": "sandwich",
+          "zh": "三明治"
+        },
+        {
+          "id": 9,
+          "en": "ramen",
+          "zh": "拉面"
+        },
+        {
+          "id": 10,
+          "en": "lunch",
+          "zh": "午餐"
+        },
+        {
+          "id": 11,
+          "en": "soup",
+          "zh": "汤"
+        },
+        {
+          "id": 12,
+          "en": "cooked vegetables",
+          "zh": "煮好的蔬菜"
+        },
+        {
+          "id": 13,
+          "en": "napkin",
+          "zh": "餐巾"
+        },
+        {
+          "id": 14,
+          "en": "stir-fry",
+          "zh": "炒菜"
+        },
+        {
+          "id": 15,
+          "en": "summer roll",
+          "zh": "夏卷"
+        },
+        {
+          "id": 16,
+          "en": "soy sauce dip",
+          "zh": "酱油碟"
+        },
+        {
+          "id": 17,
+          "en": "hummus",
+          "zh": "鹰嘴豆泥"
+        },
+        {
+          "id": 18,
+          "en": "crudités",
+          "zh": "生菜沙拉"
+        },
+        {
+          "id": 19,
+          "en": "pita bread (US) / pitta bread (UK)",
+          "zh": "皮塔饼"
+        },
+        {
+          "id": 20,
+          "en": "rice",
+          "zh": "米饭"
+        },
+        {
+          "id": 21,
+          "en": "risotto",
+          "zh": "意大利调味饭"
+        },
+        {
+          "id": 22,
+          "en": "paella",
+          "zh": "西班牙海鲜饭"
+        },
+        {
+          "id": 23,
+          "en": "pasta",
+          "zh": "意大利面食"
+        },
+        {
+          "id": 24,
+          "en": "meatballs",
+          "zh": "肉丸"
+        },
+        {
+          "id": 25,
+          "en": "noodles",
+          "zh": "面条"
+        },
+        {
+          "id": 26,
+          "en": "side dishes",
+          "zh": "配菜"
+        },
+        {
+          "id": 27,
+          "en": "spring roll",
+          "zh": "春卷"
+        },
+        {
+          "id": 28,
+          "en": "chopped salad",
+          "zh": "碎沙拉"
+        },
+        {
+          "id": 29,
+          "en": "dressing",
+          "zh": "沙拉酱汁"
+        },
+        {
+          "id": 30,
+          "en": "pickles",
+          "zh": "腌菜"
+        },
+        {
+          "id": 31,
+          "en": "condiments",
+          "zh": "酱料"
+        }
       ]
     },
     {
       "pageNum": 153,
-      "image": "assets/images/page_153.jpg",
+      "image": "assets/images/page_154.jpg",
       "section": "72.1",
       "sectionTitle": "膳食和菜肴（续）",
       "sectionTitleEn": "Meals and Dishes (continued)",
       "words": [
-        { "id": 32, "en": "garden salad (US) / mixed salad (UK)", "zh": "什锦沙拉" },
-        { "id": 33, "en": "kebab", "zh": "烤肉串" },
-        { "id": 34, "en": "broth", "zh": "肉汤" },
-        { "id": 35, "en": "dumplings", "zh": "饺子" },
-        { "id": 36, "en": "chinese hotpot", "zh": "中国火锅" },
-        { "id": 37, "en": "roast chicken", "zh": "烤鸡" },
-        { "id": 38, "en": "curry", "zh": "咖喱" },
-        { "id": 39, "en": "lasagna", "zh": "千层面" },
-        { "id": 40, "en": "spaghetti", "zh": "细条意面" },
-        { "id": 41, "en": "stew", "zh": "炖菜" },
-        { "id": 42, "en": "dinner", "zh": "晚餐" }
+        {
+          "id": 32,
+          "en": "garden salad (US) / mixed salad (UK)",
+          "zh": "什锦沙拉"
+        },
+        {
+          "id": 33,
+          "en": "kebab",
+          "zh": "烤肉串"
+        },
+        {
+          "id": 34,
+          "en": "broth",
+          "zh": "肉汤"
+        },
+        {
+          "id": 35,
+          "en": "dumplings",
+          "zh": "饺子"
+        },
+        {
+          "id": 36,
+          "en": "chinese hotpot",
+          "zh": "中国火锅"
+        },
+        {
+          "id": 37,
+          "en": "roast chicken",
+          "zh": "烤鸡"
+        },
+        {
+          "id": 38,
+          "en": "curry",
+          "zh": "咖喱"
+        },
+        {
+          "id": 39,
+          "en": "lasagna",
+          "zh": "千层面"
+        },
+        {
+          "id": 40,
+          "en": "spaghetti",
+          "zh": "细条意面"
+        },
+        {
+          "id": 41,
+          "en": "stew",
+          "zh": "炖菜"
+        },
+        {
+          "id": 42,
+          "en": "dinner",
+          "zh": "晚餐"
+        }
       ]
     },
     {
       "pageNum": 153,
-      "image": "assets/images/page_153.jpg",
+      "image": "assets/images/page_154.jpg",
       "section": "72.2",
       "sectionTitle": "烹饪方法",
       "sectionTitleEn": "Cooking Methods",
       "words": [
-        { "id": 43, "en": "stuffed", "zh": "填充的" },
-        { "id": 44, "en": "grilled", "zh": "烧烤的" },
-        { "id": 45, "en": "marinated", "zh": "腌制的" },
-        { "id": 46, "en": "in sauce", "zh": "加酱汁" },
-        { "id": 47, "en": "poached", "zh": "水煮的" },
-        { "id": 48, "en": "boiled", "zh": "沸煮的" },
-        { "id": 49, "en": "baked", "zh": "烘焙的" },
-        { "id": 50, "en": "stir-fried", "zh": "翻炒的" },
-        { "id": 51, "en": "fried", "zh": "煎制的" },
-        { "id": 52, "en": "deep-fried", "zh": "油炸的" },
-        { "id": 53, "en": "smoked", "zh": "烟熏的" },
-        { "id": 54, "en": "steamed", "zh": "蒸制的" },
-        { "id": 55, "en": "mashed", "zh": "捣成糊状" },
-        { "id": 56, "en": "dressed", "zh": "加调料" },
-        { "id": 57, "en": "cured", "zh": "腌制的" },
-        { "id": 58, "en": "pickled", "zh": "腌渍的" },
-        { "id": 59, "en": "kosher", "zh": "犹太洁食" },
-        { "id": 60, "en": "halal", "zh": "清真的" }
+        {
+          "id": 43,
+          "en": "stuffed",
+          "zh": "填充的"
+        },
+        {
+          "id": 44,
+          "en": "grilled",
+          "zh": "烧烤的"
+        },
+        {
+          "id": 45,
+          "en": "marinated",
+          "zh": "腌制的"
+        },
+        {
+          "id": 46,
+          "en": "in sauce",
+          "zh": "加酱汁"
+        },
+        {
+          "id": 47,
+          "en": "poached",
+          "zh": "水煮的"
+        },
+        {
+          "id": 48,
+          "en": "boiled",
+          "zh": "沸煮的"
+        },
+        {
+          "id": 49,
+          "en": "baked",
+          "zh": "烘焙的"
+        },
+        {
+          "id": 50,
+          "en": "stir-fried",
+          "zh": "翻炒的"
+        },
+        {
+          "id": 51,
+          "en": "fried",
+          "zh": "煎制的"
+        },
+        {
+          "id": 52,
+          "en": "deep-fried",
+          "zh": "油炸的"
+        },
+        {
+          "id": 53,
+          "en": "smoked",
+          "zh": "烟熏的"
+        },
+        {
+          "id": 54,
+          "en": "steamed",
+          "zh": "蒸制的"
+        },
+        {
+          "id": 55,
+          "en": "mashed",
+          "zh": "捣成糊状"
+        },
+        {
+          "id": 56,
+          "en": "dressed",
+          "zh": "加调料"
+        },
+        {
+          "id": 57,
+          "en": "cured",
+          "zh": "腌制的"
+        },
+        {
+          "id": 58,
+          "en": "pickled",
+          "zh": "腌渍的"
+        },
+        {
+          "id": 59,
+          "en": "kosher",
+          "zh": "犹太洁食"
+        },
+        {
+          "id": 60,
+          "en": "halal",
+          "zh": "清真的"
+        }
       ]
     }
   ]

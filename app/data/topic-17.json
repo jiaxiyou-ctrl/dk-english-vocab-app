@@ -6,102 +6,358 @@
   "pages": [
     {
       "pageNum": 44,
-      "image": "assets/images/page_44.jpg",
+      "image": "assets/images/page_45.jpg",
       "section": "17.1",
       "sectionTitle": "鞋类和配件",
       "sectionTitleEn": "Shoes and accessories",
       "words": [
-        { "id": 1, "en": "high-heeled shoes", "zh": "高跟鞋" },
-        { "id": 2, "en": "flats", "zh": "平底鞋" },
-        { "id": 3, "en": "flip-flops", "zh": "人字拖鞋" },
-        { "id": 4, "en": "espadrilles", "zh": "帆布鞋" },
-        { "id": 5, "en": "kitten heels", "zh": "中跟鞋" },
-        { "id": 6, "en": "stilettos", "zh": "细高跟鞋" },
-        { "id": 7, "en": "sandals", "zh": "凉鞋" },
-        { "id": 8, "en": "jelly sandals", "zh": "果冻凉鞋" },
-        { "id": 9, "en": "gladiator sandals", "zh": "角斗士凉鞋" },
-        { "id": 10, "en": "wedge sandals", "zh": "坡跟凉鞋" },
-        { "id": 11, "en": "T-strap heels", "zh": "T字带高跟鞋" },
-        { "id": 12, "en": "platforms", "zh": "厚底鞋" },
-        { "id": 13, "en": "ankle strap heels", "zh": "踝带高跟鞋" },
-        { "id": 14, "en": "peep toes", "zh": "鱼嘴鞋" },
-        { "id": 15, "en": "slingback heels", "zh": "露跟高跟鞋" },
-        { "id": 16, "en": "ballerina flats", "zh": "芭蕾平底鞋" },
-        { "id": 17, "en": "mules", "zh": "穆勒鞋" },
-        { "id": 18, "en": "Mary Janes", "zh": "玛丽珍鞋" }
+        {
+          "id": 1,
+          "en": "high-heeled shoes",
+          "zh": "高跟鞋"
+        },
+        {
+          "id": 2,
+          "en": "flats",
+          "zh": "平底鞋"
+        },
+        {
+          "id": 3,
+          "en": "flip-flops",
+          "zh": "人字拖鞋"
+        },
+        {
+          "id": 4,
+          "en": "espadrilles",
+          "zh": "帆布鞋"
+        },
+        {
+          "id": 5,
+          "en": "kitten heels",
+          "zh": "中跟鞋"
+        },
+        {
+          "id": 6,
+          "en": "stilettos",
+          "zh": "细高跟鞋"
+        },
+        {
+          "id": 7,
+          "en": "sandals",
+          "zh": "凉鞋"
+        },
+        {
+          "id": 8,
+          "en": "jelly sandals",
+          "zh": "果冻凉鞋"
+        },
+        {
+          "id": 9,
+          "en": "gladiator sandals",
+          "zh": "角斗士凉鞋"
+        },
+        {
+          "id": 10,
+          "en": "wedge sandals",
+          "zh": "坡跟凉鞋"
+        },
+        {
+          "id": 11,
+          "en": "T-strap heels",
+          "zh": "T字带高跟鞋"
+        },
+        {
+          "id": 12,
+          "en": "platforms",
+          "zh": "厚底鞋"
+        },
+        {
+          "id": 13,
+          "en": "ankle strap heels",
+          "zh": "踝带高跟鞋"
+        },
+        {
+          "id": 14,
+          "en": "peep toes",
+          "zh": "鱼嘴鞋"
+        },
+        {
+          "id": 15,
+          "en": "slingback heels",
+          "zh": "露跟高跟鞋"
+        },
+        {
+          "id": 16,
+          "en": "ballerina flats",
+          "zh": "芭蕾平底鞋"
+        },
+        {
+          "id": 17,
+          "en": "mules",
+          "zh": "穆勒鞋"
+        },
+        {
+          "id": 18,
+          "en": "Mary Janes",
+          "zh": "玛丽珍鞋"
+        }
       ]
     },
     {
       "pageNum": 44,
-      "image": "assets/images/page_44.jpg",
+      "image": "assets/images/page_45.jpg",
       "section": "17.2",
       "sectionTitle": "靴子",
       "sectionTitleEn": "Boots",
       "words": [
-        { "id": 19, "en": "work boots", "zh": "工作靴" },
-        { "id": 20, "en": "Chelsea boots", "zh": "切尔西靴" },
-        { "id": 21, "en": "hiking boots", "zh": "登山靴" },
-        { "id": 22, "en": "ankle boots", "zh": "短靴" },
-        { "id": 23, "en": "thigh-high boot", "zh": "长筒靴" },
-        { "id": 24, "en": "zipper (US) / zip (UK)", "zh": "拉链" },
-        { "id": 25, "en": "chukka boots / desert boots", "zh": "马球靴" },
-        { "id": 26, "en": "lace", "zh": "鞋带" },
-        { "id": 27, "en": "sole", "zh": "鞋底" },
-        { "id": 28, "en": "eyelet", "zh": "鞋眼" },
-        { "id": 29, "en": "heel", "zh": "鞋跟" },
-        { "id": 30, "en": "lace-up boots", "zh": "系带靴" },
-        { "id": 31, "en": "knee-high boots", "zh": "及膝靴" },
-        { "id": 32, "en": "rain boots (US) / wellington boots (UK)", "zh": "雨靴" },
-        { "id": 33, "en": "cowboy boots", "zh": "牛仔靴" }
+        {
+          "id": 19,
+          "en": "work boots",
+          "zh": "工作靴"
+        },
+        {
+          "id": 20,
+          "en": "Chelsea boots",
+          "zh": "切尔西靴"
+        },
+        {
+          "id": 21,
+          "en": "hiking boots",
+          "zh": "登山靴"
+        },
+        {
+          "id": 22,
+          "en": "ankle boots",
+          "zh": "短靴"
+        },
+        {
+          "id": 23,
+          "en": "thigh-high boot",
+          "zh": "长筒靴"
+        },
+        {
+          "id": 24,
+          "en": "zipper (US) / zip (UK)",
+          "zh": "拉链"
+        },
+        {
+          "id": 25,
+          "en": "chukka boots / desert boots",
+          "zh": "马球靴"
+        },
+        {
+          "id": 26,
+          "en": "lace",
+          "zh": "鞋带"
+        },
+        {
+          "id": 27,
+          "en": "sole",
+          "zh": "鞋底"
+        },
+        {
+          "id": 28,
+          "en": "eyelet",
+          "zh": "鞋眼"
+        },
+        {
+          "id": 29,
+          "en": "heel",
+          "zh": "鞋跟"
+        },
+        {
+          "id": 30,
+          "en": "lace-up boots",
+          "zh": "系带靴"
+        },
+        {
+          "id": 31,
+          "en": "knee-high boots",
+          "zh": "及膝靴"
+        },
+        {
+          "id": 32,
+          "en": "rain boots (US) / wellington boots (UK)",
+          "zh": "雨靴"
+        },
+        {
+          "id": 33,
+          "en": "cowboy boots",
+          "zh": "牛仔靴"
+        }
       ]
     },
     {
       "pageNum": 45,
-      "image": "assets/images/page_45.jpg",
+      "image": "assets/images/page_46.jpg",
       "section": "17.1",
       "sectionTitle": "鞋类和配件（续）",
       "sectionTitleEn": "Shoes and accessories (continued)",
       "words": [
-        { "id": 34, "en": "Oxfords", "zh": "牛津鞋" },
-        { "id": 35, "en": "Derby shoes", "zh": "德比鞋" },
-        { "id": 36, "en": "slip-ons", "zh": "无带便鞋" },
-        { "id": 37, "en": "moccasins", "zh": "鹿皮鞋" },
-        { "id": 38, "en": "boot shapers", "zh": "鞋子塑形器" },
-        { "id": 39, "en": "shoe trees", "zh": "鞋撑" },
-        { "id": 40, "en": "clogs", "zh": "木屐" },
-        { "id": 41, "en": "buckled shoes", "zh": "带扣鞋" },
-        { "id": 42, "en": "sliders", "zh": "塑料拖鞋" },
-        { "id": 43, "en": "slippers", "zh": "拖鞋" },
-        { "id": 44, "en": "shoelaces", "zh": "鞋带" },
-        { "id": 45, "en": "insoles", "zh": "鞋垫" },
-        { "id": 46, "en": "loafers", "zh": "乐福鞋" },
-        { "id": 47, "en": "boat shoes", "zh": "船鞋" },
-        { "id": 48, "en": "kids' shoes", "zh": "童鞋" },
-        { "id": 49, "en": "brogues", "zh": "布洛克鞋" },
-        { "id": 50, "en": "shoe polish", "zh": "鞋油" },
-        { "id": 51, "en": "shoe brush", "zh": "鞋刷" }
+        {
+          "id": 34,
+          "en": "Oxfords",
+          "zh": "牛津鞋"
+        },
+        {
+          "id": 35,
+          "en": "Derby shoes",
+          "zh": "德比鞋"
+        },
+        {
+          "id": 36,
+          "en": "slip-ons",
+          "zh": "无带便鞋"
+        },
+        {
+          "id": 37,
+          "en": "moccasins",
+          "zh": "鹿皮鞋"
+        },
+        {
+          "id": 38,
+          "en": "boot shapers",
+          "zh": "鞋子塑形器"
+        },
+        {
+          "id": 39,
+          "en": "shoe trees",
+          "zh": "鞋撑"
+        },
+        {
+          "id": 40,
+          "en": "clogs",
+          "zh": "木屐"
+        },
+        {
+          "id": 41,
+          "en": "buckled shoes",
+          "zh": "带扣鞋"
+        },
+        {
+          "id": 42,
+          "en": "sliders",
+          "zh": "塑料拖鞋"
+        },
+        {
+          "id": 43,
+          "en": "slippers",
+          "zh": "拖鞋"
+        },
+        {
+          "id": 44,
+          "en": "shoelaces",
+          "zh": "鞋带"
+        },
+        {
+          "id": 45,
+          "en": "insoles",
+          "zh": "鞋垫"
+        },
+        {
+          "id": 46,
+          "en": "loafers",
+          "zh": "乐福鞋"
+        },
+        {
+          "id": 47,
+          "en": "boat shoes",
+          "zh": "船鞋"
+        },
+        {
+          "id": 48,
+          "en": "kids' shoes",
+          "zh": "童鞋"
+        },
+        {
+          "id": 49,
+          "en": "brogues",
+          "zh": "布洛克鞋"
+        },
+        {
+          "id": 50,
+          "en": "shoe polish",
+          "zh": "鞋油"
+        },
+        {
+          "id": 51,
+          "en": "shoe brush",
+          "zh": "鞋刷"
+        }
       ]
     },
     {
       "pageNum": 45,
-      "image": "assets/images/page_45.jpg",
+      "image": "assets/images/page_46.jpg",
       "section": "17.3",
       "sectionTitle": "运动鞋",
       "sectionTitleEn": "Athletic shoes",
       "words": [
-        { "id": 52, "en": "running spikes", "zh": "跑步钉鞋" },
-        { "id": 53, "en": "baseball cleats", "zh": "棒球鞋" },
-        { "id": 54, "en": "tennis shoes", "zh": "网球鞋" },
-        { "id": 55, "en": "high-tops", "zh": "高帮鞋" },
-        { "id": 56, "en": "golf shoes", "zh": "高尔夫鞋" },
-        { "id": 57, "en": "sneaker (US) / trainer (UK)", "zh": "运动鞋" },
-        { "id": 58, "en": "tongue", "zh": "鞋舌" },
-        { "id": 59, "en": "cycling shoe", "zh": "骑行鞋" },
-        { "id": 60, "en": "ski boot", "zh": "滑雪靴" },
-        { "id": 61, "en": "water shoes", "zh": "水鞋" },
-        { "id": 62, "en": "riding boots", "zh": "马靴" },
-        { "id": 63, "en": "tabi boots", "zh": "分趾靴" },
-        { "id": 64, "en": "soccer cleats (US) / football boots (UK)", "zh": "足球钉鞋" }
+        {
+          "id": 52,
+          "en": "running spikes",
+          "zh": "跑步钉鞋"
+        },
+        {
+          "id": 53,
+          "en": "baseball cleats",
+          "zh": "棒球鞋"
+        },
+        {
+          "id": 54,
+          "en": "tennis shoes",
+          "zh": "网球鞋"
+        },
+        {
+          "id": 55,
+          "en": "high-tops",
+          "zh": "高帮鞋"
+        },
+        {
+          "id": 56,
+          "en": "golf shoes",
+          "zh": "高尔夫鞋"
+        },
+        {
+          "id": 57,
+          "en": "sneaker (US) / trainer (UK)",
+          "zh": "运动鞋"
+        },
+        {
+          "id": 58,
+          "en": "tongue",
+          "zh": "鞋舌"
+        },
+        {
+          "id": 59,
+          "en": "cycling shoe",
+          "zh": "骑行鞋"
+        },
+        {
+          "id": 60,
+          "en": "ski boot",
+          "zh": "滑雪靴"
+        },
+        {
+          "id": 61,
+          "en": "water shoes",
+          "zh": "水鞋"
+        },
+        {
+          "id": 62,
+          "en": "riding boots",
+          "zh": "马靴"
+        },
+        {
+          "id": 63,
+          "en": "tabi boots",
+          "zh": "分趾靴"
+        },
+        {
+          "id": 64,
+          "en": "soccer cleats (US) / football boots (UK)",
+          "zh": "足球钉鞋"
+        }
       ]
     }
   ]

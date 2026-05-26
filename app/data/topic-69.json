@@ -6,65 +6,245 @@
   "pages": [
     {
       "pageNum": 146,
-      "image": "assets/images/page_146.jpg",
+      "image": "assets/images/page_147.jpg",
       "section": "69.1",
       "sectionTitle": "餐厅",
       "sectionTitleEn": "Restaurant",
       "words": [
-        { "id": 1, "en": "wine list", "zh": "酒单" },
-        { "id": 2, "en": "bartender", "zh": "酒保" },
-        { "id": 3, "en": "customers", "zh": "顾客" },
-        { "id": 4, "en": "server (US) / waitress (UK)", "zh": "服务员" },
-        { "id": 5, "en": "restaurant manager", "zh": "餐厅经理" },
-        { "id": 6, "en": "table setting", "zh": "餐桌摆设" },
-        { "id": 7, "en": "fixed menu (US) / set menu (UK)", "zh": "固定菜单" },
-        { "id": 8, "en": "brunch", "zh": "早午餐" },
-        { "id": 9, "en": "lunch menu", "zh": "午餐菜单" },
-        { "id": 10, "en": "à la carte menu", "zh": "点菜卡" },
-        { "id": 11, "en": "specials", "zh": "特色菜" },
-        { "id": 12, "en": "kids meal (US) / child's meal (UK)", "zh": "儿童餐" },
-        { "id": 13, "en": "buffet", "zh": "自助餐" },
-        { "id": 14, "en": "three-course meal", "zh": "三道菜正餐" },
-        { "id": 15, "en": "soup", "zh": "汤" },
-        { "id": 16, "en": "appetizer (US) / starter (UK)", "zh": "开胃菜" },
-        { "id": 17, "en": "entrée (US) / main course (UK)", "zh": "主菜" },
-        { "id": 18, "en": "side / side order", "zh": "配菜" },
-        { "id": 19, "en": "cheese platter", "zh": "奶酪拼盘" },
-        { "id": 20, "en": "dessert (US) / pudding (UK)", "zh": "甜点" },
-        { "id": 21, "en": "beverage", "zh": "饮品" },
-        { "id": 22, "en": "coffee", "zh": "咖啡" },
-        { "id": 23, "en": "digestif", "zh": "餐后酒" }
+        {
+          "id": 1,
+          "en": "wine list",
+          "zh": "酒单"
+        },
+        {
+          "id": 2,
+          "en": "bartender",
+          "zh": "酒保"
+        },
+        {
+          "id": 3,
+          "en": "customers",
+          "zh": "顾客"
+        },
+        {
+          "id": 4,
+          "en": "server (US) / waitress (UK)",
+          "zh": "服务员"
+        },
+        {
+          "id": 5,
+          "en": "restaurant manager",
+          "zh": "餐厅经理"
+        },
+        {
+          "id": 6,
+          "en": "table setting",
+          "zh": "餐桌摆设"
+        },
+        {
+          "id": 7,
+          "en": "fixed menu (US) / set menu (UK)",
+          "zh": "固定菜单"
+        },
+        {
+          "id": 8,
+          "en": "brunch",
+          "zh": "早午餐"
+        },
+        {
+          "id": 9,
+          "en": "lunch menu",
+          "zh": "午餐菜单"
+        },
+        {
+          "id": 10,
+          "en": "à la carte menu",
+          "zh": "点菜卡"
+        },
+        {
+          "id": 11,
+          "en": "specials",
+          "zh": "特色菜"
+        },
+        {
+          "id": 12,
+          "en": "kids meal (US) / child's meal (UK)",
+          "zh": "儿童餐"
+        },
+        {
+          "id": 13,
+          "en": "buffet",
+          "zh": "自助餐"
+        },
+        {
+          "id": 14,
+          "en": "three-course meal",
+          "zh": "三道菜正餐"
+        },
+        {
+          "id": 15,
+          "en": "soup",
+          "zh": "汤"
+        },
+        {
+          "id": 16,
+          "en": "appetizer (US) / starter (UK)",
+          "zh": "开胃菜"
+        },
+        {
+          "id": 17,
+          "en": "entrée (US) / main course (UK)",
+          "zh": "主菜"
+        },
+        {
+          "id": 18,
+          "en": "side / side order",
+          "zh": "配菜"
+        },
+        {
+          "id": 19,
+          "en": "cheese platter",
+          "zh": "奶酪拼盘"
+        },
+        {
+          "id": 20,
+          "en": "dessert (US) / pudding (UK)",
+          "zh": "甜点"
+        },
+        {
+          "id": 21,
+          "en": "beverage",
+          "zh": "饮品"
+        },
+        {
+          "id": 22,
+          "en": "coffee",
+          "zh": "咖啡"
+        },
+        {
+          "id": 23,
+          "en": "digestif",
+          "zh": "餐后酒"
+        }
       ]
     },
     {
       "pageNum": 147,
-      "image": "assets/images/page_147.jpg",
+      "image": "assets/images/page_148.jpg",
       "section": "69.1",
       "sectionTitle": "餐厅（续）",
       "sectionTitleEn": "Restaurant (continued)",
       "words": [
-        { "id": 24, "en": "price", "zh": "价格" },
-        { "id": 25, "en": "tray", "zh": "托盘" },
-        { "id": 26, "en": "kitchen", "zh": "厨房" },
-        { "id": 27, "en": "chef", "zh": "厨师" },
-        { "id": 28, "en": "commis chef", "zh": "助理厨师" },
-        { "id": 29, "en": "dinner menu (US) / evening menu (UK)", "zh": "晚餐菜单" },
-        { "id": 30, "en": "server (US) / waiter (UK)", "zh": "服务员" },
-        { "id": 31, "en": "dessert cart (US) / sweet trolley (UK)", "zh": "甜点推车" },
-        { "id": 32, "en": "sommelier", "zh": "侍酒师" },
-        { "id": 33, "en": "to eat out", "zh": "外出就餐" },
-        { "id": 34, "en": "to make a reservation", "zh": "预约" },
-        { "id": 35, "en": "to cancel", "zh": "取消" },
-        { "id": 36, "en": "to order", "zh": "点菜" },
-        { "id": 37, "en": "check (US) / bill (UK)", "zh": "账单" },
-        { "id": 38, "en": "to pay separately", "zh": "各自付款" },
-        { "id": 39, "en": "to split the check (US) / to split the bill (UK)", "zh": "平摊费用" },
-        { "id": 40, "en": "tip", "zh": "小费" },
-        { "id": 41, "en": "service charge", "zh": "服务费" },
-        { "id": 42, "en": "service included", "zh": "包含服务费" },
-        { "id": 43, "en": "service not included", "zh": "不含服务费" },
-        { "id": 44, "en": "receipt", "zh": "收据" },
-        { "id": 45, "en": "bistro", "zh": "小酒馆" }
+        {
+          "id": 24,
+          "en": "price",
+          "zh": "价格"
+        },
+        {
+          "id": 25,
+          "en": "tray",
+          "zh": "托盘"
+        },
+        {
+          "id": 26,
+          "en": "kitchen",
+          "zh": "厨房"
+        },
+        {
+          "id": 27,
+          "en": "chef",
+          "zh": "厨师"
+        },
+        {
+          "id": 28,
+          "en": "commis chef",
+          "zh": "助理厨师"
+        },
+        {
+          "id": 29,
+          "en": "dinner menu (US) / evening menu (UK)",
+          "zh": "晚餐菜单"
+        },
+        {
+          "id": 30,
+          "en": "server (US) / waiter (UK)",
+          "zh": "服务员"
+        },
+        {
+          "id": 31,
+          "en": "dessert cart (US) / sweet trolley (UK)",
+          "zh": "甜点推车"
+        },
+        {
+          "id": 32,
+          "en": "sommelier",
+          "zh": "侍酒师"
+        },
+        {
+          "id": 33,
+          "en": "to eat out",
+          "zh": "外出就餐"
+        },
+        {
+          "id": 34,
+          "en": "to make a reservation",
+          "zh": "预约"
+        },
+        {
+          "id": 35,
+          "en": "to cancel",
+          "zh": "取消"
+        },
+        {
+          "id": 36,
+          "en": "to order",
+          "zh": "点菜"
+        },
+        {
+          "id": 37,
+          "en": "check (US) / bill (UK)",
+          "zh": "账单"
+        },
+        {
+          "id": 38,
+          "en": "to pay separately",
+          "zh": "各自付款"
+        },
+        {
+          "id": 39,
+          "en": "to split the check (US) / to split the bill (UK)",
+          "zh": "平摊费用"
+        },
+        {
+          "id": 40,
+          "en": "tip",
+          "zh": "小费"
+        },
+        {
+          "id": 41,
+          "en": "service charge",
+          "zh": "服务费"
+        },
+        {
+          "id": 42,
+          "en": "service included",
+          "zh": "包含服务费"
+        },
+        {
+          "id": 43,
+          "en": "service not included",
+          "zh": "不含服务费"
+        },
+        {
+          "id": 44,
+          "en": "receipt",
+          "zh": "收据"
+        },
+        {
+          "id": 45,
+          "en": "bistro",
+          "zh": "小酒馆"
+        }
       ]
     }
   ]

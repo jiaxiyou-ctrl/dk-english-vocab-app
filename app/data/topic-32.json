@@ -6,78 +6,310 @@
   "pages": [
     {
       "pageNum": 74,
-      "image": "assets/images/page_74.jpg",
+      "image": "assets/images/page_75.jpg",
       "section": "32.1",
       "sectionTitle": "房子类型",
       "sectionTitleEn": "Types of House",
       "words": [
-        { "id": 1, "en": "detached house", "zh": "独立住宅" },
-        { "id": 2, "en": "duplex (US) / semi-detached (UK)", "zh": "联式房屋" },
-        { "id": 3, "en": "row house (US) / terraced house (UK)", "zh": "连栋房屋" },
-        { "id": 4, "en": "town house", "zh": "排房" },
-        { "id": 5, "en": "cottage", "zh": "村舍" },
-        { "id": 6, "en": "villa", "zh": "别墅" },
-        { "id": 7, "en": "ranch house (US) / bungalow (UK)", "zh": "农庄平房" },
-        { "id": 8, "en": "mansion", "zh": "豪宅" },
-        { "id": 9, "en": "mobile home (US) / caravan (UK)", "zh": "露营车" },
-        { "id": 10, "en": "cabin", "zh": "小木屋" },
-        { "id": 11, "en": "tree house", "zh": "树屋" },
-        { "id": 12, "en": "chalet", "zh": "牧人小屋" },
-        { "id": 13, "en": "yurt", "zh": "圆顶式帐篷" },
-        { "id": 14, "en": "hut", "zh": "小屋" },
-        { "id": 15, "en": "wigwam", "zh": "棚屋" },
-        { "id": 16, "en": "igloo", "zh": "冰屋" },
-        { "id": 17, "en": "teepee", "zh": "圆锥形帐篷" },
-        { "id": 18, "en": "houseboat", "zh": "船屋" },
-        { "id": 19, "en": "prefab house", "zh": "活动板房" },
-        { "id": 20, "en": "stilt house", "zh": "干栏式房屋" },
-        { "id": 21, "en": "chimney", "zh": "烟囱" },
-        { "id": 22, "en": "arch window", "zh": "拱窗" },
-        { "id": 23, "en": "eaves", "zh": "屋檐" },
-        { "id": 24, "en": "thatched roof", "zh": "茅草屋顶" },
-        { "id": 25, "en": "light", "zh": "路灯" },
-        { "id": 26, "en": "gate", "zh": "篱笆门" },
-        { "id": 27, "en": "thatched cottage", "zh": "茅草屋" }
+        {
+          "id": 1,
+          "en": "detached house",
+          "zh": "独立住宅"
+        },
+        {
+          "id": 2,
+          "en": "duplex (US) / semi-detached (UK)",
+          "zh": "联式房屋"
+        },
+        {
+          "id": 3,
+          "en": "row house (US) / terraced house (UK)",
+          "zh": "连栋房屋"
+        },
+        {
+          "id": 4,
+          "en": "town house",
+          "zh": "排房"
+        },
+        {
+          "id": 5,
+          "en": "cottage",
+          "zh": "村舍"
+        },
+        {
+          "id": 6,
+          "en": "villa",
+          "zh": "别墅"
+        },
+        {
+          "id": 7,
+          "en": "ranch house (US) / bungalow (UK)",
+          "zh": "农庄平房"
+        },
+        {
+          "id": 8,
+          "en": "mansion",
+          "zh": "豪宅"
+        },
+        {
+          "id": 9,
+          "en": "mobile home (US) / caravan (UK)",
+          "zh": "露营车"
+        },
+        {
+          "id": 10,
+          "en": "cabin",
+          "zh": "小木屋"
+        },
+        {
+          "id": 11,
+          "en": "tree house",
+          "zh": "树屋"
+        },
+        {
+          "id": 12,
+          "en": "chalet",
+          "zh": "牧人小屋"
+        },
+        {
+          "id": 13,
+          "en": "yurt",
+          "zh": "圆顶式帐篷"
+        },
+        {
+          "id": 14,
+          "en": "hut",
+          "zh": "小屋"
+        },
+        {
+          "id": 15,
+          "en": "wigwam",
+          "zh": "棚屋"
+        },
+        {
+          "id": 16,
+          "en": "igloo",
+          "zh": "冰屋"
+        },
+        {
+          "id": 17,
+          "en": "teepee",
+          "zh": "圆锥形帐篷"
+        },
+        {
+          "id": 18,
+          "en": "houseboat",
+          "zh": "船屋"
+        },
+        {
+          "id": 19,
+          "en": "prefab house",
+          "zh": "活动板房"
+        },
+        {
+          "id": 20,
+          "en": "stilt house",
+          "zh": "干栏式房屋"
+        },
+        {
+          "id": 21,
+          "en": "chimney",
+          "zh": "烟囱"
+        },
+        {
+          "id": 22,
+          "en": "arch window",
+          "zh": "拱窗"
+        },
+        {
+          "id": 23,
+          "en": "eaves",
+          "zh": "屋檐"
+        },
+        {
+          "id": 24,
+          "en": "thatched roof",
+          "zh": "茅草屋顶"
+        },
+        {
+          "id": 25,
+          "en": "light",
+          "zh": "路灯"
+        },
+        {
+          "id": 26,
+          "en": "gate",
+          "zh": "篱笆门"
+        },
+        {
+          "id": 27,
+          "en": "thatched cottage",
+          "zh": "茅草屋"
+        }
       ]
     },
     {
       "pageNum": 75,
-      "image": "assets/images/page_75.jpg",
+      "image": "assets/images/page_76.jpg",
       "section": "32.2",
       "sectionTitle": "买房和租房",
       "sectionTitleEn": "Buying and Renting",
       "words": [
-        { "id": 28, "en": "realtor (US) / estate agent (UK)", "zh": "房地产经纪人" },
-        { "id": 29, "en": "real estate (US) / property (UK)", "zh": "房地产" },
-        { "id": 30, "en": "to view a house", "zh": "看房子" },
-        { "id": 31, "en": "furnished", "zh": "有家具" },
-        { "id": 32, "en": "unfurnished", "zh": "无家具" },
-        { "id": 33, "en": "open-plan", "zh": "开放式" },
-        { "id": 34, "en": "parking space", "zh": "停车位" },
-        { "id": 35, "en": "storage", "zh": "储物间" },
-        { "id": 36, "en": "to save up", "zh": "存钱" },
-        { "id": 37, "en": "to buy", "zh": "购买" },
-        { "id": 38, "en": "to own", "zh": "拥有" },
-        { "id": 39, "en": "boxes", "zh": "箱子" },
-        { "id": 40, "en": "tape", "zh": "胶带" },
-        { "id": 41, "en": "keys", "zh": "钥匙" },
-        { "id": 42, "en": "to pack", "zh": "打包" },
-        { "id": 43, "en": "moving truck (US) / removal van (UK)", "zh": "搬家卡车" },
-        { "id": 44, "en": "to move out", "zh": "搬出" },
-        { "id": 45, "en": "to move in", "zh": "搬入" },
-        { "id": 46, "en": "to unpack", "zh": "开箱" },
-        { "id": 47, "en": "to rent out", "zh": "出租" },
-        { "id": 48, "en": "to rent", "zh": "租用" },
-        { "id": 49, "en": "lease / tenancy agreement (UK)", "zh": "租约" },
-        { "id": 50, "en": "tenant", "zh": "租客" },
-        { "id": 51, "en": "landlord", "zh": "房东" },
-        { "id": 52, "en": "deposit", "zh": "存款" },
-        { "id": 53, "en": "to give notice", "zh": "预先通知" },
-        { "id": 54, "en": "mortgage", "zh": "抵押贷款" },
-        { "id": 55, "en": "bills", "zh": "账单" },
-        { "id": 56, "en": "roomer (US) / lodger (UK)", "zh": "房客" },
-        { "id": 57, "en": "roommate (US) / housemate (UK)", "zh": "室友" },
-        { "id": 58, "en": "residential area", "zh": "住宅区" }
+        {
+          "id": 28,
+          "en": "realtor (US) / estate agent (UK)",
+          "zh": "房地产经纪人"
+        },
+        {
+          "id": 29,
+          "en": "real estate (US) / property (UK)",
+          "zh": "房地产"
+        },
+        {
+          "id": 30,
+          "en": "to view a house",
+          "zh": "看房子"
+        },
+        {
+          "id": 31,
+          "en": "furnished",
+          "zh": "有家具"
+        },
+        {
+          "id": 32,
+          "en": "unfurnished",
+          "zh": "无家具"
+        },
+        {
+          "id": 33,
+          "en": "open-plan",
+          "zh": "开放式"
+        },
+        {
+          "id": 34,
+          "en": "parking space",
+          "zh": "停车位"
+        },
+        {
+          "id": 35,
+          "en": "storage",
+          "zh": "储物间"
+        },
+        {
+          "id": 36,
+          "en": "to save up",
+          "zh": "存钱"
+        },
+        {
+          "id": 37,
+          "en": "to buy",
+          "zh": "购买"
+        },
+        {
+          "id": 38,
+          "en": "to own",
+          "zh": "拥有"
+        },
+        {
+          "id": 39,
+          "en": "boxes",
+          "zh": "箱子"
+        },
+        {
+          "id": 40,
+          "en": "tape",
+          "zh": "胶带"
+        },
+        {
+          "id": 41,
+          "en": "keys",
+          "zh": "钥匙"
+        },
+        {
+          "id": 42,
+          "en": "to pack",
+          "zh": "打包"
+        },
+        {
+          "id": 43,
+          "en": "moving truck (US) / removal van (UK)",
+          "zh": "搬家卡车"
+        },
+        {
+          "id": 44,
+          "en": "to move out",
+          "zh": "搬出"
+        },
+        {
+          "id": 45,
+          "en": "to move in",
+          "zh": "搬入"
+        },
+        {
+          "id": 46,
+          "en": "to unpack",
+          "zh": "开箱"
+        },
+        {
+          "id": 47,
+          "en": "to rent out",
+          "zh": "出租"
+        },
+        {
+          "id": 48,
+          "en": "to rent",
+          "zh": "租用"
+        },
+        {
+          "id": 49,
+          "en": "lease / tenancy agreement (UK)",
+          "zh": "租约"
+        },
+        {
+          "id": 50,
+          "en": "tenant",
+          "zh": "租客"
+        },
+        {
+          "id": 51,
+          "en": "landlord",
+          "zh": "房东"
+        },
+        {
+          "id": 52,
+          "en": "deposit",
+          "zh": "存款"
+        },
+        {
+          "id": 53,
+          "en": "to give notice",
+          "zh": "预先通知"
+        },
+        {
+          "id": 54,
+          "en": "mortgage",
+          "zh": "抵押贷款"
+        },
+        {
+          "id": 55,
+          "en": "bills",
+          "zh": "账单"
+        },
+        {
+          "id": 56,
+          "en": "roomer (US) / lodger (UK)",
+          "zh": "房客"
+        },
+        {
+          "id": 57,
+          "en": "roommate (US) / housemate (UK)",
+          "zh": "室友"
+        },
+        {
+          "id": 58,
+          "en": "residential area",
+          "zh": "住宅区"
+        }
       ]
     }
   ]
