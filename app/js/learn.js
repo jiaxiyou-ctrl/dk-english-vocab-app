@@ -1,6 +1,8 @@
 const Learn = {
   maskEnabled: false,
   revealedWords: new Set(),
+  observer: null,
+  syncScrolling: false,
 
   render(container, topicData, topicsIndex) {
     this.topicData = topicData;
@@ -18,7 +20,7 @@ const Learn = {
       </div>
       <div class="learn-body">
         <div class="image-panel" id="imagePanel">
-          ${topicData.pages.map(p => `<img src="${p.image}" alt="Page ${p.pageNum}">`).join('')}
+          ${this.renderUniqueImages(topicData)}
         </div>
         <div class="word-panel">
           <div class="word-panel-controls">
@@ -44,6 +46,72 @@ const Learn = {
       </div>
     `;
     container.innerHTML = html;
+    this.setupScrollSync();
+  },
+
+  renderUniqueImages(topicData) {
+    const seen = new Set();
+    const imageMap = [];
+    topicData.pages.forEach((p, i) => {
+      if (!seen.has(p.image)) {
+        seen.add(p.image);
+        imageMap.push({ image: p.image, pageNum: p.pageNum, firstSectionIndex: i });
+      }
+    });
+    this.imageMap = imageMap;
+    return imageMap.map((m, imgIdx) =>
+      `<img src="${m.image}" alt="Page ${m.pageNum}" data-img-index="${imgIdx}">`
+    ).join('');
+  },
+
+  setupScrollSync() {
+    if (this.observer) this.observer.disconnect();
+
+    const imagePanel = document.getElementById('imagePanel');
+    const images = imagePanel.querySelectorAll('img[data-img-index]');
+    if (images.length === 0) return;
+
+    this.observer = new IntersectionObserver((entries) => {
+      if (this.syncScrolling) return;
+
+      let mostVisible = null;
+      let maxRatio = 0;
+      entries.forEach(entry => {
+        if (entry.intersectionRatio > maxRatio) {
+          maxRatio = entry.intersectionRatio;
+          mostVisible = entry.target;
+        }
+      });
+
+      if (mostVisible && maxRatio > 0.3) {
+        const imgIdx = parseInt(mostVisible.dataset.imgIndex);
+        const sectionIdx = this.imageMap[imgIdx].firstSectionIndex;
+        this.scrollWordListToSection(sectionIdx);
+      }
+    }, {
+      root: imagePanel,
+      threshold: [0, 0.3, 0.5, 0.7, 1.0]
+    });
+
+    images.forEach(img => this.observer.observe(img));
+  },
+
+  scrollWordListToSection(sectionIndex) {
+    const dividers = document.querySelectorAll('.section-divider');
+    const target = dividers[sectionIndex];
+    if (!target) return;
+
+    if (target.dataset.active === 'true') return;
+
+    dividers.forEach(d => d.dataset.active = 'false');
+    target.dataset.active = 'true';
+
+    this.syncScrolling = true;
+    const wordList = document.getElementById('wordList');
+    const offset = target.offsetTop - wordList.offsetTop;
+    wordList.scrollTo({ top: offset, behavior: 'smooth' });
+
+    setTimeout(() => { this.syncScrolling = false; }, 500);
   },
 
   renderTopicSelect(currentId, topicsIndex) {
@@ -61,8 +129,8 @@ const Learn = {
 
   renderWordList(topicData) {
     let html = '';
-    topicData.pages.forEach(page => {
-      html += `<div class="section-divider">${page.section} ${page.sectionTitle}</div>`;
+    topicData.pages.forEach((page, i) => {
+      html += `<div class="section-divider" data-section-index="${i}">${page.section} ${page.sectionTitle}</div>`;
       page.words.forEach(word => {
         const progress = Progress.getTopicProgress(topicData.id);
         const isLearned = progress && progress.learnedWords.includes(word.id);
