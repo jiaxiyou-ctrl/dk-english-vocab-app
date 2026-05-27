@@ -311,6 +311,41 @@ body {
 
 .image-panel img:hover { box-shadow: var(--shadow-lg); }
 
+/* Topic headers in continuous scroll */
+.image-topic-header {
+  width: 100%;
+  padding: 12px 20px;
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--text-primary);
+  background: var(--surface);
+  border-radius: var(--radius-sm);
+  border-left: 4px solid var(--accent);
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  box-shadow: var(--shadow-sm);
+}
+
+.word-topic-header {
+  padding: 14px 20px 10px;
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--text-primary);
+  background: var(--surface);
+  border-bottom: 2px solid var(--accent);
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
+
+.word-topic-header-en {
+  font-size: 12px;
+  font-weight: 400;
+  color: var(--text-tertiary);
+  margin-left: 8px;
+}
+
 /* Word Panel */
 .word-panel {
   width: 400px;

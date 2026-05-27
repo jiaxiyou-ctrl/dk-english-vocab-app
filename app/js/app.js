@@ -1,5 +1,7 @@
 const App = {
   root: document.getElementById('app'),
+  allTopics: null,
+  topicsIndex: null,
 
   init() {
     window.addEventListener('hashchange', () => this.route());
@@ -8,9 +10,9 @@ const App = {
 
   route() {
     const hash = window.location.hash;
-    if (hash.startsWith('#/learn/')) {
-      const topicId = hash.replace('#/learn/', '');
-      this.showLearn(topicId);
+    if (hash.startsWith('#/learn')) {
+      const topicId = hash.replace('#/learn/', '').replace('#/learn', '');
+      this.showLearn(topicId || '01');
     } else {
       this.showHome();
     }
@@ -18,15 +20,22 @@ const App = {
 
   async showHome() {
     this.root.innerHTML = '';
-    const topicsIndex = await this.fetchJSON('data/topics-index.json');
-    Home.render(this.root, topicsIndex);
+    if (!this.topicsIndex) {
+      this.topicsIndex = await this.fetchJSON('data/topics-index.json');
+    }
+    Home.render(this.root, this.topicsIndex);
   },
 
   async showLearn(topicId) {
+    this.root.innerHTML = '<div style="display:flex;align-items:center;justify-content:center;height:100vh;color:#9B9B9B;">加载中...</div>';
+    if (!this.allTopics) {
+      this.allTopics = await this.fetchJSON('data/all-topics.json');
+    }
+    if (!this.topicsIndex) {
+      this.topicsIndex = await this.fetchJSON('data/topics-index.json');
+    }
     this.root.innerHTML = '';
-    const topicData = await this.fetchJSON(`data/topic-${topicId}.json`);
-    const topicsIndex = await this.fetchJSON('data/topics-index.json');
-    Learn.render(this.root, topicData, topicsIndex);
+    Learn.render(this.root, this.allTopics, this.topicsIndex, topicId);
   },
 
   async fetchJSON(path) {
