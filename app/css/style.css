@@ -348,12 +348,14 @@ body {
 
 /* Word Panel */
 .word-panel {
-  width: 400px;
-  min-width: 340px;
+  width: 35%;
+  min-width: 280px;
+  max-width: 420px;
   border-left: 1px solid var(--border);
   display: flex;
   flex-direction: column;
   background: var(--surface);
+  flex-shrink: 0;
 }
 
 .word-panel-controls {
@@ -507,52 +509,6 @@ body {
   filter: blur(0);
 }
 
-/* === Responsive === */
+/* === Responsive — always side-by-side layout === */
 
-@media (max-width: 768px) {
-  .home-content { padding: 20px 16px; }
-  .topic-grid { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 10px; }
-  .topic-card { padding: 14px; }
-
-  .learn-body { flex-direction: column; height: auto; }
-
-  .image-panel {
-    max-height: 40vh;
-    min-height: 0;
-    padding: 16px;
-  }
-
-  .image-panel.collapsed {
-    max-height: 0;
-    padding: 0;
-    overflow: hidden;
-    border: none;
-  }
-
-  .word-panel {
-    width: 100%;
-    min-width: 0;
-    border-left: none;
-    border-top: 1px solid var(--border);
-    min-height: 60vh;
-  }
-
-  .image-toggle-btn { display: inline-block !important; }
-}
-
-@media (min-width: 769px) {
-  .image-toggle-btn { display: none !important; }
-}
-
-/* Mobile toggle button styling */
-.image-toggle-btn {
-  background: var(--bg) !important;
-  border: 1px solid var(--border) !important;
-  color: var(--text-secondary) !important;
-  padding: 6px 12px !important;
-  border-radius: var(--radius-xs) !important;
-  cursor: pointer !important;
-  font-size: 12px !important;
-  font-weight: 500 !important;
-  transition: all var(--transition) !important;
-}
+.image-toggle-btn { display: none !important; }
