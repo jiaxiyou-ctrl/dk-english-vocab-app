@@ -19,6 +19,11 @@ const Learn = {
     count: 0,
     distance: 0
   },
+  drawerExpanded: false,
+  drawerDrag: {
+    startY: 0,
+    moved: false
+  },
   wheelTimer: null,
 
   render(container, topicData, topicsIndex) {
@@ -30,6 +35,8 @@ const Learn = {
     this.activeSectionIndex = null;
     this.edgePull = { active: false, ready: false, startY: 0, edge: null };
     this.wheelPull = { edge: null, count: 0, distance: 0 };
+    this.drawerExpanded = false;
+    this.drawerDrag = { startY: 0, moved: false };
 
     const totalWords = this.getTotalWords(topicData);
     const prevTopic = this.getAdjacentTopic(topicData.id, -1);
@@ -54,7 +61,12 @@ const Learn = {
             ${this.renderImages(topicData)}
             ${this.renderImageEnd(topicData, nextTopic)}
           </div>
-          <div class="word-panel">
+          <div class="word-panel" id="wordPanel">
+            <button class="word-drawer-handle" id="wordDrawerHandle" type="button" aria-expanded="false">
+              <span></span>
+              <strong>词表</strong>
+              <small id="wordDrawerHint">上滑展开</small>
+            </button>
             <div class="word-panel-controls">
               <div class="control-caption">
                 <strong>${totalWords}</strong>
@@ -86,6 +98,7 @@ const Learn = {
     container.innerHTML = html;
     this.setupScrollSync();
     this.setupEdgePull();
+    this.setupMobileDrawer();
   },
 
   getTotalWords(topicData) {
@@ -425,6 +438,58 @@ const Learn = {
     if (wordList) {
       wordList.scrollTo({ top: wordList.scrollHeight - wordList.clientHeight, behavior: 'smooth' });
     }
+  },
+
+  setupMobileDrawer() {
+    const panel = document.getElementById('wordPanel');
+    const handle = document.getElementById('wordDrawerHandle');
+    if (!panel || !handle) return;
+
+    const toggleFromGesture = event => {
+      const deltaY = event.clientY - this.drawerDrag.startY;
+      if (Math.abs(deltaY) < 24) return false;
+      this.toggleWordDrawer(deltaY < 0);
+      return true;
+    };
+
+    handle.addEventListener('click', () => {
+      if (this.drawerDrag.moved) {
+        this.drawerDrag.moved = false;
+        return;
+      }
+      this.toggleWordDrawer();
+    });
+
+    handle.addEventListener('pointerdown', event => {
+      this.drawerDrag = { startY: event.clientY, moved: false };
+      handle.setPointerCapture?.(event.pointerId);
+    });
+
+    handle.addEventListener('pointerup', event => {
+      this.drawerDrag.moved = toggleFromGesture(event);
+    });
+
+    handle.addEventListener('pointercancel', () => {
+      this.drawerDrag = { startY: 0, moved: false };
+    });
+
+    this.applyWordDrawerState();
+  },
+
+  toggleWordDrawer(forceExpanded = null) {
+    this.drawerExpanded = forceExpanded === null ? !this.drawerExpanded : forceExpanded;
+    this.applyWordDrawerState();
+  },
+
+  applyWordDrawerState() {
+    const panel = document.getElementById('wordPanel');
+    const handle = document.getElementById('wordDrawerHandle');
+    const hint = document.getElementById('wordDrawerHint');
+    if (!panel || !handle) return;
+
+    panel.classList.toggle('expanded', this.drawerExpanded);
+    handle.setAttribute('aria-expanded', String(this.drawerExpanded));
+    if (hint) hint.textContent = this.drawerExpanded ? '下滑收起' : '上滑展开';
   },
 
   setupEdgePull() {
