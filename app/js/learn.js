@@ -8,12 +8,18 @@ const Learn = {
   imageMap: [],
   visibilityMap: {},
   activeSectionIndex: null,
-  bottomPull: {
+  edgePull: {
     active: false,
     ready: false,
-    startY: 0
+    startY: 0,
+    edge: null
   },
-  wheelPullCount: 0,
+  wheelPull: {
+    edge: null,
+    count: 0,
+    distance: 0
+  },
+  wheelTimer: null,
 
   render(container, topicData, topicsIndex) {
     this.topicData = topicData;
@@ -22,10 +28,11 @@ const Learn = {
     this.revealedWords = new Set();
     this.visibilityMap = {};
     this.activeSectionIndex = null;
-    this.bottomPull = { active: false, ready: false, startY: 0 };
-    this.wheelPullCount = 0;
+    this.edgePull = { active: false, ready: false, startY: 0, edge: null };
+    this.wheelPull = { edge: null, count: 0, distance: 0 };
 
     const totalWords = this.getTotalWords(topicData);
+    const prevTopic = this.getAdjacentTopic(topicData.id, -1);
     const nextTopic = this.getAdjacentTopic(topicData.id, 1);
     Progress.recordStudy(topicData.id, totalWords);
 
@@ -43,6 +50,7 @@ const Learn = {
         ${this.renderTopicOverlay(topicData.id, topicsIndex)}
         <div class="learn-body">
           <div class="image-panel" id="imagePanel">
+            ${this.renderImageStart(topicData, prevTopic)}
             ${this.renderImages(topicData)}
             ${this.renderImageEnd(topicData, nextTopic)}
           </div>
@@ -77,7 +85,7 @@ const Learn = {
 
     container.innerHTML = html;
     this.setupScrollSync();
-    this.setupBottomPull();
+    this.setupEdgePull();
   },
 
   getTotalWords(topicData) {
@@ -103,6 +111,31 @@ const Learn = {
     });
 
     return fragments.join('');
+  },
+
+  renderImageStart(topicData, prevTopic) {
+    const prevButton = prevTopic
+      ? `<button class="end-primary" onclick="Learn.goToTopic('${prevTopic.id}')">进入 ${prevTopic.id} ${prevTopic.title}</button>`
+      : `<button class="end-primary" disabled>已经是第一章</button>`;
+
+    const hint = prevTopic
+      ? `在顶部继续向上滚动释放，进入 ${prevTopic.id} ${prevTopic.title}`
+      : '已经是第一章';
+
+    return `
+      <div class="chapter-start" id="chapterStart">
+        <div class="top-pull-hint" id="pullTopHint">${hint}</div>
+        <div class="chapter-start-card">
+          <span class="end-kicker">${topicData.id} ${topicData.title}</span>
+          <h2>本章开头</h2>
+          <p>可以直接进入上一章，也可以跳到本章结尾快速继续。</p>
+          <div class="end-actions">
+            ${prevButton}
+            <button class="end-secondary" onclick="Learn.scrollCurrentTopicBottom()">跳到本章结尾</button>
+          </div>
+        </div>
+      </div>
+    `;
   },
 
   renderImageEnd(topicData, nextTopic) {
@@ -131,7 +164,7 @@ const Learn = {
   },
 
   renderWords(topicData) {
-    let html = '';
+    let html = this.renderWordStart(topicData);
     topicData.pages.forEach((page, sectionIndex) => {
       html += `
         <div class="section-divider" data-section-index="${sectionIndex}">
@@ -159,6 +192,25 @@ const Learn = {
     });
     html += this.renderWordEnd(topicData);
     return html;
+  },
+
+  renderWordStart(topicData) {
+    const prevTopic = this.getAdjacentTopic(topicData.id, -1);
+    const prevButton = prevTopic
+      ? `<button class="end-primary" onclick="Learn.goToTopic('${prevTopic.id}')">上一章：${prevTopic.title}</button>`
+      : `<button class="end-primary" disabled>已经是第一章</button>`;
+
+    return `
+      <div class="word-start">
+        <span>${topicData.id} ${topicData.title}</span>
+        <strong>词表开头</strong>
+        <small class="word-top-pull-hint" id="wordPullTopHint">${prevTopic ? `继续向上滚动释放，进入 ${prevTopic.id} ${prevTopic.title}` : '已经是第一章'}</small>
+        <div class="end-actions compact">
+          ${prevButton}
+          <button class="end-secondary" onclick="Learn.scrollCurrentTopicBottom()">跳到结尾</button>
+        </div>
+      </div>
+    `;
   },
 
   renderWordEnd(topicData) {
@@ -190,6 +242,11 @@ const Learn = {
     this.observer = new IntersectionObserver((entries) => {
       if (this.syncScrolling) return;
 
+      if (this.isImagePanelAtTopicStart(imagePanel)) {
+        this.scrollWordListToTopicStart();
+        return;
+      }
+
       entries.forEach(entry => {
         this.visibilityMap[entry.target.dataset.imgIndex] = entry.intersectionRatio;
       });
@@ -214,6 +271,26 @@ const Learn = {
     });
 
     figures.forEach(figure => this.observer.observe(figure));
+  },
+
+  isImagePanelAtTopicStart(imagePanel) {
+    const chapterStart = document.getElementById('chapterStart');
+    if (!chapterStart) return imagePanel.scrollTop <= 8;
+    return imagePanel.scrollTop <= chapterStart.offsetTop + chapterStart.offsetHeight * 0.7;
+  },
+
+  scrollWordListToTopicStart() {
+    this.activeSectionIndex = null;
+    document.querySelectorAll('.section-divider').forEach(divider => {
+      divider.classList.remove('active');
+    });
+
+    const wordList = document.getElementById('wordList');
+    if (!wordList || wordList.scrollTop <= 2) return;
+
+    this.syncScrolling = true;
+    wordList.scrollTo({ top: 0, behavior: 'smooth' });
+    setTimeout(() => { this.syncScrolling = false; }, 450);
   },
 
   scrollWordListToSection(sectionIndex) {
@@ -339,51 +416,105 @@ const Learn = {
     document.getElementById('wordList')?.scrollTo({ top: 0, behavior: 'smooth' });
   },
 
-  setupBottomPull() {
+  scrollCurrentTopicBottom() {
     const imagePanel = document.getElementById('imagePanel');
     const wordList = document.getElementById('wordList');
-    const nextTopic = this.getAdjacentTopic(this.topicData.id, 1);
-    if (!nextTopic) return;
+    if (imagePanel) {
+      imagePanel.scrollTo({ top: imagePanel.scrollHeight - imagePanel.clientHeight, behavior: 'smooth' });
+    }
+    if (wordList) {
+      wordList.scrollTo({ top: wordList.scrollHeight - wordList.clientHeight, behavior: 'smooth' });
+    }
+  },
 
-    const threshold = 76;
+  setupEdgePull() {
+    const imagePanel = document.getElementById('imagePanel');
+    const wordList = document.getElementById('wordList');
+    const prevTopic = this.getAdjacentTopic(this.topicData.id, -1);
+    const nextTopic = this.getAdjacentTopic(this.topicData.id, 1);
+    if (!prevTopic && !nextTopic) return;
+
+    const threshold = 150;
+    const minWheelDelta = 32;
+    const requiredWheelCount = 7;
+    const requiredWheelDistance = 680;
+    const wheelResetDelay = 1250;
+
+    const getTopicForEdge = edge => edge === 'top' ? prevTopic : nextTopic;
+    const getEdgeLabel = edge => edge === 'top' ? '向上' : '向下';
+    const resetActivePull = () => {
+      if (!this.edgePull.edge) return;
+      const edge = this.edgePull.edge;
+      this.resetPullHint(edge, getTopicForEdge(edge));
+    };
 
     const bindPanel = panel => {
       if (!panel) return;
 
       panel.addEventListener('pointerdown', event => {
-        if (!this.isPanelAtBottom(panel)) return;
-        this.bottomPull = { active: true, ready: false, startY: event.clientY };
+        if (event.pointerType !== 'touch' && event.pointerType !== 'pen') return;
+
+        const edge = this.isPanelAtTop(panel)
+          ? 'top'
+          : this.isPanelAtBottom(panel)
+            ? 'bottom'
+            : null;
+        const targetTopic = edge ? getTopicForEdge(edge) : null;
+        if (!edge || !targetTopic) return;
+
+        this.edgePull = { active: true, ready: false, startY: event.clientY, edge };
       });
 
       panel.addEventListener('pointermove', event => {
-        if (!this.bottomPull.active) return;
-        const distance = this.bottomPull.startY - event.clientY;
-        this.setPullHint(distance, threshold, nextTopic);
+        if (!this.edgePull.active) return;
+        const edge = this.edgePull.edge;
+        const distance = edge === 'top'
+          ? event.clientY - this.edgePull.startY
+          : this.edgePull.startY - event.clientY;
+        this.setPullHint(edge, distance, threshold, getTopicForEdge(edge));
       });
 
-      panel.addEventListener('pointerup', () => this.finishBottomPull(nextTopic));
-      panel.addEventListener('pointercancel', () => this.resetPullHint(nextTopic));
+      panel.addEventListener('pointerup', () => this.finishEdgePull(prevTopic, nextTopic));
+      panel.addEventListener('pointercancel', resetActivePull);
 
       panel.addEventListener('wheel', event => {
-        if (!this.isPanelAtBottom(panel) || event.deltaY < 18) return;
-        const hints = this.getPullHints();
+        const edge = event.deltaY <= -minWheelDelta && this.isPanelAtTop(panel)
+          ? 'top'
+          : event.deltaY >= minWheelDelta && this.isPanelAtBottom(panel)
+            ? 'bottom'
+            : null;
+        const targetTopic = edge ? getTopicForEdge(edge) : null;
+        if (!edge || !targetTopic) return;
+
+        const hints = this.getPullHints(edge);
         if (!hints.length) return;
-        this.wheelPullCount += 1;
-        const text = this.wheelPullCount >= 2
-          ? `正在进入 ${nextTopic.id} ${nextTopic.title}`
-          : `再向下滚动，进入 ${nextTopic.id} ${nextTopic.title}`;
+
+        if (this.wheelPull.edge !== edge) {
+          this.wheelPull = { edge, count: 0, distance: 0 };
+          this.resetWheelHint(edge === 'top' ? 'bottom' : 'top');
+        }
+
+        this.wheelPull.count += 1;
+        this.wheelPull.distance += Math.abs(event.deltaY);
+
+        const ready = this.wheelPull.count >= requiredWheelCount && this.wheelPull.distance >= requiredWheelDistance;
+        const remaining = Math.max(requiredWheelCount - this.wheelPull.count, 0);
+        const text = ready
+          ? `正在进入 ${targetTopic.id} ${targetTopic.title}`
+          : `继续${getEdgeLabel(edge)}滚动，进入 ${targetTopic.id} ${targetTopic.title}${remaining ? `（还需 ${remaining} 次）` : ''}`;
         hints.forEach(hint => {
-          hint.classList.add('ready');
+          hint.classList.toggle('ready', ready);
+          hint.style.opacity = ready ? '1' : '0.82';
           hint.textContent = text;
         });
         window.clearTimeout(this.wheelTimer);
-        if (this.wheelPullCount >= 2) {
-          this.wheelTimer = window.setTimeout(() => this.goToTopic(nextTopic.id), 260);
+        if (ready) {
+          this.wheelTimer = window.setTimeout(() => this.goToTopic(targetTopic.id), 260);
         } else {
           this.wheelTimer = window.setTimeout(() => {
-            this.wheelPullCount = 0;
-            this.resetPullHint(nextTopic);
-          }, 900);
+            this.wheelPull = { edge: null, count: 0, distance: 0 };
+            this.resetPullHint(edge, targetTopic);
+          }, wheelResetDelay);
         }
       }, { passive: true });
     };
@@ -392,48 +523,76 @@ const Learn = {
     bindPanel(wordList);
   },
 
+  isPanelAtTop(panel) {
+    return panel.scrollTop <= 6;
+  },
+
   isPanelAtBottom(panel) {
     return panel.scrollTop + panel.clientHeight >= panel.scrollHeight - 6;
   },
 
-  setPullHint(distance, threshold, nextTopic) {
-    const hints = this.getPullHints();
+  setPullHint(edge, distance, threshold, targetTopic) {
+    const hints = this.getPullHints(edge);
     if (!hints.length || distance <= 0) return;
     const progress = Math.min(distance / threshold, 1);
-    this.bottomPull.ready = distance >= threshold;
-    const text = this.bottomPull.ready
-      ? `释放进入 ${nextTopic.id} ${nextTopic.title}`
-      : `继续下滑进入 ${nextTopic.id} ${nextTopic.title}`;
+    this.edgePull.ready = distance >= threshold;
+    const text = this.edgePull.ready
+      ? `释放进入 ${targetTopic.id} ${targetTopic.title}`
+      : `${edge === 'top' ? '继续向上' : '继续下滑'}进入 ${targetTopic.id} ${targetTopic.title}`;
+    const direction = edge === 'top' ? -1 : 1;
     hints.forEach(hint => {
-      hint.style.transform = `translateY(${Math.min(distance * 0.28, 26)}px)`;
+      hint.style.transform = `translateY(${direction * Math.min(distance * 0.22, 30)}px)`;
       hint.style.opacity = `${0.55 + progress * 0.45}`;
-      hint.classList.toggle('ready', this.bottomPull.ready);
+      hint.classList.toggle('ready', this.edgePull.ready);
       hint.textContent = text;
     });
   },
 
-  finishBottomPull(nextTopic) {
-    if (!this.bottomPull.active) return;
-    if (this.bottomPull.ready) {
-      this.goToTopic(nextTopic.id);
+  finishEdgePull(prevTopic, nextTopic) {
+    if (!this.edgePull.active) return;
+    const edge = this.edgePull.edge;
+    const targetTopic = edge === 'top' ? prevTopic : nextTopic;
+    if (this.edgePull.ready && targetTopic) {
+      this.goToTopic(targetTopic.id);
       return;
     }
-    this.resetPullHint(nextTopic);
+    this.resetPullHint(edge, targetTopic);
   },
 
-  resetPullHint(nextTopic) {
-    this.bottomPull = { active: false, ready: false, startY: 0 };
-    this.wheelPullCount = 0;
-    this.getPullHints().forEach(hint => {
+  resetPullHint(edge, targetTopic) {
+    this.edgePull = { active: false, ready: false, startY: 0, edge: null };
+    this.wheelPull = { edge: null, count: 0, distance: 0 };
+    this.getPullHints(edge).forEach(hint => {
       hint.classList.remove('ready');
       hint.style.transform = '';
       hint.style.opacity = '';
-      hint.textContent = `继续下滑释放，进入 ${nextTopic.id} ${nextTopic.title}`;
+      hint.textContent = this.getPullDefaultText(edge, targetTopic);
     });
   },
 
-  getPullHints() {
-    return [document.getElementById('pullHint'), document.getElementById('wordPullHint')].filter(Boolean);
+  resetWheelHint(edge) {
+    const targetTopic = edge === 'top'
+      ? this.getAdjacentTopic(this.topicData.id, -1)
+      : this.getAdjacentTopic(this.topicData.id, 1);
+    this.getPullHints(edge).forEach(hint => {
+      hint.classList.remove('ready');
+      hint.style.opacity = '';
+      hint.textContent = this.getPullDefaultText(edge, targetTopic);
+    });
+  },
+
+  getPullDefaultText(edge, targetTopic) {
+    if (!targetTopic) return edge === 'top' ? '已经是第一章' : '已经读到最后一章';
+    return edge === 'top'
+      ? `在顶部继续向上滚动释放，进入 ${targetTopic.id} ${targetTopic.title}`
+      : `继续下滑释放，进入 ${targetTopic.id} ${targetTopic.title}`;
+  },
+
+  getPullHints(edge) {
+    const ids = edge === 'top'
+      ? ['pullTopHint', 'wordPullTopHint']
+      : ['pullHint', 'wordPullHint'];
+    return ids.map(id => document.getElementById(id)).filter(Boolean);
   },
 
   onWordClick(el, enText, wordId) {

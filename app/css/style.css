@@ -668,12 +668,21 @@ button {
   text-align: center;
 }
 
+.chapter-start,
 .chapter-end {
   max-width: 860px;
-  margin: 4px auto 26px;
   padding-bottom: 8px;
 }
 
+.chapter-start {
+  margin: 0 auto 22px;
+}
+
+.chapter-end {
+  margin: 4px auto 26px;
+}
+
+.top-pull-hint,
 .pull-hint {
   height: 34px;
   display: flex;
@@ -684,12 +693,15 @@ button {
   transition: transform 180ms ease, opacity 180ms ease, color 180ms ease;
 }
 
+.top-pull-hint.ready,
 .pull-hint.ready {
   color: var(--green);
   font-weight: 750;
 }
 
+.chapter-start-card,
 .chapter-end-card,
+.word-start,
 .word-end {
   border: 1px solid var(--line);
   border-radius: 14px;
@@ -697,12 +709,14 @@ button {
   box-shadow: var(--shadow-soft);
 }
 
+.chapter-start-card,
 .chapter-end-card {
   padding: 24px;
   text-align: center;
 }
 
 .end-kicker,
+.word-start span,
 .word-end span {
   color: var(--orange);
   font-size: 12px;
@@ -710,11 +724,13 @@ button {
   letter-spacing: 0.04em;
 }
 
+.chapter-start-card h2,
 .chapter-end-card h2 {
   margin: 8px 0 6px;
   font-size: 22px;
 }
 
+.chapter-start-card p,
 .chapter-end-card p {
   max-width: 420px;
   margin: 0 auto 18px;
@@ -857,16 +873,26 @@ button {
   padding: 8px 0 18px;
 }
 
+.word-start,
 .word-end {
-  margin: 14px 10px 22px;
   padding: 16px;
 }
 
+.word-start {
+  margin: 0 10px 14px;
+}
+
+.word-end {
+  margin: 14px 10px 22px;
+}
+
+.word-start strong,
 .word-end strong {
   display: block;
   margin-top: 5px;
 }
 
+.word-top-pull-hint,
 .word-pull-hint {
   display: block;
   margin-top: 8px;
@@ -875,6 +901,7 @@ button {
   transition: transform 180ms ease, opacity 180ms ease, color 180ms ease;
 }
 
+.word-top-pull-hint.ready,
 .word-pull-hint.ready {
   color: var(--green);
   font-weight: 750;
