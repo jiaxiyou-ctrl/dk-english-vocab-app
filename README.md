@@ -4,12 +4,14 @@
 
 它把图解页面、英文单词、中文释义和语音读音放在同一个学习界面里。看图建立印象，点词听发音，遮住中文快速自测。适合在电脑网页、iPad 或横屏设备上慢慢学习，也可以在手机上临时查词和短时间复习。
 
+如果你在找 English vocabulary、visual dictionary、picture dictionary、pronunciation practice、Chinese-English vocabulary 这类学习工具，它的方向会比较接近：用图片建立词义，用点读补上声音，用遮蔽中文做轻量复习。
+
 [在线体验](https://jiaxiyou-ctrl.github.io/dk-english-vocab-app/) · [查看源码](https://github.com/jiaxiyou-ctrl/dk-english-vocab-app)
 
 ## 效果预览
 
 <p align="center">
-  <img src="docs/images/preview-web.jpg" alt="Web 宽屏学习界面预览">
+  <img src="docs/images/preview-web.jpg" alt="英语图解词汇学习工具 Web 宽屏界面预览 visual dictionary picture vocabulary">
 </p>
 
 <p align="center">
@@ -17,11 +19,11 @@
 </p>
 
 <p align="center">
-  <img src="docs/images/preview-ipad.jpg" alt="iPad 横屏学习界面预览">
+  <img src="docs/images/learning-flow.jpg" alt="图解词汇学习方式：看图、点词、听发音、遮住中文自测">
 </p>
 
 <p align="center">
-  <em>iPad 横屏：更接近一本可以点读的电子图解词典。</em>
+  <em>学习方式：图片、单词、声音和轻量复习放在同一条学习线上。</em>
 </p>
 
 ## 为什么做这个
