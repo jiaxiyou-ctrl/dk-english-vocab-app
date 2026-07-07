@@ -1,0 +1,365 @@
+{
+  "id": "50",
+  "title": "应急服务",
+  "titleEn": "Emergency Services",
+  "category": "城市生活",
+  "pages": [
+    {
+      "pageNum": 110,
+      "image": "assets/images/page_111.jpg",
+      "section": "50.1",
+      "sectionTitle": "事故和紧急情况",
+      "sectionTitleEn": "Accidents and Emergencies",
+      "words": [
+        {
+          "id": 1,
+          "en": "paramedic",
+          "zh": "护理人员"
+        },
+        {
+          "id": 2,
+          "en": "headlights",
+          "zh": "前灯"
+        },
+        {
+          "id": 3,
+          "en": "emergency vehicle beacon",
+          "zh": "紧急车辆信号灯"
+        },
+        {
+          "id": 4,
+          "en": "first aid bag",
+          "zh": "急救包"
+        },
+        {
+          "id": 5,
+          "en": "ambulance",
+          "zh": "救护车"
+        },
+        {
+          "id": 6,
+          "en": "Battenburg markings",
+          "zh": "巴腾堡格纹"
+        },
+        {
+          "id": 7,
+          "en": "air ambulance",
+          "zh": "救护直升机"
+        },
+        {
+          "id": 8,
+          "en": "ambulance stretcher",
+          "zh": "救护车担架"
+        },
+        {
+          "id": 9,
+          "en": "pole stretcher",
+          "zh": "折叠担架"
+        },
+        {
+          "id": 10,
+          "en": "emergency department / A&E (UK)",
+          "zh": "急诊室"
+        },
+        {
+          "id": 11,
+          "en": "defibrillator",
+          "zh": "除颤器"
+        },
+        {
+          "id": 12,
+          "en": "oxygen mask",
+          "zh": "氧气面罩"
+        }
+      ]
+    },
+    {
+      "pageNum": 110,
+      "image": "assets/images/page_111.jpg",
+      "section": "50.2",
+      "sectionTitle": "消防队",
+      "sectionTitleEn": "Fire Department",
+      "words": [
+        {
+          "id": 13,
+          "en": "smoke alarm",
+          "zh": "烟雾报警器"
+        },
+        {
+          "id": 14,
+          "en": "fire alarm",
+          "zh": "火警报警器"
+        },
+        {
+          "id": 15,
+          "en": "fire escape",
+          "zh": "消防梯"
+        },
+        {
+          "id": 16,
+          "en": "fire station",
+          "zh": "消防站"
+        },
+        {
+          "id": 17,
+          "en": "compressed-air cylinder",
+          "zh": "压缩空气气瓶"
+        },
+        {
+          "id": 18,
+          "en": "fire extinguisher",
+          "zh": "灭火器"
+        },
+        {
+          "id": 19,
+          "en": "boom",
+          "zh": "吊架"
+        },
+        {
+          "id": 20,
+          "en": "cradle",
+          "zh": "吊架"
+        },
+        {
+          "id": 21,
+          "en": "water jet",
+          "zh": "水冲"
+        },
+        {
+          "id": 22,
+          "en": "ladder",
+          "zh": "梯子"
+        },
+        {
+          "id": 23,
+          "en": "smoke",
+          "zh": "烟"
+        },
+        {
+          "id": 24,
+          "en": "fire",
+          "zh": "火"
+        },
+        {
+          "id": 25,
+          "en": "hydrant",
+          "zh": "消防栓"
+        },
+        {
+          "id": 26,
+          "en": "roof ladder",
+          "zh": "车顶梯"
+        },
+        {
+          "id": 27,
+          "en": "fighters",
+          "zh": "消防员"
+        },
+        {
+          "id": 28,
+          "en": "ax (US) / axe (UK)",
+          "zh": "斧子"
+        },
+        {
+          "id": 29,
+          "en": "hose",
+          "zh": "软管"
+        },
+        {
+          "id": 30,
+          "en": "cab",
+          "zh": "驾驶室"
+        },
+        {
+          "id": 31,
+          "en": "fire engine",
+          "zh": "消防车"
+        }
+      ]
+    },
+    {
+      "pageNum": 111,
+      "image": "assets/images/page_112.jpg",
+      "section": "50.3",
+      "sectionTitle": "警察",
+      "sectionTitleEn": "Police",
+      "words": [
+        {
+          "id": 32,
+          "en": "radar speed gun",
+          "zh": "雷达测速器"
+        },
+        {
+          "id": 33,
+          "en": "breathalyzer",
+          "zh": "酒精测试仪"
+        },
+        {
+          "id": 34,
+          "en": "walkie-talkie",
+          "zh": "对讲机"
+        },
+        {
+          "id": 35,
+          "en": "police dog",
+          "zh": "警犬"
+        },
+        {
+          "id": 36,
+          "en": "complaint",
+          "zh": "投诉"
+        },
+        {
+          "id": 37,
+          "en": "police station",
+          "zh": "警察局"
+        },
+        {
+          "id": 38,
+          "en": "police cell",
+          "zh": "警察局拘留室"
+        },
+        {
+          "id": 39,
+          "en": "interrogation room",
+          "zh": "审讯室"
+        },
+        {
+          "id": 40,
+          "en": "detective",
+          "zh": "侦探"
+        },
+        {
+          "id": 41,
+          "en": "inspector",
+          "zh": "督察员"
+        },
+        {
+          "id": 42,
+          "en": "fingerprint",
+          "zh": "指纹"
+        },
+        {
+          "id": 43,
+          "en": "charge",
+          "zh": "指控"
+        },
+        {
+          "id": 44,
+          "en": "police officer",
+          "zh": "警官"
+        },
+        {
+          "id": 45,
+          "en": "police hat",
+          "zh": "警帽"
+        },
+        {
+          "id": 46,
+          "en": "uniform",
+          "zh": "警服"
+        },
+        {
+          "id": 47,
+          "en": "badge",
+          "zh": "警徽"
+        },
+        {
+          "id": 48,
+          "en": "duty belt",
+          "zh": "执勤腰带"
+        },
+        {
+          "id": 49,
+          "en": "baton (US) / truncheon (UK)",
+          "zh": "警棍"
+        },
+        {
+          "id": 50,
+          "en": "police bike",
+          "zh": "警用摩托车"
+        },
+        {
+          "id": 51,
+          "en": "motorcycle police officer",
+          "zh": "摩托车警员"
+        },
+        {
+          "id": 52,
+          "en": "helmet",
+          "zh": "头盔"
+        },
+        {
+          "id": 53,
+          "en": "megaphone",
+          "zh": "扩音器"
+        },
+        {
+          "id": 54,
+          "en": "lights",
+          "zh": "警灯"
+        },
+        {
+          "id": 55,
+          "en": "police car",
+          "zh": "警车"
+        },
+        {
+          "id": 56,
+          "en": "robbery",
+          "zh": "抢劫"
+        },
+        {
+          "id": 57,
+          "en": "alarm",
+          "zh": "警报"
+        },
+        {
+          "id": 58,
+          "en": "break in",
+          "zh": "非法闯入"
+        },
+        {
+          "id": 59,
+          "en": "robbers",
+          "zh": "强盗"
+        },
+        {
+          "id": 60,
+          "en": "crime scene",
+          "zh": "犯罪现场"
+        },
+        {
+          "id": 61,
+          "en": "investigation",
+          "zh": "调查"
+        },
+        {
+          "id": 62,
+          "en": "evidence",
+          "zh": "证据"
+        },
+        {
+          "id": 63,
+          "en": "radio",
+          "zh": "无线电"
+        },
+        {
+          "id": 64,
+          "en": "suspect",
+          "zh": "犯罪嫌疑人"
+        },
+        {
+          "id": 65,
+          "en": "arrest",
+          "zh": "逮捕"
+        },
+        {
+          "id": 66,
+          "en": "handcuffs",
+          "zh": "手铐"
+        }
+      ]
+    }
+  ]
+}

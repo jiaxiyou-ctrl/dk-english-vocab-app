@@ -1,0 +1,301 @@
+{
+  "id": "44",
+  "title": "建筑",
+  "titleEn": "Architecture",
+  "category": "城市生活",
+  "pages": [
+    {
+      "pageNum": 98,
+      "image": "assets/images/page_99.jpg",
+      "section": "44.1",
+      "sectionTitle": "建筑类型",
+      "sectionTitleEn": "Types of Buildings",
+      "words": [
+        {
+          "id": 1,
+          "en": "castle",
+          "zh": "城堡"
+        },
+        {
+          "id": 2,
+          "en": "drawbridge",
+          "zh": "吊桥"
+        },
+        {
+          "id": 3,
+          "en": "portcullis",
+          "zh": "吊闸"
+        },
+        {
+          "id": 4,
+          "en": "wall",
+          "zh": "墙"
+        },
+        {
+          "id": 5,
+          "en": "arrow slit",
+          "zh": "射箭缝"
+        },
+        {
+          "id": 6,
+          "en": "keep",
+          "zh": "城堡主楼"
+        },
+        {
+          "id": 7,
+          "en": "turret",
+          "zh": "角楼"
+        },
+        {
+          "id": 8,
+          "en": "battlement",
+          "zh": "城垛"
+        },
+        {
+          "id": 9,
+          "en": "moat",
+          "zh": "护城河"
+        },
+        {
+          "id": 10,
+          "en": "ancient Greek temple",
+          "zh": "古希腊神庙"
+        },
+        {
+          "id": 11,
+          "en": "pediment",
+          "zh": "三角楣"
+        },
+        {
+          "id": 12,
+          "en": "column",
+          "zh": "圆柱"
+        },
+        {
+          "id": 13,
+          "en": "church",
+          "zh": "教堂"
+        },
+        {
+          "id": 14,
+          "en": "stained glass window",
+          "zh": "彩绘玻璃窗"
+        },
+        {
+          "id": 15,
+          "en": "bell tower",
+          "zh": "钟楼"
+        },
+        {
+          "id": 16,
+          "en": "ziggurat",
+          "zh": "庙塔"
+        },
+        {
+          "id": 17,
+          "en": "windmill",
+          "zh": "风车"
+        },
+        {
+          "id": 18,
+          "en": "warehouse",
+          "zh": "仓库"
+        },
+        {
+          "id": 19,
+          "en": "shelter",
+          "zh": "庇护棚"
+        },
+        {
+          "id": 20,
+          "en": "monastery",
+          "zh": "修道院"
+        },
+        {
+          "id": 21,
+          "en": "ancient ruins",
+          "zh": "古代遗迹"
+        },
+        {
+          "id": 22,
+          "en": "abandoned building (US) / derelict building (UK)",
+          "zh": "废弃建筑"
+        },
+        {
+          "id": 23,
+          "en": "lighthouse",
+          "zh": "灯塔"
+        },
+        {
+          "id": 24,
+          "en": "power station",
+          "zh": "发电厂"
+        },
+        {
+          "id": 25,
+          "en": "modern building",
+          "zh": "现代建筑"
+        },
+        {
+          "id": 26,
+          "en": "historic building",
+          "zh": "历史建筑"
+        },
+        {
+          "id": 27,
+          "en": "residential buildings",
+          "zh": "住宅楼"
+        },
+        {
+          "id": 28,
+          "en": "mosque",
+          "zh": "清真寺"
+        },
+        {
+          "id": 29,
+          "en": "dome",
+          "zh": "圆顶"
+        },
+        {
+          "id": 30,
+          "en": "minaret",
+          "zh": "宣礼塔"
+        },
+        {
+          "id": 31,
+          "en": "orthodox church",
+          "zh": "东正教堂"
+        },
+        {
+          "id": 32,
+          "en": "onion dome",
+          "zh": "洋葱头穹顶"
+        },
+        {
+          "id": 33,
+          "en": "temple",
+          "zh": "庙宇"
+        },
+        {
+          "id": 34,
+          "en": "overhanging eaves",
+          "zh": "挑檐"
+        },
+        {
+          "id": 35,
+          "en": "synagogue",
+          "zh": "犹太教堂"
+        },
+        {
+          "id": 36,
+          "en": "star of David",
+          "zh": "大卫之星"
+        }
+      ]
+    },
+    {
+      "pageNum": 99,
+      "image": "assets/images/page_100.jpg",
+      "section": "44.2",
+      "sectionTitle": "著名建筑和历史遗迹",
+      "sectionTitleEn": "Famous Buildings and Historic Sites",
+      "words": [
+        {
+          "id": 37,
+          "en": "the Colosseum",
+          "zh": "罗马斗兽场"
+        },
+        {
+          "id": 38,
+          "en": "arch",
+          "zh": "拱门"
+        },
+        {
+          "id": 39,
+          "en": "the pyramids of Giza",
+          "zh": "吉萨金字塔群"
+        },
+        {
+          "id": 40,
+          "en": "the Great Mosque of Djenné",
+          "zh": "杰内大清真寺"
+        },
+        {
+          "id": 41,
+          "en": "qibla prayer wall",
+          "zh": "面向麦加的祈祷墙"
+        },
+        {
+          "id": 42,
+          "en": "tower",
+          "zh": "塔"
+        },
+        {
+          "id": 43,
+          "en": "the White House",
+          "zh": "白宫"
+        },
+        {
+          "id": 44,
+          "en": "the Taj Mahal",
+          "zh": "泰姬陵"
+        },
+        {
+          "id": 45,
+          "en": "the Forbidden City",
+          "zh": "紫禁城"
+        },
+        {
+          "id": 46,
+          "en": "St. Basil's cathedral",
+          "zh": "圣瓦西里大教堂"
+        },
+        {
+          "id": 47,
+          "en": "Sydney Opera House",
+          "zh": "悉尼歌剧院"
+        },
+        {
+          "id": 48,
+          "en": "Himeji Castle",
+          "zh": "姬路城"
+        },
+        {
+          "id": 49,
+          "en": "Big Ben",
+          "zh": "大本钟"
+        },
+        {
+          "id": 50,
+          "en": "clock",
+          "zh": "钟"
+        },
+        {
+          "id": 51,
+          "en": "the Leaning Tower of Pisa",
+          "zh": "比萨斜塔"
+        },
+        {
+          "id": 52,
+          "en": "the Eiffel Tower",
+          "zh": "埃菲尔铁塔"
+        },
+        {
+          "id": 53,
+          "en": "viewing platform",
+          "zh": "观景台"
+        },
+        {
+          "id": 54,
+          "en": "the Empire State Building",
+          "zh": "帝国大厦"
+        },
+        {
+          "id": 55,
+          "en": "Burj Khalifa",
+          "zh": "哈利法塔"
+        }
+      ]
+    }
+  ]
+}

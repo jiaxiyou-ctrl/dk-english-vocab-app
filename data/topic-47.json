@@ -1,0 +1,306 @@
+{
+  "id": "47",
+  "title": "商城",
+  "titleEn": "Shopping Mall",
+  "category": "城市生活",
+  "pages": [
+    {
+      "pageNum": 104,
+      "image": "assets/images/page_105.jpg",
+      "section": "47.1",
+      "sectionTitle": "购物中心",
+      "sectionTitleEn": "Shopping Center",
+      "words": [
+        {
+          "id": 1,
+          "en": "upper level",
+          "zh": "上层"
+        },
+        {
+          "id": 2,
+          "en": "fashion store",
+          "zh": "时尚商店"
+        },
+        {
+          "id": 3,
+          "en": "bag store",
+          "zh": "箱包店"
+        },
+        {
+          "id": 4,
+          "en": "restroom (US) / toilets (UK)",
+          "zh": "洗手间"
+        },
+        {
+          "id": 5,
+          "en": "I hope there's a sale on.",
+          "zh": "我希望有促销。"
+        },
+        {
+          "id": 6,
+          "en": "middle level",
+          "zh": "中层"
+        },
+        {
+          "id": 7,
+          "en": "escalator",
+          "zh": "自动扶梯"
+        },
+        {
+          "id": 8,
+          "en": "hair salon",
+          "zh": "美发店"
+        },
+        {
+          "id": 9,
+          "en": "fast food",
+          "zh": "快餐店"
+        },
+        {
+          "id": 10,
+          "en": "health food store",
+          "zh": "健康食品店"
+        },
+        {
+          "id": 11,
+          "en": "seating",
+          "zh": "座位"
+        },
+        {
+          "id": 12,
+          "en": "ground level",
+          "zh": "地面"
+        },
+        {
+          "id": 13,
+          "en": "shopping bag (US) / carrier bag (UK)",
+          "zh": "手提袋"
+        },
+        {
+          "id": 14,
+          "en": "sale sign",
+          "zh": "打折标志"
+        },
+        {
+          "id": 15,
+          "en": "shopper",
+          "zh": "顾客"
+        },
+        {
+          "id": 16,
+          "en": "shopping mall (US) / shopping centre (UK)",
+          "zh": "购物中心"
+        },
+        {
+          "id": 17,
+          "en": "first floor (US) / ground floor (UK)",
+          "zh": "一楼"
+        },
+        {
+          "id": 18,
+          "en": "second floor (US) / first floor (UK)",
+          "zh": "二楼"
+        },
+        {
+          "id": 19,
+          "en": "basement parking",
+          "zh": "地下停车场"
+        },
+        {
+          "id": 20,
+          "en": "department store",
+          "zh": "百货公司"
+        },
+        {
+          "id": 21,
+          "en": "elevator (US) / lift (UK)",
+          "zh": "电梯"
+        },
+        {
+          "id": 22,
+          "en": "upscale (US) / upmarket (UK)",
+          "zh": "高档的"
+        },
+        {
+          "id": 23,
+          "en": "guarantee",
+          "zh": "保修单"
+        }
+      ]
+    },
+    {
+      "pageNum": 105,
+      "image": "assets/images/page_106.jpg",
+      "section": "47.2",
+      "sectionTitle": "花摊",
+      "sectionTitleEn": "Flower Stall",
+      "words": [
+        {
+          "id": 24,
+          "en": "changing rooms",
+          "zh": "更衣室"
+        },
+        {
+          "id": 25,
+          "en": "womenswear",
+          "zh": "女装"
+        },
+        {
+          "id": 26,
+          "en": "menswear",
+          "zh": "男装"
+        },
+        {
+          "id": 27,
+          "en": "baby changing facilities",
+          "zh": "婴儿换衣间"
+        },
+        {
+          "id": 28,
+          "en": "children's department",
+          "zh": "儿童区"
+        },
+        {
+          "id": 29,
+          "en": "designer labels",
+          "zh": "设计师标签"
+        },
+        {
+          "id": 30,
+          "en": "sale",
+          "zh": "特价出售"
+        },
+        {
+          "id": 31,
+          "en": "lingerie",
+          "zh": "内衣"
+        },
+        {
+          "id": 32,
+          "en": "home furnishings",
+          "zh": "家居用品"
+        },
+        {
+          "id": 33,
+          "en": "price tag",
+          "zh": "价格标签"
+        },
+        {
+          "id": 34,
+          "en": "lighting",
+          "zh": "照明"
+        },
+        {
+          "id": 35,
+          "en": "electrical appliances",
+          "zh": "电器"
+        },
+        {
+          "id": 36,
+          "en": "loyalty card",
+          "zh": "积分卡"
+        },
+        {
+          "id": 37,
+          "en": "DIY (do it yourself)",
+          "zh": "自制"
+        },
+        {
+          "id": 38,
+          "en": "beauty",
+          "zh": "美容品"
+        },
+        {
+          "id": 39,
+          "en": "customer service",
+          "zh": "客户服务"
+        },
+        {
+          "id": 40,
+          "en": "cosmetics (US) / perfumery (UK)",
+          "zh": "化妆品"
+        },
+        {
+          "id": 41,
+          "en": "food court",
+          "zh": "美食广场"
+        },
+        {
+          "id": 42,
+          "en": "stall / kiosk",
+          "zh": "花摊"
+        },
+        {
+          "id": 43,
+          "en": "florist",
+          "zh": "花商"
+        },
+        {
+          "id": 44,
+          "en": "garland",
+          "zh": "花环"
+        },
+        {
+          "id": 45,
+          "en": "bunch",
+          "zh": "束"
+        },
+        {
+          "id": 46,
+          "en": "gladiolus",
+          "zh": "剑兰"
+        },
+        {
+          "id": 47,
+          "en": "pot plant",
+          "zh": "盆栽植物"
+        },
+        {
+          "id": 48,
+          "en": "foliage",
+          "zh": "叶子"
+        },
+        {
+          "id": 49,
+          "en": "gerbera",
+          "zh": "非洲菊"
+        },
+        {
+          "id": 50,
+          "en": "peony",
+          "zh": "牡丹"
+        },
+        {
+          "id": 51,
+          "en": "gypsophila",
+          "zh": "满天星"
+        },
+        {
+          "id": 52,
+          "en": "bouquet",
+          "zh": "花束"
+        },
+        {
+          "id": 53,
+          "en": "acacia",
+          "zh": "金合欢"
+        },
+        {
+          "id": 54,
+          "en": "orchid",
+          "zh": "兰花"
+        },
+        {
+          "id": 55,
+          "en": "stocks",
+          "zh": "紫罗兰"
+        },
+        {
+          "id": 56,
+          "en": "freesia",
+          "zh": "小苍兰"
+        }
+      ]
+    }
+  ]
+}

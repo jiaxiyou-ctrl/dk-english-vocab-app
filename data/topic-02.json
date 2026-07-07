@@ -1,0 +1,274 @@
+{
+  "id": "02",
+  "title": "手和脚",
+  "titleEn": "Hands and Feet",
+  "category": "人",
+  "pages": [
+    {
+      "pageNum": 14,
+      "image": "assets/images/page_15.jpg",
+      "section": "2.1",
+      "sectionTitle": "手",
+      "sectionTitleEn": "The Hand",
+      "words": [
+        {
+          "id": 1,
+          "en": "palm",
+          "zh": "手掌"
+        },
+        {
+          "id": 2,
+          "en": "thumb",
+          "zh": "拇指"
+        },
+        {
+          "id": 3,
+          "en": "index finger",
+          "zh": "食指"
+        },
+        {
+          "id": 4,
+          "en": "middle finger",
+          "zh": "中指"
+        },
+        {
+          "id": 5,
+          "en": "ring finger",
+          "zh": "无名指"
+        },
+        {
+          "id": 6,
+          "en": "little finger",
+          "zh": "小指"
+        },
+        {
+          "id": 7,
+          "en": "wrist",
+          "zh": "手腕"
+        },
+        {
+          "id": 8,
+          "en": "fingernail",
+          "zh": "指甲"
+        },
+        {
+          "id": 9,
+          "en": "cuticle",
+          "zh": "角质层"
+        },
+        {
+          "id": 10,
+          "en": "knuckle",
+          "zh": "指关节"
+        },
+        {
+          "id": 11,
+          "en": "fist",
+          "zh": "拳头"
+        }
+      ]
+    },
+    {
+      "pageNum": 14,
+      "image": "assets/images/page_15.jpg",
+      "section": "2.2",
+      "sectionTitle": "与身体有关的动词",
+      "sectionTitleEn": "Body Verbs",
+      "words": [
+        {
+          "id": 12,
+          "en": "to smile",
+          "zh": "微笑"
+        },
+        {
+          "id": 13,
+          "en": "to grin",
+          "zh": "咧嘴笑"
+        },
+        {
+          "id": 14,
+          "en": "to frown",
+          "zh": "皱眉"
+        },
+        {
+          "id": 15,
+          "en": "to wink",
+          "zh": "眨眼示意"
+        },
+        {
+          "id": 16,
+          "en": "to blink",
+          "zh": "眨眼"
+        },
+        {
+          "id": 17,
+          "en": "to blush",
+          "zh": "脸红"
+        },
+        {
+          "id": 18,
+          "en": "to yawn",
+          "zh": "打哈欠"
+        },
+        {
+          "id": 19,
+          "en": "to snore",
+          "zh": "打呼噜"
+        },
+        {
+          "id": 20,
+          "en": "to lick",
+          "zh": "舔"
+        },
+        {
+          "id": 21,
+          "en": "to suck",
+          "zh": "吸"
+        },
+        {
+          "id": 22,
+          "en": "to breathe",
+          "zh": "呼吸"
+        },
+        {
+          "id": 23,
+          "en": "to hold your breath",
+          "zh": "屏住呼吸"
+        }
+      ]
+    },
+    {
+      "pageNum": 15,
+      "image": "assets/images/page_16.jpg",
+      "section": "2.3",
+      "sectionTitle": "脚",
+      "sectionTitleEn": "The Foot",
+      "words": [
+        {
+          "id": 24,
+          "en": "sole",
+          "zh": "足底"
+        },
+        {
+          "id": 25,
+          "en": "little toe",
+          "zh": "小脚趾"
+        },
+        {
+          "id": 26,
+          "en": "big toe",
+          "zh": "大脚趾"
+        },
+        {
+          "id": 27,
+          "en": "ankle",
+          "zh": "脚踝"
+        },
+        {
+          "id": 28,
+          "en": "bridge",
+          "zh": "足背"
+        },
+        {
+          "id": 29,
+          "en": "instep",
+          "zh": "脚背"
+        },
+        {
+          "id": 30,
+          "en": "toenail",
+          "zh": "脚指甲"
+        },
+        {
+          "id": 31,
+          "en": "toe",
+          "zh": "脚趾"
+        },
+        {
+          "id": 32,
+          "en": "ball",
+          "zh": "大脚趾球"
+        },
+        {
+          "id": 33,
+          "en": "arch",
+          "zh": "足弓"
+        },
+        {
+          "id": 34,
+          "en": "heel",
+          "zh": "脚后跟"
+        }
+      ]
+    },
+    {
+      "pageNum": 15,
+      "image": "assets/images/page_16.jpg",
+      "section": "2.2",
+      "sectionTitle": "与身体有关的动词",
+      "sectionTitleEn": "Body Verbs",
+      "words": [
+        {
+          "id": 35,
+          "en": "to laugh",
+          "zh": "笑"
+        },
+        {
+          "id": 36,
+          "en": "to cry",
+          "zh": "哭泣"
+        },
+        {
+          "id": 37,
+          "en": "to sigh",
+          "zh": "叹气"
+        },
+        {
+          "id": 38,
+          "en": "to wave",
+          "zh": "挥手"
+        },
+        {
+          "id": 39,
+          "en": "to shrug",
+          "zh": "耸肩"
+        },
+        {
+          "id": 40,
+          "en": "to bow",
+          "zh": "鞠躬"
+        },
+        {
+          "id": 41,
+          "en": "to clap",
+          "zh": "鼓掌"
+        },
+        {
+          "id": 42,
+          "en": "to sweat / to perspire",
+          "zh": "出汗"
+        },
+        {
+          "id": 43,
+          "en": "to shiver",
+          "zh": "颤抖"
+        },
+        {
+          "id": 44,
+          "en": "to sneeze",
+          "zh": "打喷嚏"
+        },
+        {
+          "id": 45,
+          "en": "to shake your head",
+          "zh": "摇头"
+        },
+        {
+          "id": 46,
+          "en": "to nod",
+          "zh": "点头"
+        }
+      ]
+    }
+  ]
+}

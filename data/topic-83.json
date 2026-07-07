@@ -1,0 +1,346 @@
+{
+  "id": "83",
+  "title": "电子计算机和科技",
+  "titleEn": "Computers and Technology",
+  "category": "工作",
+  "pages": [
+    {
+      "pageNum": 174,
+      "image": "assets/images/page_175.jpg",
+      "section": "83.1",
+      "sectionTitle": "设备和科技",
+      "sectionTitleEn": "Devices and Technology",
+      "words": [
+        {
+          "id": 1,
+          "en": "screen",
+          "zh": "屏幕"
+        },
+        {
+          "id": 2,
+          "en": "webcam",
+          "zh": "摄像头"
+        },
+        {
+          "id": 3,
+          "en": "router",
+          "zh": "路由器"
+        },
+        {
+          "id": 4,
+          "en": "wi-fi",
+          "zh": "无线热点"
+        },
+        {
+          "id": 5,
+          "en": "e-reader",
+          "zh": "电子阅读器"
+        },
+        {
+          "id": 6,
+          "en": "tablet",
+          "zh": "平板"
+        },
+        {
+          "id": 7,
+          "en": "wire",
+          "zh": "电线"
+        },
+        {
+          "id": 8,
+          "en": "mouse",
+          "zh": "鼠标"
+        },
+        {
+          "id": 9,
+          "en": "computer desk",
+          "zh": "电脑桌"
+        },
+        {
+          "id": 10,
+          "en": "keyboard",
+          "zh": "键盘"
+        },
+        {
+          "id": 11,
+          "en": "mouse pad (US) / mouse mat (UK)",
+          "zh": "鼠标垫"
+        },
+        {
+          "id": 12,
+          "en": "desktop computer",
+          "zh": "台式电脑"
+        },
+        {
+          "id": 13,
+          "en": "laptop",
+          "zh": "笔记本电脑"
+        },
+        {
+          "id": 14,
+          "en": "camera",
+          "zh": "照相机"
+        },
+        {
+          "id": 15,
+          "en": "smartwatch",
+          "zh": "智能手表"
+        },
+        {
+          "id": 16,
+          "en": "solar charger",
+          "zh": "太阳能充电器"
+        },
+        {
+          "id": 17,
+          "en": "smartphone",
+          "zh": "智能手机"
+        },
+        {
+          "id": 18,
+          "en": "home button",
+          "zh": "主页按钮"
+        },
+        {
+          "id": 19,
+          "en": "charging cable",
+          "zh": "充电线"
+        },
+        {
+          "id": 20,
+          "en": "speakers",
+          "zh": "扬声器"
+        },
+        {
+          "id": 21,
+          "en": "camcorder",
+          "zh": "录像机"
+        },
+        {
+          "id": 22,
+          "en": "wireless",
+          "zh": "无线"
+        },
+        {
+          "id": 23,
+          "en": "bluetooth headset",
+          "zh": "蓝牙耳机"
+        },
+        {
+          "id": 24,
+          "en": "battery",
+          "zh": "电池"
+        },
+        {
+          "id": 25,
+          "en": "usb drive",
+          "zh": "U盘"
+        },
+        {
+          "id": 26,
+          "en": "voice recorder",
+          "zh": "录音笔"
+        },
+        {
+          "id": 27,
+          "en": "password",
+          "zh": "密码"
+        },
+        {
+          "id": 28,
+          "en": "memory card",
+          "zh": "存储卡"
+        },
+        {
+          "id": 29,
+          "en": "hard drive",
+          "zh": "硬盘"
+        },
+        {
+          "id": 30,
+          "en": "plug",
+          "zh": "插头"
+        },
+        {
+          "id": 31,
+          "en": "power cord (US) / power lead (UK)",
+          "zh": "电源线"
+        },
+        {
+          "id": 32,
+          "en": "circuit",
+          "zh": "电路"
+        },
+        {
+          "id": 33,
+          "en": "remote control",
+          "zh": "遥控器"
+        },
+        {
+          "id": 34,
+          "en": "artificial intelligence",
+          "zh": "人工智能"
+        }
+      ]
+    },
+    {
+      "pageNum": 175,
+      "image": "assets/images/page_176.jpg",
+      "section": "83.2",
+      "sectionTitle": "线上交流",
+      "sectionTitleEn": "Online Communication",
+      "words": [
+        {
+          "id": 35,
+          "en": "to turn on",
+          "zh": "打开"
+        },
+        {
+          "id": 36,
+          "en": "to turn off",
+          "zh": "关闭"
+        },
+        {
+          "id": 37,
+          "en": "to log in",
+          "zh": "登录"
+        },
+        {
+          "id": 38,
+          "en": "to log out",
+          "zh": "登出"
+        },
+        {
+          "id": 39,
+          "en": "to download",
+          "zh": "下载"
+        },
+        {
+          "id": 40,
+          "en": "to upload",
+          "zh": "上传"
+        },
+        {
+          "id": 41,
+          "en": "to back up",
+          "zh": "备份"
+        },
+        {
+          "id": 42,
+          "en": "to click",
+          "zh": "单击"
+        },
+        {
+          "id": 43,
+          "en": "to plug in",
+          "zh": "插入"
+        },
+        {
+          "id": 44,
+          "en": "to delete",
+          "zh": "删除"
+        },
+        {
+          "id": 45,
+          "en": "to print",
+          "zh": "打印"
+        },
+        {
+          "id": 46,
+          "en": "contact",
+          "zh": "联系方式"
+        },
+        {
+          "id": 47,
+          "en": "email",
+          "zh": "电子邮件"
+        },
+        {
+          "id": 48,
+          "en": "to reply",
+          "zh": "回复"
+        },
+        {
+          "id": 49,
+          "en": "to reply to all",
+          "zh": "回复全部"
+        },
+        {
+          "id": 50,
+          "en": "to send",
+          "zh": "发送"
+        },
+        {
+          "id": 51,
+          "en": "to forward",
+          "zh": "转发"
+        },
+        {
+          "id": 52,
+          "en": "draft",
+          "zh": "草稿"
+        },
+        {
+          "id": 53,
+          "en": "inbox",
+          "zh": "收件箱"
+        },
+        {
+          "id": 54,
+          "en": "outbox",
+          "zh": "发件箱"
+        },
+        {
+          "id": 55,
+          "en": "subject",
+          "zh": "主题"
+        },
+        {
+          "id": 56,
+          "en": "junk mail / spam",
+          "zh": "垃圾邮件"
+        },
+        {
+          "id": 57,
+          "en": "trash",
+          "zh": "垃圾箱"
+        },
+        {
+          "id": 58,
+          "en": "attachment",
+          "zh": "附件"
+        },
+        {
+          "id": 59,
+          "en": "chat",
+          "zh": "聊天"
+        },
+        {
+          "id": 60,
+          "en": "video chat",
+          "zh": "视频聊天"
+        },
+        {
+          "id": 61,
+          "en": "signature",
+          "zh": "签名"
+        },
+        {
+          "id": 62,
+          "en": "hashtag",
+          "zh": "主题标签"
+        },
+        {
+          "id": 63,
+          "en": "at sign / at symbol",
+          "zh": "@符号"
+        },
+        {
+          "id": 64,
+          "en": "video conference",
+          "zh": "视频会议"
+        }
+      ]
+    }
+  ]
+}

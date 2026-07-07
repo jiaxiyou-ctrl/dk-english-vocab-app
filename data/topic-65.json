@@ -1,0 +1,284 @@
+{
+  "id": "65",
+  "title": "咖啡厅1",
+  "titleEn": "Cafe 1",
+  "category": "食物",
+  "pages": [
+    {
+      "pageNum": 140,
+      "image": "assets/images/page_141.jpg",
+      "section": "65.1",
+      "sectionTitle": "咖啡厅",
+      "sectionTitleEn": "The Cafe",
+      "words": [
+        {
+          "id": 1,
+          "en": "awning",
+          "zh": "遮阳篷"
+        },
+        {
+          "id": 3,
+          "en": "to serve",
+          "zh": "上餐"
+        },
+        {
+          "id": 4,
+          "en": "server (US) / waitress (UK)",
+          "zh": "服务员"
+        },
+        {
+          "id": 5,
+          "en": "double espresso",
+          "zh": "双倍浓缩咖啡"
+        },
+        {
+          "id": 6,
+          "en": "espresso",
+          "zh": "浓缩咖啡"
+        },
+        {
+          "id": 7,
+          "en": "cortado",
+          "zh": "可塔朵咖啡"
+        },
+        {
+          "id": 8,
+          "en": "iced coffee",
+          "zh": "冰咖啡"
+        },
+        {
+          "id": 9,
+          "en": "white coffee",
+          "zh": "牛奶咖啡"
+        },
+        {
+          "id": 10,
+          "en": "flat white",
+          "zh": "澳白咖啡"
+        },
+        {
+          "id": 17,
+          "en": "table",
+          "zh": "桌子"
+        },
+        {
+          "id": 18,
+          "en": "stool",
+          "zh": "凳子"
+        },
+        {
+          "id": 19,
+          "en": "sidewalk (US) / pavement (UK)",
+          "zh": "人行道"
+        },
+        {
+          "id": 20,
+          "en": "filter coffee",
+          "zh": "滴滤咖啡"
+        },
+        {
+          "id": 21,
+          "en": "milk",
+          "zh": "牛奶"
+        },
+        {
+          "id": 22,
+          "en": "cappuccino",
+          "zh": "卡布奇诺"
+        },
+        {
+          "id": 23,
+          "en": "froth",
+          "zh": "奶泡"
+        },
+        {
+          "id": 24,
+          "en": "coffee",
+          "zh": "咖啡"
+        }
+      ]
+    },
+    {
+      "pageNum": 140,
+      "image": "assets/images/page_141.jpg",
+      "section": "65.2",
+      "sectionTitle": "果汁和奶昔",
+      "sectionTitleEn": "Juices and Smoothies",
+      "words": [
+        {
+          "id": 25,
+          "en": "blender",
+          "zh": "搅拌机"
+        },
+        {
+          "id": 26,
+          "en": "coconut water",
+          "zh": "椰子水"
+        },
+        {
+          "id": 27,
+          "en": "orange juice with pulp",
+          "zh": "含果肉橙汁"
+        },
+        {
+          "id": 28,
+          "en": "smooth orange juice",
+          "zh": "无果肉橙汁"
+        },
+        {
+          "id": 29,
+          "en": "apple juice",
+          "zh": "苹果汁"
+        },
+        {
+          "id": 30,
+          "en": "pineapple juice",
+          "zh": "菠萝汁"
+        },
+        {
+          "id": 31,
+          "en": "tomato juice",
+          "zh": "番茄汁"
+        },
+        {
+          "id": 32,
+          "en": "mango juice",
+          "zh": "芒果汁"
+        },
+        {
+          "id": 33,
+          "en": "cranberry juice",
+          "zh": "蔓越莓汁"
+        },
+        {
+          "id": 34,
+          "en": "strawberry smoothie",
+          "zh": "草莓思慕雪"
+        },
+        {
+          "id": 35,
+          "en": "chocolate milkshake",
+          "zh": "巧克力奶昔"
+        },
+        {
+          "id": 36,
+          "en": "strawberry milkshake",
+          "zh": "草莓奶昔"
+        }
+      ]
+    },
+    {
+      "pageNum": 141,
+      "image": "assets/images/page_142.jpg",
+      "section": "65.1",
+      "sectionTitle": "咖啡厅",
+      "sectionTitleEn": "The Cafe",
+      "words": [
+        {
+          "id": 11,
+          "en": "menu",
+          "zh": "菜单"
+        },
+        {
+          "id": 12,
+          "en": "barista",
+          "zh": "咖啡师"
+        },
+        {
+          "id": 14,
+          "en": "cocoa powder",
+          "zh": "可可粉"
+        },
+        {
+          "id": 15,
+          "en": "Irish coffee",
+          "zh": "爱尔兰咖啡"
+        },
+        {
+          "id": 16,
+          "en": "parasol",
+          "zh": "太阳伞"
+        },
+        {
+          "id": 25,
+          "en": "coffee machine",
+          "zh": "咖啡机"
+        },
+        {
+          "id": 26,
+          "en": "customer",
+          "zh": "顾客"
+        },
+        {
+          "id": 27,
+          "en": "black coffee",
+          "zh": "黑咖啡"
+        },
+        {
+          "id": 28,
+          "en": "terrace",
+          "zh": "露台"
+        },
+        {
+          "id": 29,
+          "en": "railing",
+          "zh": "栏杆"
+        }
+      ]
+    },
+    {
+      "pageNum": 141,
+      "image": "assets/images/page_142.jpg",
+      "section": "65.3",
+      "sectionTitle": "食物和零食",
+      "sectionTitleEn": "Food and Snacks",
+      "words": [
+        {
+          "id": 37,
+          "en": "sandwich",
+          "zh": "三明治"
+        },
+        {
+          "id": 38,
+          "en": "pancake",
+          "zh": "薄饼"
+        },
+        {
+          "id": 39,
+          "en": "waffle",
+          "zh": "华夫饼"
+        },
+        {
+          "id": 40,
+          "en": "salad",
+          "zh": "沙拉"
+        },
+        {
+          "id": 41,
+          "en": "ice cream cone",
+          "zh": "冰激凌甜筒"
+        },
+        {
+          "id": 42,
+          "en": "ice cream scoop",
+          "zh": "冰激凌球"
+        },
+        {
+          "id": 43,
+          "en": "snack bar",
+          "zh": "小吃店"
+        },
+        {
+          "id": 44,
+          "en": "snacks",
+          "zh": "小吃"
+        },
+        {
+          "id": 45,
+          "en": "beverages",
+          "zh": "饮料"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "id": "51",
+  "title": "能源供给",
+  "titleEn": "Energy Supply",
+  "category": "城市生活",
+  "pages": [
+    {
+      "pageNum": 112,
+      "image": "assets/images/page_113.jpg",
+      "section": "51.1",
+      "sectionTitle": "核能和化石燃料",
+      "sectionTitleEn": "Nuclear and Fossil Fuels",
+      "words": [
+        {
+          "id": 1,
+          "en": "water vapor (US) / water vapour (UK)",
+          "zh": "水蒸气"
+        },
+        {
+          "id": 2,
+          "en": "cooling tower",
+          "zh": "冷却塔"
+        },
+        {
+          "id": 3,
+          "en": "fuel rods",
+          "zh": "燃料棒"
+        },
+        {
+          "id": 4,
+          "en": "electricity",
+          "zh": "电力"
+        },
+        {
+          "id": 5,
+          "en": "nuclear waste",
+          "zh": "核废料"
+        },
+        {
+          "id": 6,
+          "en": "reactor",
+          "zh": "反应堆"
+        },
+        {
+          "id": 7,
+          "en": "nuclear plant (US) / station (UK)",
+          "zh": "核电站"
+        },
+        {
+          "id": 8,
+          "en": "coal",
+          "zh": "煤炭"
+        },
+        {
+          "id": 9,
+          "en": "oil",
+          "zh": "原油"
+        },
+        {
+          "id": 10,
+          "en": "gas",
+          "zh": "天然气"
+        },
+        {
+          "id": 11,
+          "en": "fossil fuels",
+          "zh": "化石燃料"
+        },
+        {
+          "id": 12,
+          "en": "open-pit mining (US) / open-cast mining (UK)",
+          "zh": "露天采矿"
+        },
+        {
+          "id": 13,
+          "en": "derrick",
+          "zh": "油井塔"
+        },
+        {
+          "id": 14,
+          "en": "oil field",
+          "zh": "油田"
+        },
+        {
+          "id": 15,
+          "en": "shale",
+          "zh": "页岩"
+        },
+        {
+          "id": 16,
+          "en": "shale gas",
+          "zh": "页岩气"
+        },
+        {
+          "id": 17,
+          "en": "fissures",
+          "zh": "裂隙"
+        },
+        {
+          "id": 18,
+          "en": "fracking",
+          "zh": "水力压裂法"
+        },
+        {
+          "id": 19,
+          "en": "flare",
+          "zh": "火炬"
+        },
+        {
+          "id": 20,
+          "en": "helipad",
+          "zh": "直升机坪"
+        },
+        {
+          "id": 21,
+          "en": "sea bed",
+          "zh": "海床"
+        },
+        {
+          "id": 22,
+          "en": "oil",
+          "zh": "原油"
+        },
+        {
+          "id": 23,
+          "en": "drilling rig",
+          "zh": "钻井设备"
+        },
+        {
+          "id": 24,
+          "en": "mine shaft",
+          "zh": "矿井"
+        },
+        {
+          "id": 25,
+          "en": "miners",
+          "zh": "矿工"
+        },
+        {
+          "id": 26,
+          "en": "coal mine",
+          "zh": "煤矿"
+        },
+        {
+          "id": 27,
+          "en": "emissions",
+          "zh": "排放"
+        },
+        {
+          "id": 28,
+          "en": "clouds",
+          "zh": "云"
+        },
+        {
+          "id": 29,
+          "en": "wind",
+          "zh": "风"
+        },
+        {
+          "id": 30,
+          "en": "rain",
+          "zh": "雨"
+        },
+        {
+          "id": 31,
+          "en": "acid rain",
+          "zh": "酸雨"
+        }
+      ]
+    },
+    {
+      "pageNum": 113,
+      "image": "assets/images/page_114.jpg",
+      "section": "51.2",
+      "sectionTitle": "可再生能源",
+      "sectionTitleEn": "Renewable Energy",
+      "words": [
+        {
+          "id": 32,
+          "en": "solar farm",
+          "zh": "太阳能发电站"
+        },
+        {
+          "id": 33,
+          "en": "solar panel",
+          "zh": "太阳能电池板"
+        },
+        {
+          "id": 34,
+          "en": "tidal energy",
+          "zh": "潮汐能"
+        },
+        {
+          "id": 35,
+          "en": "wind farm",
+          "zh": "风力发电站"
+        },
+        {
+          "id": 36,
+          "en": "biomass energy",
+          "zh": "生物质能"
+        },
+        {
+          "id": 37,
+          "en": "hydroelectric energy",
+          "zh": "水电能"
+        },
+        {
+          "id": 38,
+          "en": "geothermal plant (US) / geothermal station (UK)",
+          "zh": "地热发电站"
+        },
+        {
+          "id": 39,
+          "en": "geothermal energy",
+          "zh": "地热能"
+        },
+        {
+          "id": 40,
+          "en": "solar energy",
+          "zh": "太阳能"
+        },
+        {
+          "id": 41,
+          "en": "solar water heating",
+          "zh": "太阳能热水"
+        },
+        {
+          "id": 42,
+          "en": "green energy",
+          "zh": "绿色能源"
+        },
+        {
+          "id": 43,
+          "en": "sluice gates",
+          "zh": "泄水闸门"
+        },
+        {
+          "id": 44,
+          "en": "turbine",
+          "zh": "涡轮机"
+        },
+        {
+          "id": 45,
+          "en": "tidal barrage",
+          "zh": "潮汐坝"
+        },
+        {
+          "id": 46,
+          "en": "reservoir",
+          "zh": "水库"
+        },
+        {
+          "id": 47,
+          "en": "penstock",
+          "zh": "水渠"
+        },
+        {
+          "id": 48,
+          "en": "generator",
+          "zh": "发电机"
+        },
+        {
+          "id": 49,
+          "en": "pylon",
+          "zh": "电缆塔"
+        },
+        {
+          "id": 50,
+          "en": "turbine",
+          "zh": "涡轮机"
+        },
+        {
+          "id": 51,
+          "en": "dam",
+          "zh": "大坝"
+        },
+        {
+          "id": 52,
+          "en": "hydroelectric power station",
+          "zh": "水力发电站"
+        },
+        {
+          "id": 53,
+          "en": "blade",
+          "zh": "叶片"
+        },
+        {
+          "id": 54,
+          "en": "nacelle",
+          "zh": "引擎舱"
+        },
+        {
+          "id": 55,
+          "en": "rotor",
+          "zh": "转子"
+        },
+        {
+          "id": 56,
+          "en": "hub",
+          "zh": "轮毂"
+        },
+        {
+          "id": 57,
+          "en": "wind energy",
+          "zh": "风能"
+        },
+        {
+          "id": 58,
+          "en": "tower",
+          "zh": "立杆"
+        },
+        {
+          "id": 59,
+          "en": "wind turbine",
+          "zh": "风力发电机"
+        }
+      ]
+    }
+  ]
+}

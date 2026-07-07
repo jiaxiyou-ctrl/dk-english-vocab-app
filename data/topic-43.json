@@ -1,0 +1,66 @@
+{
+  "id": "43",
+  "title": "城镇2",
+  "titleEn": "Town 2",
+  "category": "城市生活",
+  "pages": [
+    {
+      "pageNum": 96,
+      "image": "assets/images/page_97.jpg",
+      "section": "43.1",
+      "sectionTitle": "建筑和其他特征",
+      "sectionTitleEn": "Buildings and other features",
+      "words": [
+        { "id": 1, "en": "concert hall", "zh": "音乐厅" },
+        { "id": 2, "en": "historic quarter", "zh": "历史街区" },
+        { "id": 3, "en": "museum", "zh": "博物馆" },
+        { "id": 4, "en": "art gallery", "zh": "美术馆" },
+        { "id": 5, "en": "streetlight", "zh": "街灯" },
+        { "id": 6, "en": "college (US) / university (UK)", "zh": "大学" },
+        { "id": 7, "en": "library", "zh": "图书馆" },
+        { "id": 8, "en": "bus", "zh": "公交" },
+        { "id": 9, "en": "school", "zh": "学校" },
+        { "id": 10, "en": "bridge", "zh": "桥" },
+        { "id": 11, "en": "avenue", "zh": "大街" },
+        { "id": 12, "en": "sidewalk (US) / pavement (UK)", "zh": "人行道" },
+        { "id": 13, "en": "town houses", "zh": "排房" },
+        { "id": 14, "en": "apartment block (US) / block of flats (UK)", "zh": "公寓楼" },
+        { "id": 15, "en": "sports center (US) / sports centre (UK)", "zh": "体育中心" },
+        { "id": 16, "en": "stop lights (US) / traffic lights (UK)", "zh": "交通信号灯" },
+        { "id": 17, "en": "government building", "zh": "政府大楼" },
+        { "id": 18, "en": "courthouse (US) / law court (UK)", "zh": "法院" },
+        { "id": 19, "en": "village", "zh": "村庄" },
+        { "id": 20, "en": "cycle parking", "zh": "车辆停放处" },
+        { "id": 21, "en": "cycle path", "zh": "自行车道" },
+        { "id": 22, "en": "cemetery", "zh": "公墓" },
+        { "id": 23, "en": "church", "zh": "教堂" },
+        { "id": 24, "en": "intersection (US) / crossroads (UK)", "zh": "十字路口" },
+        { "id": 25, "en": "traffic jam", "zh": "交通堵塞" },
+        { "id": 26, "en": "departure", "zh": "启程" },
+        { "id": 27, "en": "arrival", "zh": "到达" },
+        { "id": 28, "en": "airport", "zh": "机场" },
+        { "id": 29, "en": "air control tower", "zh": "机场指挥塔台" },
+        { "id": 30, "en": "curb (US) / kerb (UK)", "zh": "路沿" },
+        { "id": 31, "en": "manhole", "zh": "检查井" },
+        { "id": 32, "en": "gutter", "zh": "雨水槽" },
+        { "id": 33, "en": "drain / storm drain", "zh": "下水道" },
+        { "id": 34, "en": "street sign", "zh": "路标" },
+        { "id": 35, "en": "bollards", "zh": "路柱" }
+      ]
+    },
+    {
+      "pageNum": 97,
+      "image": "assets/images/page_98.jpg",
+      "section": "43.2",
+      "sectionTitle": "游乐场",
+      "sectionTitleEn": "Playground",
+      "words": [
+        { "id": 36, "en": "swing", "zh": "秋千" },
+        { "id": 37, "en": "seesaw", "zh": "跷跷板" },
+        { "id": 38, "en": "sandbox (US) / sandpit (UK)", "zh": "沙坑" },
+        { "id": 39, "en": "jungle gym (US) / climbing frame (UK)", "zh": "攀爬架" },
+        { "id": 40, "en": "slide", "zh": "滑滑梯" }
+      ]
+    }
+  ]
+}

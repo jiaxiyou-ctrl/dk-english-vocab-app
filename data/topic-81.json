@@ -1,0 +1,336 @@
+{
+  "id": "81",
+  "title": "工作",
+  "titleEn": "Work",
+  "category": "工作",
+  "pages": [
+    {
+      "pageNum": 170,
+      "image": "assets/images/page_171.jpg",
+      "section": "81.1",
+      "sectionTitle": "办公室工作",
+      "sectionTitleEn": "Office Work",
+      "words": [
+        {
+          "id": 1,
+          "en": "company",
+          "zh": "公司"
+        },
+        {
+          "id": 2,
+          "en": "branch",
+          "zh": "分部"
+        },
+        {
+          "id": 3,
+          "en": "employment",
+          "zh": "就业"
+        },
+        {
+          "id": 4,
+          "en": "to earn",
+          "zh": "赚钱"
+        },
+        {
+          "id": 5,
+          "en": "permanent",
+          "zh": "固定工作"
+        },
+        {
+          "id": 6,
+          "en": "temporary",
+          "zh": "临时工作"
+        },
+        {
+          "id": 7,
+          "en": "flextime (US) / flexitime (UK)",
+          "zh": "弹性工作时间"
+        },
+        {
+          "id": 8,
+          "en": "to work from home",
+          "zh": "居家办公"
+        },
+        {
+          "id": 9,
+          "en": "to work full-time",
+          "zh": "全职工作"
+        },
+        {
+          "id": 10,
+          "en": "nine-to-five job",
+          "zh": "朝九晚五"
+        },
+        {
+          "id": 11,
+          "en": "to work part-time",
+          "zh": "兼职工作"
+        },
+        {
+          "id": 12,
+          "en": "to work shifts",
+          "zh": "轮班工作"
+        },
+        {
+          "id": 13,
+          "en": "vacation (US) / annual leave (UK)",
+          "zh": "年假"
+        },
+        {
+          "id": 14,
+          "en": "to have a day off",
+          "zh": "放一天假"
+        },
+        {
+          "id": 15,
+          "en": "to go on maternity leave",
+          "zh": "休产假"
+        },
+        {
+          "id": 16,
+          "en": "to be promoted",
+          "zh": "升职"
+        },
+        {
+          "id": 17,
+          "en": "to resign",
+          "zh": "辞职"
+        },
+        {
+          "id": 18,
+          "en": "to retire",
+          "zh": "退休"
+        },
+        {
+          "id": 19,
+          "en": "to call in sick",
+          "zh": "请病假"
+        },
+        {
+          "id": 20,
+          "en": "to hand in your notice",
+          "zh": "提交辞呈"
+        },
+        {
+          "id": 21,
+          "en": "to get fired",
+          "zh": "被解雇"
+        },
+        {
+          "id": 22,
+          "en": "to be laid off",
+          "zh": "下岗"
+        },
+        {
+          "id": 23,
+          "en": "to be unemployed",
+          "zh": "失业"
+        },
+        {
+          "id": 24,
+          "en": "unemployment benefit",
+          "zh": "失业救济金"
+        },
+        {
+          "id": 25,
+          "en": "business trip",
+          "zh": "商务旅行"
+        },
+        {
+          "id": 26,
+          "en": "appointment",
+          "zh": "预约"
+        },
+        {
+          "id": 27,
+          "en": "business lunch",
+          "zh": "商务午餐"
+        },
+        {
+          "id": 28,
+          "en": "office reception",
+          "zh": "办公室接待处"
+        },
+        {
+          "id": 29,
+          "en": "headquarters",
+          "zh": "总部"
+        },
+        {
+          "id": 30,
+          "en": "receptionist",
+          "zh": "接待员"
+        },
+        {
+          "id": 31,
+          "en": "waiting area",
+          "zh": "等候区"
+        },
+        {
+          "id": 32,
+          "en": "CEO's office",
+          "zh": "首席执行官办公室"
+        },
+        {
+          "id": 33,
+          "en": "CEO (chief executive officer)",
+          "zh": "首席执行官"
+        },
+        {
+          "id": 34,
+          "en": "businessman",
+          "zh": "男商人"
+        },
+        {
+          "id": 35,
+          "en": "business deal",
+          "zh": "商业交易"
+        },
+        {
+          "id": 36,
+          "en": "businesswoman",
+          "zh": "女商人"
+        },
+        {
+          "id": 37,
+          "en": "meeting",
+          "zh": "会议"
+        },
+        {
+          "id": 38,
+          "en": "apprentice",
+          "zh": "新人"
+        },
+        {
+          "id": 39,
+          "en": "manager",
+          "zh": "经理"
+        },
+        {
+          "id": 40,
+          "en": "PA (personal assistant)",
+          "zh": "私人助理"
+        },
+        {
+          "id": 41,
+          "en": "leader",
+          "zh": "领导"
+        },
+        {
+          "id": 42,
+          "en": "clients",
+          "zh": "客户"
+        }
+      ]
+    },
+    {
+      "pageNum": 171,
+      "image": "assets/images/page_172.jpg",
+      "section": "81.2",
+      "sectionTitle": "工资",
+      "sectionTitleEn": "Pay",
+      "words": [
+        {
+          "id": 43,
+          "en": "hourly rate",
+          "zh": "时薪"
+        },
+        {
+          "id": 44,
+          "en": "overtime",
+          "zh": "加班费"
+        },
+        {
+          "id": 45,
+          "en": "salary",
+          "zh": "薪水"
+        },
+        {
+          "id": 46,
+          "en": "wages",
+          "zh": "工资"
+        },
+        {
+          "id": 47,
+          "en": "pay slip",
+          "zh": "工资单"
+        },
+        {
+          "id": 48,
+          "en": "bonus",
+          "zh": "奖金"
+        },
+        {
+          "id": 49,
+          "en": "benefits",
+          "zh": "收益"
+        },
+        {
+          "id": 50,
+          "en": "raise",
+          "zh": "加薪"
+        },
+        {
+          "id": 51,
+          "en": "pay cut",
+          "zh": "降薪"
+        },
+        {
+          "id": 52,
+          "en": "interview",
+          "zh": "面试"
+        },
+        {
+          "id": 53,
+          "en": "interviewer",
+          "zh": "面试官"
+        },
+        {
+          "id": 54,
+          "en": "applicant",
+          "zh": "申请人"
+        },
+        {
+          "id": 55,
+          "en": "employer",
+          "zh": "雇主"
+        },
+        {
+          "id": 56,
+          "en": "staff",
+          "zh": "全体职工"
+        },
+        {
+          "id": 57,
+          "en": "worker",
+          "zh": "员工"
+        },
+        {
+          "id": 58,
+          "en": "co-worker / colleague",
+          "zh": "同事"
+        },
+        {
+          "id": 59,
+          "en": "employee",
+          "zh": "雇员"
+        },
+        {
+          "id": 60,
+          "en": "supervisor",
+          "zh": "主管"
+        },
+        {
+          "id": 61,
+          "en": "intern",
+          "zh": "实习生"
+        },
+        {
+          "id": 62,
+          "en": "office manager",
+          "zh": "办公室经理"
+        }
+      ]
+    }
+  ]
+}

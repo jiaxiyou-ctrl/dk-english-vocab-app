@@ -1,0 +1,92 @@
+{
+  "id": "20",
+  "title": "看医生",
+  "titleEn": "Doctor",
+  "category": "健康",
+  "pages": [
+    {
+      "pageNum": 50,
+      "image": "assets/images/page_51.jpg",
+      "section": "20.1",
+      "sectionTitle": "治疗",
+      "sectionTitleEn": "Treatment",
+      "words": [
+        { "id": 1, "en": "I'm not feeling well.", "zh": "我感觉不舒服。" },
+        { "id": 2, "en": "I'm going to take your blood pressure.", "zh": "我要给你量血压。" },
+        { "id": 3, "en": "patient", "zh": "病人" },
+        { "id": 4, "en": "nurse", "zh": "护士" },
+        { "id": 5, "en": "blood pressure", "zh": "量血压" },
+        { "id": 6, "en": "doctor", "zh": "医生" },
+        { "id": 7, "en": "clinic (US) / doctor's surgery (UK)", "zh": "诊所" },
+        { "id": 8, "en": "waiting room", "zh": "候诊室" },
+        { "id": 9, "en": "appointment", "zh": "预约" },
+        { "id": 10, "en": "medical examination", "zh": "体检" },
+        { "id": 11, "en": "inoculation / vaccination", "zh": "接种疫苗" },
+        { "id": 12, "en": "syringe", "zh": "注射器" },
+        { "id": 13, "en": "needle", "zh": "针头" },
+        { "id": 14, "en": "blood test", "zh": "血检" },
+        { "id": 15, "en": "test results", "zh": "检查结果" },
+        { "id": 16, "en": "prescription", "zh": "处方" },
+        { "id": 17, "en": "medicine / medication", "zh": "药物" },
+        { "id": 18, "en": "pills / tablets", "zh": "药丸/药片" },
+        { "id": 19, "en": "scales", "zh": "体重秤" },
+        { "id": 20, "en": "stethoscope", "zh": "听诊器" },
+        { "id": 21, "en": "inhaler", "zh": "吸入器" },
+        { "id": 22, "en": "nasal spray", "zh": "喷鼻剂" },
+        { "id": 23, "en": "face mask", "zh": "口罩" },
+        { "id": 24, "en": "sling", "zh": "医用吊带" },
+        { "id": 25, "en": "dressing", "zh": "包扎" },
+        { "id": 26, "en": "gauze", "zh": "纱布" },
+        { "id": 27, "en": "tape", "zh": "胶带" },
+        { "id": 28, "en": "thermometer", "zh": "温度计" },
+        { "id": 29, "en": "ear thermometer", "zh": "耳温针" }
+      ]
+    },
+    {
+      "pageNum": 51,
+      "image": "assets/images/page_52.jpg",
+      "section": "20.2",
+      "sectionTitle": "急救箱",
+      "sectionTitleEn": "First Aid Kit",
+      "words": [
+        { "id": 30, "en": "tweezers", "zh": "镊子" },
+        { "id": 31, "en": "painkillers", "zh": "止痛药" },
+        { "id": 32, "en": "antiseptic", "zh": "消毒剂" },
+        { "id": 33, "en": "antiseptic wipes", "zh": "消毒湿巾" },
+        { "id": 34, "en": "adhesive bandage (US) / plaster (UK)", "zh": "创可贴" },
+        { "id": 35, "en": "bandage", "zh": "绷带" },
+        { "id": 36, "en": "scissors", "zh": "剪刀" },
+        { "id": 37, "en": "ointment", "zh": "药膏" },
+        { "id": 38, "en": "adhesive tape", "zh": "橡皮膏" },
+        { "id": 39, "en": "cotton pads (US) / cotton wool (UK)", "zh": "棉垫" },
+        { "id": 40, "en": "safety pin", "zh": "安全别针" }
+      ]
+    },
+    {
+      "pageNum": 51,
+      "image": "assets/images/page_52.jpg",
+      "section": "20.3",
+      "sectionTitle": "描述疾病的动词",
+      "sectionTitleEn": "Verbs for Describing Illness",
+      "words": [
+        { "id": 41, "en": "to vomit", "zh": "呕吐" },
+        { "id": 42, "en": "to sneeze", "zh": "打喷嚏" },
+        { "id": 43, "en": "to cough", "zh": "咳嗽" },
+        { "id": 44, "en": "to hurt / to ache", "zh": "疼痛" },
+        { "id": 45, "en": "to bleed", "zh": "流血" },
+        { "id": 46, "en": "to faint", "zh": "昏晕" },
+        { "id": 47, "en": "to lie down", "zh": "躺下" },
+        { "id": 48, "en": "to rest", "zh": "休息" },
+        { "id": 49, "en": "to lose weight", "zh": "减肥" },
+        { "id": 50, "en": "to gain weight", "zh": "增重" },
+        { "id": 51, "en": "to drink water", "zh": "喝水" },
+        { "id": 52, "en": "to exercise", "zh": "锻炼" },
+        { "id": 53, "en": "to heal", "zh": "愈合" },
+        { "id": 54, "en": "to recover", "zh": "痊愈" },
+        { "id": 55, "en": "to feel better", "zh": "感觉好转" },
+        { "id": 56, "en": "to resuscitate", "zh": "使苏醒" },
+        { "id": 57, "en": "chest compressions", "zh": "胸外按压" }
+      ]
+    }
+  ]
+}

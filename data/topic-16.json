@@ -1,0 +1,344 @@
+{
+  "id": "16",
+  "title": "装饰品",
+  "titleEn": "Accessories",
+  "category": "外貌",
+  "pages": [
+    {
+      "pageNum": 42,
+      "image": "assets/images/page_43.jpg",
+      "section": "16.1",
+      "sectionTitle": "时尚饰品",
+      "sectionTitleEn": "Fashion accessories",
+      "words": [
+        {
+          "id": 1,
+          "en": "gloves",
+          "zh": "手套"
+        },
+        {
+          "id": 2,
+          "en": "handle",
+          "zh": "伞柄"
+        },
+        {
+          "id": 3,
+          "en": "umbrella",
+          "zh": "伞"
+        },
+        {
+          "id": 4,
+          "en": "handkerchief",
+          "zh": "手帕"
+        },
+        {
+          "id": 5,
+          "en": "buckle",
+          "zh": "腰带扣"
+        },
+        {
+          "id": 6,
+          "en": "belt",
+          "zh": "皮带"
+        },
+        {
+          "id": 7,
+          "en": "scarf",
+          "zh": "围巾"
+        },
+        {
+          "id": 8,
+          "en": "tie",
+          "zh": "领带"
+        },
+        {
+          "id": 9,
+          "en": "tie bar (US) / tie-pin (UK)",
+          "zh": "领带夹"
+        },
+        {
+          "id": 10,
+          "en": "bow tie",
+          "zh": "领结"
+        },
+        {
+          "id": 11,
+          "en": "pin (US) / badge (UK)",
+          "zh": "徽章"
+        },
+        {
+          "id": 12,
+          "en": "hair band / Alice band (UK)",
+          "zh": "发箍"
+        }
+      ]
+    },
+    {
+      "pageNum": 42,
+      "image": "assets/images/page_43.jpg",
+      "section": "16.2",
+      "sectionTitle": "珠宝饰品",
+      "sectionTitleEn": "Jewelry",
+      "words": [
+        {
+          "id": 13,
+          "en": "chain",
+          "zh": "项链"
+        },
+        {
+          "id": 14,
+          "en": "pendant",
+          "zh": "吊坠"
+        },
+        {
+          "id": 15,
+          "en": "hoop earrings",
+          "zh": "耳环"
+        },
+        {
+          "id": 16,
+          "en": "anklet",
+          "zh": "脚链"
+        },
+        {
+          "id": 17,
+          "en": "torc",
+          "zh": "金属饰环"
+        },
+        {
+          "id": 18,
+          "en": "tiara",
+          "zh": "冕状头饰"
+        },
+        {
+          "id": 19,
+          "en": "choker",
+          "zh": "贴颈链"
+        },
+        {
+          "id": 20,
+          "en": "string of pearls",
+          "zh": "珍珠项链"
+        },
+        {
+          "id": 21,
+          "en": "studs",
+          "zh": "耳钉"
+        },
+        {
+          "id": 22,
+          "en": "bangle",
+          "zh": "手镯"
+        },
+        {
+          "id": 23,
+          "en": "signet ring",
+          "zh": "图章戒指"
+        },
+        {
+          "id": 24,
+          "en": "jewelry box (US) / jewellery box (UK)",
+          "zh": "首饰盒"
+        },
+        {
+          "id": 25,
+          "en": "watch",
+          "zh": "手表"
+        },
+        {
+          "id": 26,
+          "en": "stone",
+          "zh": "宝石"
+        },
+        {
+          "id": 27,
+          "en": "ring",
+          "zh": "戒指"
+        },
+        {
+          "id": 28,
+          "en": "earrings",
+          "zh": "耳饰"
+        },
+        {
+          "id": 29,
+          "en": "cufflinks",
+          "zh": "袖扣"
+        },
+        {
+          "id": 30,
+          "en": "brooch",
+          "zh": "胸针"
+        },
+        {
+          "id": 31,
+          "en": "bracelet",
+          "zh": "手链"
+        },
+        {
+          "id": 32,
+          "en": "necklace",
+          "zh": "项链"
+        }
+      ]
+    },
+    {
+      "pageNum": 43,
+      "image": "assets/images/page_44.jpg",
+      "section": "16.3",
+      "sectionTitle": "头饰",
+      "sectionTitleEn": "Hats",
+      "words": [
+        {
+          "id": 33,
+          "en": "flat cap",
+          "zh": "鸭舌帽"
+        },
+        {
+          "id": 34,
+          "en": "baseball cap",
+          "zh": "棒球帽"
+        },
+        {
+          "id": 35,
+          "en": "pom pom beanie (US) / bobble hat (UK)",
+          "zh": "毛绒帽"
+        },
+        {
+          "id": 36,
+          "en": "hijab",
+          "zh": "头巾"
+        },
+        {
+          "id": 37,
+          "en": "yarmulke",
+          "zh": "圆顶小帽"
+        },
+        {
+          "id": 38,
+          "en": "turban",
+          "zh": "包头巾"
+        },
+        {
+          "id": 39,
+          "en": "beret",
+          "zh": "贝雷帽"
+        },
+        {
+          "id": 40,
+          "en": "fedora",
+          "zh": "软呢帽"
+        },
+        {
+          "id": 41,
+          "en": "deerstalker",
+          "zh": "猎鹿帽"
+        },
+        {
+          "id": 42,
+          "en": "fez",
+          "zh": "土耳其毡帽"
+        },
+        {
+          "id": 43,
+          "en": "cowboy hat",
+          "zh": "牛仔帽"
+        },
+        {
+          "id": 44,
+          "en": "sombrero",
+          "zh": "阔边帽"
+        },
+        {
+          "id": 45,
+          "en": "sun hat",
+          "zh": "太阳帽"
+        },
+        {
+          "id": 46,
+          "en": "newsboy cap",
+          "zh": "报童帽"
+        },
+        {
+          "id": 47,
+          "en": "panama",
+          "zh": "巴拿马草帽"
+        },
+        {
+          "id": 48,
+          "en": "boater",
+          "zh": "平顶硬草帽"
+        },
+        {
+          "id": 49,
+          "en": "beanie",
+          "zh": "毛线帽"
+        },
+        {
+          "id": 50,
+          "en": "cloche",
+          "zh": "钟型女帽"
+        }
+      ]
+    },
+    {
+      "pageNum": 43,
+      "image": "assets/images/page_44.jpg",
+      "section": "16.4",
+      "sectionTitle": "包箱",
+      "sectionTitleEn": "Bags",
+      "words": [
+        {
+          "id": 51,
+          "en": "briefcase",
+          "zh": "公文包"
+        },
+        {
+          "id": 52,
+          "en": "backpack / rucksack (UK)",
+          "zh": "双肩包"
+        },
+        {
+          "id": 53,
+          "en": "wallet (US) / purse (UK)",
+          "zh": "钱包"
+        },
+        {
+          "id": 54,
+          "en": "duffel bag (US) / holdall (UK)",
+          "zh": "行李袋"
+        },
+        {
+          "id": 55,
+          "en": "purse (US) / handbag (UK)",
+          "zh": "手提包"
+        },
+        {
+          "id": 56,
+          "en": "suitcase",
+          "zh": "行李箱"
+        },
+        {
+          "id": 57,
+          "en": "handle",
+          "zh": "提袋"
+        },
+        {
+          "id": 58,
+          "en": "shoulder strap",
+          "zh": "肩带"
+        },
+        {
+          "id": 59,
+          "en": "fastening",
+          "zh": "扣环"
+        },
+        {
+          "id": 60,
+          "en": "shoulder bag",
+          "zh": "单肩包"
+        }
+      ]
+    }
+  ]
+}

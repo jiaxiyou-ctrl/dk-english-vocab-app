@@ -1,0 +1,290 @@
+{
+  "id": "87",
+  "title": "建筑业",
+  "titleEn": "Construction",
+  "category": "工作",
+  "pages": [
+    {
+      "pageNum": 182,
+      "image": "assets/images/page_183.jpg",
+      "section": "87.1",
+      "sectionTitle": "建筑工地",
+      "sectionTitleEn": "Construction Site",
+      "words": [
+        {
+          "id": 1,
+          "en": "chimney",
+          "zh": "烟囱"
+        },
+        {
+          "id": 2,
+          "en": "rafter",
+          "zh": "椽子"
+        },
+        {
+          "id": 3,
+          "en": "ridge beam",
+          "zh": "屋脊梁木"
+        },
+        {
+          "id": 4,
+          "en": "brick",
+          "zh": "砖"
+        },
+        {
+          "id": 5,
+          "en": "lintel",
+          "zh": "过梁"
+        },
+        {
+          "id": 6,
+          "en": "hard hat",
+          "zh": "安全帽"
+        },
+        {
+          "id": 7,
+          "en": "construction worker (US) / builder (UK)",
+          "zh": "建筑工人"
+        },
+        {
+          "id": 8,
+          "en": "window",
+          "zh": "窗户"
+        },
+        {
+          "id": 9,
+          "en": "wall",
+          "zh": "墙"
+        },
+        {
+          "id": 10,
+          "en": "ladder",
+          "zh": "梯子"
+        },
+        {
+          "id": 11,
+          "en": "construction site (US) / building site (UK)",
+          "zh": "建筑工地"
+        },
+        {
+          "id": 12,
+          "en": "pallet",
+          "zh": "货盘"
+        },
+        {
+          "id": 13,
+          "en": "lumber (US) / timber (UK)",
+          "zh": "木材"
+        },
+        {
+          "id": 14,
+          "en": "safety notice board",
+          "zh": "安全告示牌"
+        },
+        {
+          "id": 15,
+          "en": "ear protectors / ear muffs",
+          "zh": "耳罩"
+        },
+        {
+          "id": 16,
+          "en": "high-visibility vest",
+          "zh": "反光背心"
+        },
+        {
+          "id": 17,
+          "en": "safety gloves",
+          "zh": "安全手套"
+        },
+        {
+          "id": 18,
+          "en": "safety glasses",
+          "zh": "安全眼镜"
+        },
+        {
+          "id": 19,
+          "en": "tool belt",
+          "zh": "工具腰带"
+        },
+        {
+          "id": 20,
+          "en": "girder",
+          "zh": "大梁"
+        },
+        {
+          "id": 21,
+          "en": "pipe",
+          "zh": "管道"
+        },
+        {
+          "id": 22,
+          "en": "cement / mortar",
+          "zh": "水泥"
+        },
+        {
+          "id": 23,
+          "en": "cinder block (US) / breeze block (UK)",
+          "zh": "煤渣砖"
+        },
+        {
+          "id": 24,
+          "en": "shingles (US) / roof tiles (UK)",
+          "zh": "屋顶瓦"
+        },
+        {
+          "id": 25,
+          "en": "to build",
+          "zh": "建造"
+        }
+      ]
+    },
+    {
+      "pageNum": 183,
+      "image": "assets/images/page_184.jpg",
+      "section": "87.2",
+      "sectionTitle": "机械",
+      "sectionTitleEn": "Machinery",
+      "words": [
+        {
+          "id": 26,
+          "en": "jib",
+          "zh": "悬臂"
+        },
+        {
+          "id": 27,
+          "en": "hook",
+          "zh": "挂钩"
+        },
+        {
+          "id": 28,
+          "en": "support",
+          "zh": "支柱"
+        },
+        {
+          "id": 29,
+          "en": "tower crane",
+          "zh": "塔吊"
+        },
+        {
+          "id": 30,
+          "en": "counterweight",
+          "zh": "配重"
+        },
+        {
+          "id": 31,
+          "en": "dump truck (US) / dumper truck (UK)",
+          "zh": "自卸卡车"
+        },
+        {
+          "id": 32,
+          "en": "truck-mounted crane",
+          "zh": "汽车起重机"
+        },
+        {
+          "id": 33,
+          "en": "bulldozer",
+          "zh": "推土机"
+        },
+        {
+          "id": 34,
+          "en": "front loader",
+          "zh": "前端装载机"
+        },
+        {
+          "id": 35,
+          "en": "grader",
+          "zh": "平土机"
+        },
+        {
+          "id": 36,
+          "en": "flatbed truck",
+          "zh": "平板卡车"
+        },
+        {
+          "id": 37,
+          "en": "cement mixer",
+          "zh": "水泥搅拌机"
+        },
+        {
+          "id": 38,
+          "en": "forklift (US) / fork-lift truck (UK)",
+          "zh": "叉车"
+        }
+      ]
+    },
+    {
+      "pageNum": 183,
+      "image": "assets/images/page_184.jpg",
+      "section": "87.3",
+      "sectionTitle": "工具和道路施工",
+      "sectionTitleEn": "Tools and Roadworks",
+      "words": [
+        {
+          "id": 39,
+          "en": "trowel",
+          "zh": "抹刀"
+        },
+        {
+          "id": 40,
+          "en": "level (US) / spirit level (UK)",
+          "zh": "水平仪"
+        },
+        {
+          "id": 41,
+          "en": "handle",
+          "zh": "把手"
+        },
+        {
+          "id": 42,
+          "en": "shovel",
+          "zh": "铲子"
+        },
+        {
+          "id": 43,
+          "en": "pickax (US) / pickaxe (UK)",
+          "zh": "鹤嘴锄"
+        },
+        {
+          "id": 44,
+          "en": "sledgehammer",
+          "zh": "大锤"
+        },
+        {
+          "id": 45,
+          "en": "excavator / digger",
+          "zh": "挖掘机"
+        },
+        {
+          "id": 46,
+          "en": "you must wear a hard hat while you're on the site.",
+          "zh": "在工地上必须戴安全帽。"
+        },
+        {
+          "id": 47,
+          "en": "roller",
+          "zh": "压路机"
+        },
+        {
+          "id": 48,
+          "en": "cone",
+          "zh": "锥形警告路标"
+        },
+        {
+          "id": 49,
+          "en": "resurfacing",
+          "zh": "重铺路面"
+        },
+        {
+          "id": 50,
+          "en": "jackhammer (US) / pneumatic drill (UK)",
+          "zh": "手提钻"
+        },
+        {
+          "id": 51,
+          "en": "road construction (US) / roadworks (UK)",
+          "zh": "道路工程"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "id": "179",
+  "title": "惯用表达1",
+  "titleEn": "Idioms 1",
+  "category": "参考",
+  "pages": [
+    {
+      "pageNum": 366,
+      "image": "assets/images/page_367.jpg",
+      "section": "179.1",
+      "sectionTitle": "问候语",
+      "sectionTitleEn": "Greetings",
+      "words": [
+        {
+          "id": 1,
+          "en": "to meet",
+          "zh": "见面"
+        },
+        {
+          "id": 2,
+          "en": "hi!",
+          "zh": "嗨！"
+        },
+        {
+          "id": 3,
+          "en": "hello.",
+          "zh": "你好。"
+        },
+        {
+          "id": 4,
+          "en": "to greet (formal)",
+          "zh": "问候（正式）"
+        },
+        {
+          "id": 5,
+          "en": "good evening.",
+          "zh": "晚上好。"
+        },
+        {
+          "id": 6,
+          "en": "good morning.",
+          "zh": "早上好。"
+        },
+        {
+          "id": 7,
+          "en": "good afternoon.",
+          "zh": "下午好。"
+        },
+        {
+          "id": 8,
+          "en": "good night!",
+          "zh": "晚安！"
+        },
+        {
+          "id": 9,
+          "en": "to greet (informal)",
+          "zh": "问候（非正式）"
+        },
+        {
+          "id": 10,
+          "en": "hi! how are you?",
+          "zh": "嗨！你好吗？"
+        },
+        {
+          "id": 11,
+          "en": "i'm fine, thanks.",
+          "zh": "我很好，谢谢。"
+        },
+        {
+          "id": 12,
+          "en": "nice to see you, ed.",
+          "zh": "很高兴见到你，埃德。"
+        },
+        {
+          "id": 13,
+          "en": "to leave",
+          "zh": "离开"
+        },
+        {
+          "id": 14,
+          "en": "goodbye!",
+          "zh": "再见！"
+        },
+        {
+          "id": 15,
+          "en": "see you later!",
+          "zh": "回头见！"
+        }
+      ]
+    },
+    {
+      "pageNum": 366,
+      "image": "assets/images/page_367.jpg",
+      "section": "179.2",
+      "sectionTitle": "了解他人",
+      "sectionTitleEn": "Getting to Know People",
+      "words": [
+        {
+          "id": 16,
+          "en": "what's your name?",
+          "zh": "你叫什么名字？"
+        },
+        {
+          "id": 17,
+          "en": "my name is sally.",
+          "zh": "我叫萨利。"
+        },
+        {
+          "id": 18,
+          "en": "how old are you?",
+          "zh": "你多大了？"
+        },
+        {
+          "id": 19,
+          "en": "i'm 25 years old.",
+          "zh": "我25岁。"
+        },
+        {
+          "id": 20,
+          "en": "where do you live?",
+          "zh": "你住在哪里？"
+        },
+        {
+          "id": 21,
+          "en": "i live in edinburgh.",
+          "zh": "我住在爱丁堡。"
+        }
+      ]
+    },
+    {
+      "pageNum": 367,
+      "image": "assets/images/page_368.jpg",
+      "section": "179.2",
+      "sectionTitle": "了解他人",
+      "sectionTitleEn": "Getting to Know People",
+      "words": [
+        {
+          "id": 22,
+          "en": "where are you from?",
+          "zh": "你来自哪里？"
+        },
+        {
+          "id": 23,
+          "en": "i'm from italy.",
+          "zh": "我来自意大利。"
+        },
+        {
+          "id": 24,
+          "en": "what do you do?",
+          "zh": "你做什么工作？"
+        },
+        {
+          "id": 25,
+          "en": "i'm a retired diplomat.",
+          "zh": "我是一名退休外交官。"
+        },
+        {
+          "id": 26,
+          "en": "do you speak english?",
+          "zh": "你会说英语吗？"
+        },
+        {
+          "id": 27,
+          "en": "only a little. could you speak more slowly, please?",
+          "zh": "会一点。请你说慢一点好吗？"
+        }
+      ]
+    },
+    {
+      "pageNum": 367,
+      "image": "assets/images/page_368.jpg",
+      "section": "179.3",
+      "sectionTitle": "购物",
+      "sectionTitleEn": "Shopping",
+      "words": [
+        {
+          "id": 28,
+          "en": "how much is this?",
+          "zh": "这个多少钱？"
+        },
+        {
+          "id": 29,
+          "en": "it's 15 dollars.",
+          "zh": "15美元。"
+        },
+        {
+          "id": 30,
+          "en": "can i pay here?",
+          "zh": "我可以在这里付款吗？"
+        },
+        {
+          "id": 31,
+          "en": "could you get the red cup for me, please?",
+          "zh": "请帮我拿那个红色的杯子好吗？"
+        },
+        {
+          "id": 32,
+          "en": "can i help you?",
+          "zh": "我能帮您吗？"
+        },
+        {
+          "id": 33,
+          "en": "i'm just browsing, thanks.",
+          "zh": "我只是随便看看，谢谢。"
+        },
+        {
+          "id": 34,
+          "en": "do you sell umbrellas?",
+          "zh": "你们卖雨伞吗？"
+        },
+        {
+          "id": 35,
+          "en": "do you have this in a smaller size?",
+          "zh": "这个有小号的吗？"
+        },
+        {
+          "id": 36,
+          "en": "let me check for you.",
+          "zh": "让我帮您查一下。"
+        }
+      ]
+    }
+  ]
+}

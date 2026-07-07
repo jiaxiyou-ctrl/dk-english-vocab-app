@@ -1,0 +1,205 @@
+{
+  "id": "132",
+  "title": "景观",
+  "titleEn": "Landscapes",
+  "category": "休闲",
+  "pages": [
+    {
+      "pageNum": 272,
+      "image": "assets/images/page_273.jpg",
+      "section": "132.1",
+      "sectionTitle": "旅游胜地",
+      "sectionTitleEn": "Tourist Attractions",
+      "words": [
+        {
+          "id": 1,
+          "en": "tour bus (us) / tourist bus (uk)",
+          "zh": "旅游巴士"
+        },
+        {
+          "id": 2,
+          "en": "to go on an excursion",
+          "zh": "短途旅行"
+        },
+        {
+          "id": 3,
+          "en": "guided tour",
+          "zh": "导游陪同旅游"
+        },
+        {
+          "id": 4,
+          "en": "to go on a tour",
+          "zh": "游览"
+        },
+        {
+          "id": 5,
+          "en": "tourist",
+          "zh": "游客"
+        },
+        {
+          "id": 6,
+          "en": "tour guide",
+          "zh": "导游"
+        },
+        {
+          "id": 7,
+          "en": "sightseeing",
+          "zh": "观光"
+        }
+      ]
+    },
+    {
+      "pageNum": 272,
+      "image": "assets/images/page_273.jpg",
+      "section": "132.2",
+      "sectionTitle": "景点",
+      "sectionTitleEn": "Sights",
+      "words": [
+        {
+          "id": 8,
+          "en": "art gallery",
+          "zh": "艺术展览馆"
+        },
+        {
+          "id": 9,
+          "en": "museum",
+          "zh": "博物馆"
+        },
+        {
+          "id": 10,
+          "en": "monument",
+          "zh": "历史遗迹"
+        },
+        {
+          "id": 11,
+          "en": "palace",
+          "zh": "宫殿"
+        },
+        {
+          "id": 12,
+          "en": "historic building",
+          "zh": "历史建筑"
+        },
+        {
+          "id": 13,
+          "en": "botanical gardens",
+          "zh": "植物园"
+        },
+        {
+          "id": 14,
+          "en": "national park",
+          "zh": "国家公园"
+        },
+        {
+          "id": 15,
+          "en": "landscape",
+          "zh": "风景"
+        },
+        {
+          "id": 16,
+          "en": "scenic",
+          "zh": "风景优美的"
+        },
+        {
+          "id": 17,
+          "en": "archeological site (us) / archaeological site (uk)",
+          "zh": "考古现场"
+        },
+        {
+          "id": 18,
+          "en": "entrance fee",
+          "zh": "入场费"
+        },
+        {
+          "id": 19,
+          "en": "open",
+          "zh": "开放的"
+        },
+        {
+          "id": 20,
+          "en": "closed",
+          "zh": "关闭的"
+        },
+        {
+          "id": 21,
+          "en": "guidebook",
+          "zh": "旅游指南"
+        },
+        {
+          "id": 22,
+          "en": "postcard",
+          "zh": "明信片"
+        },
+        {
+          "id": 23,
+          "en": "souvenir",
+          "zh": "纪念品"
+        },
+        {
+          "id": 24,
+          "en": "tourist map",
+          "zh": "旅游地图"
+        },
+        {
+          "id": 25,
+          "en": "directions",
+          "zh": "方向指引"
+        },
+        {
+          "id": 26,
+          "en": "line (us) / queue (uk)",
+          "zh": "排队"
+        },
+        {
+          "id": 27,
+          "en": "souvenir stall",
+          "zh": "纪念品摊位"
+        }
+      ]
+    },
+    {
+      "pageNum": 273,
+      "image": "assets/images/page_274.jpg",
+      "section": "132.3",
+      "sectionTitle": "旅游信息",
+      "sectionTitleEn": "Tourist Information",
+      "words": [
+        {
+          "id": 28,
+          "en": "waterfront",
+          "zh": "滨水地区"
+        },
+        {
+          "id": 29,
+          "en": "craft market",
+          "zh": "手工艺品市场"
+        },
+        {
+          "id": 30,
+          "en": "tourist office (us) / tourist information (uk)",
+          "zh": "旅游信息中心"
+        },
+        {
+          "id": 31,
+          "en": "floor plan",
+          "zh": "平面图"
+        },
+        {
+          "id": 32,
+          "en": "map",
+          "zh": "地图"
+        },
+        {
+          "id": 33,
+          "en": "timetable",
+          "zh": "时刻表"
+        },
+        {
+          "id": 34,
+          "en": "opening times",
+          "zh": "开放时间"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "id": "80",
+  "title": "大学",
+  "titleEn": "University",
+  "category": "学习",
+  "pages": [
+    {
+      "pageNum": 168,
+      "image": "assets/images/page_169.jpg",
+      "section": "80.1",
+      "sectionTitle": "大学",
+      "sectionTitleEn": "University",
+      "words": [
+        {
+          "id": 1,
+          "en": "campus",
+          "zh": "校园"
+        },
+        {
+          "id": 2,
+          "en": "auditorium (US) / lecture theatre (UK)",
+          "zh": "礼堂"
+        },
+        {
+          "id": 3,
+          "en": "lecturer",
+          "zh": "讲师"
+        },
+        {
+          "id": 4,
+          "en": "sports field",
+          "zh": "体育场"
+        },
+        {
+          "id": 5,
+          "en": "dining hall (US) / refectory (UK)",
+          "zh": "食堂"
+        },
+        {
+          "id": 6,
+          "en": "dorms (US) / halls of residence (UK)",
+          "zh": "宿舍"
+        },
+        {
+          "id": 7,
+          "en": "scholarship",
+          "zh": "奖学金"
+        },
+        {
+          "id": 8,
+          "en": "admissions",
+          "zh": "录取"
+        },
+        {
+          "id": 9,
+          "en": "undergraduate",
+          "zh": "本科生"
+        },
+        {
+          "id": 10,
+          "en": "diploma",
+          "zh": "文凭"
+        },
+        {
+          "id": 11,
+          "en": "dissertation",
+          "zh": "学位论文"
+        },
+        {
+          "id": 12,
+          "en": "degree",
+          "zh": "学位"
+        },
+        {
+          "id": 13,
+          "en": "graduate",
+          "zh": "毕业生"
+        },
+        {
+          "id": 14,
+          "en": "mortarboard",
+          "zh": "学位帽"
+        },
+        {
+          "id": 15,
+          "en": "robe",
+          "zh": "学位袍"
+        },
+        {
+          "id": 16,
+          "en": "graduation ceremony",
+          "zh": "毕业典礼"
+        },
+        {
+          "id": 17,
+          "en": "postgraduate",
+          "zh": "研究生"
+        },
+        {
+          "id": 18,
+          "en": "thesis",
+          "zh": "论文"
+        },
+        {
+          "id": 19,
+          "en": "master's degree",
+          "zh": "硕士学位"
+        },
+        {
+          "id": 20,
+          "en": "doctorate",
+          "zh": "博士学位"
+        }
+      ]
+    },
+    {
+      "pageNum": 168,
+      "image": "assets/images/page_169.jpg",
+      "section": "80.2",
+      "sectionTitle": "科系和学院",
+      "sectionTitleEn": "Departments and Faculties",
+      "words": [
+        {
+          "id": 21,
+          "en": "humanities",
+          "zh": "人文学科"
+        },
+        {
+          "id": 22,
+          "en": "politics",
+          "zh": "政治学"
+        },
+        {
+          "id": 23,
+          "en": "literature",
+          "zh": "文学"
+        },
+        {
+          "id": 24,
+          "en": "languages",
+          "zh": "语言"
+        },
+        {
+          "id": 25,
+          "en": "economics",
+          "zh": "经济学"
+        },
+        {
+          "id": 26,
+          "en": "philosophy",
+          "zh": "哲学"
+        },
+        {
+          "id": 27,
+          "en": "history",
+          "zh": "历史学"
+        },
+        {
+          "id": 28,
+          "en": "social sciences",
+          "zh": "社会科学"
+        },
+        {
+          "id": 29,
+          "en": "sociology",
+          "zh": "社会学"
+        },
+        {
+          "id": 30,
+          "en": "law",
+          "zh": "法学"
+        },
+        {
+          "id": 31,
+          "en": "medicine",
+          "zh": "医学"
+        },
+        {
+          "id": 32,
+          "en": "nursing",
+          "zh": "护理学"
+        }
+      ]
+    },
+    {
+      "pageNum": 169,
+      "image": "assets/images/page_170.jpg",
+      "section": "80.3",
+      "sectionTitle": "图书馆",
+      "sectionTitleEn": "Library",
+      "words": [
+        {
+          "id": 33,
+          "en": "reading room",
+          "zh": "阅览室"
+        },
+        {
+          "id": 34,
+          "en": "reading list",
+          "zh": "书单"
+        },
+        {
+          "id": 35,
+          "en": "to borrow",
+          "zh": "借书"
+        },
+        {
+          "id": 36,
+          "en": "to renew",
+          "zh": "续借"
+        },
+        {
+          "id": 37,
+          "en": "to return",
+          "zh": "还书"
+        },
+        {
+          "id": 38,
+          "en": "to reserve",
+          "zh": "预留"
+        },
+        {
+          "id": 39,
+          "en": "aisle",
+          "zh": "过道"
+        },
+        {
+          "id": 40,
+          "en": "bookshelf",
+          "zh": "书架"
+        },
+        {
+          "id": 41,
+          "en": "librarian",
+          "zh": "图书管理员"
+        },
+        {
+          "id": 42,
+          "en": "library card",
+          "zh": "借书证"
+        },
+        {
+          "id": 43,
+          "en": "periodical / journal",
+          "zh": "期刊"
+        },
+        {
+          "id": 44,
+          "en": "book",
+          "zh": "书"
+        },
+        {
+          "id": 45,
+          "en": "library",
+          "zh": "图书馆"
+        },
+        {
+          "id": 46,
+          "en": "circulation desk (US) / loans desk (UK)",
+          "zh": "图书借还台"
+        },
+        {
+          "id": 47,
+          "en": "sciences",
+          "zh": "自然科学"
+        },
+        {
+          "id": 48,
+          "en": "chemistry",
+          "zh": "化学"
+        },
+        {
+          "id": 49,
+          "en": "physics",
+          "zh": "物理学"
+        },
+        {
+          "id": 50,
+          "en": "biology",
+          "zh": "生物学"
+        },
+        {
+          "id": 51,
+          "en": "engineering",
+          "zh": "工程学"
+        },
+        {
+          "id": 52,
+          "en": "zoology",
+          "zh": "动物学"
+        },
+        {
+          "id": 53,
+          "en": "music school",
+          "zh": "音乐学院"
+        },
+        {
+          "id": 54,
+          "en": "dance school",
+          "zh": "舞蹈学院"
+        },
+        {
+          "id": 55,
+          "en": "art college / school",
+          "zh": "艺术学院"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "id": "56",
+  "title": "蔬菜2",
+  "titleEn": "Vegetables 2",
+  "category": "食物",
+  "pages": [
+    {
+      "pageNum": 122,
+      "image": "assets/images/page_123.jpg",
+      "section": "56.1",
+      "sectionTitle": "食品杂货店",
+      "sectionTitleEn": "Grocery Store",
+      "words": [
+        {
+          "id": 1,
+          "en": "turnips",
+          "zh": "萝卜"
+        },
+        {
+          "id": 2,
+          "en": "radishes",
+          "zh": "小红萝卜"
+        },
+        {
+          "id": 3,
+          "en": "parsnips",
+          "zh": "欧洲防风根"
+        },
+        {
+          "id": 4,
+          "en": "celeriac",
+          "zh": "块根芹"
+        },
+        {
+          "id": 5,
+          "en": "cassava",
+          "zh": "木薯"
+        },
+        {
+          "id": 6,
+          "en": "potatoes",
+          "zh": "土豆"
+        },
+        {
+          "id": 7,
+          "en": "water chestnuts",
+          "zh": "荸荠"
+        },
+        {
+          "id": 8,
+          "en": "yams",
+          "zh": "山药"
+        },
+        {
+          "id": 9,
+          "en": "beets (US) / beetroots (UK)",
+          "zh": "甜菜"
+        },
+        {
+          "id": 10,
+          "en": "rutabagas (US) / swedes (UK)",
+          "zh": "芜菁甘蓝"
+        },
+        {
+          "id": 11,
+          "en": "Jerusalem artichokes",
+          "zh": "菊芋"
+        },
+        {
+          "id": 12,
+          "en": "taro roots",
+          "zh": "芋头"
+        },
+        {
+          "id": 13,
+          "en": "horseradishes",
+          "zh": "辣根菜"
+        },
+        {
+          "id": 14,
+          "en": "breadfruit",
+          "zh": "面包果"
+        },
+        {
+          "id": 15,
+          "en": "shallots",
+          "zh": "红葱头"
+        },
+        {
+          "id": 16,
+          "en": "chiles (US) / chillies (UK)",
+          "zh": "辣椒"
+        },
+        {
+          "id": 17,
+          "en": "plum tomatoes",
+          "zh": "李子形番茄"
+        },
+        {
+          "id": 18,
+          "en": "asparagus tips",
+          "zh": "芦笋尖"
+        },
+        {
+          "id": 19,
+          "en": "artichoke heart",
+          "zh": "洋蓟心"
+        },
+        {
+          "id": 20,
+          "en": "oyster mushrooms",
+          "zh": "平菇"
+        },
+        {
+          "id": 21,
+          "en": "chanterelles",
+          "zh": "鸡油菌"
+        },
+        {
+          "id": 22,
+          "en": "shiitake mushrooms",
+          "zh": "香菇"
+        },
+        {
+          "id": 23,
+          "en": "truffles",
+          "zh": "松露"
+        },
+        {
+          "id": 24,
+          "en": "enoki mushrooms",
+          "zh": "金针菇"
+        },
+        {
+          "id": 25,
+          "en": "marrows",
+          "zh": "西葫芦"
+        },
+        {
+          "id": 26,
+          "en": "butternut squashes",
+          "zh": "冬南瓜"
+        },
+        {
+          "id": 27,
+          "en": "button acorn squashes",
+          "zh": "小青南瓜"
+        },
+        {
+          "id": 28,
+          "en": "pumpkins",
+          "zh": "南瓜"
+        },
+        {
+          "id": 29,
+          "en": "buttercup squashes",
+          "zh": "毛良南瓜"
+        },
+        {
+          "id": 30,
+          "en": "patty pans",
+          "zh": "帕蒂潘南瓜"
+        },
+        {
+          "id": 31,
+          "en": "fresh",
+          "zh": "新鲜的"
+        },
+        {
+          "id": 32,
+          "en": "frozen",
+          "zh": "冰冻的"
+        },
+        {
+          "id": 33,
+          "en": "canned (US) / tinned (UK)",
+          "zh": "罐装的"
+        },
+        {
+          "id": 34,
+          "en": "raw",
+          "zh": "未烹饪的"
+        },
+        {
+          "id": 35,
+          "en": "cooked",
+          "zh": "烹饪过的"
+        },
+        {
+          "id": 36,
+          "en": "hot / spicy",
+          "zh": "辣的"
+        }
+      ]
+    },
+    {
+      "pageNum": 123,
+      "image": "assets/images/page_124.jpg",
+      "section": "56.1",
+      "sectionTitle": "食品杂货店",
+      "sectionTitleEn": "Grocery Store",
+      "words": [
+        {
+          "id": 37,
+          "en": "garlic",
+          "zh": "大蒜"
+        },
+        {
+          "id": 38,
+          "en": "sweet potatoes",
+          "zh": "红薯"
+        },
+        {
+          "id": 39,
+          "en": "artichokes",
+          "zh": "洋蓟"
+        },
+        {
+          "id": 40,
+          "en": "broccoli",
+          "zh": "西兰花"
+        },
+        {
+          "id": 41,
+          "en": "eggplants (US) / aubergines (UK)",
+          "zh": "茄子"
+        },
+        {
+          "id": 42,
+          "en": "mushrooms",
+          "zh": "蘑菇"
+        },
+        {
+          "id": 43,
+          "en": "beans",
+          "zh": "豆子"
+        },
+        {
+          "id": 44,
+          "en": "tomatoes",
+          "zh": "番茄"
+        },
+        {
+          "id": 45,
+          "en": "avocados",
+          "zh": "牛油果"
+        },
+        {
+          "id": 46,
+          "en": "leeks",
+          "zh": "韭葱"
+        },
+        {
+          "id": 47,
+          "en": "butternut squashes",
+          "zh": "冬南瓜"
+        },
+        {
+          "id": 48,
+          "en": "cauliflowers",
+          "zh": "花椰菜"
+        },
+        {
+          "id": 49,
+          "en": "carrots",
+          "zh": "胡萝卜"
+        },
+        {
+          "id": 50,
+          "en": "asparagus",
+          "zh": "芦笋"
+        },
+        {
+          "id": 51,
+          "en": "zucchini (US) / courgettes (UK)",
+          "zh": "密生西葫芦"
+        },
+        {
+          "id": 52,
+          "en": "onions",
+          "zh": "洋葱"
+        },
+        {
+          "id": 53,
+          "en": "new potatoes",
+          "zh": "嫩土豆"
+        },
+        {
+          "id": 54,
+          "en": "peppers",
+          "zh": "甜椒"
+        },
+        {
+          "id": 55,
+          "en": "sweet",
+          "zh": "甜的"
+        },
+        {
+          "id": 56,
+          "en": "crunchy",
+          "zh": "脆的"
+        },
+        {
+          "id": 57,
+          "en": "bitter",
+          "zh": "苦的"
+        },
+        {
+          "id": 58,
+          "en": "leafy",
+          "zh": "多叶的"
+        }
+      ]
+    }
+  ]
+}

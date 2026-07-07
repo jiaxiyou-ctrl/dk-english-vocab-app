@@ -1,0 +1,284 @@
+{
+  "id": "04",
+  "title": "内部器官",
+  "titleEn": "Internal Organs",
+  "category": "人",
+  "pages": [
+    {
+      "pageNum": 18,
+      "image": "assets/images/page_19.jpg",
+      "section": "4.1",
+      "sectionTitle": "内脏",
+      "sectionTitleEn": "Internal Organs",
+      "words": [
+        {
+          "id": 1,
+          "en": "trachea",
+          "zh": "气管"
+        },
+        {
+          "id": 2,
+          "en": "lung",
+          "zh": "肺"
+        },
+        {
+          "id": 3,
+          "en": "liver",
+          "zh": "肝"
+        },
+        {
+          "id": 4,
+          "en": "gall bladder",
+          "zh": "胆囊"
+        },
+        {
+          "id": 5,
+          "en": "adrenal gland",
+          "zh": "肾上腺"
+        },
+        {
+          "id": 6,
+          "en": "kidney",
+          "zh": "肾"
+        },
+        {
+          "id": 7,
+          "en": "appendix",
+          "zh": "阑尾"
+        },
+        {
+          "id": 8,
+          "en": "thyroid gland",
+          "zh": "甲状腺"
+        },
+        {
+          "id": 9,
+          "en": "heart",
+          "zh": "心"
+        },
+        {
+          "id": 10,
+          "en": "stomach",
+          "zh": "胃"
+        },
+        {
+          "id": 11,
+          "en": "spleen",
+          "zh": "脾"
+        },
+        {
+          "id": 12,
+          "en": "pancreas",
+          "zh": "胰腺"
+        },
+        {
+          "id": 13,
+          "en": "small intestine",
+          "zh": "小肠"
+        },
+        {
+          "id": 14,
+          "en": "large intestine",
+          "zh": "大肠"
+        }
+      ]
+    },
+    {
+      "pageNum": 18,
+      "image": "assets/images/page_19.jpg",
+      "section": "4.2",
+      "sectionTitle": "身体系统",
+      "sectionTitleEn": "Body Systems",
+      "words": [
+        {
+          "id": 15,
+          "en": "respiratory",
+          "zh": "呼吸系统"
+        },
+        {
+          "id": 16,
+          "en": "digestive",
+          "zh": "消化系统"
+        },
+        {
+          "id": 17,
+          "en": "nervous",
+          "zh": "神经系统"
+        },
+        {
+          "id": 18,
+          "en": "urinary",
+          "zh": "泌尿系统"
+        },
+        {
+          "id": 19,
+          "en": "endocrine",
+          "zh": "内分泌系统"
+        },
+        {
+          "id": 20,
+          "en": "lymphatic",
+          "zh": "淋巴系统"
+        },
+        {
+          "id": 21,
+          "en": "reproductive",
+          "zh": "生殖系统"
+        },
+        {
+          "id": 22,
+          "en": "cardiovascular",
+          "zh": "心血管系统"
+        },
+        {
+          "id": 23,
+          "en": "vein",
+          "zh": "静脉"
+        },
+        {
+          "id": 24,
+          "en": "artery",
+          "zh": "动脉"
+        }
+      ]
+    },
+    {
+      "pageNum": 19,
+      "image": "assets/images/page_20.jpg",
+      "section": "4.3",
+      "sectionTitle": "头部",
+      "sectionTitleEn": "The Head",
+      "words": [
+        {
+          "id": 25,
+          "en": "brain",
+          "zh": "脑"
+        },
+        {
+          "id": 26,
+          "en": "palate",
+          "zh": "腭"
+        },
+        {
+          "id": 27,
+          "en": "pharynx",
+          "zh": "咽"
+        },
+        {
+          "id": 28,
+          "en": "epiglottis",
+          "zh": "会厌"
+        },
+        {
+          "id": 29,
+          "en": "throat",
+          "zh": "咽喉"
+        },
+        {
+          "id": 30,
+          "en": "spinal cord",
+          "zh": "脊髓"
+        },
+        {
+          "id": 31,
+          "en": "sinus",
+          "zh": "窦"
+        },
+        {
+          "id": 32,
+          "en": "tongue",
+          "zh": "舌"
+        },
+        {
+          "id": 33,
+          "en": "larynx",
+          "zh": "喉"
+        },
+        {
+          "id": 34,
+          "en": "Adam's apple",
+          "zh": "喉结"
+        },
+        {
+          "id": 35,
+          "en": "esophagus (US) / oesophagus (UK)",
+          "zh": "食管"
+        },
+        {
+          "id": 36,
+          "en": "vocal cords",
+          "zh": "声带"
+        }
+      ]
+    },
+    {
+      "pageNum": 19,
+      "image": "assets/images/page_20.jpg",
+      "section": "4.4",
+      "sectionTitle": "生殖器官",
+      "sectionTitleEn": "Reproductive Organs",
+      "words": [
+        {
+          "id": 37,
+          "en": "prostate gland",
+          "zh": "前列腺"
+        },
+        {
+          "id": 38,
+          "en": "seminal gland",
+          "zh": "精腺"
+        },
+        {
+          "id": 39,
+          "en": "testicle",
+          "zh": "睾丸"
+        },
+        {
+          "id": 40,
+          "en": "penis",
+          "zh": "阴茎"
+        },
+        {
+          "id": 41,
+          "en": "scrotum",
+          "zh": "阴囊"
+        },
+        {
+          "id": 42,
+          "en": "male",
+          "zh": "男性"
+        },
+        {
+          "id": 43,
+          "en": "fallopian tube",
+          "zh": "输卵管"
+        },
+        {
+          "id": 44,
+          "en": "uterus / womb",
+          "zh": "子宫"
+        },
+        {
+          "id": 45,
+          "en": "vagina",
+          "zh": "阴道"
+        },
+        {
+          "id": 46,
+          "en": "ovary",
+          "zh": "卵巢"
+        },
+        {
+          "id": 47,
+          "en": "cervix",
+          "zh": "宫颈"
+        },
+        {
+          "id": 48,
+          "en": "female",
+          "zh": "女性"
+        }
+      ]
+    }
+  ]
+}

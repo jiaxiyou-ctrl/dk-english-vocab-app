@@ -1,0 +1,351 @@
+{
+  "id": "89",
+  "title": "职业1",
+  "titleEn": "Occupations 1",
+  "category": "工作",
+  "pages": [
+    {
+      "pageNum": 186,
+      "image": "assets/images/page_187.jpg",
+      "section": "89.1",
+      "sectionTitle": "职业",
+      "sectionTitleEn": "Occupations",
+      "words": [
+        {
+          "id": 1,
+          "en": "actor",
+          "zh": "演员"
+        },
+        {
+          "id": 2,
+          "en": "sociologist",
+          "zh": "社会学家"
+        },
+        {
+          "id": 3,
+          "en": "barber",
+          "zh": "理发师"
+        },
+        {
+          "id": 4,
+          "en": "editor",
+          "zh": "编辑"
+        },
+        {
+          "id": 5,
+          "en": "bartender",
+          "zh": "酒保"
+        },
+        {
+          "id": 6,
+          "en": "fisherman",
+          "zh": "渔夫"
+        },
+        {
+          "id": 7,
+          "en": "physical therapist / physiotherapist",
+          "zh": "理疗师"
+        },
+        {
+          "id": 8,
+          "en": "optician",
+          "zh": "配镜师"
+        },
+        {
+          "id": 9,
+          "en": "plumber",
+          "zh": "水管工"
+        },
+        {
+          "id": 10,
+          "en": "this pipe has sprung a leak.",
+          "zh": "这根管子漏水了。"
+        },
+        {
+          "id": 11,
+          "en": "carpenter",
+          "zh": "木匠"
+        },
+        {
+          "id": 12,
+          "en": "ship's captain",
+          "zh": "船长"
+        },
+        {
+          "id": 13,
+          "en": "lecturer",
+          "zh": "讲师"
+        },
+        {
+          "id": 14,
+          "en": "comedian",
+          "zh": "喜剧演员"
+        },
+        {
+          "id": 15,
+          "en": "dancer",
+          "zh": "舞者"
+        },
+        {
+          "id": 16,
+          "en": "clown",
+          "zh": "小丑"
+        },
+        {
+          "id": 17,
+          "en": "cleaner",
+          "zh": "清洁工"
+        },
+        {
+          "id": 18,
+          "en": "doctor",
+          "zh": "医生"
+        },
+        {
+          "id": 19,
+          "en": "driving instructor",
+          "zh": "驾驶教练"
+        },
+        {
+          "id": 20,
+          "en": "painter",
+          "zh": "油漆工"
+        },
+        {
+          "id": 21,
+          "en": "electrician",
+          "zh": "电工"
+        },
+        {
+          "id": 22,
+          "en": "designer",
+          "zh": "设计师"
+        },
+        {
+          "id": 23,
+          "en": "barista",
+          "zh": "咖啡师"
+        },
+        {
+          "id": 24,
+          "en": "firefighter",
+          "zh": "消防员"
+        },
+        {
+          "id": 25,
+          "en": "app developer",
+          "zh": "应用开发者"
+        },
+        {
+          "id": 26,
+          "en": "spy",
+          "zh": "间谍"
+        },
+        {
+          "id": 27,
+          "en": "florist",
+          "zh": "花商"
+        },
+        {
+          "id": 28,
+          "en": "ground maintenance",
+          "zh": "地面维修工"
+        },
+        {
+          "id": 29,
+          "en": "gardener",
+          "zh": "园丁"
+        },
+        {
+          "id": 30,
+          "en": "grocer (US) / greengrocer (UK)",
+          "zh": "杂货商"
+        },
+        {
+          "id": 31,
+          "en": "miner",
+          "zh": "矿工"
+        },
+        {
+          "id": 32,
+          "en": "it manager",
+          "zh": "信息技术经理"
+        },
+        {
+          "id": 33,
+          "en": "jeweler (US) / jeweller (UK)",
+          "zh": "珠宝商"
+        },
+        {
+          "id": 34,
+          "en": "dentist",
+          "zh": "牙医"
+        }
+      ]
+    },
+    {
+      "pageNum": 187,
+      "image": "assets/images/page_188.jpg",
+      "section": "89.1",
+      "sectionTitle": "职业",
+      "sectionTitleEn": "Occupations",
+      "words": [
+        {
+          "id": 35,
+          "en": "maid / housekeeper",
+          "zh": "女仆/管家"
+        },
+        {
+          "id": 36,
+          "en": "hairdresser / stylist",
+          "zh": "理发造型师"
+        },
+        {
+          "id": 37,
+          "en": "mechanic",
+          "zh": "机修工"
+        },
+        {
+          "id": 38,
+          "en": "translator / interpreter",
+          "zh": "笔译员/口译员"
+        },
+        {
+          "id": 39,
+          "en": "museum curator",
+          "zh": "博物馆馆长"
+        },
+        {
+          "id": 40,
+          "en": "private investigator",
+          "zh": "私家侦探"
+        },
+        {
+          "id": 41,
+          "en": "site manager",
+          "zh": "现场经理"
+        },
+        {
+          "id": 42,
+          "en": "orthodontist",
+          "zh": "牙齿矫正医师"
+        },
+        {
+          "id": 43,
+          "en": "broadcaster (US) / newsreader (UK)",
+          "zh": "广播员"
+        },
+        {
+          "id": 44,
+          "en": "pharmacist",
+          "zh": "药剂师"
+        },
+        {
+          "id": 45,
+          "en": "butcher",
+          "zh": "肉贩"
+        },
+        {
+          "id": 46,
+          "en": "photographer",
+          "zh": "摄影师"
+        },
+        {
+          "id": 47,
+          "en": "police officer",
+          "zh": "警官"
+        },
+        {
+          "id": 48,
+          "en": "nurse",
+          "zh": "护士"
+        },
+        {
+          "id": 49,
+          "en": "sailor",
+          "zh": "水手"
+        },
+        {
+          "id": 50,
+          "en": "sales assistant",
+          "zh": "销售助理"
+        },
+        {
+          "id": 51,
+          "en": "server (US) / waitress (UK)",
+          "zh": "女服务员"
+        },
+        {
+          "id": 52,
+          "en": "server (US) / waiter (UK)",
+          "zh": "男服务员"
+        },
+        {
+          "id": 53,
+          "en": "sculptor",
+          "zh": "雕刻家"
+        },
+        {
+          "id": 54,
+          "en": "security guard",
+          "zh": "保安"
+        },
+        {
+          "id": 55,
+          "en": "tailor",
+          "zh": "裁缝"
+        },
+        {
+          "id": 56,
+          "en": "ski instructor",
+          "zh": "滑雪教练"
+        },
+        {
+          "id": 57,
+          "en": "soldier",
+          "zh": "士兵"
+        },
+        {
+          "id": 58,
+          "en": "farmer",
+          "zh": "农民"
+        },
+        {
+          "id": 59,
+          "en": "sportsperson",
+          "zh": "运动员"
+        },
+        {
+          "id": 60,
+          "en": "fishmonger",
+          "zh": "鱼贩"
+        },
+        {
+          "id": 61,
+          "en": "singer",
+          "zh": "歌手"
+        },
+        {
+          "id": 62,
+          "en": "real estate agent (US) / estate agent (UK)",
+          "zh": "房地产经纪人"
+        },
+        {
+          "id": 63,
+          "en": "market researcher",
+          "zh": "市场调查员"
+        },
+        {
+          "id": 64,
+          "en": "vet",
+          "zh": "兽医"
+        },
+        {
+          "id": 65,
+          "en": "your dog is up to date with its vaccinations.",
+          "zh": "你的狗已经按时接种了疫苗。"
+        }
+      ]
+    }
+  ]
+}

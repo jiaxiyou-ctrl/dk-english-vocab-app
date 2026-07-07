@@ -1,0 +1,256 @@
+{
+  "id": "127",
+  "title": "电影",
+  "titleEn": "Movies",
+  "category": "休闲",
+  "pages": [
+    {
+      "pageNum": 262,
+      "image": "assets/images/page_263.jpg",
+      "section": "127.1",
+      "sectionTitle": "电影院",
+      "sectionTitleEn": "Cinema",
+      "words": [
+        {
+          "id": 1,
+          "en": "drama",
+          "zh": "剧情片"
+        },
+        {
+          "id": 2,
+          "en": "musical",
+          "zh": "音乐片"
+        },
+        {
+          "id": 3,
+          "en": "science fiction",
+          "zh": "科幻片"
+        },
+        {
+          "id": 4,
+          "en": "thriller",
+          "zh": "惊悚片"
+        },
+        {
+          "id": 5,
+          "en": "comedy",
+          "zh": "喜剧片"
+        },
+        {
+          "id": 6,
+          "en": "action movie",
+          "zh": "动作片"
+        },
+        {
+          "id": 7,
+          "en": "horror",
+          "zh": "恐怖片"
+        },
+        {
+          "id": 8,
+          "en": "animation",
+          "zh": "动画片"
+        },
+        {
+          "id": 9,
+          "en": "romantic comedy",
+          "zh": "浪漫喜剧片"
+        },
+        {
+          "id": 10,
+          "en": "crime drama",
+          "zh": "犯罪剧情片"
+        },
+        {
+          "id": 11,
+          "en": "western",
+          "zh": "西部片"
+        },
+        {
+          "id": 12,
+          "en": "historical drama",
+          "zh": "历史剧情片"
+        },
+        {
+          "id": 13,
+          "en": "fantasy",
+          "zh": "幻想片"
+        },
+        {
+          "id": 14,
+          "en": "martial arts",
+          "zh": "武术片"
+        },
+        {
+          "id": 15,
+          "en": "special effects",
+          "zh": "特效"
+        },
+        {
+          "id": 16,
+          "en": "box office",
+          "zh": "票房"
+        },
+        {
+          "id": 17,
+          "en": "multiplex",
+          "zh": "多厅影院"
+        },
+        {
+          "id": 18,
+          "en": "popcorn",
+          "zh": "爆米花"
+        },
+        {
+          "id": 19,
+          "en": "movie star (us) / film star (uk)",
+          "zh": "电影明星"
+        },
+        {
+          "id": 20,
+          "en": "screen",
+          "zh": "银幕"
+        },
+        {
+          "id": 21,
+          "en": "audience",
+          "zh": "观众"
+        },
+        {
+          "id": 22,
+          "en": "movie theater (us) / cinema (uk)",
+          "zh": "电影院"
+        },
+        {
+          "id": 23,
+          "en": "main character",
+          "zh": "主角"
+        },
+        {
+          "id": 24,
+          "en": "hero",
+          "zh": "英雄"
+        },
+        {
+          "id": 25,
+          "en": "villain",
+          "zh": "反派"
+        }
+      ]
+    },
+    {
+      "pageNum": 263,
+      "image": "assets/images/page_264.jpg",
+      "section": "127.2",
+      "sectionTitle": "电影制片厂",
+      "sectionTitleEn": "Film Studio",
+      "words": [
+        {
+          "id": 26,
+          "en": "sound engineer",
+          "zh": "音响师"
+        },
+        {
+          "id": 27,
+          "en": "lens",
+          "zh": "镜头"
+        },
+        {
+          "id": 28,
+          "en": "cinematographer",
+          "zh": "电影摄影技师"
+        },
+        {
+          "id": 29,
+          "en": "camera operator",
+          "zh": "摄影师"
+        },
+        {
+          "id": 30,
+          "en": "director",
+          "zh": "导演"
+        },
+        {
+          "id": 31,
+          "en": "producer",
+          "zh": "制作人"
+        },
+        {
+          "id": 32,
+          "en": "movie camera",
+          "zh": "电影摄影机"
+        },
+        {
+          "id": 33,
+          "en": "film set",
+          "zh": "电影布景"
+        },
+        {
+          "id": 34,
+          "en": "paparazzi",
+          "zh": "狗仔队"
+        },
+        {
+          "id": 35,
+          "en": "red carpet",
+          "zh": "红毯"
+        },
+        {
+          "id": 36,
+          "en": "celebrity",
+          "zh": "名人"
+        },
+        {
+          "id": 37,
+          "en": "premiere",
+          "zh": "首映礼"
+        },
+        {
+          "id": 38,
+          "en": "audition",
+          "zh": "试镜"
+        },
+        {
+          "id": 39,
+          "en": "cast",
+          "zh": "演员阵容"
+        },
+        {
+          "id": 40,
+          "en": "extras",
+          "zh": "群众演员"
+        },
+        {
+          "id": 41,
+          "en": "stunt",
+          "zh": "特技"
+        },
+        {
+          "id": 42,
+          "en": "props",
+          "zh": "道具"
+        },
+        {
+          "id": 43,
+          "en": "screenplay",
+          "zh": "剧本"
+        },
+        {
+          "id": 44,
+          "en": "costumes",
+          "zh": "戏服"
+        },
+        {
+          "id": 45,
+          "en": "soundtrack",
+          "zh": "电影配乐"
+        },
+        {
+          "id": 46,
+          "en": "screenwriter",
+          "zh": "编剧"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "110",
+  "title": "冰球和长曲棍球",
+  "titleEn": "Hockey and Lacrosse",
+  "category": "运动",
+  "pages": [
+    {
+      "pageNum": 228,
+      "image": "assets/images/page_229.jpg",
+      "section": "110.1",
+      "sectionTitle": "冰球",
+      "sectionTitleEn": "Ice Hockey",
+      "words": [
+        { "id": 1, "en": "goal line", "zh": "球门线" },
+        { "id": 2, "en": "attack zone", "zh": "进攻区" },
+        { "id": 3, "en": "referee crease", "zh": "裁判区" },
+        { "id": 4, "en": "red line", "zh": "红线" },
+        { "id": 5, "en": "players' bench", "zh": "球员席" },
+        { "id": 6, "en": "defending zone", "zh": "防守区" },
+        { "id": 7, "en": "blue line", "zh": "蓝线" },
+        { "id": 8, "en": "end zone", "zh": "端区" },
+        { "id": 9, "en": "face-off spot", "zh": "争球点" },
+        { "id": 10, "en": "goal", "zh": "球门" },
+        { "id": 11, "en": "goal crease", "zh": "球门区" },
+        { "id": 12, "en": "boards", "zh": "挡板" },
+        { "id": 13, "en": "who do you think will win today?", "zh": "你觉得今天谁会赢？" },
+        { "id": 14, "en": "spectators", "zh": "观众" },
+        { "id": 15, "en": "penalty bench", "zh": "受罚席" },
+        { "id": 16, "en": "scorekeepers' bench", "zh": "记分员席" },
+        { "id": 17, "en": "neutral zone", "zh": "中场" },
+        { "id": 18, "en": "ice hockey rink", "zh": "冰球场" },
+        { "id": 19, "en": "center (US) / centre (UK)", "zh": "中锋" },
+        { "id": 20, "en": "goalkeeper", "zh": "守门员" },
+        { "id": 21, "en": "right winger", "zh": "右边锋" },
+        { "id": 22, "en": "right defenseman (US) / right defenceman (UK)", "zh": "右后卫" },
+        { "id": 23, "en": "left defenseman (US) / left defenceman (UK)", "zh": "左后卫" },
+        { "id": 24, "en": "left winger", "zh": "左边锋" },
+        { "id": 25, "en": "ice hockey positions", "zh": "冰球位置" }
+      ]
+    },
+    {
+      "pageNum": 229,
+      "image": "assets/images/page_230.jpg",
+      "section": "110.1",
+      "sectionTitle": "冰球（续）",
+      "sectionTitleEn": "Ice Hockey (continued)",
+      "words": [
+        { "id": 26, "en": "to skate", "zh": "滑行" },
+        { "id": 27, "en": "shoulder pad", "zh": "护肩" },
+        { "id": 28, "en": "helmet", "zh": "头盔" },
+        { "id": 29, "en": "protective padding", "zh": "护垫" },
+        { "id": 30, "en": "glove", "zh": "手套" },
+        { "id": 31, "en": "ice skate", "zh": "冰鞋" },
+        { "id": 32, "en": "stick", "zh": "球棍" },
+        { "id": 33, "en": "puck", "zh": "冰球" },
+        { "id": 34, "en": "ice hockey player", "zh": "冰球运动员" },
+        { "id": 35, "en": "blocking glove", "zh": "挡球手套" },
+        { "id": 36, "en": "face mask", "zh": "防护面具" },
+        { "id": 37, "en": "catching glove", "zh": "抓球手套" },
+        { "id": 38, "en": "leg guard", "zh": "护腿" },
+        { "id": 39, "en": "goalie stick", "zh": "守门员球棍" },
+        { "id": 40, "en": "goalkeeper", "zh": "守门员" }
+      ]
+    },
+    {
+      "pageNum": 229,
+      "image": "assets/images/page_230.jpg",
+      "section": "110.2",
+      "sectionTitle": "曲棍球",
+      "sectionTitleEn": "Field Hockey",
+      "words": [
+        { "id": 41, "en": "to hit", "zh": "击球" },
+        { "id": 42, "en": "shin guard", "zh": "护胫" },
+        { "id": 43, "en": "hockey stick", "zh": "曲棍球棒" },
+        { "id": 44, "en": "field hockey player", "zh": "曲棍球运动员" },
+        { "id": 45, "en": "ball", "zh": "曲棍球" }
+      ]
+    },
+    {
+      "pageNum": 229,
+      "image": "assets/images/page_230.jpg",
+      "section": "110.3",
+      "sectionTitle": "长曲棍球",
+      "sectionTitleEn": "Lacrosse",
+      "words": [
+        { "id": 46, "en": "head pocket", "zh": "球杆网兜" },
+        { "id": 47, "en": "crosse", "zh": "长曲棍球棒" },
+        { "id": 48, "en": "arm protection", "zh": "护臂" },
+        { "id": 49, "en": "handle", "zh": "柄" },
+        { "id": 50, "en": "lacrosse player", "zh": "长曲棍球运动员" },
+        { "id": 51, "en": "to pass", "zh": "传球" },
+        { "id": 52, "en": "to scoop", "zh": "兜球" },
+        { "id": 53, "en": "face-off", "zh": "争球" }
+      ]
+    }
+  ]
+}

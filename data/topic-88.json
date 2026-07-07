@@ -1,0 +1,313 @@
+{
+  "id": "88",
+  "title": "军事",
+  "titleEn": "Military",
+  "category": "工作",
+  "pages": [
+    {
+      "pageNum": 184,
+      "image": "assets/images/page_185.jpg",
+      "section": "88.1",
+      "sectionTitle": "武装部队",
+      "sectionTitleEn": "Armed Forces",
+      "words": [
+        {
+          "id": 1,
+          "en": "army",
+          "zh": "陆军"
+        },
+        {
+          "id": 2,
+          "en": "marine",
+          "zh": "海军陆战队"
+        },
+        {
+          "id": 3,
+          "en": "navy",
+          "zh": "海军"
+        },
+        {
+          "id": 4,
+          "en": "soldier",
+          "zh": "士兵"
+        },
+        {
+          "id": 5,
+          "en": "radio",
+          "zh": "无线电"
+        },
+        {
+          "id": 6,
+          "en": "earphone",
+          "zh": "耳机"
+        },
+        {
+          "id": 7,
+          "en": "camouflage",
+          "zh": "迷彩"
+        },
+        {
+          "id": 8,
+          "en": "sailors",
+          "zh": "水手"
+        },
+        {
+          "id": 9,
+          "en": "general",
+          "zh": "将军"
+        },
+        {
+          "id": 10,
+          "en": "admiral",
+          "zh": "海军上将"
+        },
+        {
+          "id": 11,
+          "en": "airforce",
+          "zh": "空军"
+        },
+        {
+          "id": 12,
+          "en": "airman",
+          "zh": "空军士兵"
+        },
+        {
+          "id": 13,
+          "en": "uniform",
+          "zh": "制服"
+        },
+        {
+          "id": 14,
+          "en": "veteran",
+          "zh": "老兵"
+        },
+        {
+          "id": 15,
+          "en": "medal",
+          "zh": "勋章"
+        }
+      ]
+    },
+    {
+      "pageNum": 184,
+      "image": "assets/images/page_185.jpg",
+      "section": "88.2",
+      "sectionTitle": "军用车辆",
+      "sectionTitleEn": "Military Vehicles",
+      "words": [
+        {
+          "id": 16,
+          "en": "gun",
+          "zh": "炮"
+        },
+        {
+          "id": 17,
+          "en": "armored vehicle (US) / armoured vehicle (UK)",
+          "zh": "装甲车"
+        },
+        {
+          "id": 18,
+          "en": "tank",
+          "zh": "坦克"
+        },
+        {
+          "id": 19,
+          "en": "military truck",
+          "zh": "军用卡车"
+        },
+        {
+          "id": 20,
+          "en": "amphibious vehicle",
+          "zh": "水陆两用车"
+        },
+        {
+          "id": 21,
+          "en": "military ambulance",
+          "zh": "军用救护车"
+        },
+        {
+          "id": 22,
+          "en": "reconnaissance vehicle",
+          "zh": "侦察车"
+        }
+      ]
+    },
+    {
+      "pageNum": 184,
+      "image": "assets/images/page_185.jpg",
+      "section": "88.3",
+      "sectionTitle": "海军舰艇",
+      "sectionTitleEn": "Naval Vessels",
+      "words": [
+        {
+          "id": 23,
+          "en": "aircraft carrier",
+          "zh": "航空母舰"
+        },
+        {
+          "id": 24,
+          "en": "island",
+          "zh": "舰岛"
+        },
+        {
+          "id": 25,
+          "en": "destroyer",
+          "zh": "驱逐舰"
+        },
+        {
+          "id": 26,
+          "en": "cruiser",
+          "zh": "巡洋舰"
+        },
+        {
+          "id": 27,
+          "en": "frigate",
+          "zh": "护卫舰"
+        },
+        {
+          "id": 28,
+          "en": "submarine",
+          "zh": "潜水艇"
+        }
+      ]
+    },
+    {
+      "pageNum": 185,
+      "image": "assets/images/page_186.jpg",
+      "section": "88.4",
+      "sectionTitle": "作战飞机",
+      "sectionTitleEn": "Combat Aircraft",
+      "words": [
+        {
+          "id": 29,
+          "en": "military transport aircraft",
+          "zh": "军用运输机"
+        },
+        {
+          "id": 30,
+          "en": "bomber",
+          "zh": "轰炸机"
+        },
+        {
+          "id": 31,
+          "en": "attack helicopter",
+          "zh": "武装直升机"
+        },
+        {
+          "id": 32,
+          "en": "fighter",
+          "zh": "战斗机"
+        },
+        {
+          "id": 33,
+          "en": "reconnaissance aircraft",
+          "zh": "侦察机"
+        },
+        {
+          "id": 34,
+          "en": "transport helicopter",
+          "zh": "运输直升机"
+        }
+      ]
+    },
+    {
+      "pageNum": 185,
+      "image": "assets/images/page_186.jpg",
+      "section": "88.5",
+      "sectionTitle": "战争和武器",
+      "sectionTitleEn": "War and Weapons",
+      "words": [
+        {
+          "id": 35,
+          "en": "battle",
+          "zh": "战役"
+        },
+        {
+          "id": 36,
+          "en": "front",
+          "zh": "前线"
+        },
+        {
+          "id": 37,
+          "en": "gunfire",
+          "zh": "炮火"
+        },
+        {
+          "id": 38,
+          "en": "casualty",
+          "zh": "伤亡人员"
+        },
+        {
+          "id": 39,
+          "en": "field hospital",
+          "zh": "战地医院"
+        },
+        {
+          "id": 40,
+          "en": "mess",
+          "zh": "军队食堂"
+        },
+        {
+          "id": 41,
+          "en": "guns",
+          "zh": "枪"
+        },
+        {
+          "id": 42,
+          "en": "machine gun",
+          "zh": "机关枪"
+        },
+        {
+          "id": 43,
+          "en": "pistol",
+          "zh": "手枪"
+        },
+        {
+          "id": 44,
+          "en": "shotgun",
+          "zh": "霰弹枪"
+        },
+        {
+          "id": 45,
+          "en": "rifle",
+          "zh": "步枪"
+        },
+        {
+          "id": 46,
+          "en": "grenade launcher",
+          "zh": "榴弹发射器"
+        },
+        {
+          "id": 47,
+          "en": "grenade",
+          "zh": "榴弹"
+        },
+        {
+          "id": 48,
+          "en": "surface-to-air missile",
+          "zh": "地对空导弹"
+        },
+        {
+          "id": 49,
+          "en": "ballistic missile",
+          "zh": "弹道导弹"
+        },
+        {
+          "id": 50,
+          "en": "shoulder-launched missile",
+          "zh": "肩射导弹"
+        },
+        {
+          "id": 51,
+          "en": "cruise missile",
+          "zh": "巡航导弹"
+        },
+        {
+          "id": 52,
+          "en": "armed drone",
+          "zh": "武装无人机"
+        }
+      ]
+    }
+  ]
+}

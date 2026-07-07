@@ -1,0 +1,295 @@
+{
+  "id": "131",
+  "title": "旅游和住宿",
+  "titleEn": "Tourism and Accommodation",
+  "category": "休闲",
+  "pages": [
+    {
+      "pageNum": 270,
+      "image": "assets/images/page_271.jpg",
+      "section": "131.1",
+      "sectionTitle": "旅游",
+      "sectionTitleEn": "Tourism",
+      "words": [
+        {
+          "id": 1,
+          "en": "guidebook",
+          "zh": "旅游指南"
+        },
+        {
+          "id": 2,
+          "en": "phrasebook",
+          "zh": "常用语手册"
+        },
+        {
+          "id": 3,
+          "en": "one-way ticket",
+          "zh": "单程票"
+        },
+        {
+          "id": 4,
+          "en": "round-trip (us) / return ticket (uk)",
+          "zh": "往返票"
+        },
+        {
+          "id": 5,
+          "en": "to book a vacation (us) / to book a holiday (uk)",
+          "zh": "预订度假"
+        },
+        {
+          "id": 6,
+          "en": "to pack your bags",
+          "zh": "收拾行李"
+        },
+        {
+          "id": 7,
+          "en": "to go on a vacation (us) / to go on a holiday (uk)",
+          "zh": "去度假"
+        },
+        {
+          "id": 8,
+          "en": "to go on a cruise",
+          "zh": "坐游轮"
+        },
+        {
+          "id": 9,
+          "en": "to go abroad",
+          "zh": "出国"
+        },
+        {
+          "id": 10,
+          "en": "to make a reservation",
+          "zh": "预订"
+        },
+        {
+          "id": 11,
+          "en": "to rent a cottage",
+          "zh": "租小屋"
+        },
+        {
+          "id": 12,
+          "en": "to go backpacking",
+          "zh": "背包旅行"
+        },
+        {
+          "id": 13,
+          "en": "to check in",
+          "zh": "入住"
+        },
+        {
+          "id": 14,
+          "en": "to check out",
+          "zh": "退房"
+        },
+        {
+          "id": 15,
+          "en": "to stay in a hotel",
+          "zh": "住酒店"
+        }
+      ]
+    },
+    {
+      "pageNum": 270,
+      "image": "assets/images/page_271.jpg",
+      "section": "131.2",
+      "sectionTitle": "住宿",
+      "sectionTitleEn": "Accommodation",
+      "words": [
+        {
+          "id": 16,
+          "en": "hotel",
+          "zh": "旅馆"
+        },
+        {
+          "id": 17,
+          "en": "apartment",
+          "zh": "公寓"
+        },
+        {
+          "id": 18,
+          "en": "hostel",
+          "zh": "旅舍"
+        },
+        {
+          "id": 19,
+          "en": "guest house",
+          "zh": "小旅馆"
+        },
+        {
+          "id": 20,
+          "en": "bed and breakfast",
+          "zh": "住宿加早餐"
+        },
+        {
+          "id": 21,
+          "en": "villa",
+          "zh": "别墅"
+        },
+        {
+          "id": 22,
+          "en": "elevator (us) / lift (uk)",
+          "zh": "电梯"
+        },
+        {
+          "id": 23,
+          "en": "guests",
+          "zh": "客人"
+        },
+        {
+          "id": 24,
+          "en": "trolley",
+          "zh": "手推车"
+        },
+        {
+          "id": 25,
+          "en": "luggage",
+          "zh": "行李"
+        },
+        {
+          "id": 26,
+          "en": "porter",
+          "zh": "行李员"
+        },
+        {
+          "id": 27,
+          "en": "chalet",
+          "zh": "牧人小屋"
+        },
+        {
+          "id": 28,
+          "en": "cabin",
+          "zh": "小木屋"
+        },
+        {
+          "id": 29,
+          "en": "ecotourism",
+          "zh": "生态旅游"
+        },
+        {
+          "id": 30,
+          "en": "single room",
+          "zh": "单床房"
+        },
+        {
+          "id": 31,
+          "en": "twin room",
+          "zh": "双床房"
+        },
+        {
+          "id": 32,
+          "en": "double room",
+          "zh": "大床房"
+        },
+        {
+          "id": 33,
+          "en": "en suite bathroom (uk)",
+          "zh": "独立卫浴"
+        },
+        {
+          "id": 34,
+          "en": "dorm",
+          "zh": "宿舍"
+        },
+        {
+          "id": 35,
+          "en": "room with a view",
+          "zh": "风景房"
+        },
+        {
+          "id": 36,
+          "en": "vacancies",
+          "zh": "空房"
+        },
+        {
+          "id": 37,
+          "en": "no vacancies",
+          "zh": "客满"
+        },
+        {
+          "id": 38,
+          "en": "receptionist",
+          "zh": "接待员"
+        },
+        {
+          "id": 39,
+          "en": "front desk (us) / reception (uk)",
+          "zh": "接待处"
+        },
+        {
+          "id": 40,
+          "en": "restrooms (us) / toilets (uk)",
+          "zh": "卫生间"
+        },
+        {
+          "id": 41,
+          "en": "emergency exit",
+          "zh": "紧急出口"
+        },
+        {
+          "id": 42,
+          "en": "counter",
+          "zh": "前台"
+        },
+        {
+          "id": 43,
+          "en": "hotel lobby",
+          "zh": "酒店大堂"
+        }
+      ]
+    },
+    {
+      "pageNum": 271,
+      "image": "assets/images/page_272.jpg",
+      "section": "131.3",
+      "sectionTitle": "服务",
+      "sectionTitleEn": "Services",
+      "words": [
+        {
+          "id": 44,
+          "en": "restaurant",
+          "zh": "餐厅"
+        },
+        {
+          "id": 45,
+          "en": "gym",
+          "zh": "健身房"
+        },
+        {
+          "id": 46,
+          "en": "swimming pool",
+          "zh": "游泳池"
+        },
+        {
+          "id": 47,
+          "en": "room service",
+          "zh": "客房服务"
+        },
+        {
+          "id": 48,
+          "en": "breakfast tray",
+          "zh": "早餐托盘"
+        },
+        {
+          "id": 49,
+          "en": "laundry service",
+          "zh": "洗衣服务"
+        },
+        {
+          "id": 50,
+          "en": "maid service",
+          "zh": "女仆服务"
+        },
+        {
+          "id": 51,
+          "en": "minibar",
+          "zh": "迷你吧"
+        },
+        {
+          "id": 52,
+          "en": "safe",
+          "zh": "保险箱"
+        }
+      ]
+    }
+  ]
+}

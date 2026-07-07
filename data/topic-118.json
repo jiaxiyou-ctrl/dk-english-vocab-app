@@ -1,0 +1,325 @@
+{
+  "id": "118",
+  "title": "游泳",
+  "titleEn": "Swimming",
+  "category": "运动",
+  "pages": [
+    {
+      "pageNum": 244,
+      "image": "assets/images/page_245.jpg",
+      "section": "118.1",
+      "sectionTitle": "游泳",
+      "sectionTitleEn": "Swimming",
+      "words": [
+        {
+          "id": 1,
+          "en": "water",
+          "zh": "水"
+        },
+        {
+          "id": 2,
+          "en": "lane",
+          "zh": "泳道"
+        },
+        {
+          "id": 3,
+          "en": "lane rope",
+          "zh": "分道绳"
+        },
+        {
+          "id": 4,
+          "en": "swimmer",
+          "zh": "游泳者"
+        },
+        {
+          "id": 5,
+          "en": "to turn",
+          "zh": "转身"
+        },
+        {
+          "id": 6,
+          "en": "swimming pool",
+          "zh": "游泳池"
+        },
+        {
+          "id": 7,
+          "en": "starting block",
+          "zh": "出发台"
+        },
+        {
+          "id": 8,
+          "en": "synchronized swimming",
+          "zh": "花样游泳"
+        },
+        {
+          "id": 9,
+          "en": "lockers",
+          "zh": "储物柜"
+        },
+        {
+          "id": 10,
+          "en": "lifeguard",
+          "zh": "救生员"
+        },
+        {
+          "id": 11,
+          "en": "to tread water",
+          "zh": "踩水"
+        },
+        {
+          "id": 12,
+          "en": "deep end",
+          "zh": "深水区"
+        },
+        {
+          "id": 13,
+          "en": "shallow end",
+          "zh": "浅水区"
+        },
+        {
+          "id": 14,
+          "en": "cramp",
+          "zh": "抽筋"
+        },
+        {
+          "id": 15,
+          "en": "open turn",
+          "zh": "开放式转身"
+        },
+        {
+          "id": 16,
+          "en": "flip / tumble turn",
+          "zh": "滚翻式转身"
+        },
+        {
+          "id": 17,
+          "en": "bucket turn",
+          "zh": "转斗式转身"
+        },
+        {
+          "id": 18,
+          "en": "to float",
+          "zh": "漂浮"
+        },
+        {
+          "id": 19,
+          "en": "to kick",
+          "zh": "打水"
+        },
+        {
+          "id": 20,
+          "en": "stroke",
+          "zh": "划水"
+        },
+        {
+          "id": 21,
+          "en": "sidestroke",
+          "zh": "侧泳"
+        },
+        {
+          "id": 22,
+          "en": "breaststroke",
+          "zh": "蛙泳"
+        },
+        {
+          "id": 23,
+          "en": "backstroke",
+          "zh": "仰泳"
+        },
+        {
+          "id": 24,
+          "en": "front crawl",
+          "zh": "自由泳"
+        },
+        {
+          "id": 25,
+          "en": "butterfly",
+          "zh": "蝶泳"
+        },
+        {
+          "id": 26,
+          "en": "medley relay",
+          "zh": "混合泳接力"
+        },
+        {
+          "id": 27,
+          "en": "cap",
+          "zh": "泳帽"
+        },
+        {
+          "id": 28,
+          "en": "goggles",
+          "zh": "泳镜"
+        },
+        {
+          "id": 29,
+          "en": "nose clip",
+          "zh": "鼻夹"
+        },
+        {
+          "id": 30,
+          "en": "armband",
+          "zh": "臂漂"
+        },
+        {
+          "id": 31,
+          "en": "swimsuit",
+          "zh": "泳装"
+        },
+        {
+          "id": 32,
+          "en": "float",
+          "zh": "浮板"
+        }
+      ]
+    },
+    {
+      "pageNum": 245,
+      "image": "assets/images/page_246.jpg",
+      "section": "118.2",
+      "sectionTitle": "跳水",
+      "sectionTitleEn": "Diving",
+      "words": [
+        {
+          "id": 33,
+          "en": "diving board",
+          "zh": "跳水板"
+        },
+        {
+          "id": 34,
+          "en": "to dive",
+          "zh": "跳水"
+        },
+        {
+          "id": 35,
+          "en": "racing dive",
+          "zh": "跳水出发"
+        },
+        {
+          "id": 36,
+          "en": "platform",
+          "zh": "跳台"
+        },
+        {
+          "id": 37,
+          "en": "diving tower",
+          "zh": "跳水塔"
+        },
+        {
+          "id": 38,
+          "en": "high dive",
+          "zh": "高空跳水"
+        },
+        {
+          "id": 39,
+          "en": "diver",
+          "zh": "跳水者"
+        },
+        {
+          "id": 40,
+          "en": "front-flip",
+          "zh": "前空翻"
+        },
+        {
+          "id": 41,
+          "en": "back-flip",
+          "zh": "后空翻"
+        },
+        {
+          "id": 42,
+          "en": "head-first",
+          "zh": "头先入水"
+        },
+        {
+          "id": 43,
+          "en": "feet-first",
+          "zh": "脚先入水"
+        },
+        {
+          "id": 44,
+          "en": "springboard",
+          "zh": "跳板"
+        }
+      ]
+    },
+    {
+      "pageNum": 245,
+      "image": "assets/images/page_246.jpg",
+      "section": "118.3",
+      "sectionTitle": "潜水",
+      "sectionTitleEn": "Diving / Snorkeling",
+      "words": [
+        {
+          "id": 45,
+          "en": "snorkel",
+          "zh": "水下呼吸管"
+        },
+        {
+          "id": 46,
+          "en": "coral reef fish",
+          "zh": "珊瑚礁鱼类"
+        },
+        {
+          "id": 47,
+          "en": "snorkeling (US) / snorkelling (UK)",
+          "zh": "浮潜"
+        },
+        {
+          "id": 48,
+          "en": "wet suit",
+          "zh": "潜水服"
+        },
+        {
+          "id": 49,
+          "en": "weight belt",
+          "zh": "负重腰带"
+        },
+        {
+          "id": 50,
+          "en": "air cylinder",
+          "zh": "氧气瓶"
+        },
+        {
+          "id": 51,
+          "en": "fins / flippers",
+          "zh": "脚蹼"
+        },
+        {
+          "id": 52,
+          "en": "scuba diving",
+          "zh": "水肺潜水"
+        },
+        {
+          "id": 53,
+          "en": "mask",
+          "zh": "潜水面罩"
+        },
+        {
+          "id": 54,
+          "en": "regulator",
+          "zh": "呼吸调节器"
+        },
+        {
+          "id": 55,
+          "en": "underwater camera",
+          "zh": "水下摄影机"
+        },
+        {
+          "id": 56,
+          "en": "depth gauge",
+          "zh": "深度计"
+        },
+        {
+          "id": 57,
+          "en": "coral reef",
+          "zh": "珊瑚礁"
+        },
+        {
+          "id": 58,
+          "en": "deep diving",
+          "zh": "深潜"
+        }
+      ]
+    }
+  ]
+}

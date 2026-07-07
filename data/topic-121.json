@@ -1,0 +1,293 @@
+{
+  "id": "121",
+  "title": "钓鱼",
+  "titleEn": "Fishing",
+  "category": "运动",
+  "pages": [
+    {
+      "pageNum": 250,
+      "image": "assets/images/page_251.jpg",
+      "section": "121.1",
+      "sectionTitle": "垂钓者",
+      "sectionTitleEn": "The Angler",
+      "words": [
+        {
+          "id": 1,
+          "en": "fishing rod",
+          "zh": "鱼竿"
+        },
+        {
+          "id": 2,
+          "en": "i felt a fish bite. i need to reel it in.",
+          "zh": "我感到有鱼咬钩了，我需要把它钓上来。"
+        },
+        {
+          "id": 3,
+          "en": "pole",
+          "zh": "竿"
+        },
+        {
+          "id": 4,
+          "en": "line",
+          "zh": "鱼线"
+        },
+        {
+          "id": 5,
+          "en": "float",
+          "zh": "鱼漂"
+        },
+        {
+          "id": 6,
+          "en": "waterproof fishing gear / waterproofs (UK)",
+          "zh": "防水渔具"
+        },
+        {
+          "id": 7,
+          "en": "angler",
+          "zh": "垂钓者"
+        },
+        {
+          "id": 8,
+          "en": "fishing license (US) / fishing permit (UK)",
+          "zh": "钓鱼许可证"
+        },
+        {
+          "id": 9,
+          "en": "reel",
+          "zh": "卷线轮"
+        },
+        {
+          "id": 10,
+          "en": "waders",
+          "zh": "防水连靴裤"
+        },
+        {
+          "id": 11,
+          "en": "fishing vest",
+          "zh": "钓鱼背心"
+        },
+        {
+          "id": 12,
+          "en": "tackle",
+          "zh": "渔具"
+        }
+      ]
+    },
+    {
+      "pageNum": 250,
+      "image": "assets/images/page_251.jpg",
+      "section": "121.2",
+      "sectionTitle": "钓鱼",
+      "sectionTitleEn": "Fishing Equipment",
+      "words": [
+        {
+          "id": 13,
+          "en": "tackle box",
+          "zh": "渔具箱"
+        },
+        {
+          "id": 14,
+          "en": "bait",
+          "zh": "鱼饵"
+        },
+        {
+          "id": 15,
+          "en": "float",
+          "zh": "鱼漂"
+        },
+        {
+          "id": 16,
+          "en": "harpoon",
+          "zh": "鱼叉"
+        },
+        {
+          "id": 17,
+          "en": "fishhook",
+          "zh": "鱼钩"
+        },
+        {
+          "id": 18,
+          "en": "barb",
+          "zh": "倒钩"
+        },
+        {
+          "id": 19,
+          "en": "eye",
+          "zh": "孔眼"
+        },
+        {
+          "id": 20,
+          "en": "treble fishhook",
+          "zh": "三本钩"
+        },
+        {
+          "id": 21,
+          "en": "weight",
+          "zh": "重物"
+        },
+        {
+          "id": 22,
+          "en": "lure",
+          "zh": "诱饵"
+        },
+        {
+          "id": 23,
+          "en": "fly",
+          "zh": "假蝇"
+        },
+        {
+          "id": 24,
+          "en": "reel",
+          "zh": "卷线轮"
+        },
+        {
+          "id": 25,
+          "en": "landing net",
+          "zh": "渔网"
+        },
+        {
+          "id": 26,
+          "en": "keep net",
+          "zh": "活鱼笼"
+        }
+      ]
+    },
+    {
+      "pageNum": 251,
+      "image": "assets/images/page_252.jpg",
+      "section": "121.3",
+      "sectionTitle": "钓鱼类型",
+      "sectionTitleEn": "Types of Fishing",
+      "words": [
+        {
+          "id": 27,
+          "en": "fly fishing",
+          "zh": "飞钓"
+        },
+        {
+          "id": 28,
+          "en": "freshwater fishing",
+          "zh": "淡水钓鱼"
+        },
+        {
+          "id": 29,
+          "en": "marine fishing",
+          "zh": "海洋捕捞"
+        },
+        {
+          "id": 30,
+          "en": "deep sea fishing",
+          "zh": "深海捕鱼"
+        },
+        {
+          "id": 31,
+          "en": "sport fishing",
+          "zh": "垂钓运动"
+        },
+        {
+          "id": 32,
+          "en": "spearfishing",
+          "zh": "潜水叉鱼"
+        },
+        {
+          "id": 33,
+          "en": "ice fishing",
+          "zh": "冰钓"
+        },
+        {
+          "id": 34,
+          "en": "stand",
+          "zh": "支架"
+        },
+        {
+          "id": 35,
+          "en": "surfcasting",
+          "zh": "激浪投钓"
+        }
+      ]
+    },
+    {
+      "pageNum": 251,
+      "image": "assets/images/page_252.jpg",
+      "section": "121.4",
+      "sectionTitle": "钓鱼相关的动词",
+      "sectionTitleEn": "Fishing Verbs",
+      "words": [
+        {
+          "id": 36,
+          "en": "to bait",
+          "zh": "下饵"
+        },
+        {
+          "id": 37,
+          "en": "to cast",
+          "zh": "甩杆"
+        },
+        {
+          "id": 38,
+          "en": "to bite",
+          "zh": "咬钩"
+        },
+        {
+          "id": 39,
+          "en": "to catch",
+          "zh": "抓住"
+        },
+        {
+          "id": 40,
+          "en": "to reel in",
+          "zh": "收线"
+        },
+        {
+          "id": 41,
+          "en": "to net",
+          "zh": "网捞"
+        },
+        {
+          "id": 42,
+          "en": "to release",
+          "zh": "放生"
+        }
+      ]
+    },
+    {
+      "pageNum": 251,
+      "image": "assets/images/page_252.jpg",
+      "section": "121.5",
+      "sectionTitle": "绳结",
+      "sectionTitleEn": "Fishing Knots",
+      "words": [
+        {
+          "id": 43,
+          "en": "clinch knot",
+          "zh": "渔夫结"
+        },
+        {
+          "id": 44,
+          "en": "blood knot",
+          "zh": "血结"
+        },
+        {
+          "id": 45,
+          "en": "arbor knot",
+          "zh": "卷轴结"
+        },
+        {
+          "id": 46,
+          "en": "snell knot",
+          "zh": "斯奈尔结"
+        },
+        {
+          "id": 47,
+          "en": "turle knot",
+          "zh": "特尔结"
+        },
+        {
+          "id": 48,
+          "en": "palomar knot",
+          "zh": "帕洛玛结"
+        }
+      ]
+    }
+  ]
+}

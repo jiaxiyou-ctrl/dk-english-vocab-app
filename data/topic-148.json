@@ -1,0 +1,345 @@
+{
+  "id": "148",
+  "title": "地图和方向",
+  "titleEn": "Maps and Directions",
+  "category": "环境",
+  "pages": [
+    {
+      "pageNum": 304,
+      "image": "assets/images/page_305.jpg",
+      "section": "148.1",
+      "sectionTitle": "看地图",
+      "sectionTitleEn": "Reading a Map",
+      "words": [
+        {
+          "id": 1,
+          "en": "map",
+          "zh": "地图"
+        },
+        {
+          "id": 2,
+          "en": "compass",
+          "zh": "指南针"
+        },
+        {
+          "id": 3,
+          "en": "north",
+          "zh": "北方"
+        },
+        {
+          "id": 4,
+          "en": "northeast",
+          "zh": "东北方"
+        },
+        {
+          "id": 5,
+          "en": "east",
+          "zh": "东方"
+        },
+        {
+          "id": 6,
+          "en": "southeast",
+          "zh": "东南方"
+        },
+        {
+          "id": 7,
+          "en": "south",
+          "zh": "南方"
+        },
+        {
+          "id": 8,
+          "en": "southwest",
+          "zh": "西南方"
+        },
+        {
+          "id": 9,
+          "en": "west",
+          "zh": "西方"
+        },
+        {
+          "id": 10,
+          "en": "northwest",
+          "zh": "西北方"
+        },
+        {
+          "id": 11,
+          "en": "main road",
+          "zh": "主路"
+        },
+        {
+          "id": 12,
+          "en": "secondary road",
+          "zh": "二级公路"
+        },
+        {
+          "id": 13,
+          "en": "public footpath",
+          "zh": "公共步道"
+        },
+        {
+          "id": 14,
+          "en": "railroad (US) / railway (UK)",
+          "zh": "铁路"
+        },
+        {
+          "id": 15,
+          "en": "train station",
+          "zh": "火车站"
+        },
+        {
+          "id": 16,
+          "en": "campground (US) / campsite (UK)",
+          "zh": "露营地"
+        },
+        {
+          "id": 17,
+          "en": "rest stop (US) / service station (UK)",
+          "zh": "服务区"
+        },
+        {
+          "id": 18,
+          "en": "grid lines",
+          "zh": "网格线"
+        },
+        {
+          "id": 19,
+          "en": "nature reserve",
+          "zh": "自然保护区"
+        },
+        {
+          "id": 20,
+          "en": "viewpoint",
+          "zh": "观景点"
+        },
+        {
+          "id": 21,
+          "en": "walking trail",
+          "zh": "步行道"
+        },
+        {
+          "id": 22,
+          "en": "town",
+          "zh": "市镇"
+        },
+        {
+          "id": 23,
+          "en": "house / building",
+          "zh": "房屋/建筑"
+        },
+        {
+          "id": 24,
+          "en": "school",
+          "zh": "学校"
+        },
+        {
+          "id": 25,
+          "en": "library",
+          "zh": "图书馆"
+        },
+        {
+          "id": 26,
+          "en": "ferry route",
+          "zh": "渡轮航线"
+        },
+        {
+          "id": 27,
+          "en": "contours",
+          "zh": "等高线"
+        },
+        {
+          "id": 28,
+          "en": "river",
+          "zh": "河"
+        },
+        {
+          "id": 29,
+          "en": "lake",
+          "zh": "湖"
+        },
+        {
+          "id": 30,
+          "en": "forest",
+          "zh": "森林"
+        },
+        {
+          "id": 31,
+          "en": "beach",
+          "zh": "海滩"
+        },
+        {
+          "id": 32,
+          "en": "clockwise",
+          "zh": "顺时针"
+        },
+        {
+          "id": 33,
+          "en": "counterclockwise (US) / anticlockwise (UK)",
+          "zh": "逆时针"
+        },
+        {
+          "id": 34,
+          "en": "coordinates",
+          "zh": "坐标"
+        },
+        {
+          "id": 35,
+          "en": "orienteering",
+          "zh": "定向越野"
+        },
+        {
+          "id": 36,
+          "en": "latitude",
+          "zh": "纬度"
+        },
+        {
+          "id": 37,
+          "en": "longitude",
+          "zh": "经度"
+        },
+        {
+          "id": 38,
+          "en": "scale",
+          "zh": "比例尺"
+        },
+        {
+          "id": 39,
+          "en": "cartographer",
+          "zh": "制图师"
+        },
+        {
+          "id": 40,
+          "en": "online map",
+          "zh": "在线地图"
+        },
+        {
+          "id": 41,
+          "en": "trail map (US) / hiking map (UK)",
+          "zh": "步道地图"
+        },
+        {
+          "id": 42,
+          "en": "roadmap (US) / streetmap (UK)",
+          "zh": "街道地图"
+        }
+      ]
+    },
+    {
+      "pageNum": 305,
+      "image": "assets/images/page_306.jpg",
+      "section": "148.2",
+      "sectionTitle": "地点相关的介词",
+      "sectionTitleEn": "Prepositions of Place",
+      "words": [
+        {
+          "id": 43,
+          "en": "next to / beside",
+          "zh": "在……旁边"
+        },
+        {
+          "id": 44,
+          "en": "across from (US) / opposite (UK)",
+          "zh": "在……对面"
+        },
+        {
+          "id": 45,
+          "en": "between",
+          "zh": "在……之间"
+        },
+        {
+          "id": 46,
+          "en": "on the corner",
+          "zh": "在拐弯处"
+        },
+        {
+          "id": 47,
+          "en": "in front of",
+          "zh": "在……前面"
+        },
+        {
+          "id": 48,
+          "en": "behind",
+          "zh": "在……后面"
+        },
+        {
+          "id": 49,
+          "en": "on the left",
+          "zh": "在……左边"
+        },
+        {
+          "id": 50,
+          "en": "on the right",
+          "zh": "在……右边"
+        }
+      ]
+    },
+    {
+      "pageNum": 305,
+      "image": "assets/images/page_306.jpg",
+      "section": "148.3",
+      "sectionTitle": "方向相关的动词",
+      "sectionTitleEn": "Direction Verbs",
+      "words": [
+        {
+          "id": 51,
+          "en": "to go left / to turn left",
+          "zh": "左转"
+        },
+        {
+          "id": 52,
+          "en": "to go right / to turn right",
+          "zh": "右转"
+        },
+        {
+          "id": 53,
+          "en": "to go straight ahead / on (UK)",
+          "zh": "直行"
+        },
+        {
+          "id": 54,
+          "en": "to go back",
+          "zh": "掉头"
+        },
+        {
+          "id": 55,
+          "en": "to go past (the restaurant)",
+          "zh": "经过（餐馆）"
+        },
+        {
+          "id": 56,
+          "en": "to take the first left",
+          "zh": "在第一个路口左转"
+        },
+        {
+          "id": 57,
+          "en": "to take the second right",
+          "zh": "在第二个路口右转"
+        },
+        {
+          "id": 58,
+          "en": "to stop at (the hotel)",
+          "zh": "在（旅馆）停下"
+        },
+        {
+          "id": 59,
+          "en": "to plan your route",
+          "zh": "规划路线"
+        },
+        {
+          "id": 60,
+          "en": "to lose your way",
+          "zh": "迷路"
+        },
+        {
+          "id": 61,
+          "en": "to read a map",
+          "zh": "看地图"
+        },
+        {
+          "id": 62,
+          "en": "to ask directions",
+          "zh": "问路"
+        }
+      ]
+    }
+  ]
+}

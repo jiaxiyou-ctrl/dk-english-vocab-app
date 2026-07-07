@@ -1,0 +1,266 @@
+{
+  "id": "105",
+  "title": "海上船舶",
+  "titleEn": "Ships",
+  "category": "交通",
+  "pages": [
+    {
+      "pageNum": 218,
+      "image": "assets/images/page_219.jpg",
+      "section": "105.1",
+      "sectionTitle": "船只",
+      "sectionTitleEn": "The Ship",
+      "words": [
+        {
+          "id": 1,
+          "en": "prow",
+          "zh": "船首"
+        },
+        {
+          "id": 2,
+          "en": "deck",
+          "zh": "甲板"
+        },
+        {
+          "id": 3,
+          "en": "cabin",
+          "zh": "舱室"
+        },
+        {
+          "id": 4,
+          "en": "bridge",
+          "zh": "船桥"
+        },
+        {
+          "id": 5,
+          "en": "radar",
+          "zh": "雷达"
+        },
+        {
+          "id": 6,
+          "en": "radio antenna",
+          "zh": "无线电天线"
+        },
+        {
+          "id": 7,
+          "en": "quarterdeck",
+          "zh": "后甲板"
+        },
+        {
+          "id": 8,
+          "en": "lifeboat",
+          "zh": "救生艇"
+        },
+        {
+          "id": 9,
+          "en": "funnel",
+          "zh": "烟囱"
+        },
+        {
+          "id": 10,
+          "en": "stern",
+          "zh": "船尾"
+        },
+        {
+          "id": 11,
+          "en": "Plimsoll line",
+          "zh": "吃水线"
+        },
+        {
+          "id": 12,
+          "en": "hull",
+          "zh": "船体"
+        },
+        {
+          "id": 13,
+          "en": "keel",
+          "zh": "龙骨"
+        },
+        {
+          "id": 14,
+          "en": "galley",
+          "zh": "船上厨房"
+        },
+        {
+          "id": 15,
+          "en": "engine room",
+          "zh": "引擎舱"
+        },
+        {
+          "id": 16,
+          "en": "propeller",
+          "zh": "螺旋桨"
+        },
+        {
+          "id": 17,
+          "en": "captain",
+          "zh": "船长"
+        },
+        {
+          "id": 18,
+          "en": "life preserver (US) / life ring (UK)",
+          "zh": "救生圈"
+        },
+        {
+          "id": 19,
+          "en": "life jacket",
+          "zh": "救生衣"
+        },
+        {
+          "id": 20,
+          "en": "anchor",
+          "zh": "锚"
+        },
+        {
+          "id": 21,
+          "en": "gangway",
+          "zh": "舷梯"
+        },
+        {
+          "id": 22,
+          "en": "bollard",
+          "zh": "系船柱"
+        },
+        {
+          "id": 23,
+          "en": "windlass",
+          "zh": "绞盘"
+        }
+      ]
+    },
+    {
+      "pageNum": 218,
+      "image": "assets/images/page_219.jpg",
+      "section": "105.2",
+      "sectionTitle": "其他类型的船只",
+      "sectionTitleEn": "Other Types of Boat",
+      "words": [
+        {
+          "id": 24,
+          "en": "canoe",
+          "zh": "独木舟"
+        },
+        {
+          "id": 25,
+          "en": "kayak",
+          "zh": "皮艇"
+        },
+        {
+          "id": 26,
+          "en": "rowboat (US) / rowing boat (UK)",
+          "zh": "划艇"
+        },
+        {
+          "id": 27,
+          "en": "inflatable dinghy",
+          "zh": "充气橡皮艇"
+        },
+        {
+          "id": 28,
+          "en": "outboard motor",
+          "zh": "舷外发动机"
+        },
+        {
+          "id": 29,
+          "en": "catamaran",
+          "zh": "双体船"
+        },
+        {
+          "id": 30,
+          "en": "sailboat (US) / sailing boat (UK)",
+          "zh": "帆船"
+        },
+        {
+          "id": 31,
+          "en": "mast",
+          "zh": "桅杆"
+        },
+        {
+          "id": 32,
+          "en": "ferry",
+          "zh": "轮渡"
+        },
+        {
+          "id": 33,
+          "en": "cruise ship",
+          "zh": "游轮"
+        },
+        {
+          "id": 34,
+          "en": "container ship",
+          "zh": "集装箱船"
+        },
+        {
+          "id": 35,
+          "en": "container",
+          "zh": "集装箱"
+        },
+        {
+          "id": 36,
+          "en": "freighter",
+          "zh": "货轮"
+        },
+        {
+          "id": 37,
+          "en": "freight",
+          "zh": "货物"
+        },
+        {
+          "id": 38,
+          "en": "speedboat",
+          "zh": "快艇"
+        },
+        {
+          "id": 39,
+          "en": "yacht",
+          "zh": "游艇"
+        },
+        {
+          "id": 40,
+          "en": "hydrofoil",
+          "zh": "水翼船"
+        },
+        {
+          "id": 41,
+          "en": "hovercraft",
+          "zh": "气垫船"
+        },
+        {
+          "id": 42,
+          "en": "tugboat",
+          "zh": "拖船"
+        },
+        {
+          "id": 43,
+          "en": "trawler",
+          "zh": "拖网渔船"
+        },
+        {
+          "id": 44,
+          "en": "oil tanker",
+          "zh": "油轮"
+        },
+        {
+          "id": 45,
+          "en": "aircraft carrier",
+          "zh": "航空母舰"
+        },
+        {
+          "id": 46,
+          "en": "battleship",
+          "zh": "战列舰"
+        },
+        {
+          "id": 47,
+          "en": "submarine",
+          "zh": "潜水艇"
+        },
+        {
+          "id": 48,
+          "en": "conning tower",
+          "zh": "指挥塔"
+        }
+      ]
+    }
+  ]
+}

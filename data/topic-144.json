@@ -1,0 +1,87 @@
+{
+  "id": "144",
+  "title": "太空2",
+  "titleEn": "Space 2",
+  "category": "环境",
+  "pages": [
+    {
+      "pageNum": 296,
+      "image": "assets/images/page_297.jpg",
+      "section": "144.1",
+      "sectionTitle": "天文学",
+      "sectionTitleEn": "Astronomy",
+      "words": [
+        { "id": 1, "en": "binoculars", "zh": "双筒望远镜" },
+        { "id": 2, "en": "refractor telescope", "zh": "折射望远镜" },
+        { "id": 3, "en": "reflector telescope", "zh": "反射望远镜" },
+        { "id": 4, "en": "radio telescope", "zh": "射电望远镜" },
+        { "id": 5, "en": "observatory", "zh": "天文台" },
+        { "id": 6, "en": "space telescope", "zh": "太空望远镜" },
+        { "id": 7, "en": "constellation", "zh": "星座" },
+        { "id": 8, "en": "star chart", "zh": "星图" },
+        { "id": 9, "en": "i've just spotted a comet.", "zh": "我刚刚发现了一颗彗星。" },
+        { "id": 10, "en": "eyepiece", "zh": "目镜" },
+        { "id": 11, "en": "finderscope", "zh": "寻星镜" },
+        { "id": 12, "en": "comet", "zh": "彗星" },
+        { "id": 13, "en": "tripod", "zh": "三脚架" },
+        { "id": 14, "en": "focusing knob", "zh": "聚焦旋钮" },
+        { "id": 15, "en": "telescope", "zh": "望远镜" }
+      ]
+    },
+    {
+      "pageNum": 296,
+      "image": "assets/images/page_297.jpg",
+      "section": "144.2",
+      "sectionTitle": "星和星座",
+      "sectionTitleEn": "Stars and Constellations",
+      "words": [
+        { "id": 16, "en": "gravity", "zh": "重力" },
+        { "id": 17, "en": "aurora", "zh": "极光" },
+        { "id": 18, "en": "star", "zh": "星" },
+        { "id": 19, "en": "flare", "zh": "耀斑" },
+        { "id": 20, "en": "double star", "zh": "双星" },
+        { "id": 21, "en": "neutron star", "zh": "中子星" },
+        { "id": 22, "en": "the pole star / polaris", "zh": "北极星" },
+        { "id": 23, "en": "the big dipper (us) / the plough (uk)", "zh": "北斗七星" },
+        { "id": 24, "en": "the southern cross", "zh": "南十字座" },
+        { "id": 25, "en": "orion", "zh": "猎户座" },
+        { "id": 26, "en": "red giant", "zh": "红巨星" },
+        { "id": 27, "en": "white dwarf", "zh": "白矮星" }
+      ]
+    },
+    {
+      "pageNum": 297,
+      "image": "assets/images/page_298.jpg",
+      "section": "144.3",
+      "sectionTitle": "黄道十二宫",
+      "sectionTitleEn": "The Zodiac",
+      "words": [
+        { "id": 28, "en": "zodiac constellations", "zh": "黄道星座" },
+        { "id": 29, "en": "zodiac symbols", "zh": "星座符号" },
+        { "id": 30, "en": "aries", "zh": "白羊座" },
+        { "id": 31, "en": "taurus", "zh": "金牛座" },
+        { "id": 32, "en": "gemini", "zh": "双子座" },
+        { "id": 33, "en": "cancer", "zh": "巨蟹座" },
+        { "id": 34, "en": "leo", "zh": "狮子座" },
+        { "id": 35, "en": "virgo", "zh": "处女座" },
+        { "id": 36, "en": "libra", "zh": "天秤座" },
+        { "id": 37, "en": "scorpio", "zh": "天蝎座" },
+        { "id": 38, "en": "sagittarius", "zh": "射手座" },
+        { "id": 39, "en": "capricorn", "zh": "摩羯座" },
+        { "id": 40, "en": "aquarius", "zh": "水瓶座" },
+        { "id": 41, "en": "pisces", "zh": "双鱼座" },
+        { "id": 42, "en": "supernova", "zh": "超新星" },
+        { "id": 43, "en": "nebula", "zh": "星云" },
+        { "id": 44, "en": "the big bang", "zh": "宇宙大爆炸" },
+        { "id": 45, "en": "star cluster", "zh": "星团" },
+        { "id": 46, "en": "elliptical galaxy", "zh": "椭圆星系" },
+        { "id": 47, "en": "spiral galaxy", "zh": "旋涡星系" },
+        { "id": 48, "en": "black hole", "zh": "黑洞" },
+        { "id": 49, "en": "meteor", "zh": "流星" },
+        { "id": 50, "en": "meteor shower", "zh": "流星雨" },
+        { "id": 51, "en": "the milky way", "zh": "银河" },
+        { "id": 52, "en": "the universe", "zh": "宇宙" }
+      ]
+    }
+  ]
+}

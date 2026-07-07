@@ -1,0 +1,346 @@
+{
+  "id": "119",
+  "title": "帆船和水上运动",
+  "titleEn": "Sailing and Water Sports",
+  "category": "运动",
+  "pages": [
+    {
+      "pageNum": 246,
+      "image": "assets/images/page_247.jpg",
+      "section": "119.1",
+      "sectionTitle": "帆船",
+      "sectionTitleEn": "Sailing",
+      "words": [
+        {
+          "id": 1,
+          "en": "crew",
+          "zh": "船员"
+        },
+        {
+          "id": 2,
+          "en": "compass",
+          "zh": "罗盘"
+        },
+        {
+          "id": 3,
+          "en": "burgee",
+          "zh": "三角旗"
+        },
+        {
+          "id": 4,
+          "en": "mast",
+          "zh": "桅杆"
+        },
+        {
+          "id": 5,
+          "en": "backstay",
+          "zh": "后支索"
+        },
+        {
+          "id": 6,
+          "en": "rigging",
+          "zh": "帆绳"
+        },
+        {
+          "id": 7,
+          "en": "mainsail",
+          "zh": "主帆"
+        },
+        {
+          "id": 8,
+          "en": "jib / genoa",
+          "zh": "大三角帆"
+        },
+        {
+          "id": 9,
+          "en": "forestay",
+          "zh": "前支索"
+        },
+        {
+          "id": 10,
+          "en": "the wind is really picking up!",
+          "zh": "风越来越大了！"
+        },
+        {
+          "id": 11,
+          "en": "boom",
+          "zh": "帆杆"
+        },
+        {
+          "id": 12,
+          "en": "tiller",
+          "zh": "舵柄"
+        },
+        {
+          "id": 13,
+          "en": "stern",
+          "zh": "船尾"
+        },
+        {
+          "id": 14,
+          "en": "bow",
+          "zh": "船头"
+        },
+        {
+          "id": 15,
+          "en": "buoy",
+          "zh": "浮标"
+        },
+        {
+          "id": 16,
+          "en": "rope",
+          "zh": "绳索"
+        },
+        {
+          "id": 17,
+          "en": "yacht",
+          "zh": "帆船"
+        },
+        {
+          "id": 18,
+          "en": "hull",
+          "zh": "船体"
+        },
+        {
+          "id": 19,
+          "en": "anchor",
+          "zh": "锚"
+        },
+        {
+          "id": 20,
+          "en": "sheet",
+          "zh": "帆脚索"
+        },
+        {
+          "id": 21,
+          "en": "cleat",
+          "zh": "系索耳"
+        },
+        {
+          "id": 22,
+          "en": "sidedeck",
+          "zh": "侧舱"
+        },
+        {
+          "id": 23,
+          "en": "boat's wheel",
+          "zh": "船轮"
+        },
+        {
+          "id": 24,
+          "en": "helm",
+          "zh": "船舵"
+        },
+        {
+          "id": 25,
+          "en": "centerboard (US) / centreboard (UK)",
+          "zh": "稳向板"
+        },
+        {
+          "id": 26,
+          "en": "rudder",
+          "zh": "舵"
+        },
+        {
+          "id": 27,
+          "en": "keel",
+          "zh": "龙骨"
+        },
+        {
+          "id": 28,
+          "en": "flare",
+          "zh": "闪光信号弹"
+        },
+        {
+          "id": 29,
+          "en": "life preserver (US) / life ring (UK)",
+          "zh": "救生圈"
+        },
+        {
+          "id": 30,
+          "en": "life jacket",
+          "zh": "救生衣"
+        },
+        {
+          "id": 31,
+          "en": "life raft",
+          "zh": "救生筏"
+        }
+      ]
+    },
+    {
+      "pageNum": 247,
+      "image": "assets/images/page_248.jpg",
+      "section": "119.2",
+      "sectionTitle": "水上运动",
+      "sectionTitleEn": "Water Sports",
+      "words": [
+        {
+          "id": 32,
+          "en": "rower",
+          "zh": "桨手"
+        },
+        {
+          "id": 33,
+          "en": "oar",
+          "zh": "桨"
+        },
+        {
+          "id": 34,
+          "en": "kayak",
+          "zh": "皮艇"
+        },
+        {
+          "id": 35,
+          "en": "rowing",
+          "zh": "划船"
+        },
+        {
+          "id": 36,
+          "en": "kayaking",
+          "zh": "划皮艇"
+        },
+        {
+          "id": 37,
+          "en": "paddle",
+          "zh": "双叶桨"
+        },
+        {
+          "id": 38,
+          "en": "surfer",
+          "zh": "冲浪者"
+        },
+        {
+          "id": 39,
+          "en": "surfing",
+          "zh": "冲浪"
+        },
+        {
+          "id": 40,
+          "en": "surfboard",
+          "zh": "冲浪板"
+        },
+        {
+          "id": 41,
+          "en": "boogie board",
+          "zh": "滑浪板"
+        },
+        {
+          "id": 42,
+          "en": "bodyboarding",
+          "zh": "俯卧式冲浪"
+        },
+        {
+          "id": 43,
+          "en": "paddleboarding",
+          "zh": "桨板运动"
+        },
+        {
+          "id": 44,
+          "en": "parasailing",
+          "zh": "帆伞运动"
+        },
+        {
+          "id": 45,
+          "en": "kite surfing",
+          "zh": "风筝冲浪"
+        },
+        {
+          "id": 46,
+          "en": "speed boating",
+          "zh": "快艇"
+        },
+        {
+          "id": 47,
+          "en": "rafting",
+          "zh": "皮划艇"
+        },
+        {
+          "id": 48,
+          "en": "jet skiing",
+          "zh": "水上摩托"
+        },
+        {
+          "id": 49,
+          "en": "water polo",
+          "zh": "水球"
+        },
+        {
+          "id": 50,
+          "en": "water skiing",
+          "zh": "滑水"
+        },
+        {
+          "id": 51,
+          "en": "ski",
+          "zh": "滑水橇"
+        },
+        {
+          "id": 52,
+          "en": "water skier",
+          "zh": "滑水者"
+        },
+        {
+          "id": 53,
+          "en": "to capsize",
+          "zh": "倾覆"
+        },
+        {
+          "id": 54,
+          "en": "to navigate",
+          "zh": "航行"
+        },
+        {
+          "id": 55,
+          "en": "to tack",
+          "zh": "抢风航行"
+        },
+        {
+          "id": 56,
+          "en": "wave",
+          "zh": "波浪"
+        },
+        {
+          "id": 57,
+          "en": "rapids",
+          "zh": "激流"
+        },
+        {
+          "id": 58,
+          "en": "surf",
+          "zh": "浪花"
+        },
+        {
+          "id": 59,
+          "en": "windsurfing",
+          "zh": "风帆冲浪"
+        },
+        {
+          "id": 60,
+          "en": "board",
+          "zh": "单板"
+        },
+        {
+          "id": 61,
+          "en": "windsurfer",
+          "zh": "风帆冲浪者"
+        },
+        {
+          "id": 62,
+          "en": "sail",
+          "zh": "帆"
+        },
+        {
+          "id": 63,
+          "en": "foot strap",
+          "zh": "脚套"
+        },
+        {
+          "id": 64,
+          "en": "boom",
+          "zh": "帆杆"
+        }
+      ]
+    }
+  ]
+}

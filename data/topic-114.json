@@ -1,0 +1,84 @@
+{
+  "id": "114",
+  "title": "网球",
+  "titleEn": "Tennis",
+  "category": "运动",
+  "pages": [
+    {
+      "pageNum": 236,
+      "image": "assets/images/page_237.jpg",
+      "section": "114.1",
+      "sectionTitle": "网球比赛",
+      "sectionTitleEn": "Tennis Match",
+      "words": [
+        { "id": 1, "en": "umpire", "zh": "裁判" },
+        { "id": 2, "en": "net", "zh": "球网" },
+        { "id": 3, "en": "baseline", "zh": "底线" },
+        { "id": 4, "en": "umpire's chair", "zh": "裁判椅" },
+        { "id": 5, "en": "ball boy / ball girl", "zh": "球童" },
+        { "id": 6, "en": "sideline", "zh": "边线" },
+        { "id": 7, "en": "service line", "zh": "发球线" },
+        { "id": 8, "en": "to serve", "zh": "发球" },
+        { "id": 9, "en": "tennis court", "zh": "网球场" },
+        { "id": 10, "en": "handle", "zh": "拍柄" },
+        { "id": 11, "en": "racket", "zh": "球拍" },
+        { "id": 12, "en": "strings", "zh": "球拍网线" },
+        { "id": 13, "en": "ball", "zh": "网球" },
+        { "id": 14, "en": "wristband", "zh": "腕带" },
+        { "id": 15, "en": "tennis shoes", "zh": "网球鞋" },
+        { "id": 16, "en": "player", "zh": "运动员" },
+        { "id": 17, "en": "forehand", "zh": "正手" },
+        { "id": 18, "en": "backhand", "zh": "反手" },
+        { "id": 19, "en": "volley", "zh": "拦击球" },
+        { "id": 20, "en": "return", "zh": "回球" },
+        { "id": 21, "en": "lob", "zh": "吊高球" },
+        { "id": 22, "en": "slice", "zh": "削球" },
+        { "id": 23, "en": "spin", "zh": "旋转球" },
+        { "id": 24, "en": "ace", "zh": "发球得分" },
+        { "id": 25, "en": "dropshot", "zh": "近网短球" },
+        { "id": 26, "en": "let", "zh": "触网" }
+      ]
+    },
+    {
+      "pageNum": 237,
+      "image": "assets/images/page_238.jpg",
+      "section": "114.1",
+      "sectionTitle": "网球比赛（续）",
+      "sectionTitleEn": "Tennis Match (continued)",
+      "words": [
+        { "id": 27, "en": "game", "zh": "比赛" },
+        { "id": 28, "en": "set", "zh": "局" },
+        { "id": 29, "en": "match", "zh": "场" },
+        { "id": 30, "en": "love", "zh": "零分" },
+        { "id": 31, "en": "fault", "zh": "发球失误" },
+        { "id": 32, "en": "double fault", "zh": "双发失误" },
+        { "id": 33, "en": "deuce", "zh": "平分" },
+        { "id": 34, "en": "advantage", "zh": "发球方占先" },
+        { "id": 35, "en": "tie-break", "zh": "抢七局" },
+        { "id": 36, "en": "championship", "zh": "锦标赛" },
+        { "id": 37, "en": "score", "zh": "得分" },
+        { "id": 38, "en": "rally", "zh": "连续对打" },
+        { "id": 39, "en": "2 players", "zh": "两名运动员" },
+        { "id": 40, "en": "singles", "zh": "单打" },
+        { "id": 41, "en": "linesman", "zh": "边裁" },
+        { "id": 42, "en": "4 players", "zh": "四名运动员" },
+        { "id": 43, "en": "doubles", "zh": "双打" }
+      ]
+    },
+    {
+      "pageNum": 237,
+      "image": "assets/images/page_238.jpg",
+      "section": "114.2",
+      "sectionTitle": "直拍运动",
+      "sectionTitleEn": "Racket Sports",
+      "words": [
+        { "id": 44, "en": "squash", "zh": "壁球" },
+        { "id": 45, "en": "racquetball", "zh": "短拍壁球" },
+        { "id": 46, "en": "ping pong / table tennis", "zh": "乒乓球" },
+        { "id": 47, "en": "paddle (US) / bat (UK)", "zh": "乒乓球拍" },
+        { "id": 48, "en": "badminton", "zh": "羽毛球运动" },
+        { "id": 49, "en": "shuttlecock", "zh": "羽毛球" }
+      ]
+    }
+  ]
+}

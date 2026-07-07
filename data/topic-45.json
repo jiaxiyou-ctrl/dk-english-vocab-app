@@ -1,0 +1,325 @@
+{
+  "id": "45",
+  "title": "银行和邮局",
+  "titleEn": "Bank and Post Office",
+  "category": "城市生活",
+  "pages": [
+    {
+      "pageNum": 100,
+      "image": "assets/images/page_101.jpg",
+      "section": "45.1",
+      "sectionTitle": "银行",
+      "sectionTitleEn": "Bank",
+      "words": [
+        {
+          "id": 1,
+          "en": "branch manager",
+          "zh": "分行经理"
+        },
+        {
+          "id": 2,
+          "en": "cashier",
+          "zh": "柜员"
+        },
+        {
+          "id": 3,
+          "en": "I'd like to pay $400 into my savings account.",
+          "zh": "我想存400美元到我的储蓄账户。"
+        },
+        {
+          "id": 4,
+          "en": "to pay in",
+          "zh": "存款"
+        },
+        {
+          "id": 5,
+          "en": "counter",
+          "zh": "柜台"
+        },
+        {
+          "id": 6,
+          "en": "customer",
+          "zh": "顾客"
+        },
+        {
+          "id": 7,
+          "en": "credit card",
+          "zh": "信用卡"
+        },
+        {
+          "id": 8,
+          "en": "debit card",
+          "zh": "借记卡"
+        },
+        {
+          "id": 9,
+          "en": "amount",
+          "zh": "数额"
+        },
+        {
+          "id": 10,
+          "en": "signature",
+          "zh": "签名"
+        },
+        {
+          "id": 11,
+          "en": "account number",
+          "zh": "账号"
+        },
+        {
+          "id": 12,
+          "en": "check (US) / cheque (UK)",
+          "zh": "支票"
+        },
+        {
+          "id": 13,
+          "en": "savings account",
+          "zh": "储蓄账户"
+        },
+        {
+          "id": 14,
+          "en": "savings",
+          "zh": "储蓄"
+        },
+        {
+          "id": 15,
+          "en": "checking account (US) / current account (UK)",
+          "zh": "支票账户"
+        },
+        {
+          "id": 16,
+          "en": "direct debit",
+          "zh": "直接借记"
+        },
+        {
+          "id": 17,
+          "en": "bank statement",
+          "zh": "银行对账单"
+        },
+        {
+          "id": 18,
+          "en": "in the black / in credit",
+          "zh": "盈利"
+        },
+        {
+          "id": 19,
+          "en": "in the red / in debt",
+          "zh": "亏损"
+        },
+        {
+          "id": 20,
+          "en": "overdraft",
+          "zh": "透支"
+        },
+        {
+          "id": 21,
+          "en": "online banking",
+          "zh": "网上银行"
+        },
+        {
+          "id": 22,
+          "en": "interest rate",
+          "zh": "利率"
+        },
+        {
+          "id": 23,
+          "en": "bank loan",
+          "zh": "银行贷款"
+        },
+        {
+          "id": 24,
+          "en": "mortgage",
+          "zh": "抵押贷款"
+        },
+        {
+          "id": 25,
+          "en": "to withdraw money",
+          "zh": "取款"
+        },
+        {
+          "id": 26,
+          "en": "to transfer money",
+          "zh": "转账"
+        }
+      ]
+    },
+    {
+      "pageNum": 101,
+      "image": "assets/images/page_102.jpg",
+      "section": "45.2",
+      "sectionTitle": "金钱",
+      "sectionTitleEn": "Money",
+      "words": [
+        {
+          "id": 27,
+          "en": "currency",
+          "zh": "货币"
+        },
+        {
+          "id": 28,
+          "en": "coins",
+          "zh": "硬币"
+        },
+        {
+          "id": 29,
+          "en": "bills (US) / notes (UK)",
+          "zh": "纸币"
+        },
+        {
+          "id": 30,
+          "en": "PIN",
+          "zh": "个人身份识别码"
+        },
+        {
+          "id": 31,
+          "en": "card machine",
+          "zh": "刷卡机"
+        },
+        {
+          "id": 32,
+          "en": "screen",
+          "zh": "屏幕"
+        },
+        {
+          "id": 33,
+          "en": "keypad",
+          "zh": "小键盘"
+        },
+        {
+          "id": 34,
+          "en": "cash machine / ATM",
+          "zh": "自动取款机"
+        },
+        {
+          "id": 35,
+          "en": "exchange rate",
+          "zh": "汇率"
+        },
+        {
+          "id": 36,
+          "en": "to change money",
+          "zh": "兑换货币"
+        },
+        {
+          "id": 37,
+          "en": "can I change this into euros, please?",
+          "zh": "请问我可以换成欧元吗？"
+        },
+        {
+          "id": 38,
+          "en": "currency exchange (US) / bureau de change (UK)",
+          "zh": "货币兑换处"
+        }
+      ]
+    },
+    {
+      "pageNum": 101,
+      "image": "assets/images/page_102.jpg",
+      "section": "45.3",
+      "sectionTitle": "邮局",
+      "sectionTitleEn": "Post Office",
+      "words": [
+        {
+          "id": 39,
+          "en": "postal worker",
+          "zh": "邮政员工"
+        },
+        {
+          "id": 40,
+          "en": "scales",
+          "zh": "秤"
+        },
+        {
+          "id": 41,
+          "en": "letter",
+          "zh": "信"
+        },
+        {
+          "id": 42,
+          "en": "postmark",
+          "zh": "邮戳"
+        },
+        {
+          "id": 43,
+          "en": "zip code (US) / postcode (UK)",
+          "zh": "邮政编码"
+        },
+        {
+          "id": 44,
+          "en": "stamp",
+          "zh": "邮票"
+        },
+        {
+          "id": 45,
+          "en": "envelope",
+          "zh": "信封"
+        },
+        {
+          "id": 46,
+          "en": "address",
+          "zh": "地址"
+        },
+        {
+          "id": 47,
+          "en": "mail carrier (US) / postman / postwoman (UK)",
+          "zh": "邮递员"
+        },
+        {
+          "id": 48,
+          "en": "package / parcel (UK)",
+          "zh": "包裹"
+        },
+        {
+          "id": 49,
+          "en": "courier",
+          "zh": "快递员"
+        },
+        {
+          "id": 50,
+          "en": "delivery",
+          "zh": "送货"
+        },
+        {
+          "id": 51,
+          "en": "fragile",
+          "zh": "易碎品"
+        },
+        {
+          "id": 52,
+          "en": "handle with care",
+          "zh": "小心处理"
+        },
+        {
+          "id": 53,
+          "en": "this way up",
+          "zh": "此端向上"
+        },
+        {
+          "id": 54,
+          "en": "do not bend",
+          "zh": "请勿弯折"
+        },
+        {
+          "id": 55,
+          "en": "airmail",
+          "zh": "航空邮件"
+        },
+        {
+          "id": 56,
+          "en": "registered mail (US) / registered post (UK)",
+          "zh": "挂号信"
+        },
+        {
+          "id": 57,
+          "en": "mailbox (US) / postbox (UK)",
+          "zh": "邮箱"
+        },
+        {
+          "id": 58,
+          "en": "mail slot (US) / letterbox (UK)",
+          "zh": "信箱"
+        }
+      ]
+    }
+  ]
+}

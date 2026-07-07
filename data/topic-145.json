@@ -1,0 +1,95 @@
+{
+  "id": "145",
+  "title": "地球",
+  "titleEn": "Earth",
+  "category": "环境",
+  "pages": [
+    {
+      "pageNum": 298,
+      "image": "assets/images/page_299.jpg",
+      "section": "145.1",
+      "sectionTitle": "地球",
+      "sectionTitleEn": "Earth",
+      "words": [
+        { "id": 1, "en": "crust", "zh": "地壳" },
+        { "id": 2, "en": "mantle", "zh": "地幔" },
+        { "id": 3, "en": "continent", "zh": "大陆" },
+        { "id": 4, "en": "sea", "zh": "海" },
+        { "id": 5, "en": "outer core", "zh": "外核" },
+        { "id": 6, "en": "inner core", "zh": "内核" },
+        { "id": 7, "en": "ocean", "zh": "洋" },
+        { "id": 8, "en": "land", "zh": "陆地" },
+        { "id": 9, "en": "earth", "zh": "地球" },
+        { "id": 10, "en": "island", "zh": "岛屿" },
+        { "id": 11, "en": "seamount", "zh": "海底山" },
+        { "id": 12, "en": "ocean ridge", "zh": "洋脊" },
+        { "id": 13, "en": "trench", "zh": "海沟" },
+        { "id": 14, "en": "undersea features", "zh": "海底特征" }
+      ]
+    },
+    {
+      "pageNum": 298,
+      "image": "assets/images/page_299.jpg",
+      "section": "145.2",
+      "sectionTitle": "板块构造学",
+      "sectionTitleEn": "Plate Tectonics",
+      "words": [
+        { "id": 15, "en": "ash cloud", "zh": "火山灰云" },
+        { "id": 16, "en": "crater", "zh": "火山口" },
+        { "id": 17, "en": "vent", "zh": "火山喷口" },
+        { "id": 18, "en": "lava layer", "zh": "熔岩层" },
+        { "id": 19, "en": "lava", "zh": "熔岩" },
+        { "id": 20, "en": "ash", "zh": "灰烬" },
+        { "id": 21, "en": "to erupt", "zh": "喷发" },
+        { "id": 22, "en": "bedrock", "zh": "基岩" },
+        { "id": 23, "en": "magma chamber", "zh": "岩浆室" },
+        { "id": 24, "en": "volcano", "zh": "火山" },
+        { "id": 25, "en": "plate", "zh": "板块" },
+        { "id": 26, "en": "earthquake", "zh": "地震" },
+        { "id": 27, "en": "earth tremor", "zh": "地颤" },
+        { "id": 28, "en": "tsunami", "zh": "海啸" }
+      ]
+    },
+    {
+      "pageNum": 299,
+      "image": "assets/images/page_300.jpg",
+      "section": "145.1",
+      "sectionTitle": "地球",
+      "sectionTitleEn": "Earth",
+      "words": [
+        { "id": 29, "en": "north pole", "zh": "北极" },
+        { "id": 30, "en": "northern hemisphere", "zh": "北半球" },
+        { "id": 31, "en": "tropics", "zh": "热带地区" },
+        { "id": 32, "en": "southern hemisphere", "zh": "南半球" },
+        { "id": 33, "en": "longitude", "zh": "经度" },
+        { "id": 34, "en": "south pole", "zh": "南极" },
+        { "id": 35, "en": "arctic circle", "zh": "北极圈" },
+        { "id": 36, "en": "tropic of cancer", "zh": "北回归线" },
+        { "id": 37, "en": "equator", "zh": "赤道" },
+        { "id": 38, "en": "tropic of capricorn", "zh": "南回归线" },
+        { "id": 39, "en": "latitude", "zh": "纬度" }
+      ]
+    },
+    {
+      "pageNum": 299,
+      "image": "assets/images/page_300.jpg",
+      "section": "145.3",
+      "sectionTitle": "水景和相关现象",
+      "sectionTitleEn": "Water Features and Phenomena",
+      "words": [
+        { "id": 40, "en": "victoria falls", "zh": "维多利亚瀑布" },
+        { "id": 41, "en": "hang son doong", "zh": "韩松洞" },
+        { "id": 42, "en": "the amazon", "zh": "亚马孙热带雨林" },
+        { "id": 43, "en": "the dead sea", "zh": "死海" },
+        { "id": 44, "en": "caño cristales", "zh": "哥伦比亚彩虹河" },
+        { "id": 45, "en": "pamukkale", "zh": "棉花堡" },
+        { "id": 46, "en": "the barrier reef", "zh": "大堡礁" },
+        { "id": 47, "en": "the ganges", "zh": "恒河" },
+        { "id": 48, "en": "angel falls", "zh": "安赫尔瀑布" },
+        { "id": 49, "en": "the great blue hole", "zh": "伯利兹大蓝洞" },
+        { "id": 50, "en": "lake natron", "zh": "纳特隆盐湖" },
+        { "id": 51, "en": "spotted lake", "zh": "斑点湖" }
+      ]
+    }
+  ]
+}

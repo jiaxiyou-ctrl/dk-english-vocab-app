@@ -1,0 +1,167 @@
+{
+  "id": "37",
+  "title": "装饰",
+  "titleEn": "Decoration",
+  "category": "家",
+  "pages": [
+    {
+      "pageNum": 84,
+      "image": "assets/images/page_85.jpg",
+      "section": "37.1",
+      "sectionTitle": "家装翻新",
+      "sectionTitleEn": "Home Decorating",
+      "words": [
+        {
+          "id": 1,
+          "en": "roller",
+          "zh": "滚轮"
+        },
+        {
+          "id": 2,
+          "en": "paintbrush",
+          "zh": "油漆刷"
+        },
+        {
+          "id": 3,
+          "en": "roller extension pole",
+          "zh": "滚轮延长杆"
+        },
+        {
+          "id": 4,
+          "en": "overalls",
+          "zh": "工装"
+        },
+        {
+          "id": 5,
+          "en": "paint",
+          "zh": "油漆"
+        },
+        {
+          "id": 6,
+          "en": "sponge",
+          "zh": "海绵"
+        },
+        {
+          "id": 7,
+          "en": "paint tray",
+          "zh": "油漆盆"
+        },
+        {
+          "id": 8,
+          "en": "dustsheet",
+          "zh": "防尘布"
+        },
+        {
+          "id": 9,
+          "en": "to paint",
+          "zh": "刷油漆"
+        },
+        {
+          "id": 10,
+          "en": "stepladder",
+          "zh": "折梯"
+        },
+        {
+          "id": 11,
+          "en": "paint pail (US) / paint kettle (UK)",
+          "zh": "油漆桶"
+        },
+        {
+          "id": 12,
+          "en": "masking tape",
+          "zh": "遮蔽胶带"
+        },
+        {
+          "id": 13,
+          "en": "craft knife",
+          "zh": "美工刀"
+        },
+        {
+          "id": 14,
+          "en": "plumb line",
+          "zh": "铅垂线"
+        },
+        {
+          "id": 15,
+          "en": "sandpaper",
+          "zh": "砂纸"
+        },
+        {
+          "id": 16,
+          "en": "filler",
+          "zh": "填料"
+        },
+        {
+          "id": 17,
+          "en": "mineral spirits (US) / white spirit (UK)",
+          "zh": "稀释剂"
+        },
+        {
+          "id": 18,
+          "en": "paint stripper",
+          "zh": "脱漆剂"
+        },
+        {
+          "id": 19,
+          "en": "plaster",
+          "zh": "灰泥"
+        },
+        {
+          "id": 20,
+          "en": "primer",
+          "zh": "底漆"
+        },
+        {
+          "id": 21,
+          "en": "undercoat",
+          "zh": "内涂层"
+        },
+        {
+          "id": 22,
+          "en": "emulsion",
+          "zh": "乳化漆"
+        },
+        {
+          "id": 23,
+          "en": "matte",
+          "zh": "哑光漆"
+        },
+        {
+          "id": 24,
+          "en": "gloss",
+          "zh": "光面漆"
+        },
+        {
+          "id": 25,
+          "en": "stencil",
+          "zh": "花样模板"
+        },
+        {
+          "id": 26,
+          "en": "solvent",
+          "zh": "溶剂"
+        },
+        {
+          "id": 27,
+          "en": "bathroom sealant",
+          "zh": "浴室密封胶"
+        },
+        {
+          "id": 28,
+          "en": "grout",
+          "zh": "薄胶浆"
+        },
+        {
+          "id": 29,
+          "en": "wood preserver",
+          "zh": "木材保护剂"
+        },
+        {
+          "id": 30,
+          "en": "varnish",
+          "zh": "清漆"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "111",
+  "title": "板球",
+  "titleEn": "Cricket",
+  "category": "运动",
+  "pages": [
+    {
+      "pageNum": 230,
+      "image": "assets/images/page_231.jpg",
+      "section": "111.1",
+      "sectionTitle": "板球场地和位置",
+      "sectionTitleEn": "Cricket Field and Positions",
+      "words": [
+        { "id": 1, "en": "boundary", "zh": "边界" },
+        { "id": 2, "en": "third man", "zh": "第三守场员" },
+        { "id": 3, "en": "out field", "zh": "外场" },
+        { "id": 4, "en": "gully", "zh": "防守队员" },
+        { "id": 5, "en": "slip", "zh": "外场员" },
+        { "id": 6, "en": "wicket-keeper", "zh": "三柱门守门员" },
+        { "id": 7, "en": "in field", "zh": "内场" },
+        { "id": 8, "en": "cover", "zh": "掩护" },
+        { "id": 9, "en": "point", "zh": "守场员" },
+        { "id": 10, "en": "return crease", "zh": "返回线" },
+        { "id": 11, "en": "batter", "zh": "击球手" },
+        { "id": 12, "en": "fine leg", "zh": "背后外野" },
+        { "id": 13, "en": "wicket", "zh": "三柱门" },
+        { "id": 14, "en": "pitch", "zh": "球道" },
+        { "id": 15, "en": "popping crease", "zh": "击球线" },
+        { "id": 16, "en": "bowler", "zh": "投球手" },
+        { "id": 17, "en": "mid-off", "zh": "左外野手" },
+        { "id": 18, "en": "square leg", "zh": "背后内野" },
+        { "id": 19, "en": "umpire", "zh": "裁判" },
+        { "id": 20, "en": "screen", "zh": "挡板" },
+        { "id": 21, "en": "bowling crease", "zh": "投球线" },
+        { "id": 22, "en": "mid-wicket", "zh": "背前内野" },
+        { "id": 23, "en": "fielding positions", "zh": "板球位置" }
+      ]
+    },
+    {
+      "pageNum": 231,
+      "image": "assets/images/page_232.jpg",
+      "section": "111.2",
+      "sectionTitle": "板球装备",
+      "sectionTitleEn": "Cricket Equipment",
+      "words": [
+        { "id": 24, "en": "cricket shoes", "zh": "板球鞋" },
+        { "id": 25, "en": "studs", "zh": "鞋钉" },
+        { "id": 26, "en": "cricket ball", "zh": "板球" },
+        { "id": 27, "en": "seam", "zh": "缝线" },
+        { "id": 28, "en": "stumps", "zh": "三柱门立柱" },
+        { "id": 29, "en": "bail", "zh": "三柱门上横木" },
+        { "id": 30, "en": "scoreboard", "zh": "记分牌" },
+        { "id": 31, "en": "helmet", "zh": "头盔" },
+        { "id": 32, "en": "facemask", "zh": "防护面具" },
+        { "id": 33, "en": "bat", "zh": "球拍" },
+        { "id": 34, "en": "leg pad", "zh": "护腿" },
+        { "id": 35, "en": "batter / batsman", "zh": "击球手" }
+      ]
+    },
+    {
+      "pageNum": 231,
+      "image": "assets/images/page_232.jpg",
+      "section": "111.3",
+      "sectionTitle": "板球相关的动词",
+      "sectionTitleEn": "Cricket Verbs",
+      "words": [
+        { "id": 36, "en": "to run", "zh": "跑动" },
+        { "id": 37, "en": "to bowl", "zh": "投球" },
+        { "id": 38, "en": "to bat", "zh": "击球" },
+        { "id": 39, "en": "to field", "zh": "防守" },
+        { "id": 40, "en": "to strike out", "zh": "使出局" },
+        { "id": 41, "en": "to stump", "zh": "使出局（撞下三柱门上横木）" }
+      ]
+    }
+  ]
+}

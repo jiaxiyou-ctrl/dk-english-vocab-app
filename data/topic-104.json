@@ -1,0 +1,317 @@
+{
+  "id": "104",
+  "title": "机场",
+  "titleEn": "Airport",
+  "category": "交通",
+  "pages": [
+    {
+      "pageNum": 216,
+      "image": "assets/images/page_217.jpg",
+      "section": "104.1",
+      "sectionTitle": "航站楼",
+      "sectionTitleEn": "Terminal",
+      "words": [
+        {
+          "id": 1,
+          "en": "airport",
+          "zh": "机场"
+        },
+        {
+          "id": 2,
+          "en": "control tower",
+          "zh": "指挥塔台"
+        },
+        {
+          "id": 3,
+          "en": "departures",
+          "zh": "出发"
+        },
+        {
+          "id": 4,
+          "en": "departure lounge",
+          "zh": "候机室"
+        },
+        {
+          "id": 5,
+          "en": "boarding gate",
+          "zh": "登机门"
+        },
+        {
+          "id": 6,
+          "en": "carry-on (US) / hand luggage (UK)",
+          "zh": "随身行李"
+        },
+        {
+          "id": 7,
+          "en": "sign",
+          "zh": "指示牌"
+        },
+        {
+          "id": 8,
+          "en": "escalator",
+          "zh": "自动扶梯"
+        },
+        {
+          "id": 9,
+          "en": "footbridge",
+          "zh": "行人天桥"
+        },
+        {
+          "id": 10,
+          "en": "scale",
+          "zh": "秤"
+        },
+        {
+          "id": 11,
+          "en": "suitcase",
+          "zh": "手提箱"
+        },
+        {
+          "id": 12,
+          "en": "check-in desk",
+          "zh": "登记台"
+        },
+        {
+          "id": 13,
+          "en": "X-ray machine",
+          "zh": "X光机"
+        },
+        {
+          "id": 14,
+          "en": "time",
+          "zh": "时间"
+        },
+        {
+          "id": 15,
+          "en": "flight number",
+          "zh": "航班号"
+        },
+        {
+          "id": 16,
+          "en": "airline",
+          "zh": "航空公司"
+        },
+        {
+          "id": 17,
+          "en": "to wait in line (US) / to queue (UK)",
+          "zh": "排队"
+        },
+        {
+          "id": 18,
+          "en": "terminal",
+          "zh": "航站楼"
+        },
+        {
+          "id": 19,
+          "en": "cart (US) / trolley (UK)",
+          "zh": "手推车"
+        },
+        {
+          "id": 20,
+          "en": "security",
+          "zh": "安检处"
+        },
+        {
+          "id": 21,
+          "en": "scanner",
+          "zh": "扫描仪"
+        },
+        {
+          "id": 22,
+          "en": "luggage",
+          "zh": "行李"
+        },
+        {
+          "id": 23,
+          "en": "flight attendants",
+          "zh": "空乘人员"
+        },
+        {
+          "id": 24,
+          "en": "destination",
+          "zh": "目的地"
+        },
+        {
+          "id": 25,
+          "en": "status",
+          "zh": "航班状态"
+        },
+        {
+          "id": 26,
+          "en": "gate number",
+          "zh": "登机门号"
+        },
+        {
+          "id": 27,
+          "en": "information screen",
+          "zh": "信息屏"
+        },
+        {
+          "id": 28,
+          "en": "passport",
+          "zh": "护照"
+        },
+        {
+          "id": 29,
+          "en": "biometric passport",
+          "zh": "生物识别护照"
+        },
+        {
+          "id": 30,
+          "en": "visa",
+          "zh": "签证"
+        },
+        {
+          "id": 31,
+          "en": "ticket",
+          "zh": "机票"
+        },
+        {
+          "id": 32,
+          "en": "boarding pass",
+          "zh": "登机牌"
+        },
+        {
+          "id": 33,
+          "en": "online check-in",
+          "zh": "网上办理登机"
+        },
+        {
+          "id": 34,
+          "en": "bus transfer",
+          "zh": "巴士接驳"
+        },
+        {
+          "id": 35,
+          "en": "jet bridge (US) / jetway (UK)",
+          "zh": "登机通道"
+        },
+        {
+          "id": 36,
+          "en": "to board a plane",
+          "zh": "登机"
+        },
+        {
+          "id": 37,
+          "en": "to take off",
+          "zh": "起飞"
+        },
+        {
+          "id": 38,
+          "en": "to land",
+          "zh": "着陆"
+        },
+        {
+          "id": 39,
+          "en": "immigration",
+          "zh": "入境检查"
+        },
+        {
+          "id": 40,
+          "en": "vacation (US) / holiday (UK)",
+          "zh": "假期"
+        },
+        {
+          "id": 41,
+          "en": "domestic flight",
+          "zh": "国内航班"
+        },
+        {
+          "id": 42,
+          "en": "international flight",
+          "zh": "国际航班"
+        },
+        {
+          "id": 43,
+          "en": "to go abroad",
+          "zh": "出国"
+        },
+        {
+          "id": 44,
+          "en": "direct flight",
+          "zh": "直飞航班"
+        },
+        {
+          "id": 45,
+          "en": "connection",
+          "zh": "联运"
+        },
+        {
+          "id": 46,
+          "en": "baggage trailer",
+          "zh": "行李拖车"
+        },
+        {
+          "id": 47,
+          "en": "baggage claim",
+          "zh": "行李领取处"
+        },
+        {
+          "id": 48,
+          "en": "customs",
+          "zh": "海关"
+        },
+        {
+          "id": 49,
+          "en": "car rental (US) / car hire (UK)",
+          "zh": "租车"
+        },
+        {
+          "id": 50,
+          "en": "taxi stand (US) / taxi rank (UK)",
+          "zh": "出租车站"
+        },
+        {
+          "id": 51,
+          "en": "excess baggage",
+          "zh": "超重行李"
+        },
+        {
+          "id": 52,
+          "en": "passport control",
+          "zh": "护照检查处"
+        },
+        {
+          "id": 53,
+          "en": "currency exchange",
+          "zh": "货币兑换处"
+        },
+        {
+          "id": 54,
+          "en": "duty-free shop",
+          "zh": "免税店"
+        },
+        {
+          "id": 55,
+          "en": "lost and found",
+          "zh": "失物招领处"
+        },
+        {
+          "id": 56,
+          "en": "to be delayed",
+          "zh": "被延迟"
+        },
+        {
+          "id": 57,
+          "en": "service vehicle",
+          "zh": "服务车辆"
+        },
+        {
+          "id": 58,
+          "en": "air cargo",
+          "zh": "航空货运"
+        },
+        {
+          "id": 59,
+          "en": "hangar",
+          "zh": "机库"
+        },
+        {
+          "id": 60,
+          "en": "runway",
+          "zh": "跑道"
+        }
+      ]
+    }
+  ]
+}

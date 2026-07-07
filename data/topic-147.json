@@ -1,0 +1,226 @@
+{
+  "id": "147",
+  "title": "地理2",
+  "titleEn": "Geography 2",
+  "category": "环境",
+  "pages": [
+    {
+      "pageNum": 302,
+      "image": "assets/images/page_303.jpg",
+      "section": "147.1",
+      "sectionTitle": "海岸特征",
+      "sectionTitleEn": "Coastal Features",
+      "words": [
+        {
+          "id": 1,
+          "en": "ocean",
+          "zh": "洋"
+        },
+        {
+          "id": 2,
+          "en": "wave",
+          "zh": "波浪"
+        },
+        {
+          "id": 3,
+          "en": "dune",
+          "zh": "沙丘"
+        },
+        {
+          "id": 4,
+          "en": "island",
+          "zh": "岛屿"
+        },
+        {
+          "id": 5,
+          "en": "strait",
+          "zh": "海峡"
+        },
+        {
+          "id": 6,
+          "en": "channel",
+          "zh": "峡道"
+        },
+        {
+          "id": 7,
+          "en": "high tide",
+          "zh": "高潮"
+        },
+        {
+          "id": 8,
+          "en": "low tide",
+          "zh": "低潮"
+        },
+        {
+          "id": 9,
+          "en": "reef",
+          "zh": "礁"
+        },
+        {
+          "id": 10,
+          "en": "tombolo",
+          "zh": "沙颈岬"
+        },
+        {
+          "id": 11,
+          "en": "peninsula",
+          "zh": "半岛"
+        },
+        {
+          "id": 12,
+          "en": "estuary",
+          "zh": "入海口"
+        },
+        {
+          "id": 13,
+          "en": "spit",
+          "zh": "岬"
+        },
+        {
+          "id": 14,
+          "en": "bay",
+          "zh": "湾"
+        },
+        {
+          "id": 15,
+          "en": "rocks",
+          "zh": "礁石"
+        },
+        {
+          "id": 16,
+          "en": "cape",
+          "zh": "海角"
+        },
+        {
+          "id": 17,
+          "en": "sea stack",
+          "zh": "海蚀柱"
+        },
+        {
+          "id": 18,
+          "en": "natural arch",
+          "zh": "天然拱"
+        },
+        {
+          "id": 19,
+          "en": "sea cave",
+          "zh": "海蚀洞"
+        },
+        {
+          "id": 20,
+          "en": "cliff",
+          "zh": "悬崖"
+        },
+        {
+          "id": 21,
+          "en": "marsh",
+          "zh": "沼泽"
+        },
+        {
+          "id": 22,
+          "en": "delta",
+          "zh": "三角洲"
+        },
+        {
+          "id": 23,
+          "en": "gulf",
+          "zh": "海湾"
+        },
+        {
+          "id": 24,
+          "en": "fjord",
+          "zh": "峡湾"
+        },
+        {
+          "id": 25,
+          "en": "archipelago",
+          "zh": "群岛"
+        },
+        {
+          "id": 26,
+          "en": "isthmus",
+          "zh": "地峡"
+        },
+        {
+          "id": 27,
+          "en": "atoll",
+          "zh": "环形珊瑚岛"
+        },
+        {
+          "id": 28,
+          "en": "lagoon",
+          "zh": "泻湖"
+        }
+      ]
+    },
+    {
+      "pageNum": 303,
+      "image": "assets/images/page_304.jpg",
+      "section": "147.2",
+      "sectionTitle": "河流特征",
+      "sectionTitleEn": "River Features",
+      "words": [
+        {
+          "id": 29,
+          "en": "beach",
+          "zh": "海滩"
+        },
+        {
+          "id": 30,
+          "en": "flood plain",
+          "zh": "冲积平原"
+        },
+        {
+          "id": 31,
+          "en": "forest",
+          "zh": "森林"
+        },
+        {
+          "id": 32,
+          "en": "foothill",
+          "zh": "山麓"
+        },
+        {
+          "id": 33,
+          "en": "stream",
+          "zh": "小溪"
+        },
+        {
+          "id": 34,
+          "en": "source",
+          "zh": "发源地"
+        },
+        {
+          "id": 35,
+          "en": "peak",
+          "zh": "山峰"
+        },
+        {
+          "id": 36,
+          "en": "mountain",
+          "zh": "山"
+        },
+        {
+          "id": 37,
+          "en": "tributary",
+          "zh": "支流"
+        },
+        {
+          "id": 38,
+          "en": "river",
+          "zh": "河"
+        },
+        {
+          "id": 39,
+          "en": "mouth",
+          "zh": "河口"
+        },
+        {
+          "id": 40,
+          "en": "seashore",
+          "zh": "海岸"
+        }
+      ]
+    }
+  ]
+}

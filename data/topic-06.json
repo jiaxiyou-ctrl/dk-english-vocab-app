@@ -1,0 +1,306 @@
+{
+  "id": "06",
+  "title": "感觉和情绪",
+  "titleEn": "Feelings and Emotions",
+  "category": "人",
+  "pages": [
+    {
+      "pageNum": 22,
+      "image": "assets/images/page_23.jpg",
+      "section": "6.1",
+      "sectionTitle": "感觉和情绪",
+      "sectionTitleEn": "Feelings and Emotions",
+      "words": [
+        {
+          "id": 1,
+          "en": "pleased",
+          "zh": "愉快的"
+        },
+        {
+          "id": 2,
+          "en": "cheerful",
+          "zh": "欢欣的"
+        },
+        {
+          "id": 3,
+          "en": "happy",
+          "zh": "快乐的"
+        },
+        {
+          "id": 4,
+          "en": "delighted",
+          "zh": "高兴的"
+        },
+        {
+          "id": 5,
+          "en": "ecstatic",
+          "zh": "狂喜的"
+        },
+        {
+          "id": 6,
+          "en": "amused",
+          "zh": "逗乐的"
+        },
+        {
+          "id": 7,
+          "en": "grateful",
+          "zh": "感恩的"
+        },
+        {
+          "id": 8,
+          "en": "lucky",
+          "zh": "幸运的"
+        },
+        {
+          "id": 9,
+          "en": "interested",
+          "zh": "感兴趣的"
+        },
+        {
+          "id": 10,
+          "en": "curious",
+          "zh": "好奇的"
+        },
+        {
+          "id": 11,
+          "en": "intrigued",
+          "zh": "入迷的"
+        },
+        {
+          "id": 12,
+          "en": "amazed",
+          "zh": "惊奇的"
+        },
+        {
+          "id": 13,
+          "en": "surprised",
+          "zh": "惊讶的"
+        },
+        {
+          "id": 14,
+          "en": "proud",
+          "zh": "骄傲的"
+        },
+        {
+          "id": 15,
+          "en": "excited",
+          "zh": "兴奋的"
+        },
+        {
+          "id": 16,
+          "en": "thrilled",
+          "zh": "激动的"
+        },
+        {
+          "id": 17,
+          "en": "calm",
+          "zh": "平静的"
+        },
+        {
+          "id": 18,
+          "en": "relaxed",
+          "zh": "放松的"
+        },
+        {
+          "id": 19,
+          "en": "appreciative",
+          "zh": "感激的"
+        },
+        {
+          "id": 20,
+          "en": "confident",
+          "zh": "自信的"
+        },
+        {
+          "id": 21,
+          "en": "hopeful",
+          "zh": "充满希望的"
+        },
+        {
+          "id": 22,
+          "en": "sympathetic",
+          "zh": "富有同情心的"
+        },
+        {
+          "id": 23,
+          "en": "annoyed",
+          "zh": "恼火的"
+        },
+        {
+          "id": 24,
+          "en": "jealous",
+          "zh": "嫉妒的"
+        },
+        {
+          "id": 25,
+          "en": "embarrassed",
+          "zh": "尴尬的"
+        }
+      ]
+    },
+    {
+      "pageNum": 23,
+      "image": "assets/images/page_24.jpg",
+      "section": "6.1",
+      "sectionTitle": "感觉和情绪",
+      "sectionTitleEn": "Feelings and Emotions",
+      "words": [
+        {
+          "id": 26,
+          "en": "worried",
+          "zh": "忧虑的"
+        },
+        {
+          "id": 27,
+          "en": "disappointed",
+          "zh": "失望的"
+        },
+        {
+          "id": 28,
+          "en": "anxious",
+          "zh": "焦虑的"
+        },
+        {
+          "id": 29,
+          "en": "nervous",
+          "zh": "紧张的"
+        },
+        {
+          "id": 30,
+          "en": "frightened",
+          "zh": "害怕的"
+        },
+        {
+          "id": 31,
+          "en": "scared",
+          "zh": "惊恐的"
+        },
+        {
+          "id": 32,
+          "en": "terrified",
+          "zh": "恐惧的"
+        },
+        {
+          "id": 33,
+          "en": "sad",
+          "zh": "悲伤的"
+        },
+        {
+          "id": 34,
+          "en": "unhappy",
+          "zh": "不快乐的"
+        },
+        {
+          "id": 35,
+          "en": "tearful",
+          "zh": "流泪的"
+        },
+        {
+          "id": 36,
+          "en": "miserable",
+          "zh": "痛苦的"
+        },
+        {
+          "id": 37,
+          "en": "depressed",
+          "zh": "抑郁的"
+        },
+        {
+          "id": 38,
+          "en": "lonely",
+          "zh": "孤独的"
+        },
+        {
+          "id": 39,
+          "en": "irritated",
+          "zh": "烦躁的"
+        },
+        {
+          "id": 40,
+          "en": "frustrated",
+          "zh": "挫败的"
+        },
+        {
+          "id": 41,
+          "en": "angry / mad (US)",
+          "zh": "愤怒的"
+        },
+        {
+          "id": 42,
+          "en": "furious",
+          "zh": "暴怒的"
+        },
+        {
+          "id": 43,
+          "en": "disgusted",
+          "zh": "恶心的"
+        },
+        {
+          "id": 44,
+          "en": "unenthusiastic",
+          "zh": "不热情的"
+        },
+        {
+          "id": 45,
+          "en": "tired",
+          "zh": "疲惫的"
+        },
+        {
+          "id": 46,
+          "en": "exhausted",
+          "zh": "筋疲力尽的"
+        },
+        {
+          "id": 47,
+          "en": "confused",
+          "zh": "困惑的"
+        },
+        {
+          "id": 48,
+          "en": "bored",
+          "zh": "无聊的"
+        },
+        {
+          "id": 49,
+          "en": "distracted",
+          "zh": "分心的"
+        },
+        {
+          "id": 50,
+          "en": "serious",
+          "zh": "严肃的"
+        },
+        {
+          "id": 51,
+          "en": "indifferent",
+          "zh": "冷漠的"
+        },
+        {
+          "id": 52,
+          "en": "stressed",
+          "zh": "有压力的"
+        },
+        {
+          "id": 53,
+          "en": "guilty",
+          "zh": "内疚的"
+        },
+        {
+          "id": 54,
+          "en": "unimpressed",
+          "zh": "不为所动的"
+        },
+        {
+          "id": 55,
+          "en": "upset",
+          "zh": "沮丧的"
+        },
+        {
+          "id": 56,
+          "en": "shocked",
+          "zh": "震惊的"
+        }
+      ]
+    }
+  ]
+}

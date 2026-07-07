@@ -1,0 +1,339 @@
+{
+  "id": "79",
+  "title": "历史",
+  "titleEn": "History",
+  "category": "学习",
+  "pages": [
+    {
+      "pageNum": 166,
+      "image": "assets/images/page_167.jpg",
+      "section": "79.1",
+      "sectionTitle": "战争和武器",
+      "sectionTitleEn": "War and Weapons",
+      "words": [
+        {
+          "id": 1,
+          "en": "chariot",
+          "zh": "马拉战车"
+        },
+        {
+          "id": 2,
+          "en": "bow",
+          "zh": "弓"
+        },
+        {
+          "id": 3,
+          "en": "arrow",
+          "zh": "箭"
+        },
+        {
+          "id": 4,
+          "en": "spear",
+          "zh": "矛"
+        },
+        {
+          "id": 5,
+          "en": "gada / mace",
+          "zh": "狼牙棒"
+        },
+        {
+          "id": 6,
+          "en": "scimitar",
+          "zh": "短弯刀"
+        },
+        {
+          "id": 7,
+          "en": "warfare",
+          "zh": "战争"
+        },
+        {
+          "id": 8,
+          "en": "ax (US) / axe (UK)",
+          "zh": "斧子"
+        },
+        {
+          "id": 9,
+          "en": "shield",
+          "zh": "盾牌"
+        },
+        {
+          "id": 10,
+          "en": "sword",
+          "zh": "剑"
+        }
+      ]
+    },
+    {
+      "pageNum": 166,
+      "image": "assets/images/page_167.jpg",
+      "section": "79.2",
+      "sectionTitle": "历史时期与人",
+      "sectionTitleEn": "Historical Periods and People",
+      "words": [
+        {
+          "id": 11,
+          "en": "the stone age",
+          "zh": "石器时代"
+        },
+        {
+          "id": 12,
+          "en": "flint tools",
+          "zh": "燧石工具"
+        },
+        {
+          "id": 13,
+          "en": "the bronze age",
+          "zh": "青铜时代"
+        },
+        {
+          "id": 14,
+          "en": "the iron age",
+          "zh": "铁器时代"
+        },
+        {
+          "id": 15,
+          "en": "farmer",
+          "zh": "农夫"
+        },
+        {
+          "id": 16,
+          "en": "merchant",
+          "zh": "商人"
+        },
+        {
+          "id": 17,
+          "en": "artisan",
+          "zh": "工匠"
+        },
+        {
+          "id": 18,
+          "en": "emperor",
+          "zh": "皇帝"
+        },
+        {
+          "id": 19,
+          "en": "empress",
+          "zh": "女皇"
+        },
+        {
+          "id": 20,
+          "en": "king",
+          "zh": "国王"
+        },
+        {
+          "id": 21,
+          "en": "queen",
+          "zh": "女王"
+        },
+        {
+          "id": 22,
+          "en": "prince / princess",
+          "zh": "王子/公主"
+        },
+        {
+          "id": 23,
+          "en": "nobles",
+          "zh": "贵族"
+        },
+        {
+          "id": 24,
+          "en": "the islamic golden age",
+          "zh": "伊斯兰黄金时代"
+        },
+        {
+          "id": 25,
+          "en": "philosopher",
+          "zh": "哲学家"
+        },
+        {
+          "id": 26,
+          "en": "the enlightenment",
+          "zh": "启蒙运动"
+        },
+        {
+          "id": 27,
+          "en": "the industrial revolution",
+          "zh": "工业革命"
+        }
+      ]
+    },
+    {
+      "pageNum": 167,
+      "image": "assets/images/page_168.jpg",
+      "section": "79.2",
+      "sectionTitle": "历史时期与人（续）",
+      "sectionTitleEn": "Historical Periods and People (continued)",
+      "words": [
+        {
+          "id": 28,
+          "en": "warhorse",
+          "zh": "战马"
+        },
+        {
+          "id": 29,
+          "en": "war elephant",
+          "zh": "战象"
+        },
+        {
+          "id": 30,
+          "en": "battle",
+          "zh": "战役"
+        },
+        {
+          "id": 31,
+          "en": "cannon",
+          "zh": "大炮"
+        },
+        {
+          "id": 32,
+          "en": "catapult",
+          "zh": "投石机"
+        },
+        {
+          "id": 33,
+          "en": "battering ram",
+          "zh": "攻城锤"
+        },
+        {
+          "id": 34,
+          "en": "knight",
+          "zh": "骑士"
+        },
+        {
+          "id": 35,
+          "en": "armor (US) / armour (UK)",
+          "zh": "盔甲"
+        },
+        {
+          "id": 36,
+          "en": "warrior",
+          "zh": "战士"
+        },
+        {
+          "id": 37,
+          "en": "blacksmith",
+          "zh": "铁匠"
+        },
+        {
+          "id": 38,
+          "en": "peasants",
+          "zh": "农民"
+        },
+        {
+          "id": 39,
+          "en": "kingdom",
+          "zh": "王国"
+        },
+        {
+          "id": 40,
+          "en": "empire",
+          "zh": "帝国"
+        },
+        {
+          "id": 41,
+          "en": "lord / lady",
+          "zh": "勋爵/夫人"
+        },
+        {
+          "id": 42,
+          "en": "minstrel",
+          "zh": "吟游诗人"
+        },
+        {
+          "id": 43,
+          "en": "jester",
+          "zh": "小丑"
+        },
+        {
+          "id": 44,
+          "en": "scribe",
+          "zh": "抄写员"
+        },
+        {
+          "id": 45,
+          "en": "the technological revolution",
+          "zh": "科技革命"
+        },
+        {
+          "id": 46,
+          "en": "the information age",
+          "zh": "信息时代"
+        }
+      ]
+    },
+    {
+      "pageNum": 167,
+      "image": "assets/images/page_168.jpg",
+      "section": "79.3",
+      "sectionTitle": "研究历史",
+      "sectionTitleEn": "Studying History",
+      "words": [
+        {
+          "id": 47,
+          "en": "historian",
+          "zh": "历史学家"
+        },
+        {
+          "id": 48,
+          "en": "archive",
+          "zh": "档案"
+        },
+        {
+          "id": 49,
+          "en": "sources",
+          "zh": "来源"
+        },
+        {
+          "id": 50,
+          "en": "scroll",
+          "zh": "卷轴"
+        },
+        {
+          "id": 51,
+          "en": "document",
+          "zh": "文献"
+        },
+        {
+          "id": 52,
+          "en": "archaeology (US) / archaeology (UK)",
+          "zh": "考古学"
+        },
+        {
+          "id": 53,
+          "en": "archeologist (US) / archaeologist (UK)",
+          "zh": "考古学家"
+        },
+        {
+          "id": 54,
+          "en": "dig / excavation",
+          "zh": "挖掘"
+        },
+        {
+          "id": 55,
+          "en": "peat bog",
+          "zh": "泥炭土"
+        },
+        {
+          "id": 56,
+          "en": "remains",
+          "zh": "遗骸"
+        },
+        {
+          "id": 57,
+          "en": "finds",
+          "zh": "发现"
+        },
+        {
+          "id": 58,
+          "en": "tomb",
+          "zh": "坟墓"
+        },
+        {
+          "id": 59,
+          "en": "historical site",
+          "zh": "历史遗址"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "id": "46",
+  "title": "购物",
+  "titleEn": "Shopping",
+  "category": "城市生活",
+  "pages": [
+    {
+      "pageNum": 102,
+      "image": "assets/images/page_103.jpg",
+      "section": "46.1",
+      "sectionTitle": "商业街",
+      "sectionTitleEn": "Shopping Street",
+      "words": [
+        {
+          "id": 1,
+          "en": "we bought these in the sales.",
+          "zh": "我们在促销中买的这些。"
+        },
+        {
+          "id": 2,
+          "en": "second-hand store (US) / second-hand shop (UK)",
+          "zh": "二手商店"
+        },
+        {
+          "id": 3,
+          "en": "record store (US) / record shop (UK)",
+          "zh": "唱片店"
+        },
+        {
+          "id": 4,
+          "en": "health food store (US) / health food shop (UK)",
+          "zh": "健康食品店"
+        },
+        {
+          "id": 5,
+          "en": "gift shop",
+          "zh": "礼品店"
+        },
+        {
+          "id": 6,
+          "en": "boutique",
+          "zh": "精品店"
+        },
+        {
+          "id": 7,
+          "en": "jeweler (US) / jeweller's (UK)",
+          "zh": "珠宝店"
+        },
+        {
+          "id": 8,
+          "en": "art store (US) / art shop (UK)",
+          "zh": "艺术商店"
+        },
+        {
+          "id": 9,
+          "en": "antiques store (US) / antiques shop (UK)",
+          "zh": "古董店"
+        },
+        {
+          "id": 10,
+          "en": "toy store (US) / toy shop (UK)",
+          "zh": "玩具店"
+        },
+        {
+          "id": 11,
+          "en": "optician",
+          "zh": "眼镜店"
+        },
+        {
+          "id": 12,
+          "en": "hardware store",
+          "zh": "五金店"
+        },
+        {
+          "id": 13,
+          "en": "key cutting store",
+          "zh": "钥匙铺"
+        },
+        {
+          "id": 14,
+          "en": "electronics store",
+          "zh": "电子产品商店"
+        },
+        {
+          "id": 15,
+          "en": "pet store (US) / pet shop (UK)",
+          "zh": "宠物店"
+        },
+        {
+          "id": 16,
+          "en": "travel agent",
+          "zh": "旅行社"
+        },
+        {
+          "id": 17,
+          "en": "street market",
+          "zh": "街头市集"
+        },
+        {
+          "id": 18,
+          "en": "fishmonger",
+          "zh": "鱼店"
+        },
+        {
+          "id": 19,
+          "en": "butcher",
+          "zh": "肉店"
+        },
+        {
+          "id": 20,
+          "en": "bakery",
+          "zh": "面包房"
+        },
+        {
+          "id": 21,
+          "en": "grocery store (US) / greengrocer (UK)",
+          "zh": "蔬菜店"
+        },
+        {
+          "id": 22,
+          "en": "delicatessen",
+          "zh": "熟食店"
+        },
+        {
+          "id": 23,
+          "en": "cake store (US) / cake shop (UK)",
+          "zh": "蛋糕店"
+        },
+        {
+          "id": 24,
+          "en": "café / coffee shop",
+          "zh": "咖啡店"
+        },
+        {
+          "id": 25,
+          "en": "liquor store (US) / off licence (UK)",
+          "zh": "酒类零售店"
+        },
+        {
+          "id": 26,
+          "en": "newsstand / kiosk",
+          "zh": "报刊亭"
+        },
+        {
+          "id": 27,
+          "en": "bookstore (US) / bookshop (UK)",
+          "zh": "书店"
+        },
+        {
+          "id": 28,
+          "en": "shoe store (US) / shoe shop (UK)",
+          "zh": "鞋店"
+        }
+      ]
+    },
+    {
+      "pageNum": 103,
+      "image": "assets/images/page_104.jpg",
+      "section": "46.2",
+      "sectionTitle": "购物相关的动词",
+      "sectionTitleEn": "Shopping Verbs",
+      "words": [
+        {
+          "id": 29,
+          "en": "garden center (US) / garden centre (UK)",
+          "zh": "园艺品店"
+        },
+        {
+          "id": 30,
+          "en": "florist",
+          "zh": "花商"
+        },
+        {
+          "id": 31,
+          "en": "tailor",
+          "zh": "裁缝"
+        },
+        {
+          "id": 32,
+          "en": "photo booth",
+          "zh": "照相亭"
+        },
+        {
+          "id": 33,
+          "en": "laundromat (US) / launderette (UK)",
+          "zh": "自助洗衣店"
+        },
+        {
+          "id": 34,
+          "en": "dry cleaner's",
+          "zh": "干洗店"
+        },
+        {
+          "id": 35,
+          "en": "shopping spree",
+          "zh": "疯狂购物"
+        },
+        {
+          "id": 36,
+          "en": "window shopping",
+          "zh": "橱窗浏览"
+        },
+        {
+          "id": 37,
+          "en": "I forgot to put milk on my shopping list.",
+          "zh": "我忘记把牛奶放在购物清单上了。"
+        },
+        {
+          "id": 38,
+          "en": "shopping list",
+          "zh": "购物清单"
+        },
+        {
+          "id": 39,
+          "en": "to choose",
+          "zh": "选择"
+        },
+        {
+          "id": 40,
+          "en": "to sell",
+          "zh": "出售"
+        },
+        {
+          "id": 41,
+          "en": "to buy",
+          "zh": "购买"
+        },
+        {
+          "id": 42,
+          "en": "to want",
+          "zh": "想要"
+        },
+        {
+          "id": 43,
+          "en": "to fit",
+          "zh": "合身"
+        },
+        {
+          "id": 44,
+          "en": "to pay",
+          "zh": "支付"
+        },
+        {
+          "id": 45,
+          "en": "to try on",
+          "zh": "试穿"
+        },
+        {
+          "id": 46,
+          "en": "to haggle",
+          "zh": "讨价还价"
+        },
+        {
+          "id": 47,
+          "en": "to complain",
+          "zh": "投诉"
+        },
+        {
+          "id": 48,
+          "en": "to exchange",
+          "zh": "换货"
+        },
+        {
+          "id": 49,
+          "en": "to refund",
+          "zh": "退款"
+        },
+        {
+          "id": 50,
+          "en": "to return",
+          "zh": "退货"
+        }
+      ]
+    },
+    {
+      "pageNum": 103,
+      "image": "assets/images/page_104.jpg",
+      "section": "46.3",
+      "sectionTitle": "线上购物",
+      "sectionTitleEn": "Online Shopping",
+      "words": [
+        {
+          "id": 51,
+          "en": "to add to the cart",
+          "zh": "加入购物车"
+        },
+        {
+          "id": 52,
+          "en": "to add to wishlist",
+          "zh": "加入心愿单"
+        },
+        {
+          "id": 53,
+          "en": "to proceed to checkout",
+          "zh": "结算"
+        },
+        {
+          "id": 54,
+          "en": "to order",
+          "zh": "订购"
+        },
+        {
+          "id": 55,
+          "en": "to track your order",
+          "zh": "查询订单"
+        }
+      ]
+    }
+  ]
+}

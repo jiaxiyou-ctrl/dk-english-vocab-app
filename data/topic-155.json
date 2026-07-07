@@ -1,0 +1,299 @@
+{
+  "id": "155",
+  "title": "气候和环境",
+  "titleEn": "Climate and Environment",
+  "category": "环境",
+  "pages": [
+    {
+      "pageNum": 318,
+      "image": "assets/images/page_319.jpg",
+      "section": "155.1",
+      "sectionTitle": "大气层",
+      "sectionTitleEn": "Atmosphere",
+      "words": [
+        {
+          "id": 1,
+          "en": "exosphere",
+          "zh": "外逸层"
+        },
+        {
+          "id": 2,
+          "en": "thermosphere",
+          "zh": "热成层"
+        },
+        {
+          "id": 3,
+          "en": "ionosphere",
+          "zh": "电离层"
+        },
+        {
+          "id": 4,
+          "en": "mesosphere",
+          "zh": "中间层"
+        },
+        {
+          "id": 5,
+          "en": "stratosphere",
+          "zh": "平流层"
+        },
+        {
+          "id": 6,
+          "en": "troposphere",
+          "zh": "对流层"
+        },
+        {
+          "id": 7,
+          "en": "aurora",
+          "zh": "极光"
+        },
+        {
+          "id": 8,
+          "en": "ozone layer",
+          "zh": "臭氧层"
+        },
+        {
+          "id": 9,
+          "en": "ultraviolet rays",
+          "zh": "紫外线"
+        },
+        {
+          "id": 10,
+          "en": "atmosphere",
+          "zh": "大气层"
+        },
+        {
+          "id": 11,
+          "en": "warm front",
+          "zh": "暖锋"
+        },
+        {
+          "id": 12,
+          "en": "isobar",
+          "zh": "等压线"
+        },
+        {
+          "id": 13,
+          "en": "occluded front",
+          "zh": "锢囚锋"
+        },
+        {
+          "id": 14,
+          "en": "cold front",
+          "zh": "冷锋"
+        },
+        {
+          "id": 15,
+          "en": "high pressure",
+          "zh": "高压"
+        },
+        {
+          "id": 16,
+          "en": "low pressure",
+          "zh": "低压"
+        },
+        {
+          "id": 17,
+          "en": "weather map",
+          "zh": "气象图"
+        }
+      ]
+    },
+    {
+      "pageNum": 318,
+      "image": "assets/images/page_319.jpg",
+      "section": "155.2",
+      "sectionTitle": "环境问题",
+      "sectionTitleEn": "Environmental Issues",
+      "words": [
+        {
+          "id": 1,
+          "en": "deforestation",
+          "zh": "森林砍伐"
+        },
+        {
+          "id": 2,
+          "en": "habitat loss",
+          "zh": "栖息地丧失"
+        },
+        {
+          "id": 3,
+          "en": "endangered species",
+          "zh": "濒危物种"
+        },
+        {
+          "id": 4,
+          "en": "plastic waste",
+          "zh": "塑料垃圾"
+        },
+        {
+          "id": 5,
+          "en": "overfishing",
+          "zh": "过度捕捞"
+        },
+        {
+          "id": 6,
+          "en": "ozone depletion",
+          "zh": "臭氧耗竭"
+        },
+        {
+          "id": 7,
+          "en": "desertification",
+          "zh": "荒漠化"
+        },
+        {
+          "id": 8,
+          "en": "oil slick",
+          "zh": "浮油"
+        },
+        {
+          "id": 9,
+          "en": "acid rain",
+          "zh": "酸雨"
+        }
+      ]
+    },
+    {
+      "pageNum": 319,
+      "image": "assets/images/page_320.jpg",
+      "section": "155.3",
+      "sectionTitle": "气候变化",
+      "sectionTitleEn": "Climate Change",
+      "words": [
+        {
+          "id": 1,
+          "en": "greenhouse effect",
+          "zh": "温室效应"
+        },
+        {
+          "id": 2,
+          "en": "industrial emissions",
+          "zh": "工业排放"
+        },
+        {
+          "id": 3,
+          "en": "trapped radiation",
+          "zh": "捕获辐射"
+        },
+        {
+          "id": 4,
+          "en": "reflected radiation",
+          "zh": "反射辐射"
+        },
+        {
+          "id": 5,
+          "en": "solar radiation",
+          "zh": "太阳辐射"
+        },
+        {
+          "id": 6,
+          "en": "atmosphere",
+          "zh": "大气层"
+        },
+        {
+          "id": 7,
+          "en": "greenhouse gases",
+          "zh": "温室气体"
+        },
+        {
+          "id": 8,
+          "en": "carbon dioxide",
+          "zh": "二氧化碳"
+        },
+        {
+          "id": 9,
+          "en": "methane",
+          "zh": "甲烷"
+        },
+        {
+          "id": 10,
+          "en": "fossil fuels",
+          "zh": "化石燃料"
+        },
+        {
+          "id": 11,
+          "en": "emissions",
+          "zh": "排放"
+        },
+        {
+          "id": 12,
+          "en": "pollution",
+          "zh": "污染"
+        },
+        {
+          "id": 13,
+          "en": "ecosystem",
+          "zh": "生态系统"
+        },
+        {
+          "id": 14,
+          "en": "zero carbon",
+          "zh": "零碳"
+        },
+        {
+          "id": 15,
+          "en": "shrinking glaciers",
+          "zh": "冰川缩小"
+        },
+        {
+          "id": 16,
+          "en": "melting ice caps",
+          "zh": "冰盖融化"
+        }
+      ]
+    },
+    {
+      "pageNum": 319,
+      "image": "assets/images/page_320.jpg",
+      "section": "155.4",
+      "sectionTitle": "垃圾和回收",
+      "sectionTitleEn": "Garbage and Recycling",
+      "words": [
+        {
+          "id": 1,
+          "en": "to sort your trash (US) / to sort your rubbish (UK)",
+          "zh": "把垃圾分类"
+        },
+        {
+          "id": 2,
+          "en": "i try to recycle plastic and paper as much as possible.",
+          "zh": "我尽量回收塑料和纸张。"
+        },
+        {
+          "id": 3,
+          "en": "food waste",
+          "zh": "食物残渣"
+        },
+        {
+          "id": 4,
+          "en": "paper",
+          "zh": "纸张"
+        },
+        {
+          "id": 5,
+          "en": "plastic",
+          "zh": "塑料"
+        },
+        {
+          "id": 6,
+          "en": "glass",
+          "zh": "玻璃"
+        },
+        {
+          "id": 7,
+          "en": "metal",
+          "zh": "金属"
+        },
+        {
+          "id": 8,
+          "en": "compostable bags",
+          "zh": "可堆肥袋"
+        },
+        {
+          "id": 9,
+          "en": "landfill",
+          "zh": "垃圾填埋场"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "id": "175",
+  "title": "写作",
+  "titleEn": "Writing",
+  "category": "参考",
+  "pages": [
+    {
+      "pageNum": 358,
+      "image": "assets/images/page_359.jpg",
+      "section": "175.1",
+      "sectionTitle": "写作和写作工具",
+      "sectionTitleEn": "Writing and Writing Tools",
+      "words": [
+        {
+          "id": 1,
+          "en": "highlighter pen",
+          "zh": "荧光笔"
+        },
+        {
+          "id": 2,
+          "en": "marker",
+          "zh": "记号笔"
+        },
+        {
+          "id": 3,
+          "en": "ballpoint pen",
+          "zh": "圆珠笔"
+        },
+        {
+          "id": 4,
+          "en": "calligraphy",
+          "zh": "书法"
+        },
+        {
+          "id": 5,
+          "en": "handwriting",
+          "zh": "手写"
+        },
+        {
+          "id": 6,
+          "en": "ink",
+          "zh": "墨水"
+        },
+        {
+          "id": 7,
+          "en": "nib",
+          "zh": "笔尖"
+        },
+        {
+          "id": 8,
+          "en": "fountain pen",
+          "zh": "自来水笔"
+        },
+        {
+          "id": 9,
+          "en": "pencil",
+          "zh": "铅笔"
+        },
+        {
+          "id": 10,
+          "en": "parchment",
+          "zh": "羊皮纸"
+        },
+        {
+          "id": 11,
+          "en": "printing",
+          "zh": "打印"
+        },
+        {
+          "id": 12,
+          "en": "emojis",
+          "zh": "表情符号"
+        },
+        {
+          "id": 13,
+          "en": "typeface",
+          "zh": "字体"
+        },
+        {
+          "id": 14,
+          "en": "letters",
+          "zh": "字母"
+        },
+        {
+          "id": 15,
+          "en": "uppercase / capital letters",
+          "zh": "大写字母"
+        },
+        {
+          "id": 16,
+          "en": "lowercase",
+          "zh": "小写字母"
+        },
+        {
+          "id": 17,
+          "en": "bold",
+          "zh": "粗体"
+        },
+        {
+          "id": 18,
+          "en": "italic",
+          "zh": "斜体"
+        },
+        {
+          "id": 19,
+          "en": "numerals",
+          "zh": "数字"
+        },
+        {
+          "id": 20,
+          "en": "ligature",
+          "zh": "连笔"
+        },
+        {
+          "id": 21,
+          "en": "period (us) / full stop (uk)",
+          "zh": "句号"
+        },
+        {
+          "id": 22,
+          "en": "hyphen",
+          "zh": "连字符"
+        },
+        {
+          "id": 23,
+          "en": "dash",
+          "zh": "破折号"
+        },
+        {
+          "id": 24,
+          "en": "underscore",
+          "zh": "下划线"
+        },
+        {
+          "id": 25,
+          "en": "comma",
+          "zh": "逗号"
+        }
+      ]
+    },
+    {
+      "pageNum": 359,
+      "image": "assets/images/page_360.jpg",
+      "section": "175.1",
+      "sectionTitle": "写作和写作工具",
+      "sectionTitleEn": "Writing and Writing Tools",
+      "words": [
+        {
+          "id": 26,
+          "en": "semicolon",
+          "zh": "分号"
+        },
+        {
+          "id": 27,
+          "en": "colon",
+          "zh": "冒号"
+        },
+        {
+          "id": 28,
+          "en": "ellipsis",
+          "zh": "省略号"
+        },
+        {
+          "id": 29,
+          "en": "exclamation mark",
+          "zh": "感叹号"
+        },
+        {
+          "id": 30,
+          "en": "question mark",
+          "zh": "问号"
+        },
+        {
+          "id": 31,
+          "en": "apostrophe",
+          "zh": "撇号"
+        },
+        {
+          "id": 32,
+          "en": "single quotation mark",
+          "zh": "单引号"
+        },
+        {
+          "id": 33,
+          "en": "double quotation mark",
+          "zh": "双引号"
+        },
+        {
+          "id": 34,
+          "en": "asterisk",
+          "zh": "星号"
+        },
+        {
+          "id": 35,
+          "en": "at sign / at symbol",
+          "zh": "@符号"
+        },
+        {
+          "id": 36,
+          "en": "ampersand",
+          "zh": "\"&\"符号"
+        },
+        {
+          "id": 37,
+          "en": "tilde",
+          "zh": "腭化符号"
+        },
+        {
+          "id": 38,
+          "en": "acute accent",
+          "zh": "尖音符号"
+        },
+        {
+          "id": 39,
+          "en": "grave accent",
+          "zh": "抑音符"
+        },
+        {
+          "id": 40,
+          "en": "umlaut",
+          "zh": "变音符"
+        },
+        {
+          "id": 41,
+          "en": "circumflex",
+          "zh": "音调符号"
+        },
+        {
+          "id": 42,
+          "en": "cedilla",
+          "zh": "下加变音符"
+        },
+        {
+          "id": 43,
+          "en": "copyright",
+          "zh": "版权符号"
+        },
+        {
+          "id": 44,
+          "en": "registered trademark",
+          "zh": "注册商标"
+        },
+        {
+          "id": 45,
+          "en": "brackets",
+          "zh": "括号"
+        },
+        {
+          "id": 46,
+          "en": "hashtag",
+          "zh": "井字标签"
+        },
+        {
+          "id": 47,
+          "en": "latin alphabet",
+          "zh": "拉丁字母"
+        },
+        {
+          "id": 48,
+          "en": "greek alphabet",
+          "zh": "希腊字母"
+        },
+        {
+          "id": 49,
+          "en": "cyrillic alphabet",
+          "zh": "西里尔字母"
+        },
+        {
+          "id": 50,
+          "en": "braille",
+          "zh": "盲文"
+        },
+        {
+          "id": 51,
+          "en": "arabic script",
+          "zh": "阿拉伯文字"
+        },
+        {
+          "id": 52,
+          "en": "japanese characters",
+          "zh": "日本汉字"
+        },
+        {
+          "id": 53,
+          "en": "chinese characters",
+          "zh": "中国汉字"
+        },
+        {
+          "id": 54,
+          "en": "devanagari script",
+          "zh": "天城文"
+        },
+        {
+          "id": 55,
+          "en": "ancient egyptian hieroglyphs",
+          "zh": "古埃及象形文字"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "id": "15",
+  "title": "衣服3",
+  "titleEn": "Clothes 3",
+  "category": "外貌",
+  "pages": [
+    {
+      "pageNum": 40,
+      "image": "assets/images/page_41.jpg",
+      "section": "15.1",
+      "sectionTitle": "正装",
+      "sectionTitleEn": "Formal clothes",
+      "words": [
+        {
+          "id": 1,
+          "en": "off the shoulder",
+          "zh": "露肩的"
+        },
+        {
+          "id": 2,
+          "en": "cap sleeve",
+          "zh": "沉肩袖"
+        },
+        {
+          "id": 3,
+          "en": "slit skirt",
+          "zh": "开衩裙"
+        },
+        {
+          "id": 4,
+          "en": "floor length",
+          "zh": "垂地的"
+        },
+        {
+          "id": 5,
+          "en": "evening dress",
+          "zh": "晚礼服"
+        },
+        {
+          "id": 6,
+          "en": "collar",
+          "zh": "衣领"
+        },
+        {
+          "id": 7,
+          "en": "tie",
+          "zh": "领带"
+        },
+        {
+          "id": 8,
+          "en": "jacket",
+          "zh": "西装夹克"
+        },
+        {
+          "id": 9,
+          "en": "cuff",
+          "zh": "袖口"
+        },
+        {
+          "id": 10,
+          "en": "pants (US) / trousers (UK)",
+          "zh": "西裤"
+        },
+        {
+          "id": 11,
+          "en": "shoulder pad",
+          "zh": "垫肩"
+        },
+        {
+          "id": 12,
+          "en": "shirt",
+          "zh": "衬衫"
+        },
+        {
+          "id": 13,
+          "en": "sleeve",
+          "zh": "袖子"
+        },
+        {
+          "id": 14,
+          "en": "button",
+          "zh": "纽扣"
+        },
+        {
+          "id": 15,
+          "en": "tailored",
+          "zh": "量身定做的"
+        },
+        {
+          "id": 16,
+          "en": "suit",
+          "zh": "西装"
+        },
+        {
+          "id": 17,
+          "en": "sleeveless",
+          "zh": "无袖的"
+        },
+        {
+          "id": 18,
+          "en": "bridesmaid's dress",
+          "zh": "伴娘服"
+        },
+        {
+          "id": 19,
+          "en": "bouquet",
+          "zh": "花束"
+        },
+        {
+          "id": 20,
+          "en": "veil",
+          "zh": "头纱"
+        },
+        {
+          "id": 21,
+          "en": "strapless",
+          "zh": "无肩带的"
+        },
+        {
+          "id": 22,
+          "en": "train",
+          "zh": "拖尾"
+        },
+        {
+          "id": 23,
+          "en": "wedding dress",
+          "zh": "婚纱"
+        },
+        {
+          "id": 24,
+          "en": "tuxedo",
+          "zh": "燕尾服"
+        },
+        {
+          "id": 25,
+          "en": "sports jacket",
+          "zh": "运动夹克"
+        },
+        {
+          "id": 26,
+          "en": "halter neck",
+          "zh": "露背装"
+        },
+        {
+          "id": 27,
+          "en": "waistband",
+          "zh": "裤腰"
+        },
+        {
+          "id": 28,
+          "en": "vest (US) / waistcoat (UK)",
+          "zh": "马甲"
+        }
+      ]
+    },
+    {
+      "pageNum": 41,
+      "image": "assets/images/page_42.jpg",
+      "section": "15.2",
+      "sectionTitle": "外套",
+      "sectionTitleEn": "Outerwear",
+      "words": [
+        {
+          "id": 29,
+          "en": "raincoat",
+          "zh": "雨衣"
+        },
+        {
+          "id": 30,
+          "en": "hood",
+          "zh": "兜帽"
+        },
+        {
+          "id": 31,
+          "en": "anorak",
+          "zh": "滑雪衫"
+        },
+        {
+          "id": 32,
+          "en": "duffle coat",
+          "zh": "粗呢大衣"
+        },
+        {
+          "id": 33,
+          "en": "poncho",
+          "zh": "雨披"
+        },
+        {
+          "id": 34,
+          "en": "denim jacket",
+          "zh": "牛仔夹克"
+        },
+        {
+          "id": 35,
+          "en": "quilted jacket",
+          "zh": "棉夹克"
+        },
+        {
+          "id": 36,
+          "en": "bomber jacket",
+          "zh": "飞行员夹克"
+        },
+        {
+          "id": 37,
+          "en": "cloak",
+          "zh": "斗篷"
+        },
+        {
+          "id": 38,
+          "en": "trench coat",
+          "zh": "风衣"
+        },
+        {
+          "id": 39,
+          "en": "lining",
+          "zh": "内衬"
+        },
+        {
+          "id": 40,
+          "en": "lapel",
+          "zh": "翻领"
+        },
+        {
+          "id": 41,
+          "en": "buttonhole",
+          "zh": "扣眼"
+        },
+        {
+          "id": 42,
+          "en": "belt",
+          "zh": "腰带"
+        },
+        {
+          "id": 43,
+          "en": "pocket",
+          "zh": "口袋"
+        }
+      ]
+    },
+    {
+      "pageNum": 41,
+      "image": "assets/images/page_42.jpg",
+      "section": "15.3",
+      "sectionTitle": "运动服",
+      "sectionTitleEn": "Sportswear",
+      "words": [
+        {
+          "id": 44,
+          "en": "tracksuit",
+          "zh": "运动服"
+        },
+        {
+          "id": 45,
+          "en": "sports bra",
+          "zh": "运动内衣"
+        },
+        {
+          "id": 46,
+          "en": "sweatpants",
+          "zh": "运动裤"
+        },
+        {
+          "id": 47,
+          "en": "leotard",
+          "zh": "紧身连衣裤"
+        },
+        {
+          "id": 48,
+          "en": "football jersey (US) / football shirt (UK)",
+          "zh": "足球衫"
+        },
+        {
+          "id": 49,
+          "en": "snorkel and mask",
+          "zh": "呼吸管和面罩"
+        },
+        {
+          "id": 50,
+          "en": "fins / flippers",
+          "zh": "脚蹼"
+        },
+        {
+          "id": 51,
+          "en": "swimsuit",
+          "zh": "泳装"
+        },
+        {
+          "id": 52,
+          "en": "goggles",
+          "zh": "护目镜"
+        },
+        {
+          "id": 53,
+          "en": "swim trunks (US) / swimming trunks (UK)",
+          "zh": "泳裤"
+        }
+      ]
+    },
+    {
+      "pageNum": 41,
+      "image": "assets/images/page_42.jpg",
+      "section": "15.4",
+      "sectionTitle": "传统服饰",
+      "sectionTitleEn": "Traditional clothing",
+      "words": [
+        {
+          "id": 54,
+          "en": "agbada",
+          "zh": "（西式）男式长袍"
+        },
+        {
+          "id": 55,
+          "en": "flamenco dress",
+          "zh": "弗拉曼柯舞裙"
+        },
+        {
+          "id": 56,
+          "en": "lederhosen",
+          "zh": "（德）皮短裤"
+        },
+        {
+          "id": 57,
+          "en": "kimono",
+          "zh": "和服"
+        },
+        {
+          "id": 58,
+          "en": "thawb",
+          "zh": "阿拉伯长袍"
+        },
+        {
+          "id": 59,
+          "en": "sari",
+          "zh": "纱丽"
+        },
+        {
+          "id": 60,
+          "en": "kilt",
+          "zh": "苏格兰裙"
+        },
+        {
+          "id": 61,
+          "en": "sarong",
+          "zh": "纱笼"
+        },
+        {
+          "id": 62,
+          "en": "folk blouse",
+          "zh": "民俗衫"
+        }
+      ]
+    }
+  ]
+}

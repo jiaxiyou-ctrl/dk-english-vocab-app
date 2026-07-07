@@ -1,0 +1,280 @@
+{
+  "id": "63",
+  "title": "面包房2",
+  "titleEn": "Bakery 2",
+  "category": "食物",
+  "pages": [
+    {
+      "pageNum": 136,
+      "image": "assets/images/page_137.jpg",
+      "section": "63.1",
+      "sectionTitle": "蛋糕和甜品",
+      "sectionTitleEn": "Cakes and Desserts",
+      "words": [
+        {
+          "id": 1,
+          "en": "choux pastry",
+          "zh": "泡芙面团"
+        },
+        {
+          "id": 2,
+          "en": "puff pastry",
+          "zh": "酥皮"
+        },
+        {
+          "id": 3,
+          "en": "phyllo (US) / filo (UK)",
+          "zh": "千层酥皮"
+        },
+        {
+          "id": 4,
+          "en": "filling",
+          "zh": "内馅"
+        },
+        {
+          "id": 5,
+          "en": "chocolate cake",
+          "zh": "巧克力蛋糕"
+        },
+        {
+          "id": 6,
+          "en": "cheesecake",
+          "zh": "芝士蛋糕"
+        },
+        {
+          "id": 7,
+          "en": "tiramisu",
+          "zh": "提拉米苏"
+        },
+        {
+          "id": 8,
+          "en": "fruit tart",
+          "zh": "水果馅饼"
+        },
+        {
+          "id": 9,
+          "en": "ice cream sundae",
+          "zh": "冰激凌圣代"
+        },
+        {
+          "id": 10,
+          "en": "meringue",
+          "zh": "蛋白酥饼"
+        },
+        {
+          "id": 11,
+          "en": "cupcake",
+          "zh": "纸杯蛋糕"
+        },
+        {
+          "id": 12,
+          "en": "dessert cart (US) / sweet trolley (UK)",
+          "zh": "甜点推车"
+        },
+        {
+          "id": 13,
+          "en": "crème pâtissière",
+          "zh": "浓厚蛋奶酱"
+        },
+        {
+          "id": 14,
+          "en": "mochi",
+          "zh": "麻薯"
+        },
+        {
+          "id": 15,
+          "en": "donut (US) / doughnut (UK)",
+          "zh": "甜甜圈"
+        },
+        {
+          "id": 16,
+          "en": "jelly donut (US) / jam doughnut (UK)",
+          "zh": "果酱甜甜圈"
+        },
+        {
+          "id": 17,
+          "en": "chocolate donut (US) / chocolate doughnut (UK)",
+          "zh": "巧克力甜甜圈"
+        },
+        {
+          "id": 18,
+          "en": "muffin",
+          "zh": "麦芬"
+        },
+        {
+          "id": 19,
+          "en": "baklava",
+          "zh": "果仁蜜酥"
+        },
+        {
+          "id": 20,
+          "en": "pavlova",
+          "zh": "巴甫洛娃蛋糕"
+        },
+        {
+          "id": 21,
+          "en": "layer cake",
+          "zh": "多层蛋糕"
+        },
+        {
+          "id": 22,
+          "en": "sponge cake",
+          "zh": "海绵蛋糕"
+        },
+        {
+          "id": 23,
+          "en": "fruitcake",
+          "zh": "水果蛋糕"
+        },
+        {
+          "id": 24,
+          "en": "gateau",
+          "zh": "奶油蛋糕"
+        },
+        {
+          "id": 25,
+          "en": "custard slice",
+          "zh": "蛋奶小方"
+        },
+        {
+          "id": 26,
+          "en": "custard",
+          "zh": "蛋奶酱"
+        },
+        {
+          "id": 27,
+          "en": "éclair",
+          "zh": "闪电泡芙"
+        },
+        {
+          "id": 28,
+          "en": "iced bun",
+          "zh": "糖霜面包"
+        },
+        {
+          "id": 29,
+          "en": "pastry",
+          "zh": "糕点"
+        },
+        {
+          "id": 30,
+          "en": "rice pudding",
+          "zh": "米布丁"
+        }
+      ]
+    },
+    {
+      "pageNum": 137,
+      "image": "assets/images/page_138.jpg",
+      "section": "63.2",
+      "sectionTitle": "曲奇和饼干",
+      "sectionTitleEn": "Cookies and Biscuits",
+      "words": [
+        {
+          "id": 31,
+          "en": "chocolate chip cookie",
+          "zh": "巧克力碎曲奇"
+        },
+        {
+          "id": 32,
+          "en": "Florentine",
+          "zh": "佛罗伦萨干果饼干"
+        },
+        {
+          "id": 33,
+          "en": "shortbread",
+          "zh": "酥饼"
+        },
+        {
+          "id": 34,
+          "en": "macaron",
+          "zh": "马卡龙"
+        },
+        {
+          "id": 35,
+          "en": "gingerbread man",
+          "zh": "姜饼人"
+        },
+        {
+          "id": 36,
+          "en": "fortune cookies",
+          "zh": "幸运饼干"
+        }
+      ]
+    },
+    {
+      "pageNum": 137,
+      "image": "assets/images/page_138.jpg",
+      "section": "63.3",
+      "sectionTitle": "庆典蛋糕",
+      "sectionTitleEn": "Celebration Cakes",
+      "words": [
+        {
+          "id": 37,
+          "en": "top tier",
+          "zh": "顶层"
+        },
+        {
+          "id": 38,
+          "en": "decoration",
+          "zh": "装饰品"
+        },
+        {
+          "id": 39,
+          "en": "icing",
+          "zh": "糖霜"
+        },
+        {
+          "id": 40,
+          "en": "cake topper",
+          "zh": "蛋糕顶装饰"
+        },
+        {
+          "id": 41,
+          "en": "marzipan",
+          "zh": "杏仁蛋白糖霜"
+        },
+        {
+          "id": 42,
+          "en": "ribbon",
+          "zh": "缎带"
+        },
+        {
+          "id": 43,
+          "en": "wedding cake",
+          "zh": "结婚蛋糕"
+        },
+        {
+          "id": 44,
+          "en": "to glaze",
+          "zh": "浇糖浆"
+        },
+        {
+          "id": 45,
+          "en": "to bake",
+          "zh": "烘焙"
+        },
+        {
+          "id": 46,
+          "en": "to decorate",
+          "zh": "点缀"
+        },
+        {
+          "id": 47,
+          "en": "birthday cake",
+          "zh": "生日蛋糕"
+        },
+        {
+          "id": 48,
+          "en": "birthday candles",
+          "zh": "生日蜡烛"
+        },
+        {
+          "id": 49,
+          "en": "to blow out",
+          "zh": "吹灭"
+        }
+      ]
+    }
+  ]
+}

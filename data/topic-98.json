@@ -1,0 +1,265 @@
+{
+  "id": "98",
+  "title": "车辆2",
+  "titleEn": "Vehicles 2",
+  "category": "交通",
+  "pages": [
+    {
+      "pageNum": 204,
+      "image": "assets/images/page_205.jpg",
+      "section": "98.1",
+      "sectionTitle": "道路救援",
+      "sectionTitleEn": "Roadside Assistance",
+      "words": [
+        {
+          "id": 1,
+          "en": "auto repair shop (US) / garage (UK)",
+          "zh": "汽车修理厂"
+        },
+        {
+          "id": 2,
+          "en": "mechanic",
+          "zh": "机修工"
+        },
+        {
+          "id": 3,
+          "en": "tow truck",
+          "zh": "拖车"
+        },
+        {
+          "id": 4,
+          "en": "spare tire (US) / spare tyre (UK)",
+          "zh": "备胎"
+        },
+        {
+          "id": 5,
+          "en": "flat tire (US) / flat tyre (UK)",
+          "zh": "漏气轮胎"
+        }
+      ]
+    },
+    {
+      "pageNum": 204,
+      "image": "assets/images/page_205.jpg",
+      "section": "98.2",
+      "sectionTitle": "机械装置",
+      "sectionTitleEn": "Mechanics",
+      "words": [
+        {
+          "id": 1,
+          "en": "fan belt",
+          "zh": "风扇皮带"
+        },
+        {
+          "id": 2,
+          "en": "air filter",
+          "zh": "空气过滤器"
+        },
+        {
+          "id": 3,
+          "en": "radiator",
+          "zh": "散热器"
+        },
+        {
+          "id": 4,
+          "en": "spark plug",
+          "zh": "火花塞"
+        },
+        {
+          "id": 5,
+          "en": "fuse box",
+          "zh": "保险盒"
+        },
+        {
+          "id": 6,
+          "en": "distributor",
+          "zh": "配电器"
+        },
+        {
+          "id": 7,
+          "en": "sunroof",
+          "zh": "天窗"
+        },
+        {
+          "id": 8,
+          "en": "roof",
+          "zh": "车顶"
+        },
+        {
+          "id": 9,
+          "en": "exhaust pipe",
+          "zh": "排气管"
+        },
+        {
+          "id": 10,
+          "en": "cooling system",
+          "zh": "冷却系统"
+        },
+        {
+          "id": 11,
+          "en": "engine",
+          "zh": "引擎"
+        },
+        {
+          "id": 12,
+          "en": "gearbox",
+          "zh": "变速箱"
+        },
+        {
+          "id": 13,
+          "en": "transmission",
+          "zh": "传动装置"
+        },
+        {
+          "id": 14,
+          "en": "suspension",
+          "zh": "悬架"
+        },
+        {
+          "id": 15,
+          "en": "driveshaft",
+          "zh": "驱动轴"
+        },
+        {
+          "id": 16,
+          "en": "hubcap",
+          "zh": "轮毂盖"
+        },
+        {
+          "id": 17,
+          "en": "muffler (US) / silencer (UK)",
+          "zh": "排气消音器"
+        },
+        {
+          "id": 18,
+          "en": "washer fluid reservoir (US) / screen wash reservoir (UK)",
+          "zh": "玻璃水容器"
+        },
+        {
+          "id": 19,
+          "en": "hood (US) / bonnet (UK)",
+          "zh": "引擎盖"
+        },
+        {
+          "id": 20,
+          "en": "brake fluid reservoir",
+          "zh": "制动液容器"
+        },
+        {
+          "id": 21,
+          "en": "dipstick",
+          "zh": "量油计"
+        },
+        {
+          "id": 22,
+          "en": "pipe",
+          "zh": "管子"
+        },
+        {
+          "id": 23,
+          "en": "coolant reservoir",
+          "zh": "冷却液容器"
+        },
+        {
+          "id": 24,
+          "en": "battery",
+          "zh": "电池"
+        },
+        {
+          "id": 25,
+          "en": "bodywork",
+          "zh": "车身"
+        },
+        {
+          "id": 26,
+          "en": "cylinder head",
+          "zh": "汽缸盖"
+        }
+      ]
+    },
+    {
+      "pageNum": 205,
+      "image": "assets/images/page_206.jpg",
+      "section": "98.3",
+      "sectionTitle": "驾驶相关的动词",
+      "sectionTitleEn": "Driving Verbs",
+      "words": [
+        {
+          "id": 1,
+          "en": "to fill up",
+          "zh": "加满油"
+        },
+        {
+          "id": 2,
+          "en": "to check the oil",
+          "zh": "检查汽油"
+        },
+        {
+          "id": 3,
+          "en": "to check the tires (US) / to check the tyres (UK)",
+          "zh": "检查轮胎"
+        },
+        {
+          "id": 4,
+          "en": "to service the car",
+          "zh": "维修汽车"
+        },
+        {
+          "id": 5,
+          "en": "to park",
+          "zh": "停车"
+        },
+        {
+          "id": 6,
+          "en": "to take off (US) / to set off (UK)",
+          "zh": "发动"
+        },
+        {
+          "id": 7,
+          "en": "to signal (US) / to indicate (UK)",
+          "zh": "打转向灯"
+        },
+        {
+          "id": 8,
+          "en": "to brake",
+          "zh": "刹车"
+        },
+        {
+          "id": 9,
+          "en": "to slow down",
+          "zh": "减速"
+        },
+        {
+          "id": 10,
+          "en": "to speed up",
+          "zh": "加速"
+        },
+        {
+          "id": 11,
+          "en": "to pick someone up",
+          "zh": "接某人上车"
+        },
+        {
+          "id": 12,
+          "en": "to drop someone off",
+          "zh": "送某人下车"
+        },
+        {
+          "id": 13,
+          "en": "to have a car accident",
+          "zh": "出车祸"
+        },
+        {
+          "id": 14,
+          "en": "to break down",
+          "zh": "出故障"
+        },
+        {
+          "id": 15,
+          "en": "to pass (US) / to overtake (UK)",
+          "zh": "超车"
+        }
+      ]
+    }
+  ]
+}

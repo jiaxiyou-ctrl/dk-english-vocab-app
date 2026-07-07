@@ -1,0 +1,305 @@
+{
+  "id": "57",
+  "title": "水果",
+  "titleEn": "Fruit",
+  "category": "食物",
+  "pages": [
+    {
+      "pageNum": 124,
+      "image": "assets/images/page_125.jpg",
+      "section": "57.1",
+      "sectionTitle": "柑橘类水果",
+      "sectionTitleEn": "Citrus Fruit",
+      "words": [
+        {
+          "id": 1,
+          "en": "orange",
+          "zh": "橙子"
+        },
+        {
+          "id": 2,
+          "en": "blood orange",
+          "zh": "血橙"
+        },
+        {
+          "id": 3,
+          "en": "ugli fruit",
+          "zh": "牙买加丑橘"
+        },
+        {
+          "id": 4,
+          "en": "pomelo",
+          "zh": "柚子"
+        },
+        {
+          "id": 5,
+          "en": "grapefruit",
+          "zh": "葡萄柚"
+        },
+        {
+          "id": 6,
+          "en": "segment",
+          "zh": "瓣"
+        },
+        {
+          "id": 7,
+          "en": "clementine",
+          "zh": "小柑橘"
+        },
+        {
+          "id": 8,
+          "en": "satsuma",
+          "zh": "小蜜橘"
+        },
+        {
+          "id": 9,
+          "en": "kumquat",
+          "zh": "金橘"
+        },
+        {
+          "id": 10,
+          "en": "lime",
+          "zh": "酸橙"
+        },
+        {
+          "id": 11,
+          "en": "lemon",
+          "zh": "柠檬"
+        },
+        {
+          "id": 12,
+          "en": "zest",
+          "zh": "柠檬皮"
+        }
+      ]
+    },
+    {
+      "pageNum": 124,
+      "image": "assets/images/page_125.jpg",
+      "section": "57.2",
+      "sectionTitle": "形容水果的词汇",
+      "sectionTitleEn": "Describing Fruit",
+      "words": [
+        {
+          "id": 13,
+          "en": "coconut shell",
+          "zh": "椰子壳"
+        },
+        {
+          "id": 14,
+          "en": "hard",
+          "zh": "硬的"
+        },
+        {
+          "id": 15,
+          "en": "soft",
+          "zh": "软的"
+        },
+        {
+          "id": 16,
+          "en": "seedless",
+          "zh": "无籽的"
+        },
+        {
+          "id": 17,
+          "en": "to pick",
+          "zh": "采摘"
+        },
+        {
+          "id": 18,
+          "en": "spring",
+          "zh": "春天"
+        },
+        {
+          "id": 19,
+          "en": "summer",
+          "zh": "夏天"
+        },
+        {
+          "id": 20,
+          "en": "fall (US) / autumn (UK)",
+          "zh": "秋天"
+        },
+        {
+          "id": 21,
+          "en": "seasonal fruit",
+          "zh": "时令水果"
+        },
+        {
+          "id": 22,
+          "en": "sweet",
+          "zh": "甜的"
+        },
+        {
+          "id": 23,
+          "en": "sour",
+          "zh": "酸的"
+        },
+        {
+          "id": 24,
+          "en": "ripe",
+          "zh": "成熟的"
+        },
+        {
+          "id": 25,
+          "en": "rotten",
+          "zh": "腐烂的"
+        },
+        {
+          "id": 26,
+          "en": "crisp",
+          "zh": "脆的"
+        },
+        {
+          "id": 27,
+          "en": "core",
+          "zh": "果核"
+        },
+        {
+          "id": 28,
+          "en": "fiber (US) / fibre (UK)",
+          "zh": "纤维"
+        },
+        {
+          "id": 29,
+          "en": "pulp",
+          "zh": "果肉"
+        }
+      ]
+    },
+    {
+      "pageNum": 125,
+      "image": "assets/images/page_126.jpg",
+      "section": "57.3",
+      "sectionTitle": "浆果和核果",
+      "sectionTitleEn": "Berries and Stone Fruit",
+      "words": [
+        {
+          "id": 30,
+          "en": "raspberry",
+          "zh": "覆盆子"
+        },
+        {
+          "id": 31,
+          "en": "black currant (US) / blackcurrant (UK)",
+          "zh": "黑醋栗"
+        },
+        {
+          "id": 32,
+          "en": "blackberry",
+          "zh": "黑莓"
+        },
+        {
+          "id": 33,
+          "en": "white currant",
+          "zh": "白醋栗"
+        },
+        {
+          "id": 34,
+          "en": "strawberry",
+          "zh": "草莓"
+        },
+        {
+          "id": 35,
+          "en": "basket of fruit",
+          "zh": "果篮"
+        },
+        {
+          "id": 36,
+          "en": "cranberry",
+          "zh": "蔓越莓"
+        },
+        {
+          "id": 37,
+          "en": "blueberry",
+          "zh": "蓝莓"
+        },
+        {
+          "id": 38,
+          "en": "loganberry",
+          "zh": "罗甘莓"
+        },
+        {
+          "id": 39,
+          "en": "cape gooseberry",
+          "zh": "灯笼果"
+        },
+        {
+          "id": 40,
+          "en": "goji berry",
+          "zh": "枸杞"
+        },
+        {
+          "id": 41,
+          "en": "gooseberry",
+          "zh": "醋栗"
+        },
+        {
+          "id": 42,
+          "en": "red currant (US) / redcurrant (UK)",
+          "zh": "红醋栗"
+        },
+        {
+          "id": 43,
+          "en": "bilberry",
+          "zh": "越橘"
+        },
+        {
+          "id": 44,
+          "en": "elderberry",
+          "zh": "接骨木果"
+        },
+        {
+          "id": 45,
+          "en": "grapes",
+          "zh": "葡萄"
+        },
+        {
+          "id": 46,
+          "en": "mulberry",
+          "zh": "桑葚"
+        },
+        {
+          "id": 47,
+          "en": "peach",
+          "zh": "桃子"
+        },
+        {
+          "id": 48,
+          "en": "nectarine",
+          "zh": "油桃"
+        },
+        {
+          "id": 49,
+          "en": "apricot",
+          "zh": "杏"
+        },
+        {
+          "id": 50,
+          "en": "mango",
+          "zh": "芒果"
+        },
+        {
+          "id": 51,
+          "en": "plum",
+          "zh": "李子"
+        },
+        {
+          "id": 52,
+          "en": "cherry",
+          "zh": "樱桃"
+        },
+        {
+          "id": 53,
+          "en": "date",
+          "zh": "椰枣"
+        },
+        {
+          "id": 54,
+          "en": "lychee",
+          "zh": "荔枝"
+        }
+      ]
+    }
+  ]
+}

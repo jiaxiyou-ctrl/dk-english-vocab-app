@@ -1,0 +1,167 @@
+{
+  "id": "91",
+  "title": "行业和部门",
+  "titleEn": "Industries and Sectors",
+  "category": "工作",
+  "pages": [
+    {
+      "pageNum": 190,
+      "image": "assets/images/page_191.jpg",
+      "section": "91.1",
+      "sectionTitle": "行业",
+      "sectionTitleEn": "Industries",
+      "words": [
+        {
+          "id": 1,
+          "en": "advertising",
+          "zh": "广告业"
+        },
+        {
+          "id": 2,
+          "en": "personal services",
+          "zh": "个人服务业"
+        },
+        {
+          "id": 3,
+          "en": "agriculture / farming",
+          "zh": "农业"
+        },
+        {
+          "id": 4,
+          "en": "military",
+          "zh": "军事"
+        },
+        {
+          "id": 5,
+          "en": "real estate (US) / property (UK)",
+          "zh": "房地产业"
+        },
+        {
+          "id": 6,
+          "en": "automotive industry",
+          "zh": "汽车业"
+        },
+        {
+          "id": 7,
+          "en": "banking",
+          "zh": "银行业"
+        },
+        {
+          "id": 8,
+          "en": "aerospace",
+          "zh": "航空航天业"
+        },
+        {
+          "id": 9,
+          "en": "petroleum engineering",
+          "zh": "石油工程"
+        },
+        {
+          "id": 10,
+          "en": "chemical industry",
+          "zh": "化学工业"
+        },
+        {
+          "id": 11,
+          "en": "arts",
+          "zh": "艺术行业"
+        },
+        {
+          "id": 12,
+          "en": "education",
+          "zh": "教育行业"
+        },
+        {
+          "id": 13,
+          "en": "gaming",
+          "zh": "游戏行业"
+        },
+        {
+          "id": 14,
+          "en": "energy",
+          "zh": "能源业"
+        },
+        {
+          "id": 15,
+          "en": "research",
+          "zh": "研究行业"
+        },
+        {
+          "id": 16,
+          "en": "fashion",
+          "zh": "时尚业"
+        },
+        {
+          "id": 17,
+          "en": "recycling",
+          "zh": "回收业"
+        },
+        {
+          "id": 18,
+          "en": "entertainment",
+          "zh": "娱乐业"
+        },
+        {
+          "id": 19,
+          "en": "shipping",
+          "zh": "航运业"
+        },
+        {
+          "id": 20,
+          "en": "online retail",
+          "zh": "在线零售业"
+        },
+        {
+          "id": 21,
+          "en": "journalism",
+          "zh": "新闻业"
+        },
+        {
+          "id": 22,
+          "en": "textiles",
+          "zh": "纺织业"
+        },
+        {
+          "id": 23,
+          "en": "media",
+          "zh": "媒体行业"
+        },
+        {
+          "id": 24,
+          "en": "hospitality",
+          "zh": "酒店业"
+        },
+        {
+          "id": 25,
+          "en": "online delivery",
+          "zh": "网购快递业"
+        },
+        {
+          "id": 26,
+          "en": "water",
+          "zh": "水产业"
+        },
+        {
+          "id": 27,
+          "en": "performing arts",
+          "zh": "表演艺术"
+        },
+        {
+          "id": 28,
+          "en": "biotechnology",
+          "zh": "生物技术"
+        },
+        {
+          "id": 29,
+          "en": "finance",
+          "zh": "金融业"
+        },
+        {
+          "id": 30,
+          "en": "our stocks have fallen dramatically.",
+          "zh": "我们的股票大幅下跌。"
+        }
+      ]
+    }
+  ]
+}

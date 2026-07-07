@@ -1,0 +1,285 @@
+{
+  "id": "97",
+  "title": "车辆1",
+  "titleEn": "Vehicles 1",
+  "category": "交通",
+  "pages": [
+    {
+      "pageNum": 202,
+      "image": "assets/images/page_203.jpg",
+      "section": "97.1",
+      "sectionTitle": "汽车外部",
+      "sectionTitleEn": "Car Exterior",
+      "words": [
+        {
+          "id": 1,
+          "en": "hood (US) / bonnet (UK)",
+          "zh": "引擎盖"
+        },
+        {
+          "id": 2,
+          "en": "antenna (US) / aerial (UK)",
+          "zh": "天线"
+        },
+        {
+          "id": 3,
+          "en": "door handle",
+          "zh": "车门把手"
+        },
+        {
+          "id": 4,
+          "en": "trunk (US) / boot (UK)",
+          "zh": "后备厢"
+        },
+        {
+          "id": 5,
+          "en": "headlight",
+          "zh": "前灯"
+        },
+        {
+          "id": 6,
+          "en": "wheel",
+          "zh": "车轮"
+        },
+        {
+          "id": 7,
+          "en": "front door",
+          "zh": "前门"
+        },
+        {
+          "id": 8,
+          "en": "side view",
+          "zh": "侧视图"
+        },
+        {
+          "id": 9,
+          "en": "back door",
+          "zh": "后门"
+        },
+        {
+          "id": 10,
+          "en": "tire (US) / tyre (UK)",
+          "zh": "轮胎"
+        },
+        {
+          "id": 11,
+          "en": "windshield (US) / windscreen (UK)",
+          "zh": "风挡"
+        },
+        {
+          "id": 12,
+          "en": "wiper",
+          "zh": "雨刷"
+        },
+        {
+          "id": 13,
+          "en": "side-view mirror (US) / wing mirror (UK)",
+          "zh": "侧翼后视镜"
+        },
+        {
+          "id": 14,
+          "en": "headlight",
+          "zh": "前灯"
+        },
+        {
+          "id": 15,
+          "en": "turn signal (US) / indicator (UK)",
+          "zh": "转向灯"
+        },
+        {
+          "id": 16,
+          "en": "license plate (US) / licence plate (UK)",
+          "zh": "牌照"
+        },
+        {
+          "id": 17,
+          "en": "front view",
+          "zh": "正视图"
+        },
+        {
+          "id": 18,
+          "en": "bumper",
+          "zh": "保险杠"
+        },
+        {
+          "id": 19,
+          "en": "winter tires (US) / winter tyres (UK)",
+          "zh": "冬季轮胎"
+        },
+        {
+          "id": 20,
+          "en": "roof rack",
+          "zh": "车顶行李架"
+        },
+        {
+          "id": 21,
+          "en": "tailgate",
+          "zh": "尾部车门"
+        }
+      ]
+    },
+    {
+      "pageNum": 203,
+      "image": "assets/images/page_204.jpg",
+      "section": "97.2",
+      "sectionTitle": "汽车类型",
+      "sectionTitleEn": "Types of Car",
+      "words": [
+        {
+          "id": 22,
+          "en": "electric car",
+          "zh": "电动汽车"
+        },
+        {
+          "id": 23,
+          "en": "hybrid",
+          "zh": "混合动力车"
+        },
+        {
+          "id": 24,
+          "en": "plug-in hybrid",
+          "zh": "插电式混合动力车"
+        },
+        {
+          "id": 25,
+          "en": "hatchback",
+          "zh": "掀背式轿车"
+        },
+        {
+          "id": 26,
+          "en": "sedan (US) / saloon (UK)",
+          "zh": "家庭轿车"
+        },
+        {
+          "id": 27,
+          "en": "station wagon (US) / estate (UK)",
+          "zh": "客货两用车"
+        },
+        {
+          "id": 28,
+          "en": "four-wheel drive",
+          "zh": "四轮驱动车"
+        },
+        {
+          "id": 29,
+          "en": "minivan (US) / people carrier (UK)",
+          "zh": "小面包车"
+        },
+        {
+          "id": 30,
+          "en": "limousine",
+          "zh": "豪华轿车"
+        },
+        {
+          "id": 31,
+          "en": "sports car",
+          "zh": "跑车"
+        },
+        {
+          "id": 32,
+          "en": "spoiler",
+          "zh": "气流偏导器"
+        },
+        {
+          "id": 33,
+          "en": "convertible",
+          "zh": "敞篷车"
+        },
+        {
+          "id": 34,
+          "en": "vintage",
+          "zh": "老式汽车"
+        },
+        {
+          "id": 35,
+          "en": "dune buggy (US) / beach buggy (UK)",
+          "zh": "沙滩车"
+        },
+        {
+          "id": 36,
+          "en": "roll bar (US) / roller bar (UK)",
+          "zh": "翻车防护杆"
+        },
+        {
+          "id": 37,
+          "en": "race car (US) / racing car (UK)",
+          "zh": "赛车"
+        },
+        {
+          "id": 38,
+          "en": "front wing",
+          "zh": "前翼"
+        },
+        {
+          "id": 39,
+          "en": "rear wing",
+          "zh": "尾翼"
+        }
+      ]
+    },
+    {
+      "pageNum": 203,
+      "image": "assets/images/page_204.jpg",
+      "section": "97.3",
+      "sectionTitle": "加油站",
+      "sectionTitleEn": "Gas Station",
+      "words": [
+        {
+          "id": 40,
+          "en": "gas pump (US) / petrol pump (UK)",
+          "zh": "汽油泵"
+        },
+        {
+          "id": 41,
+          "en": "canopy (US) / forecourt (UK)",
+          "zh": "停车区"
+        },
+        {
+          "id": 42,
+          "en": "ev charging station (US) / electric charge point (UK)",
+          "zh": "电动汽车充电站"
+        },
+        {
+          "id": 43,
+          "en": "washer fluid (US) / screen wash (UK)",
+          "zh": "玻璃水"
+        },
+        {
+          "id": 44,
+          "en": "antifreeze",
+          "zh": "防冻液"
+        },
+        {
+          "id": 45,
+          "en": "gasoline (US) / petrol (UK)",
+          "zh": "汽油"
+        },
+        {
+          "id": 46,
+          "en": "unleaded",
+          "zh": "无铅"
+        },
+        {
+          "id": 47,
+          "en": "leaded",
+          "zh": "含铅"
+        },
+        {
+          "id": 48,
+          "en": "diesel",
+          "zh": "柴油"
+        },
+        {
+          "id": 49,
+          "en": "oil",
+          "zh": "石油"
+        },
+        {
+          "id": 50,
+          "en": "car wash",
+          "zh": "洗车"
+        }
+      ]
+    }
+  ]
+}

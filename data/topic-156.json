@@ -1,0 +1,344 @@
+{
+  "id": "156",
+  "title": "岩石和矿物",
+  "titleEn": "Rocks and Minerals",
+  "category": "环境",
+  "pages": [
+    {
+      "pageNum": 320,
+      "image": "assets/images/page_321.jpg",
+      "section": "156.1",
+      "sectionTitle": "岩石",
+      "sectionTitleEn": "Rocks",
+      "words": [
+        {
+          "id": 1,
+          "en": "sedimentary",
+          "zh": "沉积岩"
+        },
+        {
+          "id": 2,
+          "en": "sandstone",
+          "zh": "砂岩"
+        },
+        {
+          "id": 3,
+          "en": "limestone",
+          "zh": "石灰岩"
+        },
+        {
+          "id": 4,
+          "en": "chalk",
+          "zh": "白垩"
+        },
+        {
+          "id": 5,
+          "en": "flint",
+          "zh": "燧石"
+        },
+        {
+          "id": 6,
+          "en": "conglomerate",
+          "zh": "砾岩"
+        },
+        {
+          "id": 7,
+          "en": "metamorphic",
+          "zh": "变质岩"
+        },
+        {
+          "id": 8,
+          "en": "slate",
+          "zh": "板岩"
+        },
+        {
+          "id": 9,
+          "en": "schist",
+          "zh": "页岩"
+        },
+        {
+          "id": 10,
+          "en": "gneiss",
+          "zh": "片麻岩"
+        },
+        {
+          "id": 11,
+          "en": "marble",
+          "zh": "大理石"
+        },
+        {
+          "id": 12,
+          "en": "quartzite",
+          "zh": "石英岩"
+        },
+        {
+          "id": 13,
+          "en": "igneous",
+          "zh": "火成岩"
+        },
+        {
+          "id": 14,
+          "en": "granite",
+          "zh": "花岗岩"
+        },
+        {
+          "id": 15,
+          "en": "obsidian",
+          "zh": "黑曜岩"
+        },
+        {
+          "id": 16,
+          "en": "basalt",
+          "zh": "玄武岩"
+        },
+        {
+          "id": 17,
+          "en": "tuff",
+          "zh": "凝灰岩"
+        },
+        {
+          "id": 18,
+          "en": "pumice",
+          "zh": "浮石"
+        }
+      ]
+    },
+    {
+      "pageNum": 320,
+      "image": "assets/images/page_321.jpg",
+      "section": "156.2",
+      "sectionTitle": "矿物",
+      "sectionTitleEn": "Minerals",
+      "words": [
+        {
+          "id": 1,
+          "en": "quartz",
+          "zh": "石英"
+        },
+        {
+          "id": 2,
+          "en": "mica",
+          "zh": "云母"
+        },
+        {
+          "id": 3,
+          "en": "agate",
+          "zh": "玛瑙"
+        },
+        {
+          "id": 4,
+          "en": "hematite",
+          "zh": "赤铁矿"
+        },
+        {
+          "id": 5,
+          "en": "calcite",
+          "zh": "方解石"
+        },
+        {
+          "id": 6,
+          "en": "malachite",
+          "zh": "孔雀石"
+        },
+        {
+          "id": 7,
+          "en": "turquoise",
+          "zh": "绿松石"
+        },
+        {
+          "id": 8,
+          "en": "onyx",
+          "zh": "缟玛瑙"
+        },
+        {
+          "id": 9,
+          "en": "sulfur (US) / sulphur (UK)",
+          "zh": "硫黄"
+        },
+        {
+          "id": 10,
+          "en": "graphite",
+          "zh": "石墨"
+        },
+        {
+          "id": 11,
+          "en": "geode",
+          "zh": "晶洞"
+        },
+        {
+          "id": 12,
+          "en": "sand rose",
+          "zh": "沙玫瑰"
+        }
+      ]
+    },
+    {
+      "pageNum": 321,
+      "image": "assets/images/page_322.jpg",
+      "section": "156.3",
+      "sectionTitle": "宝石",
+      "sectionTitleEn": "Gemstones",
+      "words": [
+        {
+          "id": 1,
+          "en": "diamond",
+          "zh": "钻石"
+        },
+        {
+          "id": 2,
+          "en": "sapphire",
+          "zh": "蓝宝石"
+        },
+        {
+          "id": 3,
+          "en": "emerald",
+          "zh": "绿宝石"
+        },
+        {
+          "id": 4,
+          "en": "ruby",
+          "zh": "红宝石"
+        },
+        {
+          "id": 5,
+          "en": "amethyst",
+          "zh": "紫水晶"
+        },
+        {
+          "id": 6,
+          "en": "topaz",
+          "zh": "黄玉"
+        },
+        {
+          "id": 7,
+          "en": "aquamarine",
+          "zh": "海蓝宝石"
+        },
+        {
+          "id": 8,
+          "en": "moonstone",
+          "zh": "月长石"
+        },
+        {
+          "id": 9,
+          "en": "opal",
+          "zh": "蛋白石"
+        },
+        {
+          "id": 10,
+          "en": "tourmaline",
+          "zh": "电气石"
+        },
+        {
+          "id": 11,
+          "en": "garnet",
+          "zh": "石榴石"
+        },
+        {
+          "id": 12,
+          "en": "citrine",
+          "zh": "黄石英"
+        },
+        {
+          "id": 13,
+          "en": "jade",
+          "zh": "玉石"
+        },
+        {
+          "id": 14,
+          "en": "jet",
+          "zh": "黑玉"
+        },
+        {
+          "id": 15,
+          "en": "lapis lazuli",
+          "zh": "青金石"
+        },
+        {
+          "id": 16,
+          "en": "jasper",
+          "zh": "碧玉"
+        },
+        {
+          "id": 17,
+          "en": "tiger's eye",
+          "zh": "虎眼石"
+        },
+        {
+          "id": 18,
+          "en": "carnelian",
+          "zh": "红玉髓"
+        }
+      ]
+    },
+    {
+      "pageNum": 321,
+      "image": "assets/images/page_322.jpg",
+      "section": "156.4",
+      "sectionTitle": "金属",
+      "sectionTitleEn": "Metals",
+      "words": [
+        {
+          "id": 1,
+          "en": "gold",
+          "zh": "金"
+        },
+        {
+          "id": 2,
+          "en": "silver",
+          "zh": "银"
+        },
+        {
+          "id": 3,
+          "en": "platinum",
+          "zh": "铂"
+        },
+        {
+          "id": 4,
+          "en": "magnesium",
+          "zh": "镁"
+        },
+        {
+          "id": 5,
+          "en": "iron",
+          "zh": "铁"
+        },
+        {
+          "id": 6,
+          "en": "copper",
+          "zh": "铜"
+        },
+        {
+          "id": 7,
+          "en": "tin",
+          "zh": "锡"
+        },
+        {
+          "id": 8,
+          "en": "aluminum (US) / aluminium (UK)",
+          "zh": "铝"
+        },
+        {
+          "id": 9,
+          "en": "mercury",
+          "zh": "汞"
+        },
+        {
+          "id": 10,
+          "en": "nickel",
+          "zh": "镍"
+        },
+        {
+          "id": 11,
+          "en": "zinc",
+          "zh": "锌"
+        },
+        {
+          "id": 12,
+          "en": "chromium",
+          "zh": "铬"
+        }
+      ]
+    }
+  ]
+}
