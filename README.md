@@ -4,9 +4,24 @@
 
 它把图解页面、英文单词、中文释义和语音读音放在同一个学习界面里。看图建立印象，点词听发音，遮住中文快速自测。适合在电脑网页、iPad 或横屏设备上慢慢学习，也可以在手机上临时查词和短时间复习。
 
-如果你在找 English vocabulary、visual dictionary、picture dictionary、pronunciation practice、Chinese-English vocabulary 这类学习工具，它的方向会比较接近：用图片建立词义，用点读补上声音，用遮蔽中文做轻量复习。
-
 [在线体验](https://jiaxiyou-ctrl.github.io/dk-english-vocab-app/) · [查看源码](https://github.com/jiaxiyou-ctrl/dk-english-vocab-app)
+
+## 这本书和这个项目
+
+<table>
+  <tr>
+    <td width="230">
+      <img src="docs/images/book-cover.jpg" alt="DK英语10000词 English for Everyone Illustrated English Dictionary 封面">
+    </td>
+    <td>
+      <strong>《DK英语10000词 / English for Everyone Illustrated English Dictionary》</strong> 本身就很适合做图解词汇学习：它按主题组织词汇，用大量插图把单词放回真实场景里。对于中文母语学习者来说，这类书的优势很直接：先看懂画面，再记住英文表达，学习压力会小很多。
+      <br><br>
+      这个项目是在个人学习过程中做的一次整理和增强。它围绕的使用场景包括：DK英语10000词、英语图解词典、图解单词书、英语点读单词书、英语单词发音、英汉对照词汇、iPad英语学习，也接近 English vocabulary、visual dictionary、picture dictionary、pronunciation practice 这些方向。
+      <br><br>
+      目标很朴素：让一本好书在网页里更容易打开、更容易听、更容易复习。
+    </td>
+  </tr>
+</table>
 
 ## 效果预览
 
@@ -120,4 +135,4 @@ scripts/
 
 ## 版权说明
 
-本项目用于个人学习和技术实践。项目中的图书图片和词汇内容来自原书整理，相关版权归原出版方所有。本项目与 DK 官方无关，请勿用于商业用途或公开传播图书内容。
+本项目用于个人学习和技术实践。项目中的图书图片、封面和词汇内容来自原书整理，相关版权归原出版方所有。README 中的封面仅用于帮助识别原书。本项目与 DK 官方无关，请勿用于商业用途或公开传播图书内容。
