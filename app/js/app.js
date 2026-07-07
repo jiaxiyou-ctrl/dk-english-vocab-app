@@ -1,6 +1,5 @@
 const App = {
   root: document.getElementById('app'),
-  allTopics: null,
   topicsIndex: null,
 
   init() {
@@ -27,15 +26,13 @@ const App = {
   },
 
   async showLearn(topicId) {
-    this.root.innerHTML = '<div style="display:flex;align-items:center;justify-content:center;height:100vh;color:#9B9B9B;">加载中...</div>';
-    if (!this.allTopics) {
-      this.allTopics = await this.fetchJSON('data/all-topics.json');
-    }
+    this.root.innerHTML = '<div class="loading-state">加载单元中...</div>';
     if (!this.topicsIndex) {
       this.topicsIndex = await this.fetchJSON('data/topics-index.json');
     }
+    const topicData = await this.fetchJSON(`data/topic-${topicId}.json`);
     this.root.innerHTML = '';
-    Learn.render(this.root, this.allTopics, this.topicsIndex, topicId);
+    Learn.render(this.root, topicData, this.topicsIndex);
   },
 
   async fetchJSON(path) {

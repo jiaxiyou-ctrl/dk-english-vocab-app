@@ -1,4 +1,9 @@
 # DK Vocab Web App
 .superpowers/
 sample_page_*.png
+toc_page_*.png
+page*_hires.png
+*.pdf
+__pycache__/
+*.pyc
 .DS_Store

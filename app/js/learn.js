@@ -3,100 +3,119 @@ const Learn = {
   revealedWords: new Set(),
   observer: null,
   syncScrolling: false,
-  allTopics: null,
-  currentTopicId: null,
+  topicData: null,
+  imageMap: [],
+  visibilityMap: {},
+  activeSectionIndex: null,
 
-  render(container, allTopics, topicsIndex, initialTopicId) {
-    this.allTopics = allTopics;
+  render(container, topicData, topicsIndex) {
+    this.topicData = topicData;
     this.maskEnabled = false;
     this.revealedWords = new Set();
+    this.visibilityMap = {};
+    this.activeSectionIndex = null;
+
+    const totalWords = this.getTotalWords(topicData);
+    Progress.recordStudy(topicData.id, totalWords);
 
     const html = `
-      <div class="learn-header">
-        <button class="back-btn" onclick="window.location.hash='#/'">&larr;</button>
-        ${this.renderTopicSelect(initialTopicId, topicsIndex)}
-        <button class="image-toggle-btn" onclick="Learn.toggleImagePanel()">收起图片</button>
-      </div>
-      <div class="learn-body">
-        <div class="image-panel" id="imagePanel">
-          ${this.renderAllImages(allTopics)}
-        </div>
-        <div class="word-panel">
-          <div class="word-panel-controls">
-            <div class="toggle-group">
-              <span>遮蔽</span>
-              <label class="toggle-switch">
-                <input type="checkbox" id="maskToggle" onchange="Learn.onMaskToggle(this.checked)">
-                <span class="toggle-slider"></span>
-              </label>
-            </div>
-            <div class="toggle-group">
-              <span>发音</span>
-              <label class="toggle-switch">
-                <input type="checkbox" id="speechToggle" checked onchange="Speech.setEnabled(this.checked)">
-                <span class="toggle-slider"></span>
-              </label>
-            </div>
+      <div class="learn-shell">
+        <div class="learn-header">
+          <button class="back-btn" onclick="window.location.hash='#/'" aria-label="返回首页">←</button>
+          <div class="learn-title">
+            <span>${topicData.id} ${topicData.title}</span>
+            <small>${topicData.titleEn}</small>
           </div>
-          <div class="word-list" id="wordList">
-            ${this.renderAllWords(allTopics)}
+          ${this.renderTopicSelect(topicData.id, topicsIndex)}
+          <button class="image-toggle-btn" onclick="Learn.toggleImagePanel()">收起图片</button>
+        </div>
+        <div class="learn-body">
+          <div class="image-panel" id="imagePanel">
+            ${this.renderImages(topicData)}
+          </div>
+          <div class="word-panel">
+            <div class="word-panel-controls">
+              <div class="control-caption">
+                <strong>${totalWords}</strong>
+                <span>个词</span>
+              </div>
+              <div class="toggle-group">
+                <span>遮蔽中文</span>
+                <label class="toggle-switch">
+                  <input type="checkbox" id="maskToggle" onchange="Learn.onMaskToggle(this.checked)">
+                  <span class="toggle-slider"></span>
+                </label>
+              </div>
+              <div class="toggle-group">
+                <span>点击发音</span>
+                <label class="toggle-switch">
+                  <input type="checkbox" id="speechToggle" checked onchange="Speech.setEnabled(this.checked)">
+                  <span class="toggle-slider"></span>
+                </label>
+              </div>
+            </div>
+            <div class="word-list" id="wordList">
+              ${this.renderWords(topicData)}
+            </div>
           </div>
         </div>
       </div>
     `;
+
     container.innerHTML = html;
     this.setupScrollSync();
-
-    if (initialTopicId) {
-      this.scrollToTopic(initialTopicId);
-    }
   },
 
-  renderAllImages(allTopics) {
+  getTotalWords(topicData) {
+    return topicData.pages.reduce((sum, page) => sum + page.words.length, 0);
+  },
+
+  renderImages(topicData) {
+    const seen = new Set();
     const fragments = [];
-    const imageMap = [];
-    let globalImgIdx = 0;
+    this.imageMap = [];
 
-    allTopics.forEach(topic => {
-      fragments.push(`<div class="image-topic-header" data-topic-id="${topic.id}">${topic.id} ${topic.title}</div>`);
-
-      const seen = new Set();
-      topic.pages.forEach(p => {
-        if (!seen.has(p.image)) {
-          seen.add(p.image);
-          imageMap.push({ topicId: topic.id, image: p.image, pageNum: p.pageNum });
-          fragments.push(`<img src="${p.image}" alt="Page ${p.pageNum}" loading="lazy" data-img-index="${globalImgIdx}" data-topic-id="${topic.id}">`);
-          globalImgIdx++;
-        }
-      });
+    topicData.pages.forEach((page, sectionIndex) => {
+      if (seen.has(page.image)) return;
+      seen.add(page.image);
+      const imageIndex = this.imageMap.length;
+      this.imageMap.push({ image: page.image, pageNum: page.pageNum, sectionIndex });
+      fragments.push(`
+        <figure class="book-page" data-img-index="${imageIndex}">
+          <img src="${page.image}" alt="${topicData.title} 第 ${page.pageNum} 页" loading="lazy">
+          <figcaption>第 ${page.pageNum} 页</figcaption>
+        </figure>
+      `);
     });
 
-    this.imageMap = imageMap;
     return fragments.join('');
   },
 
-  renderAllWords(allTopics) {
+  renderWords(topicData) {
     let html = '';
-    allTopics.forEach(topic => {
-      html += `<div class="word-topic-header" data-topic-id="${topic.id}">${topic.id} ${topic.title} <span class="word-topic-header-en">${topic.titleEn}</span></div>`;
+    topicData.pages.forEach((page, sectionIndex) => {
+      html += `
+        <div class="section-divider" data-section-index="${sectionIndex}">
+          <span>${page.section}</span>
+          <strong>${page.sectionTitle}</strong>
+        </div>
+      `;
 
-      topic.pages.forEach((page, i) => {
-        html += `<div class="section-divider">${page.section} ${page.sectionTitle}</div>`;
-        page.words.forEach(word => {
-          const progress = Progress.getTopicProgress(topic.id);
-          const isLearned = progress && progress.learnedWords.includes(word.id);
-          const safeEn = word.en.replace(/'/g, "\\'");
-          html += `
-            <div class="word-item ${isLearned ? 'learned' : ''}"
-                 data-topic-id="${topic.id}"
-                 data-word-id="${word.id}"
-                 onclick="Learn.onWordClick(this, '${safeEn}', '${topic.id}', ${word.id})">
-              <span class="word-num">${word.id}</span>
+      page.words.forEach(word => {
+        const progress = Progress.getTopicProgress(topicData.id);
+        const isLearned = progress && progress.learnedWords.includes(word.id);
+        const safeEn = word.en.replace(/\\/g, '\\\\').replace(/'/g, "\\'");
+        html += `
+          <button class="word-item ${isLearned ? 'learned' : ''}"
+                  data-word-id="${word.id}"
+                  onclick="Learn.onWordClick(this, '${safeEn}', ${word.id})">
+            <span class="word-num">${word.id}</span>
+            <span class="word-main">
               <span class="word-en">${word.en}</span>
-              <span class="word-zh" id="zh-${topic.id}-${word.id}">${word.zh}</span>
-            </div>
-          `;
-        });
+              <span class="word-zh" id="zh-${word.id}">${word.zh}</span>
+            </span>
+          </button>
+        `;
       });
     });
     return html;
@@ -104,161 +123,104 @@ const Learn = {
 
   setupScrollSync() {
     if (this.observer) this.observer.disconnect();
-    this.visibilityMap = {};
-    this.activeTopicId = null;
 
     const imagePanel = document.getElementById('imagePanel');
-    const images = imagePanel.querySelectorAll('img[data-img-index]');
-    if (images.length === 0) return;
+    const figures = imagePanel.querySelectorAll('.book-page[data-img-index]');
+    if (!figures.length) return;
 
     this.observer = new IntersectionObserver((entries) => {
       if (this.syncScrolling) return;
 
       entries.forEach(entry => {
-        const idx = entry.target.dataset.imgIndex;
-        this.visibilityMap[idx] = entry.intersectionRatio;
+        this.visibilityMap[entry.target.dataset.imgIndex] = entry.intersectionRatio;
       });
 
-      let bestIdx = null;
+      let bestIndex = null;
       let bestRatio = 0;
-      for (const [idx, ratio] of Object.entries(this.visibilityMap)) {
+      Object.entries(this.visibilityMap).forEach(([idx, ratio]) => {
         if (ratio > bestRatio) {
           bestRatio = ratio;
-          bestIdx = idx;
+          bestIndex = Number(idx);
         }
-      }
+      });
 
-      if (bestIdx !== null && bestRatio > 0.15) {
-        const imgInfo = this.imageMap[parseInt(bestIdx)];
-        const topicId = imgInfo.topicId;
-
-        if (topicId !== this.activeTopicId) {
-          this.activeTopicId = topicId;
-          this.scrollWordListToTopic(topicId);
-          this.updateDropdown(topicId);
-          this.updateHash(topicId);
-        }
+      if (bestIndex === null || bestRatio < 0.18) return;
+      const targetSectionIndex = this.imageMap[bestIndex].sectionIndex;
+      if (targetSectionIndex !== this.activeSectionIndex) {
+        this.scrollWordListToSection(targetSectionIndex);
       }
     }, {
       root: imagePanel,
-      threshold: [0, 0.1, 0.15, 0.3, 0.5, 0.7, 1.0]
+      threshold: [0, 0.18, 0.35, 0.55, 0.75, 1]
     });
 
-    images.forEach(img => this.observer.observe(img));
+    figures.forEach(figure => this.observer.observe(figure));
   },
 
-  scrollWordListToTopic(topicId) {
-    const header = document.querySelector(`.word-topic-header[data-topic-id="${topicId}"]`);
-    if (!header) return;
+  scrollWordListToSection(sectionIndex) {
+    const target = document.querySelector(`.section-divider[data-section-index="${sectionIndex}"]`);
+    if (!target) return;
+
+    this.activeSectionIndex = sectionIndex;
+    document.querySelectorAll('.section-divider').forEach(divider => {
+      divider.classList.toggle('active', divider === target);
+    });
 
     this.syncScrolling = true;
     const wordList = document.getElementById('wordList');
-    const offset = header.offsetTop - wordList.offsetTop;
-    wordList.scrollTo({ top: offset, behavior: 'smooth' });
-
-    setTimeout(() => { this.syncScrolling = false; }, 600);
-  },
-
-  scrollToTopic(topicId) {
-    const imgHeader = document.querySelector(`.image-topic-header[data-topic-id="${topicId}"]`);
-    if (imgHeader) {
-      const imagePanel = document.getElementById('imagePanel');
-      this.syncScrolling = true;
-      imagePanel.scrollTo({ top: imgHeader.offsetTop - imagePanel.offsetTop, behavior: 'auto' });
-    }
-
-    const wordHeader = document.querySelector(`.word-topic-header[data-topic-id="${topicId}"]`);
-    if (wordHeader) {
-      const wordList = document.getElementById('wordList');
-      wordList.scrollTo({ top: wordHeader.offsetTop - wordList.offsetTop, behavior: 'auto' });
-    }
-
-    this.activeTopicId = topicId;
-    this.updateDropdown(topicId);
-
-    setTimeout(() => { this.syncScrolling = false; }, 300);
-  },
-
-  updateDropdown(topicId) {
-    const select = document.querySelector('.learn-header select');
-    if (select && select.value !== topicId) {
-      select.value = topicId;
-    }
-  },
-
-  updateHash(topicId) {
-    const newHash = `#/learn/${topicId}`;
-    if (window.location.hash !== newHash) {
-      history.replaceState(null, '', newHash);
-    }
+    wordList.scrollTo({
+      top: target.offsetTop - wordList.offsetTop - 8,
+      behavior: 'smooth'
+    });
+    setTimeout(() => { this.syncScrolling = false; }, 450);
   },
 
   renderTopicSelect(currentId, topicsIndex) {
     let options = '';
-    topicsIndex.categories.forEach(cat => {
-      cat.topics.forEach(t => {
-        if (t.hasData) {
-          const selected = t.id === currentId ? 'selected' : '';
-          options += `<option value="${t.id}" ${selected}>${t.id} ${t.title} - ${t.titleEn}</option>`;
-        }
+    topicsIndex.categories.forEach(category => {
+      category.topics.forEach(topic => {
+        if (!topic.hasData) return;
+        const selected = topic.id === currentId ? 'selected' : '';
+        options += `<option value="${topic.id}" ${selected}>${topic.id} ${topic.title} - ${topic.titleEn}</option>`;
       });
     });
-    return `<select onchange="Learn.onTopicSelect(this.value)">${options}</select>`;
+    return `<select onchange="Learn.onTopicSelect(this.value)" aria-label="切换学习单元">${options}</select>`;
   },
 
   onTopicSelect(topicId) {
-    this.scrollToTopic(topicId);
-
-    const topic = this.allTopics.find(t => t.id === topicId);
-    if (topic) {
-      const totalWords = topic.pages.reduce((sum, p) => sum + p.words.length, 0);
-      Progress.recordStudy(topicId, totalWords);
-    }
+    window.location.hash = `#/learn/${topicId}`;
   },
 
-  onWordClick(el, enText, topicId, wordId) {
-    const topic = this.allTopics.find(t => t.id === topicId);
-    if (!topic) return;
-    const totalWords = topic.pages.reduce((sum, p) => sum + p.words.length, 0);
+  onWordClick(el, enText, wordId) {
+    const totalWords = this.getTotalWords(this.topicData);
 
     if (this.maskEnabled) {
-      const zhEl = document.getElementById(`zh-${topicId}-${wordId}`);
+      const zhEl = document.getElementById(`zh-${wordId}`);
       if (zhEl && zhEl.classList.contains('hidden')) {
         zhEl.classList.remove('hidden');
         zhEl.classList.add('revealed');
-        this.revealedWords.add(`${topicId}-${wordId}`);
+        this.revealedWords.add(wordId);
       }
     }
 
     Speech.speak(enText);
-
-    Progress.markWordLearned(topicId, wordId, totalWords);
+    Progress.markWordLearned(this.topicData.id, wordId, totalWords);
     el.classList.add('learned');
   },
 
   onMaskToggle(enabled) {
     this.maskEnabled = enabled;
     this.revealedWords.clear();
-    const zhElements = document.querySelectorAll('.word-zh');
-    zhElements.forEach(el => {
+    document.querySelectorAll('.word-zh').forEach(el => {
       el.classList.remove('revealed');
-      if (enabled) {
-        el.classList.add('hidden');
-      } else {
-        el.classList.remove('hidden');
-      }
+      el.classList.toggle('hidden', enabled);
     });
   },
 
   toggleImagePanel() {
     const panel = document.getElementById('imagePanel');
     const btn = document.querySelector('.image-toggle-btn');
-    if (panel.classList.contains('collapsed')) {
-      panel.classList.remove('collapsed');
-      btn.textContent = '收起图片';
-    } else {
-      panel.classList.add('collapsed');
-      btn.textContent = '展开图片';
-    }
+    const collapsed = panel.classList.toggle('collapsed');
+    btn.textContent = collapsed ? '展开图片' : '收起图片';
   }
 };

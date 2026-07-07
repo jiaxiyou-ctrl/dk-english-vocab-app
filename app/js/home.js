@@ -1,75 +1,121 @@
 const Home = {
   render(container, topicsIndex) {
+    const allTopics = this.getAllTopics(topicsIndex);
+    const totalWords = allTopics.reduce((sum, topic) => sum + (topic.totalWords || 0), 0);
+    const learnedWords = this.getLearnedWords(allTopics);
+
     const html = `
-      <div class="home-header">
-        <h1>DK 英语10000词</h1>
-      </div>
-      <div class="home-content">
-        ${this.renderReviewSection(topicsIndex)}
-        ${this.renderAllTopics(topicsIndex)}
-      </div>
+      <main class="home-page">
+        <section class="home-hero">
+          <div>
+            <p class="eyebrow">Visual Vocabulary Notebook</p>
+            <h1>DK 英语 10000 词</h1>
+            <p class="home-subtitle">按场景看图学词，点击听发音，遮住中文做一次轻量自测。</p>
+          </div>
+          <div class="hero-actions">
+            <button onclick="window.location.hash='#/learn/01'" class="primary-action">开始学习</button>
+            <span>${learnedWords}/${totalWords} 已点读</span>
+          </div>
+        </section>
+
+        <section class="stat-strip" aria-label="内容统计">
+          <div><strong>${allTopics.length}</strong><span>主题单元</span></div>
+          <div><strong>${totalWords}</strong><span>词汇条目</span></div>
+          <div><strong>${topicsIndex.categories.length}</strong><span>内容分类</span></div>
+        </section>
+
+        <div class="home-content">
+          ${this.renderReviewSection(allTopics)}
+          ${this.renderAllTopics(topicsIndex)}
+        </div>
+      </main>
     `;
     container.innerHTML = html;
   },
 
-  renderReviewSection(topicsIndex) {
-    const allTopics = [];
-    topicsIndex.categories.forEach(cat => {
-      cat.topics.forEach(t => allTopics.push(t));
-    });
+  getAllTopics(topicsIndex) {
+    return topicsIndex.categories.flatMap(category => category.topics);
+  },
 
+  getLearnedWords(allTopics) {
+    return allTopics.reduce((sum, topic) => {
+      const progress = Progress.getTopicProgress(topic.id);
+      return sum + (progress ? progress.learnedWords.length : 0);
+    }, 0);
+  },
+
+  renderReviewSection(allTopics) {
     const groups = { red: [], yellow: [], green: [] };
     allTopics.forEach(topic => {
       const status = Progress.getReviewStatus(topic.id);
-      if (status !== 'gray' && groups[status]) {
-        groups[status].push(topic);
-      }
+      if (status !== 'gray' && groups[status]) groups[status].push(topic);
     });
 
     const hasAny = groups.red.length || groups.yellow.length || groups.green.length;
     if (!hasAny) {
       return `
-        <div class="review-section">
-          <div class="section-title">复习提醒</div>
-          <p style="color:#999; padding:16px 0;">还没有学习记录，选择一个主题开始学习吧！</p>
-        </div>
+        <section class="review-section">
+          <div class="section-heading">
+            <span>轻量回看</span>
+            <small>不用追任务，想起来就翻一页</small>
+          </div>
+          <div class="empty-review">还没有学习记录。先选一个感兴趣的主题，点读几分钟就可以开始积累。</div>
+        </section>
       `;
     }
 
-    let html = '<div class="review-section"><div class="section-title">复习提醒</div>';
+    let html = `
+      <section class="review-section">
+        <div class="section-heading">
+          <span>轻量回看</span>
+          <small>按最近学习时间给你一个温和提示</small>
+        </div>
+    `;
 
-    if (groups.red.length) {
-      html += '<div class="review-group-label red">7天以上未复习</div>';
-      html += '<div class="topic-grid">';
-      groups.red.forEach(t => { html += this.renderTopicCard(t); });
-      html += '</div>';
-    }
-    if (groups.yellow.length) {
-      html += '<div class="review-group-label yellow">3-7天未复习</div>';
-      html += '<div class="topic-grid">';
-      groups.yellow.forEach(t => { html += this.renderTopicCard(t); });
-      html += '</div>';
-    }
-    if (groups.green.length) {
-      html += '<div class="review-group-label green">3天内学习过</div>';
-      html += '<div class="topic-grid">';
-      groups.green.forEach(t => { html += this.renderTopicCard(t); });
-      html += '</div>';
-    }
+    if (groups.red.length) html += this.renderReviewGroup('放久了，可以回看', 'red', groups.red);
+    if (groups.yellow.length) html += this.renderReviewGroup('适合顺手复习', 'yellow', groups.yellow);
+    if (groups.green.length) html += this.renderReviewGroup('最近看过', 'green', groups.green);
 
-    html += '</div>';
+    html += '</section>';
     return html;
   },
 
+  renderReviewGroup(label, status, topics) {
+    return `
+      <div class="review-block">
+        <div class="review-group-label ${status}">${label}</div>
+        <div class="topic-grid compact">
+          ${topics.slice(0, 8).map(topic => this.renderTopicCard(topic)).join('')}
+        </div>
+      </div>
+    `;
+  },
+
   renderAllTopics(topicsIndex) {
-    let html = '<div class="section-title">全部主题</div>';
-    topicsIndex.categories.forEach(cat => {
-      html += '<div class="category-group">';
-      html += `<span class="category-label" style="background:${cat.color}">${cat.name}</span>`;
-      html += '<div class="topic-grid">';
-      cat.topics.forEach(t => { html += this.renderTopicCard(t); });
-      html += '</div></div>';
+    let html = `
+      <section class="topics-section">
+        <div class="section-heading">
+          <span>全部主题</span>
+          <small>按生活场景整理</small>
+        </div>
+    `;
+
+    topicsIndex.categories.forEach(category => {
+      html += `
+        <div class="category-group">
+          <div class="category-title">
+            <span class="category-dot" style="background:${category.color}"></span>
+            <strong>${category.name}</strong>
+            <small>${category.topics.length} 个单元</small>
+          </div>
+          <div class="topic-grid">
+            ${category.topics.map(topic => this.renderTopicCard(topic)).join('')}
+          </div>
+        </div>
+      `;
     });
+
+    html += '</section>';
     return html;
   },
 
@@ -82,17 +128,17 @@ const Home = {
     const onclick = disabled ? '' : `onclick="window.location.hash='#/learn/${topic.id}'"`;
 
     return `
-      <div class="topic-card ${disabled ? 'disabled' : ''}" ${onclick}>
-        <div class="topic-id">${topic.id}</div>
-        <div class="topic-title">${topic.title}</div>
-        <div class="topic-title-en">${topic.titleEn}</div>
+      <button class="topic-card ${disabled ? 'disabled' : ''}" ${onclick}>
+        <span class="topic-id">${topic.id}</span>
+        <span class="topic-title">${topic.title}</span>
+        <span class="topic-title-en">${topic.titleEn}</span>
         ${total > 0 ? `
-          <div class="progress-bar">
-            <div class="progress-bar-fill" style="width:${pct}%"></div>
-          </div>
-          <div class="progress-text">${learned}/${total} 已学习</div>
-        ` : '<div class="progress-text">即将推出</div>'}
-      </div>
+          <span class="progress-bar">
+            <span class="progress-bar-fill" style="width:${pct}%"></span>
+          </span>
+          <span class="progress-text">${learned}/${total} 已点读</span>
+        ` : '<span class="progress-text">整理中</span>'}
+      </button>
     `;
   }
 };
